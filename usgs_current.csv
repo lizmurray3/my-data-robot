@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-08T11:25:16.520Z,33.3601685,-116.338501,10.97,1.13,ml,36,61,0.02429,0.17,ci,ci39988567,2022-04-08T11:27:22.827Z,"12km NNE of Borrego Springs, CA",earthquake,0.29,0.53,0.213,7,automatic,ci,ci
-2022-04-08T11:20:58.390Z,38.8411674,-122.8401642,1.85,1.64,md,29,118,0.004469,0.04,nc,nc73715926,2022-04-08T11:24:06.998Z,"10km NW of The Geysers, CA",earthquake,0.2,0.3,0.07,7,automatic,nc,nc
+2022-04-08T11:36:28.890Z,38.8026657,-122.8186646,3.3,0.35,md,7,95,0.01029,0.01,nc,nc73715931,2022-04-08T11:38:01.205Z,"6km WNW of The Geysers, CA",earthquake,0.57,1.42,,1,automatic,nc,nc
+2022-04-08T11:33:21.511Z,61.7501,-150.5167,44.3,1.6,ml,,,,0.62,ak,ak0224i9ewc7,2022-04-08T11:36:03.176Z,"23 km N of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-04-08T11:25:16.540Z,33.3615,-116.3333333,10.61,1,ml,28,71,0.01988,0.17,ci,ci39988567,2022-04-08T11:28:51.751Z,"12km NNE of Borrego Springs, CA",earthquake,0.27,0.51,0.163,26,automatic,ci,ci
+2022-04-08T11:20:58.390Z,38.8411674,-122.8401642,1.85,1.64,md,29,118,0.004469,0.04,nc,nc73715926,2022-04-08T11:29:11.532Z,"10km NW of The Geysers, CA",earthquake,0.2,0.3,0.07,7,automatic,nc,nc
 2022-04-08T11:18:24.895Z,38.6665,-119.6681,5.4,1.2,ml,12,116.17,0.141,0.0502,nn,nn00836915,2022-04-08T11:21:39.832Z,"10 km ESE of Markleeville, California",earthquake,,1.4,0.58,6,automatic,nn,nn
 2022-04-08T10:52:57.739Z,38.1465,-118.0064,6.1,0.6,ml,9,140.64,0.038,0.0517,nn,nn00836914,2022-04-08T10:57:07.662Z,"28 km SSE of Mina, Nevada",earthquake,,0.9,0.36,5,automatic,nn,nn
 2022-04-08T10:45:15.833Z,37.113,-115.2816,9.4,2,ml,22,103.32,0.554,0.3724,nn,nn00836910,2022-04-08T10:48:50.578Z,"29 km SSW of Alamo, Nevada",earthquake,,0.7,0.75,17,automatic,nn,nn
