@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-09T22:38:28.010Z,36.5665016,-121.574501,23.46,1.38,md,5,154,0.2138,0.01,nc,nc73716436,2022-04-09T22:41:53.003Z,"5km W of Chualar, CA",earthquake,0.96,0.57,0.08,4,automatic,nc,nc
+2022-04-09T22:40:43.600Z,32.9383333,-116.521,2.06,0.92,ml,8,103,0.05308,0.16,ci,ci39989639,2022-04-09T22:44:23.425Z,"13km N of Pine Valley, CA",earthquake,0.58,1.06,0.141,6,automatic,ci,ci
+2022-04-09T22:38:28.010Z,36.5665016,-121.574501,23.46,1.38,md,5,154,0.2138,0.01,nc,nc73716436,2022-04-09T22:50:10.448Z,"5km W of Chualar, CA",earthquake,0.96,0.57,0.08,4,automatic,nc,nc
 2022-04-09T22:33:13.333Z,64.881,-151.1052,1.9,1.5,ml,,,,1.27,ak,ak0224k3hzud,2022-04-09T22:36:13.244Z,"25 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-09T22:18:04.320Z,60.8348,-151.2526,63.3,1,ml,,,,0.24,ak,ak0224k3erf4,2022-04-09T22:28:13.907Z,"16 km N of Nikiski, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-04-09T22:15:29.750Z,38.8353348,-122.8066635,2.06,0.64,md,13,54,0.01222,0.02,nc,nc73716431,2022-04-09T22:40:13.395Z,"7km WNW of Cobb, CA",earthquake,0.3,1.26,,1,automatic,nc,nc
