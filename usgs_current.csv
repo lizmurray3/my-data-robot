@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-10T14:44:35.150Z,33.4143333,-117.0796667,24.69,1.39,ml,11,209,0.3535,0.31,ci,ci39989943,2022-04-10T14:48:12.852Z,"6km N of Pala, CA",earthquake,2.06,6.92,0.24,31,automatic,ci,ci
 2022-04-10T14:37:12.580Z,40.0914,-120.1917,15.9,1.9,ml,16,194.91,0.259,0.3758,nn,nn00837003,2022-04-10T14:40:56.462Z,"6 km SSW of Patton Village, California",earthquake,,0.6,0.24,11,automatic,nn,nn
 2022-04-10T14:03:15.888Z,60.9757,-150.1557,38.1,1.3,ml,,,,0.35,ak,ak0224lm3g84,2022-04-10T14:09:22.781Z,"28 km WNW of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-10T13:54:42.230Z,32.6793333,-115.6823333,10.54,2.34,ml,35,96,0.0477,0.29,ci,ci39989927,2022-04-10T14:05:25.620Z,"14km NW of Progreso, B.C., MX",earthquake,0.62,0.94,0.342,26,automatic,ci,ci
@@ -81,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T02:37:55.766Z,60.9454,-149.8316,40,1.3,ml,,,,0.69,ak,ak0224lf5me0,2022-04-10T02:39:49.906Z,"10 km WNW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-10T02:17:05.460Z,44.6763333,-112.496,11.76,1.08,ml,12,85,0.11,0.15,mb,mb80542739,2022-04-10T14:09:41.220Z,"8 km ENE of Lima, Montana",earthquake,0.33,0.88,0.093,6,reviewed,mb,mb
 2022-04-10T02:16:41.385Z,60.5494,-152.1198,81,1.9,ml,,,,0.42,ak,ak0224lf138r,2022-04-10T02:27:12.216Z,"44 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-10T02:12:30.934Z,38.3537,23.4048,10,4.3,mb,,64,1.658,0.9,us,us7000h108,2022-04-10T06:52:58.713Z,"Greece",earthquake,5.5,1.9,0.138,17,reviewed,us,us
+2022-04-10T02:12:30.934Z,38.3537,23.4048,10,4.3,mb,,64,1.658,0.9,us,us7000h108,2022-04-10T06:52:58.713Z,"7 km W of Árma, Greece",earthquake,5.5,1.9,0.138,17,reviewed,us,us
 2022-04-10T02:05:04.624Z,64.6279,-150.0302,15.7,1.2,ml,,,,0.32,ak,ak0224leynj2,2022-04-10T02:18:23.801Z,"43 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-10T02:04:35.790Z,19.2063,-67.7601,68,3.69,md,10,260,0.8685,0.96,pr,pr2022100000,2022-04-10T04:17:37.575Z,"96 km NE of Punta Cana, Dominican Republic",earthquake,7.53,16.56,0.17,3,reviewed,pr,pr
 2022-04-10T01:58:57.210Z,17.9023333333333,-67.1665,9.75,2.31,md,5,312,,0.2,pr,pr71343923,2022-04-10T04:09:30.970Z,"8 km SSE of Pole Ojea, Puerto Rico",earthquake,1.31,0.91,0.128011054068518,4,reviewed,pr,pr
