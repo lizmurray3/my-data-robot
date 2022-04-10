@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-10T10:40:37.994Z,63.2679,-150.5774,112.7,1.5,ml,,,,0.33,ak,ak0224ljxp07,2022-04-10T10:43:11.883Z,"64 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-04-10T10:50:22.390Z,35.6235,-117.5885,2.67,0.82,ml,10,110,0.1093,0.15,ci,ci39989879,2022-04-10T10:53:53.151Z,"8km E of Ridgecrest, CA",earthquake,0.49,0.88,0.224,10,automatic,ci,ci
+2022-04-10T10:50:06.840Z,32.7785,-115.4205,9.26,1.97,ml,26,69,0.03472,0.33,ci,ci39989871,2022-04-10T10:54:03.415Z,"5km SW of Holtville, CA",earthquake,0.67,1.37,0.227,26,automatic,ci,ci
+2022-04-10T10:40:37.994Z,63.2679,-150.5774,112.7,1.5,ml,,,,0.33,ak,ak0224ljxp07,2022-04-10T10:46:25.220Z,"64 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-10T10:26:09.497Z,63.8458,-148.6574,93.2,1.9,ml,,,,0.54,ak,ak0224ljumpy,2022-04-10T10:43:12.614Z,"15 km E of Healy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-10T10:20:16.402Z,7.1959,94.3092,10,4.5,mb,,121,5.424,0.67,us,us7000h12d,2022-04-10T10:37:46.040Z,"182 km NW of Sabang, Indonesia",earthquake,11.3,1.9,0.119,21,reviewed,us,us
 2022-04-10T10:00:15.850Z,33.494,-116.6973333,11.73,1.05,ml,35,38,0.02547,0.2,ci,ci39989863,2022-04-10T10:03:58.500Z,"7km SSW of Anza, CA",earthquake,0.27,0.51,0.243,25,automatic,ci,ci
