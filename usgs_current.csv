@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-11T11:45:31.255Z,60.7398,-150.5358,20.6,2.7,ml,,,,0.8,ak,ak0224n83j7g,2022-04-11T11:47:27.955Z,"22 km SSE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-11T11:54:44.600Z,47.730167388916016,-122.8721694946289,47.2900009155273,2.3141379356384277,ml,38,48,,0.140000001,uw,uw61830496,2022-04-11T11:57:44.880Z,"5 km NNE of Brinnon, Washington",earthquake,0.4,0.769999981,0.31728237867355347,39,automatic,uw,uw
+2022-04-11T11:52:37.140Z,35.7153333,-117.5558333,8.61,1.65,ml,22,89,0.1058,0.15,ci,ci39990263,2022-04-11T11:56:17.581Z,"15km WSW of Searles Valley, CA",earthquake,0.28,0.86,0.173,23,automatic,ci,ci
+2022-04-11T11:45:31.336Z,60.7371,-150.5442,20.4,2.7,ml,,,,0.7,ak,ak0224n83j7g,2022-04-11T11:56:18.769Z,"22 km SSE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-11T11:21:48.255Z,61.2646,-150.6721,51.5,0.9,ml,,,,0.53,ak,ak0224n7yfah,2022-04-11T11:27:15.221Z,"26 km ENE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-11T10:53:17.071Z,60.0642,-153.5676,169.6,1.8,ml,,,,0.34,ak,ak0224n7js7y,2022-04-11T11:19:39.407Z,"43 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-11T10:33:21.324Z,60.1567,-151.6651,33.4,1.8,ml,,,,0.88,ak,ak0224n7fi7e,2022-04-11T10:54:06.496Z,"11 km N of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
