@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-14T11:30:09.950Z,36.0326667,-117.6926667,1.9,0.94,ml,11,124,0.05931,0.13,ci,ci39992151,2022-04-14T11:33:44.501Z,"22km ENE of Little Lake, CA",earthquake,0.29,0.47,0.103,10,automatic,ci,ci
 2022-04-14T11:18:09.210Z,36.0311667,-117.69,1.36,2.06,ml,24,94,0.06129,0.16,ci,ci39992143,2022-04-14T11:21:42.154Z,"22km ENE of Little Lake, CA",earthquake,0.25,0.37,0.149,26,automatic,ci,ci
 2022-04-14T11:12:29.690Z,38.8219986,-122.7656631,2.17,0.97,md,21,117,0.009088,0.03,nc,nc73718241,2022-04-14T11:14:04.273Z,"4km W of Cobb, CA",earthquake,0.25,0.44,0.11,5,automatic,nc,nc
 2022-04-14T11:03:32.590Z,17.9615,-66.8258333333333,9.63,2.16,md,10,209,,0.12,pr,pr71344553,2022-04-14T11:21:19.430Z,"3 km S of Indios, Puerto Rico",earthquake,0.84,0.66,0.123492887009473,5,reviewed,pr,pr
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T09:40:30.080Z,33.6143333,-117.2651667,6.51,0.7,ml,15,115,0.05993,0.16,ci,ci39992095,2022-04-14T09:44:01.389Z,"2km NE of Wildomar, CA",earthquake,0.34,0.82,0.075,9,automatic,ci,ci
 2022-04-14T09:30:18.500Z,38.7804985,-122.7675018,1.33,0.36,md,9,115,0.009859,0.02,nc,nc73718221,2022-04-14T09:47:30.588Z,"1km WNW of The Geysers, CA",earthquake,0.44,0.69,,1,automatic,nc,nc
 2022-04-14T09:27:14.501Z,-55.4278,-1.7661,10,5,mb,,133,16.315,0.56,us,us7000h24c,2022-04-14T09:59:33.040Z,"Bouvet Island region",earthquake,15.1,1.9,0.138,17,reviewed,us,us
-2022-04-14T09:06:49.150Z,38.8255005,-122.803833,1.48,1.24,md,20,46,0.005309,0.03,nc,nc73718216,2022-04-14T09:51:10.608Z,"7km NW of The Geysers, CA",earthquake,0.19,0.38,0.04,3,automatic,nc,nc
+2022-04-14T09:06:49.150Z,38.8255005,-122.803833,1.48,1.24,md,20,46,0.005309,0.03,nc,nc73718216,2022-04-14T11:28:07.149Z,"7km NW of The Geysers, CA",earthquake,0.19,0.38,0.04,3,automatic,nc,nc
 2022-04-14T09:06:27.577Z,60.4651,-143.7131,13.5,1.2,ml,,,,0.5,ak,ak0224s5ac7w,2022-04-14T09:13:52.338Z,"112 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-14T09:03:32.950Z,38.8286667,-122.8548355,2.29,0.37,md,10,116,0.01562,0.02,nc,nc73718211,2022-04-14T11:01:17.000Z,"10km NW of The Geysers, CA",earthquake,0.44,0.74,0.01,2,automatic,nc,nc
 2022-04-14T09:03:04.560Z,35.8358333,-117.657,0.57,1.97,ml,26,88,0.05234,0.2,ci,ci39992087,2022-04-14T09:13:37.090Z,"24km N of Ridgecrest, CA",earthquake,0.26,0.45,0.13,26,automatic,ci,ci
@@ -55,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T05:45:21.680Z,38.7811661,-122.7646637,0.86,0.86,md,8,100,0.01046,0.01,nc,nc73718151,2022-04-14T08:14:18.064Z,"1km WNW of The Geysers, CA",earthquake,0.32,0.97,,1,automatic,nc,nc
 2022-04-14T05:44:01.670Z,17.887,-66.8683333333333,11.61,1.97,md,8,239,,0.08,pr,pr71344538,2022-04-14T08:41:03.690Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.62,0.47,0.0839825185511027,7,reviewed,pr,pr
 2022-04-14T05:42:41.400Z,64.7381,-147.3384,0,0.6,ml,,,,0.87,ak,ak0224s34cok,2022-04-14T06:01:47.957Z,"1 km SSE of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-14T05:42:07.540Z,37.5783333,-118.8635,3.38,0.14,md,10,222,0.02971,0.04,nc,nc73718146,2022-04-14T11:32:40.823Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.8,0.8,0.261,10,reviewed,nc,nc
 2022-04-14T05:37:01.520Z,37.5784988,-118.8636703,3.58,1.05,md,11,219,0.02977,0.01,nc,nc73718136,2022-04-14T07:47:30.914Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.72,0.87,0.16,11,automatic,nc,nc
 2022-04-14T05:36:45.099Z,63.4964,-150.8348,14.7,1.1,ml,,,,0.96,ak,ak0224s332my,2022-04-14T05:51:09.613Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T05:23:21.800Z,35.845,-117.671,5.35,0.78,ml,12,85,0.06647,0.08,ci,ci39991991,2022-04-14T05:27:01.455Z,"24km ESE of Little Lake, CA",earthquake,0.25,0.8,0.2,11,automatic,ci,ci
@@ -259,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T11:59:51.250Z,51.803,-178.802166666667,4.13,0.27,ml,5,119,,0.11,av,av91537036,2022-04-13T23:28:56.480Z,"149 km W of Adak, Alaska",earthquake,0.42,0.86,0.294752769949644,5,reviewed,av,av
 2022-04-13T11:51:41.874Z,62.1708,-150.4328,17.3,1,ml,,,,0.36,ak,ak0224qj7j9n,2022-04-13T11:53:27.683Z,"19 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-13T11:51:41.420Z,44.734,-111.091,12.31,0.32,md,13,96,0.06314,0.13,uu,uu60491302,2022-04-13T15:57:30.270Z,"8 km N of West Yellowstone, Montana",earthquake,0.56,1.17,0.269,7,reviewed,uu,uu
-2022-04-13T11:28:22.850Z,54.1715,-165.979666666667,4.03,-0.46,ml,7,125,,0.26,av,av91054643,2022-04-13T23:41:27.710Z,"13 km WNW of Akutan, Alaska",earthquake,0.55,0.78,0.0854883360585388,6,reviewed,av,av
