@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-15T06:48:00.240Z,19.1936664581299,-155.484497070312,30.7399997711182,1.75,md,33,146,,0.100000001,hv,hv72984377,2022-04-15T06:51:02.090Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.66,0.860000014,0.730000019,8,automatic,hv,hv
 2022-04-15T06:44:38.648Z,61.8718,-151.0799,70.6,1.5,ml,,,,0.25,ak,ak0224tr9jyw,2022-04-15T06:46:30.765Z,"21 km SE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-15T06:38:56.520Z,35.6208333,-117.524,8.19,0.79,ml,8,144,0.06091,0.2,ci,ci40237016,2022-04-15T06:42:31.433Z,"14km E of Ridgecrest, CA",earthquake,1.06,1.21,0.198,7,automatic,ci,ci
 2022-04-15T06:36:27.750Z,39.0765,-118.9629,8.4,1.1,ml,8,131.18,0.494,0.0449,nn,nn00837239,2022-04-15T06:40:56.773Z,"19 km NW of Schurz, Nevada",earthquake,,43.7,0.25,4,automatic,nn,nn
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T05:04:09.830Z,34.0108333,-117.1928333,14.54,0.95,ml,16,101,0.07117,0.23,ci,ci40236992,2022-04-15T05:07:44.842Z,"5km S of Redlands, CA",earthquake,0.44,1.06,0.235,25,automatic,ci,ci
 2022-04-15T04:37:27.749Z,61.3511,-147.9694,245.7,1.5,ml,,,,1.03,ak,ak0224tq15s8,2022-04-15T04:51:41.218Z,"51 km ESE of Knik River, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2022-04-15T04:36:07.387Z,61.8825,-151.4922,76.2,1.6,ml,,,,0.68,ak,ak0224tq0wm7,2022-04-15T04:47:16.274Z,"12 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-15T04:30:55.980Z,31.9305,-116.8925,14.51,4.55,mw,27,234,0.2038,0.23,ci,ci40236864,2022-04-15T06:47:32.958Z,"20km W of El Sauzal, B.C., MX",earthquake,0.8,1.06,,6,reviewed,ci,ci
+2022-04-15T04:30:55.980Z,31.9305,-116.8925,14.51,4.55,mw,27,234,0.2038,0.23,ci,ci40236864,2022-04-15T06:58:03.734Z,"20km W of El Sauzal, B.C., MX",earthquake,0.8,1.06,,6,reviewed,ci,ci
 2022-04-15T04:25:50.286Z,65.314,-145.6007,13.5,3.3,ml,,,,0.69,ak,ak0224tpyn56,2022-04-15T05:16:22.040Z,"46 km SW of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-15T04:23:36.320Z,38.8416672,-122.8251648,1.42,0.86,md,10,115,0.008627,0.02,nc,nc73717715,2022-04-15T04:49:53.475Z,"9km WNW of Cobb, CA",earthquake,0.42,0.77,,1,automatic,nc,nc
 2022-04-15T04:18:19.620Z,33.587,-116.8065,7.4,1.07,ml,43,54,0.03602,0.14,ci,ci40236856,2022-04-15T05:27:59.496Z,"13km WNW of Anza, CA",earthquake,0.17,0.4,0.174,25,automatic,ci,ci
@@ -252,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T07:11:46.300Z,38.8148333,-122.8196667,3.03,0.39,md,23,51,0.009524,0.03,nc,nc73718191,2022-04-14T21:48:16.989Z,"7km NW of The Geysers, CA",earthquake,0.22,0.36,0.168,3,reviewed,nc,nc
 2022-04-14T07:09:43.500Z,38.793499,-122.7474976,3.71,0.86,md,10,165,0.01191,0.02,nc,nc73718186,2022-04-14T07:42:18.869Z,"2km NNE of The Geysers, CA",earthquake,0.59,1.43,,1,automatic,nc,nc
 2022-04-14T07:03:34.915Z,-25.2157,-175.3758,10,5.5,mww,,69,4.623,0.76,us,us7000h23k,2022-04-14T17:45:42.040Z,"south of Tonga",earthquake,9.4,1.9,0.062,25,reviewed,us,us
-2022-04-14T06:55:16.300Z,38.821167,-122.8421631,2.2,0.68,md,18,63,0.005902,0.03,nc,nc73718176,2022-04-14T07:19:20.687Z,"9km WNW of The Geysers, CA",earthquake,0.23,0.46,0.18,3,automatic,nc,nc
