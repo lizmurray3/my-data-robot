@@ -245,6 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T17:46:32.140Z,44.264,-110.8018333,3.62,0.61,md,5,107,0.007256,0.11,uu,uu60491632,2022-04-15T18:01:26.320Z,"44 km ENE of Warm River, Idaho",earthquake,0.38,0.37,0.263,5,reviewed,uu,uu
 2022-04-15T17:46:16.330Z,38.833,-122.802,1.69,0.27,md,22,50,0.01059,0.04,nc,nc71127979,2022-04-15T23:00:56.373Z,"7km W of Cobb, CA",earthquake,0.18,0.23,0.238,4,reviewed,nc,nc
 2022-04-15T17:45:41.330Z,40.4048333,-125.5718333,9.62,2.88,md,23,319,0.9447,0.21,nc,nc73717945,2022-04-16T00:51:56.090Z,"109km W of Petrolia, CA",earthquake,2.49,31.61,0.143,45,reviewed,nc,nc
-2022-04-15T17:38:47.860Z,19.2045,-155.4015,33.2,2.64,md,52,157,,0.12,hv,hv72985312,2022-04-16T03:46:47.777Z,"8 km E of Pāhala, Hawaii",earthquake,0.41,0.52,0.114445755534581,24,reviewed,hv,hv
-2022-04-15T17:35:31.040Z,33.8388333,-117.6678333,9.41,0.93,ml,11,170,0.06542,0.1,ci,ci40237384,2022-04-15T20:25:21.861Z,"10km WSW of Corona, CA",earthquake,0.42,0.47,0.051,4,reviewed,ci,ci
-2022-04-15T17:34:13.507Z,64.3022,-154.2463,4.2,2,ml,,,,0.42,ak,ak0224txr4jo,2022-04-15T17:38:49.764Z,"76 km SE of Ruby, Alaska",earthquake,,0.7,,,automatic,ak,ak
