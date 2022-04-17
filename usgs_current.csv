@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-17T23:34:04.684Z,63.2007,-150.4577,118.9,1.7,ml,,,,0.21,ak,ak0224xceegk,2022-04-17T23:43:53.007Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2022-04-17T23:30:30.306Z,65.0231,-147.0365,4.5,1.7,ml,,,,0.98,ak,ak0224xcdlko,2022-04-17T23:42:17.674Z,"16 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-17T23:49:54.790Z,33.992,-117.0098333,0.41,0.79,ml,10,88,0.08106,0.2,ci,ci40239312,2022-04-17T23:53:28.790Z,"4km E of Calimesa, CA",earthquake,0.46,0.93,0.196,8,automatic,ci,ci
+2022-04-17T23:34:04.684Z,63.2007,-150.4577,118.9,1.7,ml,,,,0.21,ak,ak0224xceegk,2022-04-17T23:44:46.400Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2022-04-17T23:30:30.306Z,65.0231,-147.0365,4.5,1.7,ml,,,,0.98,ak,ak0224xcdlko,2022-04-17T23:44:33.459Z,"16 km N of Two Rivers, Alaska",explosion,,0.3,,,automatic,ak,ak
 2022-04-17T23:25:21.040Z,33.5538333,-116.675,7.48,0.25,ml,21,64,0.05329,0.18,ci,ci40239296,2022-04-17T23:28:57.825Z,"0km SW of Anza, CA",earthquake,0.32,0.67,0.22,8,automatic,ci,ci
 2022-04-17T23:06:42.120Z,34.0441667,-117.2311667,3.4,1.28,ml,46,42,0.07758,0.22,ci,ci40239272,2022-04-17T23:10:23.727Z,"3km E of Loma Linda, CA",earthquake,0.28,0.74,0.176,26,automatic,ci,ci
 2022-04-17T22:59:29.000Z,40.3268318,-124.3533325,16.18,1.81,md,8,290,0.053,0.04,nc,nc73719100,2022-04-17T23:37:54.009Z,"6km W of Petrolia, CA",earthquake,2.45,1.3,0.17,4,automatic,nc,nc
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T17:35:33.460Z,38.8361664,-122.8239975,1.17,0.86,md,7,136,0.01562,0.07,nc,nc73718970,2022-04-17T19:13:53.430Z,"9km NW of The Geysers, CA",earthquake,0.75,1.83,,1,automatic,nc,nc
 2022-04-17T17:34:53.350Z,38.8185005,-122.7886658,1.32,0.92,md,20,42,0.00814,0.04,nc,nc73718965,2022-04-17T18:46:53.254Z,"5km NNW of The Geysers, CA",earthquake,0.21,0.41,0.05,4,automatic,nc,nc
 2022-04-17T17:31:04.610Z,59.9635,-151.843,50.1,1.4,ml,,,,0.48,ak,ak0224x8t5os,2022-04-17T17:43:39.281Z,"6 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-04-17T17:22:51.960Z,40.4778333,-122.0681667,9.19,1.49,md,8,167,0.07065,0.17,nc,nc73718960,2022-04-17T21:42:28.281Z,"13km SE of Millville, CA",earthquake,0.68,1.53,0.081,8,reviewed,nc,nc
+2022-04-17T17:22:51.960Z,40.4778333,-122.0681667,9.19,1.49,md,8,167,0.07065,0.17,nc,nc73718960,2022-04-17T23:49:34.072Z,"13km SE of Millville, CA",earthquake,0.68,1.53,0.081,8,reviewed,nc,nc
 2022-04-17T17:21:33.362Z,59.7994,-152.3648,97.6,1.1,ml,,,,1,ak,ak0224x8r2r7,2022-04-17T17:35:18.769Z,"30 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-17T17:17:00.170Z,36.3930016,-119.928833,21.43,2.4,md,18,141,0.1626,0.14,nc,nc73718955,2022-04-17T17:55:52.982Z,"6km S of Lanare, CA",earthquake,1.54,0.55,0.41,9,automatic,nc,nc
 2022-04-17T16:57:30.930Z,34.0598333,-117.2528333,13.85,0.98,ml,39,70,0.1214,0.3,ci,ci40239072,2022-04-17T17:01:02.457Z,"2km NNE of Loma Linda, CA",earthquake,0.44,1.14,0.112,30,automatic,ci,ci
@@ -244,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T00:06:50.302Z,61.2376,-146.3791,22,1.3,ml,,,,0.87,ak,ak0224wyjj0m,2022-04-17T00:08:41.808Z,"12 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-16T23:58:57.270Z,35.1143333,-118.5116667,0.19,1.46,ml,22,63,0.1861,0.26,ci,ci40238552,2022-04-17T00:02:52.076Z,"6km WSW of Tehachapi, CA",earthquake,0.5,31.61,0.204,29,automatic,ci,ci
 2022-04-16T23:55:25.450Z,39.2859993,-122.8088303,0.4,2.12,md,6,118,0.1587,0.06,nc,nc73718585,2022-04-17T01:55:00.251Z,"16km NNE of Upper Lake, CA",earthquake,0.42,9.64,0.06,5,automatic,nc,nc
-2022-04-16T23:47:03.271Z,18.9913,-46.0187,10,4.9,mb,,122,14.25,0.56,us,us7000h2ry,2022-04-17T00:29:38.040Z,"northern Mid-Atlantic Ridge",earthquake,6.8,1.8,0.039,209,reviewed,us,us
