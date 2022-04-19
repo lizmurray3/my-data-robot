@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-19T10:38:52.680Z,37.7983322,-122.1958313,9.15,0.87,md,11,122,0.02287,0.03,nc,nc73720095,2022-04-19T10:45:30.105Z,"3km E of Oakland, CA",earthquake,0.39,0.79,0.15,8,automatic,nc,nc
 2022-04-19T10:30:45.650Z,38.1833,-117.8446,4.7,1.6,ml,16,131.63,0.101,0.2449,nn,nn00837438,2022-04-19T10:34:28.525Z,"32 km SE of Mina, Nevada",earthquake,,0.7,0.66,8,automatic,nn,nn
 2022-04-19T10:28:09.660Z,36.0746667,-117.4213333,2.23,0.74,ml,7,244,0.2015,0.13,ci,ci40240912,2022-04-19T10:31:43.015Z,"34km N of Searles Valley, CA",earthquake,1.25,2.27,0.15,5,automatic,ci,ci
 2022-04-19T10:15:32.700Z,38.8371658,-122.791832,1.78,0.85,md,13,57,0.0017,0.02,nc,nc73720090,2022-04-19T10:32:33.627Z,"6km WNW of Cobb, CA",earthquake,0.29,0.88,,1,automatic,nc,nc
 2022-04-19T10:14:14.286Z,62.2424,-151.1795,74.6,1.5,ml,,,,0.45,ak,ak02250fm704,2022-04-19T10:19:00.436Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-19T10:02:24.740Z,33.8178333,-118.2685,8.08,1.57,ml,27,76,0.06421,0.33,ci,ci40240904,2022-04-19T10:12:27.785Z,"2km SE of Carson, CA",earthquake,0.59,1.4,0.198,31,automatic,ci,ci
+2022-04-19T10:01:58.780Z,17.9295,-66.8263333333333,12.46,2.45,md,17,218,,0.07,pr,pr71345073,2022-04-19T10:43:20.950Z,"7 km S of Indios, Puerto Rico",earthquake,0.58,0.24,0.0413196605556694,7,reviewed,pr,pr
 2022-04-19T09:57:16.250Z,38.8213348,-122.8463364,2.03,1.65,md,32,56,0.009009,0.03,nc,nc73720085,2022-04-19T10:31:26.622Z,"9km WNW of The Geysers, CA",earthquake,0.18,0.31,0.08,7,automatic,nc,nc
 2022-04-19T09:56:39.110Z,33.8175,-118.2673333,8.17,1.43,ml,30,77,0.06319,0.35,ci,ci40240896,2022-04-19T10:16:22.396Z,"2km SE of Carson, CA",earthquake,0.6,1.36,0.268,28,automatic,ci,ci
 2022-04-19T09:35:42.029Z,35.11616135,-95.55077362,2.789795637,1.69,ml,5,148.5661926,0.1087155044,0.2512847805,ok,ok2022hqbi,2022-04-19T09:37:10.880Z,"10 km E of Crowder, Oklahoma",earthquake,5.132717869,4.05388589,,4,automatic,ok,ok
@@ -264,5 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T11:13:09.145Z,38.175,-118.1887,6.3,0.9,ml,10,162.75,0.184,0.1109,nn,nn00837406,2022-04-19T02:38:42.878Z,"24 km SSW of Mina, Nevada",earthquake,,11,0.46,4,reviewed,nn,nn
 2022-04-18T10:56:14.262Z,40.1752,-119.6406,8.2,0.2,ml,3,251.21,0.07,0.1126,nn,nn00837405,2022-04-19T02:38:41.851Z,"25 km N of Sutcliffe, Nevada",earthquake,,6,0.03,2,reviewed,nn,nn
 2022-04-18T10:52:27.880Z,38.8146667,-122.8174973,2.63,0.84,md,14,55,0.01047,0.02,nc,nc73719585,2022-04-18T10:56:26.025Z,"7km NW of The Geysers, CA",earthquake,0.32,0.68,,1,automatic,nc,nc
-2022-04-18T10:43:47.770Z,60.0473333333333,-153.0815,2.08,-0.68,ml,4,196,,0.17,av,av91540911,2022-04-19T01:48:38.880Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.96,1.68,0.146903934451026,4,reviewed,av,av
-2022-04-18T10:43:32.750Z,60.6643333333333,-152.3415,20.27,0.33,ml,5,229,,0.12,av,av91055183,2022-04-19T01:50:40.340Z,"56 km W of Salamatof, Alaska",earthquake,1.69,1.88,0.121803245328145,5,reviewed,av,av
