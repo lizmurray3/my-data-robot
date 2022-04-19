@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-19T19:46:07.010Z,38.8251648,-122.805336,2.81,0.84,md,7,103,0.004101,0.02,nc,nc73720350,2022-04-19T19:52:42.698Z,"7km NW of The Geysers, CA",earthquake,0.49,1.66,,1,automatic,nc,nc
 2022-04-19T19:33:34.660Z,33.5911667,-116.808,7.42,0.52,ml,13,160,0.03673,0.18,ci,ci40241384,2022-04-19T19:37:08.004Z,"13km WNW of Anza, CA",earthquake,0.99,0.83,0.195,12,automatic,ci,ci
 2022-04-19T19:20:50.110Z,34.0108333,-116.9873333,15.71,1.67,ml,43,89,0.05456,0.2,ci,ci40241368,2022-04-19T19:24:29.029Z,"6km ESE of Yucaipa, CA",earthquake,0.26,0.69,0.164,28,automatic,ci,ci
 2022-04-19T18:36:38.790Z,32.9085,-115.5118333,4.82,1.69,ml,11,93,0.04171,0.23,ci,ci40241336,2022-04-19T18:40:24.760Z,"8km SSE of Brawley, CA",earthquake,0.61,0.99,0.155,26,automatic,ci,ci
@@ -164,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T01:48:25.210Z,18.027,-66.8918333333333,17.76,1.95,md,15,80,,0.15,pr,pr71345003,2022-04-19T02:29:36.780Z,"1 km SE of Lluveras, Puerto Rico",earthquake,0.39,0.62,0.145339934559202,6,reviewed,pr,pr
 2022-04-19T01:30:55.310Z,38.8260002,-122.7901688,-0.54,0.35,md,6,132,0.01239,0.01,nc,nc73719925,2022-04-19T03:34:54.165Z,"6km W of Cobb, CA",earthquake,0.32,3.36,,1,automatic,nc,nc
 2022-04-19T01:23:06.829Z,7.2333,126.9512,19,6.1,mww,,52,1.371,0.94,us,us7000h373,2022-04-19T12:31:23.687Z,"42 km E of Santiago, Philippines",earthquake,6.8,1.7,0.045,47,reviewed,us,us
+2022-04-19T01:22:37.598Z,37.0351,-115.4139,0,1.2,ml,9,230.82,0.449,0.1016,nn,nn00837458,2022-04-19T19:55:28.325Z,"42 km SSW of Alamo, Nevada",earthquake,,0,0.29,4,reviewed,nn,nn
 2022-04-19T01:19:09.540Z,17.9688333333333,-66.9465,7.45,1.71,md,10,187,,0.12,pr,pr71344993,2022-04-19T01:40:08.080Z,"3 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.36,0.0163964872624909,5,reviewed,pr,pr
 2022-04-19T01:17:21.560Z,20.173,-155.648166666667,30.76,3.09,ml,56,158,,0.15,hv,hv72989027,2022-04-19T07:11:15.537Z,"9 km NW of Kukuihaele, Hawaii",earthquake,0.46,0.89,0.123702027046805,20,reviewed,hv,hv
 2022-04-19T01:17:10.950Z,19.4951666666667,-155.659,3.34,0.8,md,16,94,,0.12,hv,hv72989022,2022-04-19T01:58:45.010Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.3,0.88,0.157049656206577,7,reviewed,hv,hv
@@ -193,7 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T23:43:37.030Z,33.7903333,-116.0906667,3.02,1.49,ml,38,44,0.1092,0.2,ci,ci40240640,2022-04-18T23:54:45.150Z,"14km NE of Indio, CA",earthquake,0.24,0.61,0.145,27,automatic,ci,ci
 2022-04-18T23:36:42.420Z,33.6866667,-116.7131667,16.45,0.82,ml,24,95,0.02445,0.16,ci,ci40240624,2022-04-18T23:40:28.626Z,"6km S of Idyllwild, CA",earthquake,0.32,0.54,0.224,18,automatic,ci,ci
 2022-04-18T23:33:59.520Z,33.7885,-116.0893333,2.82,1.14,ml,26,83,0.1378,0.21,ci,ci40240608,2022-04-18T23:37:37.582Z,"14km ENE of Indio, CA",earthquake,0.29,1.21,0.12,27,automatic,ci,ci
-2022-04-18T23:33:34.531Z,-11.2702,162.8326,11.63,5.5,mww,,47,3.372,0.65,us,us7000h36n,2022-04-19T19:44:07.165Z,"134 km SE of Kirakira, Solomon Islands",earthquake,9.7,4.2,0.083,14,reviewed,us,us
+2022-04-18T23:33:34.531Z,-11.2702,162.8326,11.63,5.5,mww,,47,3.372,0.65,us,us7000h36n,2022-04-19T19:52:57.805Z,"134 km SE of Kirakira, Solomon Islands",earthquake,9.7,4.2,0.083,14,reviewed,us,us
 2022-04-18T23:32:00.010Z,18.0135,-66.8466666666667,19.41,2.05,md,13,137,,0.23,pr,pr71344983,2022-04-18T23:46:30.030Z,"2 km S of Yauco, Puerto Rico",earthquake,0.7,1.33,0.185073424991094,6,reviewed,pr,pr
 2022-04-18T23:30:49.130Z,32.407,-115.2255,18.07,2.45,ml,13,108,0.1637,0.28,ci,ci40240600,2022-04-18T23:34:38.565Z,"6km NNW of Delta, B.C., MX",earthquake,1.03,3.22,0.223,26,automatic,ci,ci
 2022-04-18T23:29:44.980Z,33.6721667,-116.7143333,15.19,0.77,ml,28,58,0.0389,0.19,ci,ci40240584,2022-04-18T23:34:26.565Z,"8km S of Idyllwild, CA",earthquake,0.33,0.47,0.193,20,automatic,ci,ci
@@ -247,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T20:08:00.180Z,33.7146667,-116.8136667,18.84,0.49,ml,10,182,0.08301,0.15,ci,ci40240296,2022-04-18T20:40:45.914Z,"8km ESE of Valle Vista, CA",earthquake,1.06,0.63,0.067,3,reviewed,ci,ci
 2022-04-18T20:06:57.350Z,45.1005,-122.47933333333333,-0.38,1.52,md,12,94,0.07577,0.28,uw,uw61823802,2022-04-18T20:58:02.480Z,"9 km SE of Molalla, Oregon",explosion,0.6,31.61,0.17896710316770448,8,reviewed,uw,uw
 2022-04-18T20:04:00.176Z,61.5444,-141.0833,8.2,1.6,ml,,,,0.8,ak,ak0224yxz0c0,2022-04-18T20:07:42.381Z,"98 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-18T19:56:12.950Z,33.7271667,-116.0726667,3.58,0.93,ml,30,94,0.07641,0.13,ci,ci40240288,2022-04-19T17:46:25.543Z,"11km ENE of Coachella, CA",earthquake,0.14,0.3,0.11,13,reviewed,ci,ci
-2022-04-18T19:56:00.480Z,33.7333333,-116.0815,1.34,0.26,ml,7,121,0.08253,0.1,ci,ci37496053,2022-04-19T17:50:03.116Z,"10km NE of Coachella, CA",earthquake,0.29,0.67,0.119,4,reviewed,ci,ci
-2022-04-18T19:52:37.920Z,33.7905,-116.0891667,4.56,1.26,ml,35,102,0.1104,0.12,ci,ci40240272,2022-04-19T17:31:38.410Z,"14km ENE of Indio, CA",earthquake,0.15,0.44,0.19,20,reviewed,ci,ci
