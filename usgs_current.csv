@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T21:32:41.530Z,38.7798347,-122.7676697,1.01,1.12,md,27,87,0.009224,0.04,nc,nc73721965,2022-04-22T22:21:20.824Z,"1km WNW of The Geysers, CA",earthquake,0.22,0.32,0.15,6,automatic,nc,nc
 2022-04-22T21:10:52.977Z,31.6918408,-104.3102548,7.725463867,2.7,ml,18,58,0.04365457108,0.3,tx,tx2022hwkt,2022-04-22T21:50:00.040Z,"54 km S of Whites City, New Mexico",earthquake,1.026159937,0.9013421563,0.1,8,reviewed,tx,tx
 2022-04-22T21:08:22.830Z,44.8133333,-110.8115,6.94,0.33,md,8,110,0.03736,0.11,uu,uu60493897,2022-04-22T21:48:16.790Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.66,0.8,0.222,4,reviewed,uu,uu
-2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T05:36:58.189Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
+2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T05:41:59.695Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
 2022-04-22T20:43:10.280Z,46.35816666666667,-122.423,3.89,0.34,ml,13,121,0.07703,0.13,uw,uw61833426,2022-04-22T23:25:48.720Z,"19 km SSE of Mossyrock, Washington",earthquake,0.75,2.09,0.1728670818875393,4,reviewed,uw,uw
 2022-04-22T20:41:26.430Z,38.7966652,-122.7555008,2.09,0.56,md,12,90,0.005144,0.01,nc,nc73721955,2022-04-22T21:29:29.507Z,"2km N of The Geysers, CA",earthquake,0.29,0.61,0.07,3,automatic,nc,nc
 2022-04-22T20:31:18.860Z,19.406665802002,-155.240997314453,2.16000008583069,1.82,ml,13,94,,0.140000001,hv,hv72992782,2022-04-22T20:36:49.410Z,"4 km S of Volcano, Hawaii",earthquake,0.33,0.300000012,1.27,4,automatic,hv,hv
