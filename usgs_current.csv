@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-23T10:30:43.641Z,63.6033,-148.6646,68.5,2.6,ml,,,,1.37,ak,ak022571v2p8,2022-04-23T10:34:08.657Z,"19 km SE of Denali Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-04-23T10:30:24.884Z,64.6359,-147.735,16.8,2.9,ml,,,,0.86,ak,ak022571v18u,2022-04-23T10:34:50.269Z,"19 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-23T10:43:44.250Z,35.7728333,-117.5868333,7.74,0.54,ml,9,147,0.04369,0.14,ci,ci40244280,2022-04-23T10:47:19.876Z,"16km W of Searles Valley, CA",earthquake,0.48,0.77,0.082,8,automatic,ci,ci
+2022-04-23T10:43:36.788Z,63.397,-152.0542,11.6,1.7,ml,,,,0.63,ak,ak022571xuha,2022-04-23T10:45:46.841Z,"22 km SW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-23T10:35:09.370Z,38.1383,-118.1943,0.2,0.8,ml,8,140.71,0.269,0.3871,nn,nn00837753,2022-04-23T10:39:04.086Z,"28 km SSW of Mina, Nevada",earthquake,,102.7,0.47,5,automatic,nn,nn
+2022-04-23T10:30:43.641Z,63.6033,-148.6646,68.5,2.6,ml,,,,1.37,ak,ak022571v2p8,2022-04-23T10:43:33.028Z,"19 km SE of Denali Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-04-23T10:30:24.884Z,64.6359,-147.7349,16.8,2.9,ml,,,,0.86,ak,ak022571v18u,2022-04-23T10:46:43.480Z,"19 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-23T10:23:06.806Z,61.5289,-149.9052,41.3,1.4,ml,,,,0.67,ak,ak022571thug,2022-04-23T10:25:26.057Z,"2 km ENE of Big Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-04-23T10:11:08.510Z,18.0081666666667,-66.8543333333333,16.97,2.23,md,10,135,,0.09,pr,pr71345568,2022-04-23T10:43:51.550Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.37,0.46,0.0462285864031515,4,reviewed,pr,pr
 2022-04-23T10:02:31.880Z,33.3248333,-116.1456667,6.48,0.97,ml,32,70,0.1422,0.25,ci,ci40244272,2022-04-23T10:06:04.633Z,"16km SSW of Oasis, CA",earthquake,0.37,2.02,0.054,23,automatic,ci,ci
 2022-04-23T10:02:13.254Z,-8.7156,-74.2769,68.75,4.5,mb,,94,1.838,0.57,us,us6000hftt,2022-04-23T10:32:34.040Z,"Central Peru",earthquake,8.2,8,0.15,15,reviewed,us,us
 2022-04-23T09:51:58.150Z,38.8648338,-122.7835007,2.15,0.75,md,10,180,0.01458,0.02,nc,nc73722220,2022-04-23T10:08:16.037Z,"7km NW of Cobb, CA",earthquake,0.75,0.76,0.14,2,automatic,nc,nc
@@ -222,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T11:05:38.199Z,36.498,70.7238,146.03,4.1,mb,,95,0.637,0.53,us,us6000hfjc,2022-04-22T11:26:46.040Z,"41 km SSW of Jurm, Afghanistan",earthquake,8,3.7,0.145,13,reviewed,us,us
 2022-04-22T10:58:16.109Z,61.7762,-146.9732,29,1.4,ml,,,,1.03,ak,ak02255eho4p,2022-04-22T11:02:42.466Z,"20 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-22T10:56:51.920Z,34.2206667,-117.6298333,6.03,0.76,ml,14,86,0.05409,0.15,ci,ci40243744,2022-04-22T19:22:51.968Z,"12km NNW of Rancho Cucamonga, CA",earthquake,0.34,0.58,0.069,6,reviewed,ci,ci
-2022-04-22T10:41:45.920Z,19.1941661834717,-155.479827880859,35.2700004577637,2.29999995,md,46,82,,0.129999995,hv,hv72992382,2022-04-22T10:45:07.680Z,"0 km S of Pāhala, Hawaii",earthquake,0.53,0.949999988,1.40999997,20,automatic,hv,hv
