@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-24T07:26:05.850Z,38.7874985,-122.7463303,1.24,0.66,md,15,84,0.008629,0.07,nc,nc73722650,2022-04-24T07:27:42.254Z,"1km NE of The Geysers, CA",earthquake,0.29,0.48,0.32,4,automatic,nc,nc
+2022-04-24T07:26:05.850Z,38.7874985,-122.7463303,1.24,0.66,md,15,84,0.008629,0.07,nc,nc73722650,2022-04-24T07:47:18.995Z,"1km NE of The Geysers, CA",earthquake,0.29,0.48,0.32,4,automatic,nc,nc
 2022-04-24T07:20:10.930Z,35.6186667,-117.4208333,4.94,0.76,ml,12,172,0.04655,0.15,ci,ci40244832,2022-04-24T07:23:45.530Z,"17km S of Searles Valley, CA",earthquake,0.72,0.55,0.088,6,automatic,ci,ci
 2022-04-24T07:16:30.560Z,31.709,-115.7846667,6.89,2.52,ml,10,280,0.326,0.2,ci,ci40244824,2022-04-24T07:20:15.664Z,"74km E of Maneadero, B.C., MX",earthquake,4.09,5.83,0.2,25,automatic,ci,ci
+2022-04-24T07:10:39.122Z,46.1993,152.5542,10,4.5,mb,,182,6.793,0.53,us,us6000hg0j,2022-04-24T07:43:37.040Z,"Kuril Islands",earthquake,6.5,1.9,0.07,62,reviewed,us,us
 2022-04-24T07:09:49.861Z,63.2671,-150.6414,36,1.5,ml,,,,0.74,ak,ak02258nhmtm,2022-04-24T07:12:02.005Z,"62 km ESE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-04-24T07:04:53.160Z,19.238166809082,-155.398834228516,31.1800003051758,1.94000006,md,32,138,,0.140000001,hv,hv72993932,2022-04-24T07:08:12.570Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.889999986,0.400000006,11,automatic,hv,hv
 2022-04-24T06:58:17.550Z,19.2059993743896,-155.496505737305,36.4799995422363,2.04,ml,48,70,,0.100000001,hv,hv72993922,2022-04-24T07:23:59.040Z,"1 km W of Pāhala, Hawaii",earthquake,0.51,0.850000024,4.87,5,automatic,hv,hv
@@ -237,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T08:13:37.380Z,35.8316667,-120.6463333,10.6,0.41,md,17,149,0.04276,0.05,nc,nc73722195,2022-04-24T01:26:52.648Z,"10km NNE of San Miguel, CA",earthquake,0.37,0.78,0.106,6,reviewed,nc,nc
 2022-04-23T08:10:49.867Z,-37.1681,-74.1732,10,4.3,mwr,,138,0.891,0.51,us,us6000hftc,2022-04-23T08:24:14.040Z,"67 km NW of Lebu, Chile",earthquake,4.6,2,0.06,27,reviewed,us,us
 2022-04-23T07:52:47.770Z,38.8131676,-122.7764969,1.17,0.84,md,7,117,0.003273,0.01,nc,nc73722190,2022-04-23T10:04:15.008Z,"4km NNW of The Geysers, CA",earthquake,0.42,1.04,,1,automatic,nc,nc
-2022-04-23T07:41:42.643Z,61.6776,-151.0281,71.2,1.8,ml,,,,0.85,ak,ak02257054op,2022-04-23T07:46:31.261Z,"31 km WNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-23T07:40:41.650Z,33.4901657,-118.0156631,23.17,1.66,ml,21,182,0.2898,0.35,ci,ci40244248,2022-04-23T07:44:29.792Z,"16km SSW of Newport Beach, CA",earthquake,1.43,3.71,0.376,16,automatic,ci,ci
-2022-04-23T07:40:28.126Z,-1.4264,148.0902,10,4.7,mb,,73,0.948,1.14,us,us6000hft9,2022-04-23T09:47:15.129Z,"113 km NE of Lorengau, Papua New Guinea",earthquake,6.8,1.5,0.097,32,reviewed,us,us
