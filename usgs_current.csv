@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-01T05:35:05.567Z,64.8708,-150.9565,13.8,1.4,ml,,,,0.56,ak,ak0225k77o9o,2022-05-01T05:38:29.902Z,"21 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-01T05:33:40.150Z,38.7998352,-122.8148346,3.49,0.25,md,11,78,0.01439,0.02,nc,nc73727216,2022-05-01T05:35:16.706Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.93,0.11,2,automatic,nc,nc
+2022-05-01T05:40:20.148Z,62.5043,-152.4222,0,1.7,ml,,,,0.91,ak,ak0225k78rz6,2022-05-01T05:49:33.525Z,"78 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-01T05:35:05.567Z,64.8708,-150.9565,13.8,1.4,ml,,,,0.56,ak,ak0225k77o9o,2022-05-01T05:49:32.784Z,"21 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-01T05:33:40.150Z,38.7998352,-122.8148346,3.49,0.25,md,11,78,0.01439,0.02,nc,nc73727216,2022-05-01T05:42:20.993Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.93,0.11,2,automatic,nc,nc
 2022-05-01T05:17:01.008Z,38.1907,-117.8064,3.1,1.5,ml,14,118.9,0.131,0.1515,nn,nn00838120,2022-05-01T05:20:37.608Z,"34 km SE of Mina, Nevada",earthquake,,0.7,0.27,9,automatic,nn,nn
 2022-05-01T05:05:55.840Z,38.7998352,-122.8171692,4.2,0.84,md,8,109,0.01302,0.01,nc,nc73727206,2022-05-01T05:14:15.945Z,"6km WNW of The Geysers, CA",earthquake,0.85,2.61,,1,automatic,nc,nc
 2022-05-01T04:54:55.790Z,38.822834,-122.8046646,1.75,0.84,md,10,80,0.004262,0.07,nc,nc73727201,2022-05-01T05:03:10.742Z,"7km NW of The Geysers, CA",earthquake,0.42,0.97,,1,automatic,nc,nc
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T03:16:09.670Z,38.7993317,-122.8136673,3.01,0.49,md,13,94,0.01541,0.02,nc,nc73727031,2022-05-01T03:50:15.282Z,"6km WNW of The Geysers, CA",earthquake,0.44,1,0.35,2,automatic,nc,nc
 2022-05-01T03:09:52.460Z,38.8198318,-122.8069992,2.41,0.35,md,6,107,0.004293,0.01,nc,nc73727026,2022-05-01T03:38:16.204Z,"6km NW of The Geysers, CA",earthquake,0.56,1.2,,1,automatic,nc,nc
 2022-05-01T03:07:36.493Z,61.4182,-150.0798,25.2,1.8,ml,,,,0.65,ak,ak0225k5uve3,2022-05-01T03:18:30.159Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-01T03:01:18.770Z,36.0953331,-121.0321655,10.28,1.42,md,9,107,,0.03,nc,nc73727021,2022-05-01T05:39:17.978Z,"4km SSW of San Lucas, CA",earthquake,0.47,1.15,0.36,6,automatic,nc,nc
+2022-05-01T03:01:18.770Z,36.0953331,-121.0321655,10.28,1.42,md,9,107,,0.03,nc,nc73727021,2022-05-01T05:45:11.010Z,"4km SSW of San Lucas, CA",earthquake,0.47,1.15,0.36,6,automatic,nc,nc
 2022-05-01T02:59:13.857Z,35.5524292,-97.87026215,2.783111334,1.51,ml,12,94.20373535,0.01606341824,0.9457056395,ok,ok2022ilmh,2022-05-01T03:01:27.033Z,"8 km ENE of El Reno, Oklahoma",earthquake,3.348152782,3.037273237,,10,automatic,ok,ok
 2022-05-01T02:52:58.590Z,38.8191681,-122.8071671,2.42,0.5,md,16,48,0.004793,0.03,nc,nc73727016,2022-05-01T03:17:25.090Z,"6km NW of The Geysers, CA",earthquake,0.25,0.71,0.35,2,automatic,nc,nc
 2022-05-01T02:46:21.430Z,38.7788315,-122.7730026,-0.7,0.85,md,6,176,0.009887,0.25,nc,nc73727011,2022-05-01T05:14:15.820Z,"1km W of The Geysers, CA",earthquake,2,7.77,,1,automatic,nc,nc
@@ -212,6 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T06:03:22.890Z,36.9596672,-122.2389984,5.54,2.06,md,19,193,0.2535,0.13,nc,nc73726436,2022-04-30T08:52:19.786Z,"12km SW of Bonny Doon, CA",earthquake,0.68,3.61,0.22,14,automatic,nc,nc
 2022-04-30T06:00:11.410Z,38.8303337,-122.8036652,1.71,0.85,md,13,52,0.008548,0.02,nc,nc73726431,2022-04-30T06:28:13.941Z,"7km W of Cobb, CA",earthquake,0.26,0.95,,1,automatic,nc,nc
 2022-04-30T05:54:28.540Z,34.018,-117.2358333,11.27,1.05,ml,35,58,0.08772,0.19,ci,ci40248928,2022-04-30T15:32:06.349Z,"4km SE of Loma Linda, CA",earthquake,0.29,0.58,0.327,28,reviewed,ci,ci
-2022-04-30T05:48:48.410Z,38.8296661,-122.8033371,1.82,0.57,md,13,64,0.008179,0.01,nc,nc73726421,2022-04-30T08:10:21.414Z,"7km W of Cobb, CA",earthquake,0.3,0.67,0.22,3,automatic,nc,nc
-2022-04-30T05:47:31.300Z,35.8906667,-117.702,3.19,0.08,ml,9,79,0.07083,0.13,ci,ci40248920,2022-04-30T05:51:02.336Z,"19km ESE of Little Lake, CA",earthquake,0.34,2.64,0.064,3,automatic,ci,ci
-2022-04-30T05:45:02.380Z,33.291,-116.2646667,2.4,0.8,ml,19,149,0.08051,0.26,ci,ci40248912,2022-04-30T05:48:41.892Z,"11km ENE of Borrego Springs, CA",earthquake,0.43,0.49,0.095,18,automatic,ci,ci
