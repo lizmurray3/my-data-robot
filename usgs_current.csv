@@ -209,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T08:15:24.440Z,35.5458333,-84.6066667,17.01,2.37,md,20,53,0.1041,0.05,se,se60150043,2022-04-30T12:34:26.570Z,"6 km WNW of Niota, Tennessee",earthquake,0.24,0.54,0.093,13,reviewed,se,se
 2022-04-30T08:14:47.308Z,-6.6004,103.5781,20.23,4.6,mb,,118,2.309,0.54,us,us7000h61c,2022-04-30T10:54:29.616Z,"226 km SW of Bandar Lampung, Indonesia",earthquake,4.5,5.8,0.114,23,reviewed,us,us
 2022-04-30T08:14:20.910Z,37.4941667,-118.8523333,3.19,0.78,md,13,125,0.09746,0.1,nc,nc73726466,2022-04-30T17:58:25.854Z,"17km WSW of Toms Place, CA",earthquake,0.61,2.46,0.147,13,reviewed,nc,nc
-2022-04-30T07:57:42.719Z,61.7866,-149.5883,45.7,1.4,ml,,,,0.29,ak,ak0225ikzzlr,2022-04-30T08:00:20.202Z,"18 km N of Meadow Lakes, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-04-30T07:52:27.090Z,19.1534996032715,-155.468338012695,30.3400001525879,1.97000003,md,43,155,,0.140000001,hv,hv72999372,2022-04-30T07:55:43.370Z,"5 km S of Pāhala, Hawaii",earthquake,0.61,0.779999971,0.370000005,13,automatic,hv,hv
