@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-03T08:46:13.220Z,33.6456667,-116.7218333,8.85,0.32,ml,15,150,0.0627,0.21,ci,ci40251056,2022-05-03T08:49:44.853Z,"10km S of Idyllwild, CA",earthquake,0.71,1.43,0.202,8,automatic,ci,ci
+2022-05-03T08:43:48.950Z,38.8305016,-122.8138351,1.63,0.87,md,21,47,0.00768,0.01,nc,nc73728631,2022-05-03T08:52:10.629Z,"8km NW of The Geysers, CA",earthquake,0.2,0.51,0.23,3,automatic,nc,nc
 2022-05-03T08:04:57.540Z,17.9455,-66.7908333333333,10.9,2.31,md,12,188,,0.14,pr,pr71347223,2022-05-03T08:16:52.260Z,"6 km SSE of Indios, Puerto Rico",earthquake,0.61,0.47,0.0369336135490714,5,reviewed,pr,pr
 2022-05-03T07:55:40.620Z,38.7806664,-122.765831,1.37,0.55,md,13,81,0.009931,0.03,nc,nc73728616,2022-05-03T08:25:15.430Z,"1km WNW of The Geysers, CA",earthquake,0.35,0.65,0.31,3,automatic,nc,nc
 2022-05-03T07:53:42.960Z,38.8308334,-122.8153305,1.81,0.85,md,10,102,0.008487,0.02,nc,nc73728611,2022-05-03T08:14:15.368Z,"8km NW of The Geysers, CA",earthquake,0.36,1.02,,1,automatic,nc,nc
@@ -86,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T19:50:45.070Z,47.95216666666666,-124.36833333333334,32.41,1.6400000000000001,ml,9,130,0.1331,0.2,uw,uw61836136,2022-05-03T00:29:08.790Z,"1 km E of Forks, Washington",earthquake,0.8,0.68,0.10870736889129717,5,reviewed,uw,uw
 2022-05-02T19:48:19.669Z,28.9378,142.3649,10,4.4,mb,,239,7.883,0.53,us,us7000h6fm,2022-05-02T21:27:41.040Z,"Bonin Islands, Japan region",earthquake,15.5,2,0.134,16,reviewed,us,us
 2022-05-02T19:40:27.140Z,37.8586667,-121.7985,11.26,2.28,md,52,135,0.04828,0.09,nc,nc73728351,2022-05-03T03:25:10.705Z,"10km SW of Brentwood, CA",earthquake,0.21,0.28,0.178,60,reviewed,nc,nc
-2022-05-02T19:35:57.030Z,46.8365,-121.768,1.03,0.04,ml,6,119,0.02406,0.06,uw,uw61836131,2022-05-03T00:20:16.620Z,"21 km ENE of Ashford, Washington",earthquake,0.56,1.9,0.031024858971252192,5,reviewed,uw,uw
+2022-05-02T19:35:57.030Z,46.8365,-121.768,1.03,0.04,ml,6,119,0.02406,0.06,uw,uw61836131,2022-05-03T00:20:16.620Z,"Washington",earthquake,0.56,1.9,0.031024858971252192,5,reviewed,uw,uw
 2022-05-02T19:27:05.830Z,46.8995,-112.5115,10.24,0.69,ml,7,94,0.055,0.16,mb,mb80544724,2022-05-02T20:35:55.650Z,"14 km ESE of Lincoln, Montana",earthquake,0.62,1.09,0.237,3,reviewed,mb,mb
 2022-05-02T19:26:04.999Z,66.1174,-148.8515,9.3,1.4,ml,,,,0.5,ak,ak0225m315qr,2022-05-02T19:28:10.328Z,"16 km NE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-02T19:25:48.520Z,44.2631667,-115.0681667,10.24,1.98,ml,9,78,0.749,0.25,mb,mb80544694,2022-05-02T20:30:28.190Z,"11 km WNW of Stanley, Idaho",earthquake,0.7,2.09,0.212,9,reviewed,mb,mb
