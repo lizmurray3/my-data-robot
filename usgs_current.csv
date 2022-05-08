@@ -158,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T11:11:19.187Z,61.1228,-150.4046,17.5,1.1,ml,,,,0.64,ak,ak0225u7v8q6,2022-05-07T11:20:15.474Z,"27 km NE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T11:04:32.970Z,48.611,-122.64166666666667,12.75,1.51,ml,19,43,0.06484,0.17,uw,uw61829022,2022-05-07T15:00:15.920Z,"11 km N of Anacortes, Washington",earthquake,0.36,0.59,0.12766216382815565,6,reviewed,uw,uw
 2022-05-07T11:00:05.530Z,18.495,-66.0943333333333,111.13,3.08,md,6,230,,0.11,pr,pr71347768,2022-05-07T15:04:16.480Z,"3 km NNE of San Juan, Puerto Rico",earthquake,2.61,1.16,0.0215557338840142,5,reviewed,pr,pr
-2022-05-07T10:56:11.305Z,36.7037,-116.3349,9.7,0.6,ml,16,89.42,0.059,0.1233,nn,nn00838478,2022-05-07T16:00:23.513Z,"44 km ESE of Beatty, Nevada",earthquake,,1,0.95,5,reviewed,nn,nn
