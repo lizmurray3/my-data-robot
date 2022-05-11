@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T12:10:42.580Z,33.7175,-116.8356667,15.42,0.99,ml,39,50,0.08786,0.12,ci,ci40255504,2022-05-10T16:23:39.560Z,"6km ESE of Valle Vista, CA",earthquake,0.2,0.35,0.152,24,reviewed,ci,ci
 2022-05-10T12:05:55.025Z,-11.1362,161.7049,10,4.9,mww,,41,2.415,0.66,us,us7000h8b3,2022-05-10T20:43:06.040Z,"79 km SSW of Kirakira, Solomon Islands",earthquake,2.9,1.8,0.093,11,reviewed,us,us
 2022-05-10T12:05:06.379Z,62.2647,-150.3737,11.9,0.9,ml,,,,0.72,ak,ak0225z71ehf,2022-05-10T15:02:27.593Z,"9 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2022-05-10T11:45:39.685Z,-38.0094,175.931,296.85,4.6,mb,,72,0.438,0.97,us,us7000h8az,2022-05-10T12:51:39.040Z,"25 km NNE of Tokoroa, New Zealand",earthquake,6.5,6.6,0.272,4,reviewed,us,us
