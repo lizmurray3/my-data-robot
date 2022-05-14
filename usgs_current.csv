@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-14T07:50:19.620Z,38.8325005,-122.8046646,1.88,0.36,md,7,95,0.01003,0.01,nc,nc73733541,2022-05-14T07:59:11.452Z,"7km W of Cobb, CA",earthquake,0.53,0.98,,1,automatic,nc,nc
 2022-05-14T07:44:09.258Z,59.7968,-152.6615,79.5,1.8,ml,,,,0.52,ak,ak02265qfzm6,2022-05-14T07:48:04.506Z,"46 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-14T07:31:18.310Z,19.1468334197998,-155.491836547852,34.0699996948242,1.88999999,md,31,150,,0.170000002,hv,hv73011897,2022-05-14T07:34:34.990Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.71,0.920000017,0.560000002,5,automatic,hv,hv
 2022-05-14T07:30:16.040Z,38.7758331,-122.7283325,1.45,0.67,md,7,100,0.01448,0.02,nc,nc73733536,2022-05-14T07:39:10.449Z,"2km E of The Geysers, CA",earthquake,0.93,1.79,0.16,2,automatic,nc,nc
@@ -218,8 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T09:00:29.500Z,17.9513333333333,-66.9075,10.74,2.11,md,6,210,,0.06,pr,pr71348668,2022-05-13T10:33:07.870Z,"2 km S of Guánica, Puerto Rico",earthquake,0.71,0.43,0.187766289919637,4,reviewed,pr,pr
 2022-05-13T08:46:38.978Z,38.1869,-117.7679,10.3,1.3,ml,19,69.3,0.12,0.1029,nn,nn00838836,2022-05-13T17:25:00.808Z,"37 km SE of Mina, Nevada",earthquake,,1.1,0.34,5,reviewed,nn,nn
 2022-05-13T08:24:26.142Z,31.69082282,-104.2873637,6.722851562,2,ml,9,65,0.0842759412,0.2,tx,tx2022jhvb,2022-05-13T20:53:55.922Z,"54 km S of Whites City, New Mexico",earthquake,1.622860787,2.16710326,0.1,7,reviewed,tx,tx
-2022-05-13T07:59:15.220Z,35.7145,-117.5528333,10.22,0.47,ml,17,89,0.1074,0.13,ci,ci40017367,2022-05-13T18:32:22.059Z,"15km WSW of Searles Valley, CA",earthquake,0.31,0.72,0.089,6,reviewed,ci,ci
-2022-05-13T07:54:58.070Z,33.7406667,-117.961,18.72,1.92,ml,63,87,0.04438,0.2,ci,ci40017359,2022-05-13T18:27:54.663Z,"4km N of Fountain Valley, CA",earthquake,0.24,0.32,0.157,24,reviewed,ci,ci
-2022-05-13T07:53:28.530Z,36.8714981,-121.6036682,7.38,1.68,md,27,88,0.01598,0.11,nc,nc73732996,2022-05-13T11:39:11.206Z,"4km ESE of Aromas, CA",earthquake,0.34,0.66,0.21,25,automatic,nc,nc
-2022-05-13T07:51:12.550Z,36.2273333,-117.8825,8.05,0.44,ml,9,254,0.1118,0.1,ci,ci37416764,2022-05-13T17:58:56.214Z,"12km ESE of Olancha, CA",earthquake,0.48,1.13,0.235,3,reviewed,ci,ci
-2022-05-13T07:51:03.450Z,36.2168333,-117.8728333,9.1,0.9,ml,21,67,0.1001,0.1,ci,ci40017351,2022-05-13T17:56:32.190Z,"14km ESE of Olancha, CA",earthquake,0.19,0.5,0.193,7,reviewed,ci,ci
