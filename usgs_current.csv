@@ -192,11 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T09:28:04.986Z,31.6119,-103.9626,5,3,ml,,72,0.254,0.31,us,us6000hl34,2022-05-14T09:44:47.040Z,"35 km WSW of Mentone, Texas",earthquake,1.4,1.9,0.049,78,reviewed,us,us
 2022-05-14T09:27:04.259Z,62.4904,-149.2794,18.4,1.2,ml,,,,0.38,ak,ak02265rj7a3,2022-05-14T09:36:39.574Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-14T09:23:35.650Z,40.5776672,-123.7730026,20.61,2,md,8,201,0.3374,0.06,nc,nc73733566,2022-05-14T11:26:10.696Z,"28km E of Hydesville, CA",earthquake,1.21,1.44,,1,automatic,nc,nc
-2022-05-14T09:15:22.302Z,31.6105,-103.9734,5,2.5,ml,,73,0.255,0.23,us,us6000hl31,2022-05-14T09:35:49.040Z,"36 km NNW of Toyah, Texas",earthquake,0.7,1.9,0.055,64,reviewed,us,us
-2022-05-14T09:15:05.580Z,34.0121667,-117.3401667,18.82,0.93,ml,14,68,0.08276,0.36,ci,ci40018431,2022-05-14T09:18:53.123Z,"3km SW of Grand Terrace, CA",earthquake,1,1.61,0.183,22,automatic,ci,ci
-2022-05-14T09:15:00.520Z,34.1145,-117.4523333,11.61,1.31,ml,21,88,0.1542,0.35,ci,ci40018423,2022-05-14T09:18:37.206Z,"2km NNE of Fontana, CA",earthquake,1.05,2.19,0.34,12,automatic,ci,ci
-2022-05-14T09:14:19.567Z,62.9217,-148.3955,16.4,1.3,ml,,,,1.08,ak,ak02265rgg7o,2022-05-14T09:30:57.330Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-14T09:13:52.311Z,59.8349,-152.8982,104.1,1.6,ml,,,,0.45,ak,ak02265rgayn,2022-05-14T09:16:19.994Z,"60 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-14T09:08:51.970Z,19.2046661376953,-155.440170288086,34.189998626709,2.00999999,md,37,129,,0.0900000036,hv,hv73011957,2022-05-14T09:12:00.340Z,"4 km E of Pāhala, Hawaii",earthquake,0.61,0.879999995,0.910000026,7,automatic,hv,hv
-2022-05-14T09:05:56.240Z,37.2528343,-121.6313324,4.81,1.4,md,16,68,0.0891,0.05,nc,nc73733561,2022-05-14T11:11:10.600Z,"14km N of Morgan Hill, CA",earthquake,0.22,0.9,0.16,12,automatic,nc,nc
-2022-05-14T09:00:11.060Z,44.4498333,-115.5621667,-0.94,1.94,ml,14,55,0.71,0.25,mb,mb80545794,2022-05-14T13:05:32.230Z,"38 km E of Cascade, Idaho",earthquake,0.66,2.66,0.199,12,reviewed,mb,mb
