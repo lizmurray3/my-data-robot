@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-16T21:18:08.418Z,61.2026,-147.5447,15,1.3,ml,,,,0.73,ak,ak022699p6e4,2022-05-16T21:21:39.059Z,"60 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-16T21:05:30.240Z,72.4388,2.8316,10,4.6,mb,,86,6.692,0.68,us,us6000hlm0,2022-05-16T21:31:58.040Z,"Norwegian Sea",earthquake,8.3,1.9,0.048,127,reviewed,us,us
 2022-05-16T20:54:20.770Z,34.0285,-117.0063333,19.42,0.85,ml,21,131,0.05852,0.14,ci,ci40020543,2022-05-16T21:19:30.289Z,"3km E of Yucaipa, CA",earthquake,0.32,0.62,0.127,12,reviewed,ci,ci
 2022-05-16T20:39:29.995Z,60.0642,-153.1447,122.7,1.8,ml,,,,0.42,ak,ak0226998aj3,2022-05-16T20:49:42.870Z,"61 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-16T20:35:02.270Z,19.1673336029053,-155.481170654297,34.4099998474121,2.1099999,md,37,97,,0.109999999,hv,hv73014522,2022-05-16T20:38:10.490Z,"3 km S of Pāhala, Hawaii",earthquake,0.69,0.930000007,0.810000002,11,automatic,hv,hv
@@ -40,6 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T16:31:55.689Z,61.5597,-146.3358,32,1.1,ml,,,,0.5,ak,ak022696swc0,2022-05-16T16:48:27.711Z,"47 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-16T16:30:55.740Z,47.75333333333333,-121.72783333333334,13.2,1.59,ml,16,77,0.06412,0.07,uw,uw61831817,2022-05-16T17:38:32.710Z,"11 km SSW of Gold Bar, Washington",earthquake,0.23,0.35,0.15453503084723186,4,reviewed,uw,uw
 2022-05-16T16:29:53.840Z,45.1865,-112.4228333,-2,1.3,ml,9,105,0.214,0.14,mb,mb80545989,2022-05-16T17:22:14.420Z,"17 km E of Dillon, Montana",quarry blast,0.51,31.61,0.359,7,reviewed,mb,mb
+2022-05-16T16:24:43.590Z,40.3835,-124.6603333,23.24,2.71,md,33,240,0.2608,0.13,nc,nc73734681,2022-05-16T21:40:11.335Z,"32km WNW of Petrolia, CA",earthquake,0.59,0.63,0.27,40,reviewed,nc,nc
 2022-05-16T16:24:24.239Z,34.28016667,-96.36466667,0,1.59,ml,54,127,0.4067201876,0.56,ok,ok2022jnxk,2022-05-16T16:41:03.757Z,"11 km SSE of Wapanucka, Oklahoma",quarry blast,,0.7,0.25,16,reviewed,ok,ok
 2022-05-16T16:13:47.695Z,11.6824,-89.0613,10,4.2,mb,,204,1.916,0.41,us,us6000hlif,2022-05-16T16:49:16.040Z,"185 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.5,1.9,0.186,8,reviewed,us,us
 2022-05-16T16:06:57.760Z,33.6463333,-116.7021667,13.64,0.53,ml,11,81,0.03266,0.05,ci,ci37499101,2022-05-16T18:20:19.707Z,"10km NNW of Anza, CA",earthquake,0.25,0.45,0.271,5,reviewed,ci,ci
@@ -135,8 +137,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T07:31:22.397Z,63.0473,-150.7198,31.3,1.3,ml,,,,0.84,ak,ak022691fx5v,2022-05-16T07:34:19.482Z,"61 km N of Petersville, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-05-16T07:18:09.090Z,34.009,-116.446,8.49,0.79,ml,19,88,0.07484,0.15,ci,ci40019999,2022-05-16T07:21:40.963Z,"7km NE of Desert Hot Springs, CA",earthquake,0.34,0.7,0.106,16,automatic,ci,ci
 2022-05-16T07:09:55.112Z,64.2245,-146.9351,27.2,0.7,ml,,,,1.39,ak,ak022691ba3b,2022-05-16T07:22:22.401Z,"23 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-16T07:03:56.030Z,35.8531667,-117.6631667,11.17,0.68,ml,10,94,0.06512,0.11,ci,ci40019983,2022-05-16T07:07:25.132Z,"24km ESE of Little Lake, CA",earthquake,0.33,0.63,0.038,6,automatic,ci,ci
+2022-05-16T07:03:56.050Z,35.8545,-117.6675,10.76,0.68,ml,16,91,0.06878,0.1,ci,ci40019983,2022-05-16T21:35:15.171Z,"23km ESE of Little Lake, CA",earthquake,0.17,0.32,0.155,7,reviewed,ci,ci
 2022-05-16T06:47:20.390Z,34.0088333,-116.4465,7.55,0.75,ml,31,88,0.07487,0.12,ci,ci40019975,2022-05-16T15:11:06.453Z,"7km NE of Desert Hot Springs, CA",earthquake,0.15,0.41,0.143,9,reviewed,ci,ci
+2022-05-16T06:43:10.000Z,34.0103333,-116.4478333,7.65,0.49,ml,14,117,0.07598,0.11,ci,ci37499133,2022-05-16T21:37:53.373Z,"7km NE of Desert Hot Springs, CA",earthquake,0.19,0.56,0.238,5,reviewed,ci,ci
 2022-05-16T06:42:40.320Z,35.8628333,-117.693,8,0.84,ml,19,76,0.07965,0.12,ci,ci40019967,2022-05-16T21:30:12.081Z,"21km ESE of Little Lake, CA",earthquake,0.19,0.51,0.137,7,reviewed,ci,ci
 2022-05-16T06:41:38.170Z,34.0078333,-116.4468333,7.61,1.54,ml,61,52,0.07408,0.16,ci,ci40019959,2022-05-16T21:23:52.020Z,"7km NE of Desert Hot Springs, CA",earthquake,0.14,0.45,0.161,23,reviewed,ci,ci
 2022-05-16T06:40:54.720Z,11.2611,-87.0141,35,4.6,mb,,181,1.158,0.55,us,us6000hlet,2022-05-16T10:05:23.040Z,"79 km SW of Masachapa, Nicaragua",earthquake,6.7,2,0.033,270,reviewed,us,us
