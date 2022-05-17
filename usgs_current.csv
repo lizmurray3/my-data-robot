@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-17T09:40:58.580Z,34.0489998,-117.5295029,16.41,1.79,ml,86,41,0.03427,0.17,ci,ci40020943,2022-05-17T09:43:03.941Z,"6km NW of Glen Avon, CA",earthquake,0.22,0.33,0.342,27,automatic,ci,ci
+2022-05-17T09:36:33.890Z,19.2478332519531,-155.400833129883,32.0200004577637,1.79,ml,44,132,,0.119999997,hv,hv73015047,2022-05-17T09:42:03.790Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.800000012,5.16,3,automatic,hv,hv
 2022-05-17T09:14:34.650Z,34.4113333,-117.7403333,6.2,0.69,ml,10,181,0.09867,0.11,ci,ci40020935,2022-05-17T09:18:07.944Z,"9km WSW of Pinon Hills, CA",earthquake,0.47,0.85,0.114,6,automatic,ci,ci
 2022-05-17T09:12:07.258Z,53.1227,-167.1759,35,3.5,mb,,208,0.527,0.6,us,us6000hlr0,2022-05-17T09:27:35.040Z,"93 km SSW of Unalaska, Alaska",earthquake,4.7,2,0.156,10,reviewed,us,us
 2022-05-17T09:10:15.750Z,19.2199993133545,-155.419662475586,34.1699981689453,2.2,ml,46,137,,0.129999995,hv,hv73015027,2022-05-17T09:15:46.460Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.57,0.800000012,3.72,6,automatic,hv,hv
@@ -7,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T08:56:06.040Z,38.7923317,-122.8083344,2.83,1.6,md,32,79,0.005738,0.03,nc,nc73734931,2022-05-17T09:07:10.457Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.39,0.17,8,automatic,nc,nc
 2022-05-17T08:44:21.970Z,38.7981682,-122.7805023,3.66,1.06,md,18,64,0.007642,0.02,nc,nc73734921,2022-05-17T08:53:11.383Z,"3km NW of The Geysers, CA",earthquake,0.32,0.66,0.34,5,automatic,nc,nc
 2022-05-17T08:42:24.268Z,19.1527,121.1603,39.56,5.1,mb,,100,3.647,0.84,us,us6000hlqw,2022-05-17T09:19:54.217Z,"59 km N of Namuac, Philippines",earthquake,9.1,6.8,0.041,196,reviewed,us,us
+2022-05-17T08:42:07.710Z,48.279333333333334,-121.882,11.33,0.44,md,6,146,0.08939,0.11,uw,uw61832132,2022-05-17T09:36:09.630Z,"3 km ENE of Oso, Washington",earthquake,0.65,2.3,0.08498451145086716,6,reviewed,uw,uw
 2022-05-17T08:39:41.520Z,48.29816666666667,-121.87183333333333,3.04,1.29,ml,11,71,0.1095,0.17,uw,uw61832127,2022-05-17T09:21:48.990Z,"5 km NE of Oso, Washington",earthquake,0.38,1.18,0.40025359615673906,3,reviewed,uw,uw
 2022-05-17T08:37:44.204Z,59.6206,-138.8992,11.6,1.5,ml,,,,0.48,ak,ak0226apm1ec,2022-05-17T08:50:27.970Z,"47 km E of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-17T08:35:51.690Z,48.29116666666667,-121.88066666666667,9.16,1.04,ml,10,85,0.1009,0.13,uw,uw61832122,2022-05-17T09:31:23.280Z,"4 km ENE of Oso, Washington",earthquake,0.38,1.34,0.10212471458303524,3,reviewed,uw,uw
@@ -15,8 +18,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T08:13:23.050Z,48.2925,-121.87483333333333,7.99,1.06,ml,10,85,0.1034,0.12,uw,uw61832107,2022-05-17T09:13:01.780Z,"4 km ENE of Oso, Washington",earthquake,0.32,0.61,0.3745844935444441,3,reviewed,uw,uw
 2022-05-17T08:11:02.870Z,48.30466666666667,-121.86833333333334,0.91,1.84,ml,19,56,0.1163,0.15,uw,uw61832102,2022-05-17T09:09:28.779Z,"5 km NE of Oso, Washington",earthquake,0.31,0.83,0.20047769472052357,11,reviewed,uw,uw
 2022-05-17T08:09:42.747Z,60.5796,-151.5728,74.5,1.2,ml,,,,0.46,ak,ak0226apg18i,2022-05-17T08:11:29.889Z,"14 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-17T09:27:18.479Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
-2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"21 km ENE of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-17T09:37:01.144Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
+2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-17T08:04:30.520Z,35.7176667,-117.5328333,9.42,0.82,ml,6,170,0.1111,0.12,ci,ci40020911,2022-05-17T08:07:56.232Z,"13km WSW of Searles Valley, CA",earthquake,0.56,1.22,0.139,8,automatic,ci,ci
 2022-05-17T07:44:45.750Z,35.8245,-117.6376667,10.4,0.93,ml,12,91,0.03379,0.08,ci,ci40020903,2022-05-17T07:48:23.721Z,"22km WNW of Searles Valley, CA",earthquake,0.26,0.44,0.165,9,automatic,ci,ci
 2022-05-17T07:43:47.980Z,34.015,-116.4481667,8.25,0.62,ml,15,88,0.07262,0.27,ci,ci40020895,2022-05-17T07:47:27.878Z,"8km NE of Desert Hot Springs, CA",earthquake,0.6,1.43,0.225,7,automatic,ci,ci
@@ -239,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T09:57:25.380Z,17.9801666666667,-66.9398333333333,7.12,1.76,md,3,174,,0.02,pr,pr71349008,2022-05-16T11:35:29.540Z,"2 km WSW of Fuig, Puerto Rico",earthquake,1.65,0.84,0.0985028458636661,3,reviewed,pr,pr
 2022-05-16T09:52:42.080Z,19.2071,-64.6545,53,3.62,md,9,326,1.0971,0.13,pr,pr2022136000,2022-05-17T06:09:12.040Z,"98 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.42,6.21,0.04,5,reviewed,pr,pr
 2022-05-16T09:49:32.489Z,58.7431,-137.2314,3.4,2.7,ml,,,,0.68,ak,ak022692qo97,2022-05-17T06:03:34.040Z,"80 km NW of Elfin Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-05-16T09:41:40.260Z,54.5583333333333,-163.3145,11.67,1.31,ml,7,212,,0.15,av,av91058758,2022-05-16T23:25:43.060Z,"33 km S of False Pass, Alaska",earthquake,0.79,0.87,0.178880957586501,7,reviewed,av,av
