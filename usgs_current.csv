@@ -26,13 +26,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T01:51:46.940Z,34.2313333,-117.6111667,9.73,0.85,ml,19,76,0.03995,0.16,ci,ci40020775,2022-05-17T01:55:24.886Z,"11km WSW of Lytle Creek, CA",earthquake,0.37,0.63,0.165,19,automatic,ci,ci
 2022-05-17T01:44:22.867Z,-56.497,177.6766,10,5.3,mww,,76,12.896,0.88,us,us6000hlnb,2022-05-17T02:12:29.040Z,"south of New Zealand",earthquake,11.8,1.9,0.093,11,reviewed,us,us
 2022-05-17T01:33:46.580Z,33.7891667,-116.94,10.89,1.29,ml,49,37,0.02988,0.2,ci,ci40020767,2022-05-17T01:44:58.490Z,"2km ENE of San Jacinto, CA",earthquake,0.22,0.37,0.165,25,automatic,ci,ci
-2022-05-17T01:21:23.250Z,33.6676667,-117.997,13.19,1.96,ml,49,105,0.04802,0.24,ci,ci40020751,2022-05-17T02:45:40.718Z,"3km S of Huntington Beach, CA",earthquake,0.55,0.69,0.126,26,automatic,ci,ci
+2022-05-17T01:21:23.250Z,33.6676667,-117.997,13.19,1.96,ml,49,105,0.04802,0.24,ci,ci40020751,2022-05-17T04:41:57.173Z,"3km S of Huntington Beach, CA",earthquake,0.55,0.69,0.126,26,automatic,ci,ci
 2022-05-17T01:14:29.680Z,20.9218333333333,-155.163166666667,0.64,2.8,md,55,252,,0.16,hv,hv73014722,2022-05-17T02:58:59.170Z,"87 km ENE of Hana, Hawaii",earthquake,2.28,0.61,0.148454038354239,19,reviewed,hv,hv
 2022-05-17T01:06:25.930Z,33.3975,-116.3601667,5.1,0.63,ml,15,97,0.05493,0.23,ci,ci40020743,2022-05-17T01:10:05.819Z,"16km N of Borrego Springs, CA",earthquake,0.47,1.68,0.162,13,automatic,ci,ci
 2022-05-17T00:58:02.690Z,34.0108333,-116.4486667,7.25,0.92,ml,31,88,0.07603,0.2,ci,ci40020735,2022-05-17T01:01:43.292Z,"7km NE of Desert Hot Springs, CA",earthquake,0.29,0.81,0.128,22,automatic,ci,ci
 2022-05-17T00:36:30.985Z,61.758,-149.7008,46.8,1,ml,,,,0.56,ak,ak0226akubtm,2022-05-17T00:38:41.389Z,"15 km NNE of Houston, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-17T00:28:47.917Z,62.4842,-150.5054,18,1.4,ml,,,,0.78,ak,ak0226aksnf0,2022-05-17T00:38:40.537Z,"13 km E of Petersville, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-05-17T00:28:02.170Z,38.3698349,-88.9551697,15.37,2.29,md,15,86,0.4446,0.17,nm,nm60394806,2022-05-17T04:27:46.565Z,"7 km NW of Mount Vernon, Illinois",earthquake,0.37,1.4,0.14,14,reviewed,nm,nm
+2022-05-17T00:28:02.170Z,38.3698349,-88.9551697,15.37,2.29,md,15,86,0.4446,0.17,nm,nm60394806,2022-05-17T04:58:45.856Z,"7 km NW of Mount Vernon, Illinois",earthquake,0.37,1.4,0.14,14,reviewed,nm,nm
 2022-05-17T00:16:14.180Z,35.6845,-117.4103333,4.15,1.5,ml,17,109,0.1065,0.19,ci,ci40020727,2022-05-17T00:26:33.550Z,"9km S of Searles Valley, CA",earthquake,0.45,1.19,0.171,19,automatic,ci,ci
 2022-05-16T23:37:18.770Z,36.449,-115.7505,7.3,0.9,ml,22,109.73,0.193,0.1736,nn,nn00839008,2022-05-17T02:38:48.824Z,"15 km SSW of Indian Springs, Nevada",earthquake,,2.9,0.73,14,reviewed,nn,nn
 2022-05-16T23:28:18.140Z,34.0101667,-116.455,8.56,0.85,ml,12,91,0.07925,0.14,ci,ci40020703,2022-05-16T23:31:58.606Z,"7km NE of Desert Hot Springs, CA",earthquake,0.33,0.76,0.161,15,automatic,ci,ci
@@ -232,7 +232,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T06:20:09.770Z,34.0075,-116.447,7.89,0.94,ml,37,87,0.07384,0.11,ci,ci40019935,2022-05-16T20:11:26.481Z,"7km NE of Desert Hot Springs, CA",earthquake,0.14,0.34,0.168,12,reviewed,ci,ci
 2022-05-16T06:19:59.930Z,34.0041667,-116.4483333,7.06,0.72,ml,7,114,0.07136,0.08,ci,ci37499109,2022-05-16T20:11:26.350Z,"7km NE of Desert Hot Springs, CA",earthquake,0.26,0.46,0.156,4,reviewed,ci,ci
 2022-05-16T06:19:54.580Z,36.2013333,-118.193,4.45,1.74,ml,30,68,0.2122,0.15,ci,ci40019927,2022-05-16T19:52:31.670Z,"19km WSW of Olancha, CA",earthquake,0.15,1.13,0.12,11,reviewed,ci,ci
-2022-05-16T06:16:50.290Z,34.0078333,-116.4448333,8.25,3.76,mw,115,21,0.07131,0.15,ci,ci40019919,2022-05-17T04:20:47.872Z,"7km NE of Desert Hot Springs, CA",earthquake,0.09,0.29,,6,reviewed,ci,ci
+2022-05-16T06:16:50.290Z,34.0078333,-116.4448333,8.25,3.76,mw,115,21,0.07131,0.15,ci,ci40019919,2022-05-17T04:46:56.088Z,"7km NE of Desert Hot Springs, CA",earthquake,0.09,0.29,,6,reviewed,ci,ci
 2022-05-16T06:04:20.240Z,38.8339996,-122.8199997,1.4,0.85,md,14,61,0.01293,0.02,nc,nc73734356,2022-05-16T07:54:10.494Z,"8km NW of The Geysers, CA",earthquake,0.29,0.78,,1,automatic,nc,nc
 2022-05-16T05:48:41.779Z,58.6884,-137.5389,4.4,3.4,ml,,,,0.74,ak,ak022690cqso,2022-05-16T19:01:41.610Z,"88 km NW of Elfin Cove, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-05-16T05:36:03.750Z,33.4823333,-116.4545,12.26,1.66,ml,45,66,0.0475,0.21,ci,ci40019911,2022-05-16T19:44:24.820Z,"22km ESE of Anza, CA",earthquake,0.23,0.53,0.122,23,reviewed,ci,ci
@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T05:14:14.830Z,47.91683333333334,-122.63216666666666,20.98,1.8,ml,29,49,0.04327,0.2,uw,uw61831742,2022-05-16T20:36:01.480Z,"3 km ESE of Port Ludlow, Washington",earthquake,0.4,0.54,0.15429281294191843,9,reviewed,uw,uw
 2022-05-16T05:10:58.610Z,60.0215,-153.0625,-0.7,-1.16,ml,4,133,,0.05,av,av91562681,2022-05-17T03:40:17.440Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.23,2.79,0.186174009037014,4,reviewed,av,av
 2022-05-16T05:07:24.520Z,47.92633333333333,-122.6505,21.4,0.81,ml,14,61,0.05776,0.19,uw,uw61831737,2022-05-16T22:09:35.920Z,"2 km E of Port Ludlow, Washington",earthquake,0.6,0.8,0.08403821247832982,3,reviewed,uw,uw
-2022-05-16T05:00:35.078Z,61.9762,-151.8463,102.3,1.6,ml,,,,0.64,ak,ak0226902fv8,2022-05-16T05:08:06.455Z,"23 km W of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
