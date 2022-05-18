@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-18T21:39:00.422Z,63.1317,-147.1483,0,2.1,ml,,,,1.43,ak,ak0226ckwcsi,2022-05-18T21:43:30.742Z,"77 km W of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-18T21:38:41.118Z,63.5336,-149.6674,0,2.5,ml,,,,1.07,ak,ak0226ckw86m,2022-05-18T21:43:31.539Z,"39 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-18T21:39:00.422Z,63.1317,-147.1483,0,2.1,ml,,,,1.43,ak,ak0226ckwcsi,2022-05-18T21:46:57.728Z,"77 km W of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-18T21:38:41.153Z,63.5367,-149.6545,0,2.5,ml,,,,1.1,ak,ak0226ckw86m,2022-05-18T21:50:08.078Z,"38 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-18T21:37:06.650Z,33.6373333,-116.7283333,13.75,0.53,ml,20,76,0.05278,0.23,ci,ci40021975,2022-05-18T21:40:41.519Z,"10km NNW of Anza, CA",earthquake,0.55,0.93,0.125,12,automatic,ci,ci
 2022-05-18T21:31:26.960Z,35.9376667,-117.6711667,4.84,0.58,ml,11,65,0.01972,0.1,ci,ci40021967,2022-05-18T21:35:00.011Z,"21km E of Little Lake, CA",earthquake,0.38,0.63,0.207,6,automatic,ci,ci
 2022-05-18T21:16:51.840Z,38.8393326,-122.8746643,2.16,0.28,md,12,82,0.006953,0.02,nc,nc73735441,2022-05-18T21:28:10.255Z,"12km NW of The Geysers, CA",earthquake,0.31,0.64,0.12,2,automatic,nc,nc
@@ -170,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T04:14:33.340Z,43.8243333,-114.5706667,5.59,1.8,ml,10,91,0.285,0.2,mb,mb80546259,2022-05-18T14:14:32.040Z,"22 km NW of Sun Valley, Idaho",earthquake,0.65,3.37,0.09,10,reviewed,mb,mb
 2022-05-18T03:57:05.720Z,33.8485,-117.6506667,10.67,1.43,ml,58,41,0.0529,0.15,ci,ci40021599,2022-05-18T14:36:27.120Z,"8km WSW of Corona, CA",earthquake,0.15,0.26,0.155,39,reviewed,ci,ci
 2022-05-18T03:52:25.208Z,33.3383,141.3833,12.97,5.6,mww,,67,1.334,0.81,us,us6000hlxg,2022-05-18T05:58:44.693Z,"223 km SSE of Katsuura, Japan",earthquake,7.8,3.9,0.06,27,reviewed,us,us
-2022-05-18T03:25:43.900Z,11.8246,143.361,10,5.2,mww,,52,2.289,0.72,us,us6000hlxe,2022-05-18T21:42:09.769Z,"213 km SW of Merizo Village, Guam",earthquake,9.2,1.8,0.078,16,reviewed,us,us
+2022-05-18T03:25:43.900Z,11.8246,143.361,10,5.2,mww,,52,2.289,0.72,us,us6000hlxe,2022-05-18T21:44:51.336Z,"213 km SW of Merizo Village, Guam",earthquake,9.2,1.8,0.078,16,reviewed,us,us
 2022-05-18T03:24:46.310Z,35.949,-96.85833333,7.48,1.2,ml,70,32,0.06298763968,0.23,ok,ok2022jqor,2022-05-18T12:30:16.433Z,"6 km NNE of Agra, Oklahoma",earthquake,,0.5,0.23,30,reviewed,ok,ok
 2022-05-18T03:21:04.340Z,43.683166666666665,-121.202,1.67,0.47000000000000003,ml,5,325,0.04494,0.15,uw,uw61841156,2022-05-18T18:47:11.290Z,"24 km E of La Pine, Oregon",earthquake,1.95,14.42,0.1920990860991027,3,reviewed,uw,uw
 2022-05-18T03:18:33.250Z,33.2053333,-116.0393333,9.65,1.11,ml,33,62,0.06063,0.19,ci,ci40021591,2022-05-18T14:17:20.619Z,"11km NE of Ocotillo Wells, CA",earthquake,0.26,0.58,0.086,15,reviewed,ci,ci
@@ -225,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T22:06:29.130Z,63.1304,-150.7334,103.7,1.4,ml,,,,2.93,ak,ak0226axrfp6,2022-05-17T22:16:40.974Z,"67 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-05-17T22:02:50.240Z,38.8349991,-122.8198318,2.07,0.36,md,10,114,0.01274,0.01,nc,nc73735141,2022-05-18T00:25:10.774Z,"8km NW of The Geysers, CA",earthquake,0.41,1.28,,1,automatic,nc,nc
 2022-05-17T21:56:46.090Z,44.4463333,-110.986,5.42,0.77,ml,8,124,0.1077,0.3,uu,uu60498437,2022-05-17T22:08:16.010Z,"25 km SSE of West Yellowstone, Montana",earthquake,1.77,11.5,0.273,2,reviewed,uu,uu
-2022-05-17T21:49:00.420Z,62.1345,-148.241,23.4,1.6,ml,,,,0.89,ak,ak0226axf5gq,2022-05-17T21:52:48.863Z,"39 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-17T21:46:19.290Z,18.0165,-66.7505,14.39,1.88,md,9,173,,0.09,pr,pr71349183,2022-05-17T22:28:32.470Z,"1 km E of Magas Arriba, Puerto Rico",earthquake,0.43,1.14,0.28815372800695,8,reviewed,pr,pr
