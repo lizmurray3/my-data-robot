@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-19T09:23:51.580Z,-16.2914,-173.8381,113,5.8,mww,,72,3.09,0.75,us,us6000hm95,2022-05-19T09:46:08.040Z,"37 km S of Hihifo, Tonga",earthquake,9.5,5.9,0.078,16,reviewed,us,us
+2022-05-19T09:23:51.580Z,-16.2914,-173.8381,113,5.8,mww,,72,3.09,0.75,us,us6000hm95,2022-05-19T09:50:30.300Z,"37 km S of Hihifo, Tonga",earthquake,9.5,5.9,0.078,16,reviewed,us,us
 2022-05-19T09:20:15.354Z,65.8586,-156.2862,4.6,1.1,ml,,,,0.53,ak,ak0226e16glb,2022-05-19T09:39:02.575Z,"18 km NNE of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-19T08:49:04.470Z,17.9935,-66.9528333333333,13.64,1.89,md,7,151,,0.06,pr,pr71349388,2022-05-19T09:14:44.460Z,"3 km W of Fuig, Puerto Rico",earthquake,0.57,0.49,0.0968683515368089,6,reviewed,pr,pr
 2022-05-19T08:45:08.031Z,60.4423,-152.2044,29.4,0.9,ml,,,,0.89,ak,ak0226e0qdbn,2022-05-19T08:46:57.579Z,"50 km W of Cohoe, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -205,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T11:30:29.020Z,38.824501,-122.8071671,1.84,0.84,md,10,78,0.002525,0.03,nc,nc73735276,2022-05-18T13:39:11.550Z,"7km NW of The Geysers, CA",earthquake,0.33,1.79,,1,automatic,nc,nc
 2022-05-18T11:27:07.551Z,-17.9676,-69.8301,138.56,4.7,mb,,80,0.477,0.82,us,us6000hlz1,2022-05-18T11:58:31.900Z,"25 km SSE of Palca, Peru",earthquake,5.2,4.9,0.084,47,reviewed,us,us
 2022-05-18T11:24:59.575Z,38.5205,-119.5286,6,1.1,ml,12,76.53,0.066,0.1085,nn,nn00839094,2022-05-18T22:19:40.514Z,"4 km W of Walker, California",earthquake,,1.1,0.12,6,reviewed,nn,nn
-2022-05-18T10:58:37.200Z,35.689,-81.0386667,0.08,1.99,md,15,60,0.2166,0.38,se,se60150843,2022-05-19T09:03:38.964Z,"3 km ESE of Catawba, North Carolina",earthquake,0.69,4.11,0.112,13,reviewed,se,se
+2022-05-18T10:58:37.200Z,35.689,-81.0386667,0.08,1.99,md,15,60,0.2166,0.38,se,se60150843,2022-05-19T09:54:41.384Z,"3 km ESE of Catawba, North Carolina",earthquake,0.69,4.11,0.112,13,reviewed,se,se
 2022-05-18T10:53:54.220Z,58.4211666666667,-154.915,4.19,0.01,ml,9,91,,0.18,av,av91565451,2022-05-19T01:10:27.210Z,"98 km NNW of Karluk, Alaska",earthquake,0.38,1.41,0.255152465738743,9,reviewed,av,av
 2022-05-18T10:52:01.141Z,-6.0616,150.8764,36.93,4.7,mb,,130,2.257,0.49,us,us6000hlyx,2022-05-18T11:21:38.040Z,"99 km SE of Kimbe, Papua New Guinea",earthquake,13.3,7.5,0.085,46,reviewed,us,us
 2022-05-18T10:39:09.880Z,44.4493333,-110.993,12.18,1.45,ml,17,126,0.1126,0.23,uu,uu60498522,2022-05-18T13:21:28.650Z,"25 km SSE of West Yellowstone, Montana",earthquake,0.63,1.7,0.259,3,reviewed,uu,uu
@@ -220,8 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T10:14:54.080Z,19.1696666666667,-155.470333333333,32.2,3.06,ml,44,81,,0.11,hv,hv73016007,2022-05-18T19:09:44.692Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.54,0.64,0.202963388596173,41,reviewed,hv,hv
 2022-05-18T10:01:15.380Z,46.893,-112.5075,14.89,1,ml,15,72,0.048,0.16,mb,mb80546289,2022-05-18T13:44:41.520Z,"14 km ESE of Lincoln, Montana",earthquake,0.49,0.45,0.196,5,reviewed,mb,mb
 2022-05-18T09:59:17.810Z,45.4618333,-112.2183333,5.95,0.82,ml,10,99,0.261,0.13,mb,mb80546304,2022-05-18T15:05:09.090Z,"1 km WNW of Sheridan, Montana",earthquake,0.3,8.06,0.185,8,reviewed,mb,mb
-2022-05-18T09:55:03.230Z,44.4426667,-110.9866667,12.24,0.81,ml,14,124,0.1084,0.24,uu,uu60498502,2022-05-18T16:05:21.500Z,"26 km SSE of West Yellowstone, Montana",earthquake,1.13,2.61,0.315,3,reviewed,uu,uu
-2022-05-18T09:54:29.570Z,61.8311,-148.5108,19.8,0.6,ml,,,,0.45,ak,ak0226cdufju,2022-05-18T09:58:37.313Z,"4 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-18T09:52:11.240Z,44.4411667,-110.9943333,11.98,1.09,ml,18,127,0.114,0.22,uu,uu60498492,2022-05-18T15:45:14.080Z,"26 km SSE of West Yellowstone, Montana",earthquake,0.7,0.62,0.271,3,reviewed,uu,uu
-2022-05-18T09:48:29.790Z,44.4476667,-110.9898333,8.53,0.88,ml,12,125,0.1104,0.29,uu,uu60498487,2022-05-18T15:26:07.230Z,"25 km SSE of West Yellowstone, Montana",earthquake,0.97,3.83,0.275,2,reviewed,uu,uu
-2022-05-18T09:46:26.390Z,44.4453333,-110.9925,12.08,1.46,ml,17,126,0.1124,0.22,uu,uu60498482,2022-05-18T13:47:19.690Z,"25 km SSE of West Yellowstone, Montana",earthquake,0.54,1.51,0.107,3,reviewed,uu,uu
