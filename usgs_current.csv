@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-23T10:32:50.370Z,34.4143333,-119.4161667,11.6,2.69,ml,46,87,0.07684,0.26,ci,ci40024535,2022-05-23T10:37:11.115Z,"10km E of Carpinteria, CA",earthquake,0.37,0.66,0.138,26,automatic,ci,ci
+2022-05-23T10:45:32.507Z,60.3004,-150.7595,35.6,2.1,ml,,,,0.53,ak,ak0226ko2odj,2022-05-23T10:49:07.570Z,"22 km S of Funny River, Alaska",earthquake,,7.1,,,automatic,ak,ak
+2022-05-23T10:32:50.370Z,34.4143333,-119.4161667,11.6,2.69,ml,46,87,0.07684,0.26,ci,ci40024535,2022-05-23T10:47:34.229Z,"10km E of Carpinteria, CA",earthquake,0.37,0.66,0.138,26,automatic,ci,ci
 2022-05-23T10:28:27.460Z,33.681,-116.7398333,18.95,1.4,ml,14,147,0.03692,0.18,ci,ci40024527,2022-05-23T10:32:01.929Z,"7km SSW of Idyllwild, CA",earthquake,1.14,0.66,0.445,5,automatic,ci,ci
 2022-05-23T10:26:23.167Z,60.1149,-153.5204,158.4,1.1,ml,,,,1.09,ak,ak0226knyl4k,2022-05-23T10:32:46.471Z,"45 km ESE of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-23T10:21:40.370Z,35.2516667,-118.5826667,9.4,1.2,ml,16,67,0.08926,0.2,ci,ci40024519,2022-05-23T10:25:13.790Z,"18km NW of Tehachapi, CA",earthquake,0.47,1.05,0.213,16,automatic,ci,ci
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T09:07:42.750Z,37.6378333,-119.0183333,-0.1,-0.02,md,9,85,0.001123,0.01,nc,nc73736991,2022-05-23T09:38:44.677Z,"4km W of Mammoth Lakes, CA",earthquake,0.37,0.51,0.32,9,reviewed,nc,nc
 2022-05-23T08:39:23.047Z,57.933,-155.9098,8.6,1.4,ml,,,,0.31,ak,ak0226kmui5w,2022-05-23T09:00:32.617Z,"92 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-23T08:38:07.593Z,63.306,-151.7728,0,1.5,ml,,,,1.12,ak,ak0226kmu99n,2022-05-23T08:55:24.297Z,"26 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-23T08:12:21.000Z,38.7953339,-122.7898331,0.48,1.17,md,16,90,0.002621,0.03,nc,nc73736981,2022-05-23T10:37:12.248Z,"4km NW of The Geysers, CA",earthquake,0.19,0.37,,1,automatic,nc,nc
+2022-05-23T08:12:21.000Z,38.7953339,-122.7898331,0.48,1.17,md,16,90,0.002621,0.03,nc,nc73736981,2022-05-23T10:42:11.453Z,"4km NW of The Geysers, CA",earthquake,0.19,0.37,,1,automatic,nc,nc
 2022-05-23T07:59:36.514Z,61.8711,-149.5357,26.5,1.1,ml,,,,0.23,ak,ak0226kmddwz,2022-05-23T08:01:34.962Z,"21 km NW of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-23T07:51:31.351Z,-23.2651,-179.5803,571.81,4.3,mb,,127,5.923,0.43,us,us6000hn86,2022-05-23T08:09:58.040Z,"south of the Fiji Islands",earthquake,13.8,10.9,0.111,23,reviewed,us,us
 2022-05-23T07:36:46.791Z,28.9649,59.9224,10,5.3,mww,,44,5.199,0.61,us,us6000hn84,2022-05-23T07:55:12.040Z,"103 km S of Noşratābād, Iran",earthquake,8.2,1.8,0.098,10,reviewed,us,us
@@ -203,8 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T11:06:59.509Z,62.9672,-149.161,19.6,1,ml,,,,0.68,ak,ak0226j0wfey,2022-05-22T20:52:48.537Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-05-22T11:01:54.673Z,31.68510555,-104.3966121,2.455322266,2.3,ml,10,67,0.09031694956,0.2,tx,tx2022jylt,2022-05-23T07:31:36.043Z,"54 km S of Whites City, New Mexico",earthquake,1.318645341,2.418404938,0.1,8,reviewed,tx,tx
 2022-05-22T11:01:15.030Z,19.3169994354248,-155.440338134766,5.65999984741211,1.78999996,md,35,114,,0.230000004,hv,hv73019797,2022-05-22T11:05:11.780Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.48,1.05999994,0.409999996,21,automatic,hv,hv
-2022-05-22T10:48:33.800Z,38.8030014,-122.8048325,1.37,0.68,md,15,50,0.008946,0.02,nc,nc73736571,2022-05-22T11:22:15.923Z,"5km NW of The Geysers, CA",earthquake,0.26,0.47,0.13,2,automatic,nc,nc
-2022-05-22T10:45:55.068Z,38.1631,-117.9,10.3,0.5,ml,8,166.94,0.053,0.0577,nn,nn00839331,2022-05-22T10:49:53.535Z,"31 km SE of Mina, Nevada",earthquake,,0.7,0.5,4,automatic,nn,nn
-2022-05-22T10:45:54.080Z,33.7001667,-117.5261667,5.87,0.63,ml,17,65,0.0727,0.14,ci,ci40024063,2022-05-22T16:19:12.109Z,"7km NE of Trabuco Canyon, CA",earthquake,0.22,0.66,0.169,6,reviewed,ci,ci
-2022-05-22T10:43:14.416Z,36.6135,-116.2812,6.7,0,ml,10,124.42,0.056,0.1042,nn,nn00839354,2022-05-22T19:22:20.978Z,"52 km NNW of Pahrump, Nevada",earthquake,,2.1,1.26,4,reviewed,nn,nn
-2022-05-22T10:42:05.865Z,65.8466,-150.7811,0,1.2,ml,,,,1.16,ak,ak0226j0imp8,2022-05-22T10:44:37.678Z,"47 km NW of Rampart, Alaska",earthquake,,0.7,,,automatic,ak,ak
