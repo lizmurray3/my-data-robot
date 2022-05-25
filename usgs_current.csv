@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-25T19:33:18.020Z,38.8378334,-122.7990036,2,0.85,md,6,122,0.006787,0.01,nc,nc73737856,2022-05-25T19:34:54.397Z,"7km WNW of Cobb, CA",earthquake,0.52,1.67,,1,automatic,nc,nc
+2022-05-25T19:27:26.380Z,19.4645004272461,-155.481338500977,4.25,2.05,ml,40,68,,0.180000007,hv,hv73023067,2022-05-25T19:32:56.920Z,"26 km W of Volcano, Hawaii",earthquake,0.38,1.19000006,3.49,14,automatic,hv,hv
 2022-05-25T19:10:10.162Z,38.5978,-118.1769,0,0.9,ml,8,137.24,0.176,0.2517,nn,nn00839598,2022-05-25T19:13:44.392Z,"23 km NNW of Mina, Nevada",earthquake,,9.3,0.31,5,automatic,nn,nn
-2022-05-25T18:58:38.675Z,11.5716,-86.9089,41.98,5,mb,,132,0.864,0.7,us,us7000hchh,2022-05-25T19:25:48.422Z,"49 km WSW of Masachapa, Nicaragua",earthquake,3.8,6.2,0.025,521,reviewed,us,us
+2022-05-25T18:58:38.675Z,11.5716,-86.9089,41.98,5,mb,,132,0.864,0.7,us,us7000hchh,2022-05-25T19:31:34.764Z,"49 km WSW of Masachapa, Nicaragua",earthquake,3.8,6.2,0.025,521,reviewed,us,us
 2022-05-25T18:51:29.510Z,33.6728333,-116.7656667,11.4,0.94,ml,36,48,0.05749,0.17,ci,ci40026551,2022-05-25T18:55:05.447Z,"9km SSW of Idyllwild, CA",earthquake,0.3,0.45,0.133,24,automatic,ci,ci
 2022-05-25T18:48:49.503Z,9.2622,-83.9349,6.31,4.3,mb,,149,0.481,0.78,us,us7000hchg,2022-05-25T19:13:22.040Z,"28 km WSW of San Isidro, Costa Rica",earthquake,2.5,6.9,0.306,3,reviewed,us,us
-2022-05-25T18:48:22.266Z,40.1119,-119.484,0,2,ml,13,188.59,0.408,0.2499,nn,nn00839594,2022-05-25T18:51:51.033Z,"20 km NNE of Sutcliffe, Nevada",earthquake,,5.6,0.31,11,automatic,nn,nn
-2022-05-25T18:44:55.035Z,40.1048,-119.4865,7,2.3,ml,17,149.31,0.199,0.3053,nn,nn00839590,2022-05-25T18:48:25.061Z,"19 km NNE of Sutcliffe, Nevada",earthquake,,0.7,0.25,14,automatic,nn,nn
+2022-05-25T18:48:23.658Z,40.0952,-119.4782,11.6,2,ml,12,147.05,0.208,0.1799,nn,nn00839594,2022-05-25T19:36:45.703Z,"19 km NNE of Sutcliffe, Nevada",earthquake,,2,0.12,9,reviewed,nn,nn
+2022-05-25T18:44:55.576Z,40.0958,-119.4653,6,2.2,ml,16,148.1,0.217,0.1334,nn,nn00839590,2022-05-25T19:30:26.812Z,"19 km NE of Sutcliffe, Nevada",earthquake,,2.5,0.21,9,reviewed,nn,nn
 2022-05-25T18:43:10.991Z,40.0958,-119.4697,11.2,1.4,ml,10,147.79,0.214,0.1627,nn,nn00839588,2022-05-25T19:11:43.380Z,"19 km NE of Sutcliffe, Nevada",earthquake,,2.4,0.16,8,reviewed,nn,nn
+2022-05-25T18:40:52.960Z,19.3348333333333,-155.181833333333,6.39,1.88,md,22,84,,0.06,hv,hv73023032,2022-05-25T19:29:51.000Z,"13 km SSE of Volcano, Hawaii",earthquake,0.36,0.68,0.0904796769228351,8,reviewed,hv,hv
 2022-05-25T18:40:34.835Z,62.1177,-148.3573,29.7,1.4,ml,,,,0.47,ak,ak0226o3vru1,2022-05-25T19:07:23.323Z,"36 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-25T18:27:05.580Z,19.193000793457,-155.386505126953,30.8600006103516,2.19,ml,39,163,,0.119999997,hv,hv73023022,2022-05-25T18:32:36.820Z,"9 km E of Pāhala, Hawaii",earthquake,0.65,0.889999986,5.33,3,automatic,hv,hv
 2022-05-25T18:22:28.690Z,35.7495,-117.553,8.53,1.37,ml,17,166,0.07536,0.18,ci,ci40026535,2022-05-25T18:33:20.610Z,"14km W of Searles Valley, CA",earthquake,0.56,0.98,0.188,17,automatic,ci,ci
@@ -81,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T10:43:14.101Z,60.9086,-150.3922,48.6,1.7,ml,,,,0.76,ak,ak0226nz4wj7,2022-05-25T11:04:04.771Z,"16 km E of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-25T10:43:01.780Z,36.529335,-120.981163,13.52,1.73,md,18,126,0.06795,0.14,nc,nc73737731,2022-05-25T13:01:11.289Z,"14km E of Pinnacles, CA",earthquake,0.44,0.85,0.35,7,automatic,nc,nc
 2022-05-25T10:38:54.189Z,40.0984,-119.4617,7.5,2.2,ml,13,149.04,0.219,0.0995,nn,nn00839562,2022-05-25T17:59:23.902Z,"Nevada",earthquake,,3.4,0.32,9,reviewed,nn,nn
-2022-05-25T10:38:07.410Z,45.17616666666667,-122.622,24.06,2.65,ml,14,85,0.1058,0.08,uw,uw61835187,2022-05-25T18:57:36.717Z,"4 km NW of Molalla, Oregon",earthquake,0.31,0.67,0.14363226193386502,7,reviewed,uw,uw
+2022-05-25T10:38:07.410Z,45.17616666666667,-122.622,24.06,2.65,ml,14,85,0.1058,0.08,uw,uw61835187,2022-05-25T19:31:49.812Z,"4 km NW of Molalla, Oregon",earthquake,0.31,0.67,0.14363226193386502,7,reviewed,uw,uw
 2022-05-25T10:36:13.404Z,30.94182124,-103.4194888,3.535058594,2.1,ml,13,83,0.0843799206,0.2,tx,tx2022kdxl,2022-05-25T17:19:30.305Z,"31 km E of Balmorhea, Texas",earthquake,1.175701093,1.626170784,0.1,7,reviewed,tx,tx
 2022-05-25T10:18:42.353Z,40.0905,-119.458,10.1,1,ml,6,240.4,0.224,0.1677,nn,nn00839561,2022-05-25T16:07:21.336Z,"19 km NE of Sutcliffe, Nevada",earthquake,,3.1,0.35,4,reviewed,nn,nn
 2022-05-25T10:11:42.861Z,55.0571,-159.4977,6.34,3.1,ml,,138,0.232,0.68,us,us7000hce7,2022-05-25T10:40:13.040Z,"70 km ESE of Sand Point, Alaska",earthquake,4.2,8.9,0.06,36,reviewed,us,us
