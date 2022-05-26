@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-26T05:41:17.950Z,38.8256683,-122.7516632,0.89,0.86,md,11,149,0.01504,0.03,nc,nc73738061,2022-05-26T05:42:56.123Z,"2km W of Cobb, CA",earthquake,0.35,0.7,0.32,2,automatic,nc,nc
+2022-05-26T05:41:17.950Z,38.8256683,-122.7516632,0.89,0.86,md,11,149,0.01504,0.03,nc,nc73738061,2022-05-26T05:50:11.322Z,"2km W of Cobb, CA",earthquake,0.35,0.7,0.32,2,automatic,nc,nc
 2022-05-26T05:37:44.956Z,58.2759,-155.0045,1.2,0.2,ml,,,,0.4,ak,ak0226pjnv33,2022-05-26T05:39:10.927Z,"85 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-05-26T05:23:47.670Z,33.475666,-116.4481659,12.33,2.12,ml,88,30,0.05118,0.21,ci,ci40026983,2022-05-26T05:34:50.710Z,"23km ESE of Anza, CA",earthquake,0.19,0.48,0.28,24,automatic,ci,ci
 2022-05-26T05:14:42.828Z,60.9119,-149.097,13.6,1.2,ml,,,,0.32,ak,ak0226pjixgs,2022-05-26T05:18:27.041Z,"5 km SE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -320,7 +320,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T06:00:13.160Z,33.071,-115.5851667,10.06,1.1,ml,29,75,0.03276,0.25,ci,ci40025919,2022-05-25T16:02:32.428Z,"5km NE of Westmorland, CA",earthquake,0.35,0.58,0.118,10,reviewed,ci,ci
 2022-05-25T05:57:17.630Z,38.7721667,-122.7388333,0.56,-0.06,md,13,74,0.01118,0.03,nc,nc73737671,2022-05-25T16:47:52.699Z,"2km ESE of The Geysers, CA",earthquake,0.25,0.39,0.106,2,reviewed,nc,nc
 2022-05-25T05:55:25.140Z,19.2386665344238,-155.399826049805,32.9000015258789,2.24000001,md,39,137,,0.119999997,hv,hv73022592,2022-05-25T06:04:55.142Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.779999971,0.670000017,16,automatic,hv,hv
-2022-05-25T05:52:06.840Z,53.8496666666667,-166.637666666667,8.65,0.05,ml,6,156,,0.07,av,av91060063,2022-05-25T21:02:11.200Z,"7 km WSW of Unalaska, Alaska",earthquake,0.38,0.65,0.364517674746488,6,reviewed,av,av
-2022-05-25T05:52:06.840Z,53.8501666666667,-166.638,8.69,0.05,ml,6,156,,0.06,av,av91060068,2022-05-25T22:18:24.700Z,"7 km WSW of Unalaska, Alaska",earthquake,0.35,0.63,0.364517674746488,6,reviewed,av,av
-2022-05-25T05:48:55.315Z,57.9016,-154.443,44.5,0.6,ml,,,,0.24,ak,ak0226nw6w9m,2022-05-25T06:04:15.191Z,"37 km N of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-05-25T05:47:53.200Z,19.41233253479,-155.255004882812,5.05999994277954,1.78999996,md,9,100,,0.129999995,hv,hv73022582,2022-05-25T05:50:50.080Z,"4 km SSW of Volcano, Hawaii",earthquake,0.81,0.949999988,1.05999994,5,automatic,hv,hv
