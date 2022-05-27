@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-27T08:00:01.750Z,38.8431664,-122.8280029,1.83,0.86,md,10,112,0.00742,0.02,nc,nc73738536,2022-05-27T08:01:37.825Z,"9km WNW of Cobb, CA",earthquake,0.37,0.98,,1,automatic,nc,nc
 2022-05-27T07:22:53.406Z,61.7575,-148.1953,14.8,1.2,ml,,,,1.05,ak,ak0226r8avpc,2022-05-27T07:35:37.992Z,"14 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-27T07:19:01.056Z,61.7001,-148.1288,0,2.5,ml,,,,0.96,ak,ak0226r8a1cf,2022-05-27T07:22:02.192Z,"20 km ESE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-27T06:58:54.380Z,37.6365013,-118.8748322,6.35,0.84,md,11,108,0.01916,0.02,nc,nc73738531,2022-05-27T07:49:15.343Z,"9km E of Mammoth Lakes, CA",earthquake,1.2,1.44,0.16,13,automatic,nc,nc
@@ -276,9 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T08:16:18.840Z,35.7605,-117.561,6.47,0.74,ml,16,155,0.06261,0.13,ci,ci40027095,2022-05-26T18:06:42.496Z,"14km W of Searles Valley, CA",earthquake,0.29,0.56,0.22,9,reviewed,ci,ci
 2022-05-26T08:14:18.420Z,47.4558333,-113.9698333,15.84,-0.3,md,9,126,0.057,0.09,mb,mb80547094,2022-05-26T14:47:38.150Z,"7 km E of Kicking Horse, Montana",earthquake,0.35,0.57,0.052,4,reviewed,mb,mb
 2022-05-26T08:11:39.680Z,37.230999,-118.2900009,5.55,3.25,ml,26,114,0.005598,0.05,nc,nc73738116,2022-05-27T04:21:22.622Z,"7km N of Big Pine, CA",earthquake,0.65,0.58,0.323,30,automatic,nc,nc
-2022-05-26T08:06:21.560Z,46.822833333333335,-119.739,0.1,0.38,ml,7,147,0.09996,0.22,uw,uw61835717,2022-05-27T05:01:08.240Z,"11 km SW of Royal City, Washington",earthquake,0.44,20.39,0.007741467246284273,4,reviewed,uw,uw
-2022-05-26T08:05:16.730Z,34.6326667,-116.284,6.71,1.49,ml,29,58,0.1203,0.17,ci,ci40027079,2022-05-26T18:29:57.308Z,"15km SW of Ludlow, CA",earthquake,0.21,0.81,0.126,30,reviewed,ci,ci
-2022-05-26T08:01:23.950Z,37.5456667,-118.8021667,7.32,2.5,md,25,131,0.04919,0.03,nc,nc73738111,2022-05-27T00:35:11.602Z,"11km W of Toms Place, CA",earthquake,0.43,0.68,0.174,41,reviewed,nc,nc
-2022-05-26T07:59:36.510Z,35.9105,-117.6921667,3,0.21,ml,13,69,0.05043,0.06,ci,ci40027063,2022-05-26T17:49:27.918Z,"20km E of Little Lake, CA",earthquake,0.14,0.75,0.165,4,reviewed,ci,ci
-2022-05-26T07:58:09.950Z,33.9606667,-116.8248333,14.16,1.17,ml,54,38,0.05777,0.17,ci,ci40027055,2022-05-26T17:46:06.838Z,"6km NW of Cabazon, CA",earthquake,0.18,0.34,0.138,41,reviewed,ci,ci
-2022-05-26T07:54:01.530Z,38.8236667,-122.805,1.51,0.47,md,20,42,0.003973,0.02,nc,nc73738106,2022-05-27T01:43:16.015Z,"7km NW of The Geysers, CA",earthquake,0.25,0.35,0.042,3,reviewed,nc,nc
