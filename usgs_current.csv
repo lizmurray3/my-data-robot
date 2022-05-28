@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-28T10:25:49.480Z,33.6373333,-118.0076667,14.46,2.32,ml,71,110,0.07152,0.26,ci,ci40029079,2022-05-28T10:36:55.840Z,"6km S of Huntington Beach, CA",earthquake,0.43,0.6,0.202,27,automatic,ci,ci
 2022-05-28T10:01:05.970Z,19.2830009460449,-155.371673583984,30.3700008392334,1.98000002,md,45,124,,0.150000006,hv,hv73025637,2022-05-28T10:04:20.220Z,"14 km NE of Pāhala, Hawaii",earthquake,0.54,0.75,0.379999995,21,automatic,hv,hv
 2022-05-28T09:52:25.820Z,17.9871666666667,-66.9403333333333,12.68,2.18,md,9,159,,0.08,pr,pr71351118,2022-05-28T10:16:28.070Z,"2 km W of Fuig, Puerto Rico",earthquake,0.46,0.4,0.0344677196167473,5,reviewed,pr,pr
 2022-05-28T09:52:21.090Z,34.0111667,-116.6833333,9.31,1.17,ml,39,79,0.0401,0.16,ci,ci40029055,2022-05-28T09:56:27.201Z,"10km WSW of Morongo Valley, CA",earthquake,0.23,0.6,0.159,28,automatic,ci,ci
@@ -204,9 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T10:58:18.124Z,38.2533,-118.3491,0.9,0.7,ml,11,131.5,0.122,0.1388,nn,nn00839821,2022-05-27T11:02:36.617Z,"25 km SW of Mina, Nevada",earthquake,,7.7,0.18,6,automatic,nn,nn
 2022-05-27T10:57:33.410Z,35.6535,-117.554,6.82,0.76,ml,17,82,0.1003,0.12,ci,ci40028071,2022-05-27T17:50:46.515Z,"12km ENE of Ridgecrest, CA",earthquake,0.23,0.68,0.146,6,reviewed,ci,ci
 2022-05-27T10:39:55.840Z,37.976,-118.711,8.97,1.75,md,30,106,0.2832,0.07,nc,nc73738566,2022-05-27T22:26:12.675Z,"36km E of Lee Vining, CA",earthquake,0.27,1.9,0.157,21,reviewed,nc,nc
-2022-05-27T10:36:27.124Z,60.3469,-153.1254,25.2,0.3,ml,,,,0.97,ak,ak0226ra64ig,2022-05-27T10:54:44.093Z,"67 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-27T10:29:41.650Z,37.5346667,-118.8246667,5.74,0.93,md,14,180,0.05538,0.04,nc,nc73738561,2022-05-28T03:00:10.015Z,"13km WSW of Toms Place, CA",earthquake,0.36,0.85,0.11,12,reviewed,nc,nc
-2022-05-27T10:29:25.139Z,61.7536,-148.2062,15.6,1.1,ml,,,,0.34,ak,ak0226ra4mch,2022-05-27T10:43:56.313Z,"14 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-27T10:26:59.310Z,38.5243333,-122.301,6.7,2.31,md,89,103,0.06106,0.19,nc,nc73738556,2022-05-28T00:50:11.336Z,"14km ESE of Angwin, CA",earthquake,0.24,0.62,0.095,65,reviewed,nc,nc
-2022-05-27T10:22:16.320Z,36.41633333,-96.885,7.37,0.66,ml,40,62,0.03869240723,0.21,ok,ok2022khny,2022-05-27T12:29:57.016Z,"11 km NW of Pawnee, Oklahoma",earthquake,,0.3,0.23,12,reviewed,ok,ok
-2022-05-27T10:21:35.530Z,17.9743333333333,-66.9811666666667,8.94,2.06,md,6,177,,0.09,pr,pr71350993,2022-05-27T15:35:22.490Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.53,1.08,0.0545135240336005,3,reviewed,pr,pr
