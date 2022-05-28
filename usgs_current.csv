@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-28T04:50:26.490Z,33.1571655,-116.5556641,14.73,1.32,ml,54,52,0.08372,0.2,ci,ci40028895,2022-05-28T04:52:32.120Z,"10km NNE of Julian, CA",earthquake,0.23,0.49,0.193,7,automatic,ci,ci
+2022-05-28T04:31:47.524Z,60.2392,-152.4855,85.6,0.9,ml,,,,0.22,ak,ak0226su3udc,2022-05-28T04:33:17.354Z,"50 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-05-28T04:26:48.680Z,33.4693333,-116.4286667,5.52,0.72,ml,23,79,0.05398,0.18,ci,ci40028879,2022-05-28T04:30:22.296Z,"24km SSW of La Quinta, CA",earthquake,0.27,1.12,0.145,23,automatic,ci,ci
 2022-05-28T04:26:42.680Z,19.1666660308838,-155.475006103516,30.9699993133545,1.99000001,md,41,158,,0.129999995,hv,hv73025337,2022-05-28T04:29:52.130Z,"4 km S of Pāhala, Hawaii",earthquake,0.54,0.74000001,0.99000001,12,automatic,hv,hv
 2022-05-28T04:12:06.810Z,34.451,-117.8761667,8.9,0.73,ml,12,64,0.02646,0.25,ci,ci40028863,2022-05-28T04:15:39.335Z,"7km SSE of Pearblossom, CA",earthquake,0.6,0.85,0.205,10,automatic,ci,ci
@@ -12,8 +14,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T03:08:13.189Z,38.2876,-118.4968,4.5,0.8,ml,9,166.71,0.037,0.1918,nn,nn00839844,2022-05-28T03:12:09.420Z,"28 km SSE of Hawthorne, Nevada",earthquake,,1.5,0.24,5,automatic,nn,nn
 2022-05-28T03:01:19.211Z,6.8758,-73.0708,146.75,4.3,mb,,71,0.976,0.93,us,us7000hd7k,2022-05-28T03:14:07.040Z,"12 km S of Piedecuesta, Colombia",earthquake,6.6,8.6,0.072,55,reviewed,us,us
 2022-05-28T02:32:43.680Z,33.6828333,-116.7645,15.75,0.77,ml,12,100,0.05059,0.17,ci,ci40028839,2022-05-28T02:36:13.097Z,"8km SSW of Idyllwild, CA",earthquake,0.47,0.62,0.32,14,automatic,ci,ci
-2022-05-28T02:29:37.470Z,36.1170006,-120.6416702,-0.73,1.68,md,13,147,0.06058,0.19,nc,nc73738846,2022-05-28T02:53:22.986Z,"26km W of Coalinga, CA",earthquake,0.81,9.05,0.11,8,automatic,nc,nc
-2022-05-28T02:24:38.760Z,37.7654991,-122.1740036,5.21,1.64,md,19,101,0.01573,0.05,nc,nc73738841,2022-05-28T04:21:15.462Z,"5km NNW of San Leandro, CA",earthquake,0.22,0.53,0.17,15,automatic,nc,nc
+2022-05-28T02:29:37.470Z,36.1170006,-120.6416702,-0.73,1.68,md,13,147,0.06058,0.19,nc,nc73738846,2022-05-28T04:47:22.643Z,"26km W of Coalinga, CA",earthquake,0.81,9.05,0.11,8,automatic,nc,nc
+2022-05-28T02:24:38.760Z,37.7654991,-122.1740036,5.21,1.64,md,19,101,0.01573,0.05,nc,nc73738841,2022-05-28T04:31:10.523Z,"5km NNW of San Leandro, CA",earthquake,0.22,0.53,0.17,15,automatic,nc,nc
 2022-05-28T02:15:34.932Z,61.761,-148.1459,0.8,2.2,ml,,,,0.69,ak,ak0226sstiqg,2022-05-28T02:18:06.158Z,"17 km ESE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-28T01:48:26.066Z,59.0308,-152.2692,71.2,1.3,ml,,,,0.5,ak,ak0226ssf52m,2022-05-28T01:51:03.885Z,"41 km SSW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-28T01:44:36.498Z,61.6075,-149.8459,29.9,1,ml,,,,1.04,ak,ak0226sseayi,2022-05-28T01:47:02.007Z,"2 km SSW of Houston, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T00:54:51.646Z,-9.3253,123.6273,101.54,4.3,mb,,79,0.762,0.8,us,us7000hd7a,2022-05-28T01:32:39.040Z,"34 km NNW of Naisano Dua, Indonesia",earthquake,4.7,7.7,0.134,16,reviewed,us,us
 2022-05-28T00:52:24.460Z,33.9048333,-117.0446667,14.64,1.01,ml,30,81,0.1404,0.21,ci,ci40028775,2022-05-28T01:03:18.660Z,"7km WSW of Beaumont, CA",earthquake,0.31,0.59,0.214,32,automatic,ci,ci
 2022-05-28T00:50:52.070Z,17.9616666666667,-66.9005,7.08,1.78,md,6,218,,0.05,pr,pr71351058,2022-05-28T01:34:21.230Z,"1 km SE of Guánica, Puerto Rico",earthquake,0.37,0.42,0.127530958814467,6,reviewed,pr,pr
-2022-05-28T00:42:05.870Z,36.2394981,-120.8116684,6.72,3.18,ml,64,57,0.025,0.15,nc,nc73738836,2022-05-28T03:15:11.090Z,"22km ENE of San Lucas, CA",earthquake,0.3,0.51,0.292,24,automatic,nc,nc
+2022-05-28T00:42:05.870Z,36.2394981,-120.8116684,6.72,3.18,ml,64,57,0.025,0.15,nc,nc73738836,2022-05-28T04:35:21.109Z,"22km ENE of San Lucas, CA",earthquake,0.3,0.51,0.292,24,automatic,nc,nc
 2022-05-28T00:38:52.510Z,33.5936667,-116.8088333,6.93,0.46,ml,15,116,0.03734,0.18,ci,ci40028751,2022-05-28T00:42:24.337Z,"13km WNW of Anza, CA",earthquake,0.51,0.61,0.17,11,automatic,ci,ci
 2022-05-28T00:32:35.607Z,57.7068,-156.1614,82.8,0.9,ml,,,,0.38,ak,ak0226srqarg,2022-05-28T00:36:04.179Z,"76 km ENE of Ugashik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-28T00:24:56.163Z,61.7773,-146.6172,6,2.1,ml,,,,0.86,ak,ak0226sromnc,2022-05-28T00:28:26.847Z,"25 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -194,7 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T05:04:44.800Z,33.3886667,-116.3658333,12.19,0.44,ml,24,87,0.05387,0.14,ci,ci40027959,2022-05-27T17:03:43.139Z,"15km N of Borrego Springs, CA",earthquake,0.24,0.72,0.106,7,reviewed,ci,ci
 2022-05-27T05:02:21.480Z,35.6675,-117.4815,6.11,0.74,ml,14,106,0.08234,0.08,ci,ci40027951,2022-05-27T17:00:39.570Z,"13km SSW of Searles Valley, CA",earthquake,0.26,0.7,0.127,7,reviewed,ci,ci
 2022-05-27T04:56:30.130Z,36.2266667,-120.8006667,7.16,1.08,md,14,161,0.01075,0.07,nc,nc73738506,2022-05-28T02:32:10.865Z,"22km ENE of San Lucas, CA",earthquake,0.4,0.26,0.077,9,reviewed,nc,nc
-2022-05-27T04:53:36.185Z,60.0942,-147.1757,6.7,2.1,ml,,,,0.77,ak,ak0226r6p6k0,2022-05-27T05:10:37.944Z,"46 km E of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-27T04:45:18.980Z,38.7588333,-122.9465,5.93,0.92,md,36,166,0.05446,0.06,nc,nc73738501,2022-05-28T02:06:10.747Z,"8km SE of Cloverdale, CA",earthquake,0.25,0.37,0.148,8,reviewed,nc,nc
-2022-05-27T04:44:10.260Z,46.552,-112.9098333,5.99,0.58,ml,9,98,0.288,0.12,mb,mb80547199,2022-05-27T15:40:20.670Z,"8 km WNW of Garrison, Montana",earthquake,0.41,31.61,0.062,3,reviewed,mb,mb
-2022-05-27T04:43:40.086Z,-18.0726,-177.8951,627.06,4.6,mb,,120,3.749,0.73,us,us7000hcza,2022-05-27T04:59:28.040Z,"Fiji region",earthquake,11.2,9.1,0.028,389,reviewed,us,us
