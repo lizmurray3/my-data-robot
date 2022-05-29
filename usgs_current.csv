@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-29T06:26:46.730Z,19.15016746521,-155.509170532227,35.1599998474121,1.77999997,md,35,210,,0.180000007,hv,hv73026557,2022-05-29T06:29:54.510Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.93,0.850000024,1.77999997,4,automatic,hv,hv
+2022-05-29T06:26:46.065Z,61.6192,-150.594,31.7,1.1,ml,,,,0.62,ak,ak0226uiszdq,2022-05-29T06:35:17.334Z,"9 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-29T06:17:44.424Z,64.4294,-146.6768,0,1.2,ml,,,,0.41,ak,ak0226uir1t5,2022-05-29T06:35:16.503Z,"7 km NNW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-29T06:17:11.117Z,36.7989,-116.0658,8.4,0.1,ml,10,122.76,0.05,0.1448,nn,nn00839887,2022-05-29T06:20:24.884Z,"43 km NW of Indian Springs, Nevada",earthquake,,1.1,0.72,7,automatic,nn,nn
+2022-05-29T06:05:02.291Z,38.1886,-117.8596,6,0.3,ml,9,182.77,0.093,0.1037,nn,nn00839886,2022-05-29T06:09:04.279Z,"31 km SE of Mina, Nevada",earthquake,,1.5,0.64,5,automatic,nn,nn
 2022-05-29T05:58:16.658Z,60.651,-150.1146,31.7,2.3,ml,,,,0.79,ak,ak0226uiecfd,2022-05-29T06:01:46.987Z,"23 km NW of Cooper Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-29T05:51:57.727Z,36.4998,-116.9365,10.3,1.1,ml,11,177.82,0.067,0.2049,nn,nn00839883,2022-05-29T05:55:04.793Z,"9 km NW of Furnace Creek, California",earthquake,,0.8,0.82,9,automatic,nn,nn
 2022-05-29T05:49:30.160Z,33.6943333,-116.8046667,14.94,1.11,ml,39,44,0.07356,0.16,ci,ci40029759,2022-05-29T05:53:13.864Z,"9km WSW of Idyllwild, CA",earthquake,0.22,0.37,0.236,29,automatic,ci,ci
@@ -169,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T06:55:25.070Z,33.732,-116.8311667,14.5,0.51,ml,18,188,0.0997,0.15,ci,ci40028943,2022-05-28T06:58:57.830Z,"6km ESE of Valle Vista, CA",earthquake,0.66,0.5,0.094,9,automatic,ci,ci
 2022-05-28T06:49:40.140Z,19.2068328857422,-155.399169921875,31.2399997711182,1.99000001,md,30,172,,0.109999999,hv,hv73025452,2022-05-28T06:52:59.400Z,"8 km E of Pāhala, Hawaii",earthquake,0.67,0.879999995,0.289999992,5,automatic,hv,hv
 2022-05-28T06:48:33.010Z,33.6253333,-116.6688333,12.87,0.46,ml,17,53,0.06393,0.15,ci,ci40028935,2022-05-28T06:52:17.419Z,"8km N of Anza, CA",earthquake,0.38,0.56,0.184,7,automatic,ci,ci
-2022-05-28T06:27:23.770Z,35.6335,-117.4516667,8.92,0.95,ml,10,156,0.04768,0.18,ci,ci40028927,2022-05-28T06:30:56.463Z,"16km SSW of Searles Valley, CA",earthquake,0.87,1.1,0.26,7,automatic,ci,ci
-2022-05-28T06:10:23.450Z,18.0141666666667,-67.0015,10.16,2.18,md,6,121,,0.15,pr,pr71351098,2022-05-28T06:28:20.140Z,"6 km NE of La Parguera, Puerto Rico",earthquake,0.73,1.18,0.0496609964325518,5,reviewed,pr,pr
