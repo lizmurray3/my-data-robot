@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-29T11:32:23.766Z,60.7429,-146.8094,21.6,1.4,ml,,,,0.49,ak,ak0226ult8hv,2022-05-29T11:40:17.249Z,"15 km SSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-29T11:21:07.410Z,19.2451667785645,-155.382171630859,32.9799995422363,2,md,42,146,,0.109999999,hv,hv73026807,2022-05-29T11:24:10.630Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.65,0.829999983,1.38999999,14,automatic,hv,hv
 2022-05-29T11:16:33.280Z,33.1645,-115.6245,3.39,1.54,ml,20,80,0.01492,0.2,ci,ci40029839,2022-05-29T11:27:33.050Z,"11km WNW of Calipatria, CA",earthquake,0.42,0.37,0.198,29,automatic,ci,ci
 2022-05-29T10:56:47.530Z,33.259,-116.0043333,2.35,1.57,ml,41,85,0.08814,0.26,ci,ci40029831,2022-05-29T11:00:40.027Z,"6km SW of Salton City, CA",earthquake,0.33,0.88,0.1,27,automatic,ci,ci
@@ -166,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T11:58:48.090Z,17.9481666666667,-66.9585,11.8,2.22,md,8,215,,0.12,pr,pr71351163,2022-05-28T12:44:41.020Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.59,0.4,0.0635870522251467,4,reviewed,pr,pr
 2022-05-28T11:44:01.627Z,62.2404,-150.1435,4.8,1.5,ml,,,,0.89,ak,ak0226syckde,2022-05-28T11:46:29.092Z,"9 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-28T11:43:37.490Z,18.8858333333333,-67.271,6.05,3.31,md,23,225,,0.24,pr,pr71351148,2022-05-28T12:23:48.280Z,"47 km NNW of San Antonio, Puerto Rico",earthquake,0.7,0.97,0.0508416336439319,16,reviewed,pr,pr
-2022-05-28T11:39:29.580Z,35.08646393,-95.49523163,5,3.37,ml,63,95.92890167,0.117326729,0.7672033173,ok,ok2022kjma,2022-05-29T07:25:11.973Z,"12 km WSW of Quinton, Oklahoma",earthquake,2.255042781,,,46,automatic,ok,ok
