@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-30T13:25:54.010Z,34.1764984,-116.7381668,0.51,1.39,ml,39,101,0.1524,0.14,ci,ci40030487,2022-05-30T13:27:59.553Z,"14km SE of Big Bear City, CA",earthquake,0.3,0.44,0.266,9,automatic,ci,ci
+2022-05-30T13:50:58.467Z,64.5771,-149.3684,31.7,0.7,ml,,,,1.11,ak,ak0226wanj92,2022-05-30T13:53:07.955Z,"12 km WSW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-30T13:25:54.000Z,34.1785,-116.7371667,0.16,1.19,ml,35,62,0.1545,0.21,ci,ci40030487,2022-05-30T13:29:35.384Z,"14km SE of Big Bear City, CA",earthquake,0.28,0.56,0.232,27,automatic,ci,ci
+2022-05-30T12:59:02.480Z,18.025,-66.8253333333333,13.47,2.2,md,7,148,,0.26,pr,pr71351478,2022-05-30T13:41:27.720Z,"2 km ESE of Yauco, Puerto Rico",earthquake,1.09,1.96,0.250923388294924,4,reviewed,pr,pr
 2022-05-30T12:48:30.530Z,19.1871662139893,-155.486328125,33.9000015258789,2.23000002,md,46,71,,0.100000001,hv,hv73028002,2022-05-30T12:51:46.880Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.57,0.810000002,1.88,14,automatic,hv,hv
 2022-05-30T12:46:25.280Z,34.1796667,-116.7386667,-0.36,1.1,ml,23,103,0.1551,0.22,ci,ci40030463,2022-05-30T12:50:03.944Z,"13km SE of Big Bear City, CA",earthquake,0.43,0.77,0.19,27,automatic,ci,ci
 2022-05-30T12:43:19.310Z,19.216667175293,-155.40299987793,30.8700008392334,1.99,ml,38,148,,0.140000001,hv,hv73027997,2022-05-30T12:48:50.770Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,0.930000007,4.71,3,automatic,hv,hv
@@ -50,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T06:36:20.920Z,35.6631667,-117.4721667,8.71,2.28,ml,26,90,0.07693,0.12,ci,ci40030343,2022-05-30T06:47:13.840Z,"13km SSW of Searles Valley, CA",earthquake,0.26,0.62,0.15,25,automatic,ci,ci
 2022-05-30T06:29:12.290Z,33.3053333,-116.2948333,5.11,0.79,ml,21,154,0.05821,0.33,ci,ci40030335,2022-05-30T06:32:44.970Z,"9km NE of Borrego Springs, CA",earthquake,0.71,0.93,0.123,13,automatic,ci,ci
 2022-05-30T06:19:42.550Z,19.1984996795654,-155.424835205078,34.2599983215332,2.26999998,md,44,148,,0.119999997,hv,hv73027667,2022-05-30T06:23:00.710Z,"5 km E of Pāhala, Hawaii",earthquake,0.55,0.639999986,0.730000019,21,automatic,hv,hv
-2022-05-30T06:07:30.290Z,35.6925,-81.1018333,0.31,1.77,md,7,229,0.1836,0.26,se,se60151748,2022-05-30T12:35:26.420Z,"North Carolina",earthquake,1.49,7.66,0.011,6,reviewed,se,se
+2022-05-30T06:07:30.290Z,35.6925,-81.1018333,0.31,1.77,md,7,229,0.1836,0.26,se,se60151748,2022-05-30T13:37:47.650Z,"North Carolina",earthquake,1.49,7.66,0.011,6,reviewed,se,se
 2022-05-30T05:56:29.494Z,38.5844,-119.4619,8.9,1.1,ml,11,76.18,0.045,0.171,nn,nn00839913,2022-05-30T05:59:50.308Z,"4 km ENE of Coleville, California",earthquake,,0.7,0.31,5,automatic,nn,nn
 2022-05-30T05:53:29.910Z,36.096,-117.8695,2.08,0.79,ml,9,164,0.02458,0.07,ci,ci40030319,2022-05-30T05:57:02.754Z,"9km NE of Coso Junction, CA",earthquake,0.38,0.21,0.093,6,automatic,ci,ci
 2022-05-30T05:35:59.835Z,60.2095,-140.853,15.5,1.2,ml,,,,1.09,ak,ak0226w5surz,2022-05-30T05:38:45.192Z,"97 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -69,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T03:07:31.810Z,34.0685,-117.8366667,0.8,1.4,ml,8,144,0.1116,0.16,ci,ci40030223,2022-05-30T03:11:17.751Z,"4km SSE of Charter Oak, CA",earthquake,0.59,31.61,0.311,11,automatic,ci,ci
 2022-05-30T03:00:23.656Z,61.5856,-149.7568,50.1,0.9,ml,,,,0.38,ak,ak0226w4eepp,2022-05-30T03:12:04.684Z,"5 km SSE of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-05-30T02:06:11.780Z,17.888,-66.8593333333333,12.87,2.05,md,8,238,,0.11,pr,pr71351383,2022-05-30T03:22:00.010Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.71,0.57,0.0629691271306946,8,reviewed,pr,pr
-2022-05-30T02:03:55.940Z,37.8886667,-78.0351667,5.46,2.3,md,10,95,0.1446,0.27,se,se60151743,2022-05-30T12:30:40.728Z,"15 km S of Louisa, Virginia",earthquake,0.78,1.96,0.071,10,reviewed,se,se
+2022-05-30T02:03:55.940Z,37.8886667,-78.0351667,5.46,2.3,md,10,95,0.1446,0.27,se,se60151743,2022-05-30T13:46:58.395Z,"15 km S of Louisa, Virginia",earthquake,0.78,1.96,0.071,10,reviewed,se,se
 2022-05-30T01:51:25.170Z,33.2518333,-116.2383333,7.49,0.84,ml,24,76,0.1254,0.24,ci,ci40030199,2022-05-30T01:54:58.242Z,"13km E of Borrego Springs, CA",earthquake,0.59,1.17,0.083,16,automatic,ci,ci
 2022-05-30T01:47:18.051Z,62.3385,-149.5765,18.5,2,ml,,,,0.83,ak,ak0226w3hlsv,2022-05-30T01:51:07.044Z,"24 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-30T01:33:46.107Z,59.7945,-152.2967,63.5,1,ml,,,,0.91,ak,ak0226w3env6,2022-05-30T01:50:00.205Z,"26 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -154,8 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T15:05:18.224Z,51.9723,-173.493,52.4,1.8,ml,,,,0.39,ak,ak0226uo170c,2022-05-29T20:23:03.137Z,"54 km ESE of Atka, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2022-05-29T14:42:15.870Z,17.9873333333333,-66.9473333333333,8.06,1.8,md,5,160,,0.21,pr,pr71351308,2022-05-29T15:11:17.700Z,"3 km W of Fuig, Puerto Rico",earthquake,0.82,2.49,0.0161738677342363,4,reviewed,pr,pr
 2022-05-29T14:00:18.900Z,19.1704998016357,-155.476333618164,32.2900009155273,1.83000004,md,45,82,,0.180000007,hv,hv73026872,2022-05-29T14:03:32.070Z,"3 km S of Pāhala, Hawaii",earthquake,0.55,0.970000029,0.25,5,automatic,hv,hv
-2022-05-29T13:52:23.897Z,59.6192,-153.0158,101.2,0.8,ml,,,,0.26,ak,ak0226un4jit,2022-05-29T13:54:22.082Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-05-29T13:45:39.903Z,66.0151,-149.5832,12.9,2.8,ml,,,,0.65,ak,ak0226un32q1,2022-05-29T14:19:04.040Z,"22 km W of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-29T13:40:03.500Z,17.9946666666667,-66.8833333333333,15.74,2.19,md,8,93,,0.29,pr,pr71351298,2022-05-29T14:11:52.120Z,"1 km NNE of Maria Antonia, Puerto Rico",earthquake,0.97,1.09,0.0128586795509174,4,reviewed,pr,pr
-2022-05-29T13:38:00.081Z,58.5646,-153.4101,56,1.3,ml,,,,0.46,ak,ak0226un1hob,2022-05-29T13:45:13.684Z,"63 km NNW of Aleneva, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-05-29T13:31:05.957Z,58.3812,-154.7523,2.9,0.7,ml,,,,0.68,ak,ak0226un003d,2022-05-29T13:34:56.033Z,"92 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
