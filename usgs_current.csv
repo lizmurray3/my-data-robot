@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-30T14:34:38.787Z,63.276,-147.136,0,3.2,ml,,,,0.92,ak,ak0226wb5huj,2022-05-30T14:38:25.928Z,"79 km WNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-30T14:34:38.787Z,63.276,-147.136,0,3.2,ml,,,,0.92,ak,ak0226wb5huj,2022-05-30T14:52:47.040Z,"79 km WNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T14:32:57.341Z,60.6964,-143.6375,9.9,1.7,ml,,,,0.83,ak,ak0226wb53vq,2022-05-30T14:45:14.768Z,"90 km SSW of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T14:31:22.200Z,64.2243,-150.3038,16.3,3.2,ml,,,,0.87,ak,ak0226wb4tdp,2022-05-30T14:44:39.040Z,"54 km W of Clear, Alaska, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-30T14:27:59.650Z,36.0761667,-117.8776667,2.89,0.87,ml,13,110,0.04527,0.08,ci,ci40030503,2022-05-30T14:31:29.620Z,"7km ENE of Coso Junction, CA",earthquake,0.23,0.53,0.219,12,automatic,ci,ci
