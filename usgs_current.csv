@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-31T05:25:14.441Z,57.4802,-156.463,49.5,1.6,ml,,,,0.39,ak,ak0226xt9ylw,2022-05-31T05:31:22.855Z,"56 km E of Ugashik, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2022-05-31T05:25:14.441Z,57.4802,-156.463,49.5,1.6,ml,,,,0.39,ak,ak0226xt9ylw,2022-05-31T05:34:45.521Z,"56 km E of Ugashik, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-05-31T05:24:03.740Z,32.3915,-115.2496667,18.93,2.72,ml,19,106,0.1715,0.3,ci,ci40030751,2022-05-31T05:27:48.267Z,"7km NW of Delta, B.C., MX",earthquake,0.78,1.91,0.231,25,automatic,ci,ci
 2022-05-31T05:03:56.550Z,19.1704998016357,-155.484664916992,28.4099998474121,2.45000005,md,28,204,,0.239999995,hv,hv73028827,2022-05-31T05:07:07.750Z,"3 km S of Pāhala, Hawaii",earthquake,1.55,3.44000006,1.04999995,3,automatic,hv,hv
 2022-05-31T05:01:42.040Z,35.7773333,-117.5935,6.9,1.54,ml,25,71,0.03846,0.18,ci,ci40030743,2022-05-31T05:05:37.136Z,"17km W of Searles Valley, CA",earthquake,0.29,0.57,0.221,22,automatic,ci,ci
@@ -165,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T05:56:29.494Z,38.5844,-119.4619,8.9,1.1,ml,11,76.18,0.045,0.171,nn,nn00839913,2022-05-30T05:59:50.308Z,"4 km ENE of Coleville, California",earthquake,,0.7,0.31,5,automatic,nn,nn
 2022-05-30T05:54:37.767Z,39.409,-119.9346,8.2,0.5,ml,9,65.32,0.125,0.0728,nn,nn00839927,2022-05-30T14:15:45.872Z,"7 km ENE of Floriston, California",earthquake,,2.5,0.16,3,reviewed,nn,nn
 2022-05-30T05:53:29.910Z,36.096,-117.8695,2.08,0.79,ml,9,164,0.02458,0.07,ci,ci40030319,2022-05-30T05:57:02.754Z,"9km NE of Coso Junction, CA",earthquake,0.38,0.21,0.093,6,automatic,ci,ci
-2022-05-30T05:35:59.835Z,60.2095,-140.853,15.5,1.2,ml,,,,1.09,ak,ak0226w5surz,2022-05-30T16:43:34.164Z,"97 km NW of Yakutat, Alaska",ice quake,,0.4,,,automatic,ak,ak
