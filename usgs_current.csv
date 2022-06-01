@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-01T09:30:08.800Z,37.5408325,-118.8108368,4.7,1.01,md,11,233,0.05121,0.01,nc,nc73739786,2022-06-01T09:37:10.412Z,"12km WSW of Toms Place, CA",earthquake,1.77,0.8,0.11,10,automatic,nc,nc
+2022-06-01T09:43:15.220Z,40.3701668,-122.0321655,7.23,1.62,md,7,143,0.1676,0.09,nc,nc73739791,2022-06-01T09:52:10.484Z,"15km WSW of Manton, CA",earthquake,0.58,3.08,0.19,2,automatic,nc,nc
+2022-06-01T09:30:08.800Z,37.5408325,-118.8108368,4.7,1.01,md,11,233,0.05121,0.01,nc,nc73739786,2022-06-01T09:47:25.456Z,"12km WSW of Toms Place, CA",earthquake,1.77,0.8,0.11,10,automatic,nc,nc
 2022-06-01T09:29:11.876Z,64.2667,-149.971,3.8,1.3,ml,,,,0.74,ak,ak0226zj7w6t,2022-06-01T09:32:56.021Z,"38 km W of Clear, Alaska, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-06-01T09:00:08.122Z,30.4155,102.9892,10,5.9,mww,,18,9.09,1.05,us,us7000he1h,2022-06-01T09:37:53.785Z,"45 km W of Linqiong, China",earthquake,7.9,1.8,0.069,20,reviewed,us,us
+2022-06-01T09:00:08.122Z,30.4155,102.9892,10,5.9,mww,,18,9.09,1.05,us,us7000he1h,2022-06-01T09:48:14.792Z,"45 km W of Linqiong, China",earthquake,7.9,1.8,0.069,20,reviewed,us,us
 2022-06-01T08:59:37.230Z,19.1588325500488,-155.469833374023,31.1499996185303,2.05999994,md,42,112,,0.129999995,hv,hv73030267,2022-06-01T09:02:55.840Z,"4 km S of Pāhala, Hawaii",earthquake,0.53,0.699999988,1.13,16,automatic,hv,hv
 2022-06-01T08:45:25.850Z,19.1984996795654,-155.387664794922,32.189998626709,1.97000003,md,41,161,,0.119999997,hv,hv73030252,2022-06-01T08:48:30.770Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.839999974,1.39999998,18,automatic,hv,hv
 2022-06-01T08:30:46.491Z,39.5674,-119.1166,2.8,1,ml,11,161.02,0.252,0.1566,nn,nn00840052,2022-06-01T08:35:11.363Z,"12 km ESE of Fernley, Nevada",earthquake,,15.9,0.23,5,automatic,nn,nn
@@ -65,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T01:21:07.710Z,35.4711667,-117.3126667,5.84,1.17,ml,16,133,0.06834,0.16,ci,ci40031343,2022-06-01T01:24:41.315Z,"31km ENE of Johannesburg, CA",earthquake,0.43,0.9,0.162,16,automatic,ci,ci
 2022-06-01T01:19:44.516Z,42.6284,142.1723,94.48,4.5,mb,,75,0.953,0.77,us,us7000hdzi,2022-06-01T03:01:54.184Z,"36 km NNW of Shizunai-furukawachō, Japan",earthquake,6.2,6.9,0.045,149,reviewed,us,us
 2022-06-01T01:16:35.339Z,64.4416,-146.6158,9.9,0.8,ml,,,,0.33,ak,ak0226zedoul,2022-06-01T01:39:04.729Z,"7 km N of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-01T01:07:53.719Z,38.5633,-119.4335,3,1,ml,12,104.91,0.059,0.1573,nn,nn00840041,2022-06-01T01:12:28.681Z,"California-Nevada border region",earthquake,,2.1,0.15,7,automatic,nn,nn
+2022-06-01T01:07:53.719Z,38.5633,-119.4335,3,1,ml,12,104.91,0.059,0.1573,nn,nn00840041,2022-06-01T01:12:28.681Z,"6 km E of Coleville, California",earthquake,,2.1,0.15,7,automatic,nn,nn
 2022-06-01T01:03:11.840Z,32.6013333,-115.5486667,1.98,1.48,ml,9,143,0.1574,0.25,ci,ci40031327,2022-06-01T01:06:55.582Z,"4km NE of Progreso, B.C., MX",earthquake,0.9,1.35,0.198,19,automatic,ci,ci
 2022-06-01T00:51:23.990Z,37.1736667,-118.2333333,13.03,1.74,md,20,233,0.06935,0.08,nc,nc73739701,2022-06-01T07:52:14.849Z,"5km E of Big Pine, CA",earthquake,1.5,0.28,0.28,21,reviewed,nc,nc
 2022-06-01T00:50:45.493Z,27.03,126.3615,10,4.5,mb,,44,1.717,0.82,us,us7000hdzh,2022-06-01T02:14:46.040Z,"159 km NW of Naha, Japan",earthquake,7.5,1.9,0.096,32,reviewed,us,us
@@ -93,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-31T22:37:13.483Z,63.7424,-149.8127,16.1,1.9,ml,,,,0.73,ak,ak0226y3gwf0,2022-05-31T22:55:24.039Z,"43 km WSW of Healy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-31T22:33:33.480Z,35.875,-117.6938333,8.93,0.99,ml,16,76,0.08085,0.12,ci,ci40031215,2022-05-31T22:37:02.707Z,"20km ESE of Little Lake, CA",earthquake,0.22,0.64,0.135,11,automatic,ci,ci
 2022-05-31T22:32:49.400Z,36.7946667,-121.3928333,7.2,1.2,md,15,71,0.05331,0.04,nc,nc73739641,2022-05-31T23:22:16.765Z,"3km SW of Ridgemark, CA",earthquake,0.27,0.44,0.278,14,reviewed,nc,nc
-2022-05-31T22:21:51.320Z,18.7408333333333,-66.4915,5.73,2.98,md,18,220,,0.26,pr,pr71351758,2022-06-01T01:44:01.280Z,"30 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.7,0.84,0.0331526143299468,8,reviewed,pr,pr
+2022-05-31T22:21:51.320Z,18.7408333333333,-66.4915,5.73,2.98,md,18,220,,0.26,pr,pr71351758,2022-06-01T09:53:56.780Z,"30 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.7,0.84,0.0331526143299468,8,reviewed,pr,pr
 2022-05-31T22:17:57.780Z,61.669,-146.3217,34.3,1.1,ml,,,,0.36,ak,ak0226y3cpia,2022-05-31T22:38:47.954Z,"43 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-31T22:15:44.890Z,19.265832901001,-155.406494140625,30.2900009155273,1.92999995,md,30,140,,0.119999997,hv,hv73029672,2022-05-31T22:18:47.400Z,"10 km NE of Pāhala, Hawaii",earthquake,0.62,1.17999995,1.36000001,8,automatic,hv,hv
 2022-05-31T22:12:27.620Z,39.0608333,-109.2958333,6.81,3.76,ml,19,102,0.5584,0.2,uu,uu60500212,2022-06-01T09:23:55.257Z,"37 km ENE of Thompson Springs, Utah",earthquake,0.5,3,0.149,29,reviewed,uu,uu
@@ -216,7 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-31T10:00:13.170Z,36.723835,-121.4078369,2.68,1.17,md,7,146,0.05109,0.05,nc,nc73739481,2022-05-31T10:32:13.034Z,"10km SSW of Ridgemark, CA",earthquake,1.07,2.76,0.25,7,automatic,nc,nc
 2022-05-31T09:58:59.540Z,19.232666015625,-155.388671875,32.6500015258789,1.99,ml,44,146,,0.129999995,hv,hv73029082,2022-05-31T10:04:28.550Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,1.04999995,4.19,4,automatic,hv,hv
 2022-05-31T09:56:11.961Z,61.5091,-148.6406,20,1,ml,,,,0.22,ak,ak0226xvuc19,2022-05-31T09:58:43.241Z,"15 km ENE of Knik River, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-31T09:53:42.360Z,35.4721667,-117.32,7.12,0.7,ml,10,139,0.06398,0.08,ci,ci37501061,2022-05-31T19:42:36.200Z,"31km ENE of Johannesburg, CA",earthquake,0.26,0.58,0.119,5,reviewed,ci,ci
-2022-05-31T09:53:17.320Z,36.0823333,-117.6508333,-1.29,1.04,ml,12,129,0.1088,0.15,ci,ci40030847,2022-05-31T19:40:19.183Z,"27km E of Coso Junction, CA",earthquake,0.27,0.67,0.053,4,reviewed,ci,ci
-2022-05-31T09:49:44.940Z,19.1459999084473,-155.487838745117,31.0599994659424,1.83000004,md,41,157,,0.140000001,hv,hv73029072,2022-05-31T09:53:02.370Z,"6 km S of Pāhala, Hawaii",earthquake,0.53,0.839999974,0.860000014,11,automatic,hv,hv
-2022-05-31T09:41:40.830Z,18.8273334503174,-155.194000244141,9.51000022888184,2.45,ml,34,269,,0.230000004,hv,hv73029062,2022-05-31T09:54:48.550Z,"48 km ESE of Naalehu, Hawaii",earthquake,1.17,1.11000001,4.7,3,automatic,hv,hv
