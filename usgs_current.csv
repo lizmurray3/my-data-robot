@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-01T22:57:44.610Z,33.4348333,-116.6291667,5.23,0.29,ml,16,79,0.06382,0.12,ci,ci40032047,2022-06-01T23:01:20.530Z,"14km SSE of Anza, CA",earthquake,0.32,0.62,0.111,10,automatic,ci,ci
 2022-06-01T22:41:54.210Z,35.6805,-117.4661667,11.83,0.94,ml,12,171,0.1721,0.19,ci,ci40032031,2022-06-01T22:45:24.768Z,"11km SSW of Searles Valley, CA",earthquake,0.6,1.48,0.086,10,automatic,ci,ci
 2022-06-01T22:41:23.220Z,33.3441667,-116.1825,4.96,0.74,ml,14,210,0.1079,0.25,ci,ci40032023,2022-06-01T22:44:54.711Z,"16km SSW of Oasis, CA",earthquake,0.9,1.82,0.094,12,automatic,ci,ci
 2022-06-01T22:03:17.300Z,38.5716,-117.1927,7.9,1,ml,10,202.62,0.639,0.1747,nn,nn00840122,2022-06-01T22:07:56.688Z,"56 km N of Tonopah, Nevada",earthquake,,2.3,0.23,7,automatic,nn,nn
@@ -61,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T15:37:56.127Z,61.3155,-152.2408,0,0.3,ml,,,,0.09,ak,ak0226zmu98f,2022-06-01T17:44:30.782Z,"65 km WNW of Beluga, Alaska",earthquake,,0,,,reviewed,ak,ak
 2022-06-01T15:32:48.410Z,36.1728325,-120.1886673,14.22,2.4,md,33,101,0.1668,0.28,nc,nc73739886,2022-06-01T18:19:13.456Z,"8km WSW of Huron, CA",earthquake,0.58,1.46,0.11,26,automatic,nc,nc
 2022-06-01T15:30:00.290Z,38.7475014,-122.699501,1.33,0.83,md,8,88,0.02065,0.01,nc,nc73739881,2022-06-01T16:45:13.886Z,"3km SSW of Anderson Springs, CA",earthquake,0.37,0.73,0.04,3,automatic,nc,nc
+2022-06-01T15:23:11.951Z,-21.8028,179.621,628.57,4.3,mb,,125,4.298,0.86,us,us7000he3w,2022-06-01T22:53:23.040Z,"south of the Fiji Islands",earthquake,12.4,6.4,0.079,46,reviewed,us,us
 2022-06-01T15:23:07.663Z,62.9453,-150.2251,70.5,1.3,ml,,,,0.32,ak,ak0226zmr772,2022-06-01T15:40:47.861Z,"55 km N of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-06-01T15:13:29.130Z,19.2064990997314,-155.446838378906,34.8499984741211,1.85000002,md,42,121,,0.100000001,hv,hv73030482,2022-06-01T15:16:46.590Z,"3 km E of Pāhala, Hawaii",earthquake,0.47,0.519999981,1.47000003,10,automatic,hv,hv
 2022-06-01T15:12:33.530Z,38.7475014,-122.6911697,1.02,1.85,md,21,89,0.0216,0.06,nc,nc73739871,2022-06-01T18:04:12.373Z,"3km S of Anderson Springs, CA",earthquake,0.28,0.43,0.04,10,automatic,nc,nc
@@ -197,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-31T23:16:33.880Z,47.780166666666666,-121.85416666666667,3.46,1.02,ml,7,91,0.1258,0.07,uw,uw61837697,2022-06-01T05:13:06.390Z,"9 km SSW of Sultan, Washington",earthquake,0.51,1.02,0.18240596563687533,3,reviewed,uw,uw
 2022-05-31T23:14:17.440Z,19.1223335266113,-155.411331176758,35.9300003051758,2.18000007,md,43,197,,0.109999999,hv,hv73029722,2022-05-31T23:17:38.550Z,"11 km SE of Pāhala, Hawaii",earthquake,0.55,1.09000003,1.77999997,26,automatic,hv,hv
 2022-05-31T23:09:39.960Z,19.2193333333333,-155.435666666667,34.57,1.59,md,24,139,,0.11,hv,hv73029717,2022-06-01T21:59:48.240Z,"4 km ENE of Pāhala, Hawaii",earthquake,0.71,0.78,0.081323207269955,13,reviewed,hv,hv
-2022-05-31T23:00:31.420Z,59.6263,-143.0708,2.4,1.5,ml,,,,0.41,ak,ak0226y3ufwm,2022-05-31T23:06:48.762Z,"181 km SE of Cordova, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-05-31T22:59:06.560Z,33.9145,-117.0556667,17.51,0.84,ml,13,96,0.1947,0.2,ci,ci40031255,2022-05-31T23:02:42.290Z,"7km WSW of Beaumont, CA",earthquake,0.52,1.41,0.228,19,automatic,ci,ci
-2022-05-31T22:53:35.020Z,36.6746674,-121.3268356,5.23,1.41,md,11,107,0.06243,0.19,nc,nc73739661,2022-06-01T03:27:17.281Z,"13km S of Tres Pinos, CA",earthquake,0.59,2.01,0.16,5,automatic,nc,nc
