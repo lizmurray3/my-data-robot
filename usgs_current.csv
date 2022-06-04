@@ -172,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T19:51:09.000Z,51.9673333333333,178.268833333333,-1.39,2.21,ml,5,349,,0.18,av,av91584551,2022-06-04T06:31:19.420Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.09,3.07,0.354176919048663,6,reviewed,av,av
 2022-06-03T19:44:22.520Z,39.4271667,-110.2893333,-2.45,1.64,ml,10,185,0.02787,0.12,uu,uu60500407,2022-06-03T20:41:53.770Z,"16 km SSE of Sunnyside, Utah",earthquake,0.96,2.03,0.147,5,reviewed,uu,uu
 2022-06-03T19:37:28.460Z,46.0115,-112.4735,-2,1.46,ml,13,112,0.056,0.16,mb,mb80547739,2022-06-03T20:20:03.630Z,"4 km E of Butte, Montana",quarry blast,0.67,31.61,0.263,6,reviewed,mb,mb
-2022-06-03T19:16:17.660Z,36.5636667,-121.1546667,8.77,2.24,md,50,65,0.02601,0.07,nc,nc73740366,2022-06-04T02:42:10.417Z,"4km NNW of Pinnacles, CA",earthquake,0.14,0.25,0.191,56,reviewed,nc,nc
