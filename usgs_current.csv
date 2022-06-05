@@ -30,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T10:24:08.827Z,61.4742,-150.6693,57.8,0.9,ml,,,,0.56,ak,ak022765xmya,2022-06-05T10:26:33.276Z,"11 km SW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-06-05T10:15:18.490Z,37.5458333,-118.8615,3.1,0.01,md,8,308,0.05108,0.01,nc,nc73740811,2022-06-05T11:58:13.320Z,"14km SE of Mammoth Lakes, CA",earthquake,3.81,2.25,0.07,6,reviewed,nc,nc
 2022-06-05T10:03:32.970Z,17.8308,-68.565,70,4.19,md,27,209,0.7073,0.31,pr,pr2022156001,2022-06-05T10:47:01.830Z,"60 km S of Boca de Yuma, Dominican Republic",earthquake,1.39,1.95,0.09,22,reviewed,pr,pr
+2022-06-05T09:57:37.890Z,46.964,-112.9181667,10.24,1.45,ml,20,74,0.18,0.23,mb,mb80547999,2022-06-05T14:05:34.050Z,"17 km ESE of Ovando, Montana",earthquake,0.51,1.05,0.212,7,reviewed,mb,mb
 2022-06-05T09:34:09.090Z,33.8393333,-116.1895,8.86,0.83,ml,18,143,0.08693,0.28,ci,ci40034151,2022-06-05T09:44:44.555Z,"13km N of Indio, CA",earthquake,0.71,1.87,0.146,12,automatic,ci,ci
 2022-06-05T09:22:55.520Z,58.9423,-153.8019,11.7,2,ml,,,,0.61,ak,ak022765bvil,2022-06-05T09:34:21.450Z,"78 km SE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-05T09:11:38.989Z,8.9313,93.6573,10,5,mb,,64,4.918,0.73,us,us7000hf4j,2022-06-05T09:29:01.040Z,"Nicobar Islands, India region",earthquake,8.2,1.9,0.06,90,reviewed,us,us
@@ -126,6 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T17:40:47.520Z,35.081,-95.50433333,7.67,2.45,ml,65,88,0,0.22,ok,ok2022kwsl,2022-06-04T21:35:56.040Z,"Oklahoma",earthquake,,0.5,0.23,15,reviewed,ok,ok
 2022-06-04T17:31:45.720Z,19.1871662139893,-155.489501953125,33.2400016784668,2.3,ml,48,70,,0.109999999,hv,hv73033677,2022-06-04T21:20:35.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.55,0.639999986,4.13,18,automatic,hv,hv
 2022-06-04T17:28:45.799Z,38.0942,-118.2448,0,0.6,ml,8,201.12,0.258,0.187,nn,nn00840309,2022-06-04T21:28:01.301Z,"34 km SSW of Mina, Nevada",earthquake,,0,0.19,6,automatic,nn,nn
+2022-06-04T17:08:34.330Z,45.9376667,-111.4426667,0.61,1.16,ml,7,122,0.267,0.06,mb,mb80547909,2022-06-05T13:55:45.700Z,"6 km NNW of Logan, Montana",earthquake,0.31,0.92,0.224,2,reviewed,mb,mb
 2022-06-04T17:05:10.062Z,38.4955,-119.5207,7.9,1.3,ml,14,91.87,0.065,0.1388,nn,nn00840305,2022-06-04T21:27:35.712Z,"4 km WSW of Walker, California",earthquake,,0.7,0.2,10,automatic,nn,nn
 2022-06-04T16:59:43.703Z,61.5025,-141.0491,2,1.9,ml,,,,0.64,ak,ak02274m6gu5,2022-06-04T17:06:53.386Z,"100 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-04T16:58:03.210Z,19.7551,-68.9138,64,3.42,md,12,275,0.5402,0.41,pr,pr2022155004,2022-06-04T21:41:47.040Z,"75 km NE of Samaná, Dominican Republic",earthquake,3,9.98,0.52,4,reviewed,pr,pr
@@ -149,4 +151,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T14:44:13.476Z,62.433,-153.8048,11.1,1,ml,,,,0.76,ak,ak02274kwbk1,2022-06-04T14:46:59.696Z,"70 km SSE of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-04T14:09:46.380Z,34.1323333,-116.8633333,12.91,0.76,ml,13,118,0.07155,0.18,ci,ci40033807,2022-06-04T14:13:22.896Z,"13km SSE of Big Bear Lake, CA",earthquake,0.7,0.88,0.192,18,automatic,ci,ci
 2022-06-04T14:08:43.453Z,61.9823,-149.5215,40.2,1.4,ml,,,,0.85,ak,ak02274koo22,2022-06-04T14:19:52.254Z,"26 km SE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-06-04T13:59:04.821Z,36.4831,70.6189,200.1,4.7,mb,,72,0.642,0.49,us,us7000heyi,2022-06-04T14:15:10.040Z,"46 km SSW of Jurm, Afghanistan",earthquake,7,5.2,0.045,152,reviewed,us,us
