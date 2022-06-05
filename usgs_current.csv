@@ -148,4 +148,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T11:01:26.360Z,37.1973343,-118.2506638,12.34,2.38,md,6,210,0.04211,0.01,nc,nc73740511,2022-06-04T11:45:14.825Z,"5km NE of Big Pine, CA",earthquake,2.37,1.48,0.39,5,automatic,nc,nc
 2022-06-04T10:51:39.340Z,36.1373333,-89.7031667,9.53,2.13,md,33,44,0.01732,0.04,nm,nm60397976,2022-06-04T13:13:22.420Z,"7 km SW of Caruthersville, Missouri",earthquake,0.21,0.46,0.08,25,reviewed,nm,nm
 2022-06-04T10:47:21.429Z,58.0829,-153.9027,73.5,1,ml,,,,0.24,ak,ak02274ij8we,2022-06-04T10:50:39.646Z,"58 km W of Aleneva, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2022-06-04T10:43:06.720Z,48.0121667,-114.136,5.09,0.18,ml,9,259,0.171,0.07,mb,mb80547879,2022-06-04T13:41:07.820Z,"6 km W of Woods Bay, Montana",earthquake,0.93,4,,0,reviewed,mb,mb
