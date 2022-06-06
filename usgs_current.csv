@@ -19,7 +19,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T21:31:39.557Z,60.4103,-147.3881,19.8,2.1,ml,,,,0.67,ak,ak0227802bhf,2022-06-06T21:33:54.747Z,"51 km NE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-06T21:30:01.750Z,38.5945015,-122.7024994,1.85,2.06,md,21,57,0.09271,0.11,nc,nc73741046,2022-06-06T22:31:14.637Z,"10km NNE of Larkfield-Wikiup, CA",earthquake,0.28,4.13,0.11,23,automatic,nc,nc
 2022-06-06T21:23:49.945Z,43.5765,-28.9172,10,5.3,mww,,52,6.353,0.79,us,us7000hffl,2022-06-06T21:44:05.040Z,"northern Mid-Atlantic Ridge",earthquake,9.9,1.9,0.055,32,reviewed,us,us
-2022-06-06T21:23:03.830Z,38.2834,-118.5813,0,1,ml,8,197.54,0.068,0.3062,nn,nn00840423,2022-06-06T21:27:01.417Z,"27 km S of Hawthorne, Nevada",earthquake,,0.3,0.25,6,automatic,nn,nn
 2022-06-06T20:59:57.254Z,43.6684,-28.8821,10,5.5,mww,,24,6.425,0.79,us,us7000hffe,2022-06-06T23:03:03.807Z,"northern Mid-Atlantic Ridge",earthquake,9.2,1.8,0.046,46,reviewed,us,us
 2022-06-06T20:53:32.460Z,48.28616666666667,-121.66166666666666,7.31,0.96,ml,6,129,0.1827,0.46,uw,uw61840032,2022-06-06T21:22:07.520Z,"4 km E of Swede Heaven, Washington",earthquake,1.71,3.03,0.23502048075488613,3,reviewed,uw,uw
 2022-06-06T20:48:09.169Z,35.10016667,-96.331,3,1.61,ml,80,86,0.2555498524,0.25,ok,ok2022lapq,2022-06-06T21:08:44.642Z,"6 km S of Yeager, Oklahoma",earthquake,,0.7,0.24,4,reviewed,ok,ok
@@ -187,7 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T23:51:25.590Z,17.9158333333333,-66.885,16.27,2.9,md,6,226,,0.06,pr,pr71352618,2022-06-06T00:21:10.760Z,"6 km SSE of Guánica, Puerto Rico",earthquake,0.77,0.62,0.124341575430366,5,reviewed,pr,pr
 2022-06-05T23:49:19.579Z,61.732,-148.6406,30.7,1.6,ml,,,,1.26,ak,ak02276dtnig,2022-06-06T00:01:35.841Z,"8 km SE of Sutton-Alpine, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-06-05T23:46:54.883Z,64.6534,-147.74,14.9,1,ml,,,,0.27,ak,ak02276dt2f8,2022-06-05T23:58:05.123Z,"17 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-05T23:39:44.000Z,64.6627,-149.3761,19.3,1.2,ml,,,,1.05,ak,ak02276drk9s,2022-06-05T23:53:07.800Z,"13 km WNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-05T23:39:11.071Z,-25.1382,-175.0351,10,4.9,mb,,106,4.844,0.56,us,us7000hf8c,2022-06-05T23:57:07.040Z,"south of Tonga",earthquake,6.5,1.7,0.092,37,reviewed,us,us
-2022-06-05T23:30:55.600Z,17.9111666666667,-66.8841666666667,16.1,2.61,md,6,228,,0.06,pr,pr71352603,2022-06-05T23:49:34.270Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.78,0.63,0.0233404712557119,3,reviewed,pr,pr
-2022-06-05T23:30:27.029Z,59.0671,-137.2856,0,2.4,ml,,,,1.27,ak,ak02276dplim,2022-06-05T23:48:39.040Z,"81 km WSW of Covenant Life, Alaska",earthquake,,0.3,,,automatic,ak,ak
