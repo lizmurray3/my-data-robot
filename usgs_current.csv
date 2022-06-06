@@ -18,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T20:18:33.057Z,63.0463,-150.8398,122.5,1.8,ml,,,,0.4,ak,ak02277ze32h,2022-06-06T20:21:10.095Z,"61 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-06T20:08:43.461Z,64.9292,-149.0539,1.1,1.4,ml,,,,1.01,ak,ak02277zbyps,2022-06-06T20:20:15.330Z,"28 km SSE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-06T20:08:17.540Z,62.795,-150.983,150.1,1.9,ml,,,,1.38,ak,ak02277zbwpl,2022-06-06T20:16:49.446Z,"35 km NNW of Petersville, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2022-06-06T19:59:04.073Z,51.8457,-177.8457,7.2,0.4,ml,,,,0.28,ak,ak02277z193w,2022-06-06T22:38:02.326Z,"83 km W of Adak, Alaska",earthquake,,11.6,,,reviewed,ak,ak
 2022-06-06T19:57:54.500Z,33.8395,-117.4991667,1.83,1.57,ml,53,50,0.05017,0.22,ci,ci40035055,2022-06-06T20:01:39.273Z,"5km SSE of Home Gardens, CA",quarry blast,0.28,0.52,0.201,31,automatic,ci,ci
 2022-06-06T19:55:23.980Z,33.8623333,-117.5045,0.59,1.08,ml,25,71,0.06677,0.25,ci,ci40035047,2022-06-06T19:59:04.296Z,"2km SE of Home Gardens, CA",quarry blast,0.47,31.61,0.14,28,automatic,ci,ci
 2022-06-06T19:54:26.080Z,36.77,-116.2726,6.2,-0.2,ml,9,94.25,0.057,0.1402,nn,nn00840409,2022-06-06T19:57:21.772Z,"46 km ESE of Beatty, Nevada",earthquake,,1.5,0.81,6,automatic,nn,nn
@@ -95,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T09:19:35.250Z,40.1775,-121.5265,6.29,1.06,md,8,108,0.03103,0.03,nc,nc73740941,2022-06-06T16:44:14.508Z,"20km S of Mineral, CA",earthquake,0.66,1.04,0.094,7,reviewed,nc,nc
 2022-06-06T08:55:42.260Z,46.795833333333334,-121.96183333333333,8.54,0.55,ml,17,151,0.04677,0.1,uw,uw61848526,2022-06-06T21:26:20.630Z,"Washington",earthquake,0.38,0.46,0.18058557569909756,7,reviewed,uw,uw
 2022-06-06T08:40:50.080Z,41.9316667,-112.2975,3.05,0.56,md,7,109,0.02041,0.07,uu,uu60500587,2022-06-06T16:44:03.150Z,"6 km SW of Portage, Utah",earthquake,0.53,0.62,0.193,7,reviewed,uu,uu
+2022-06-06T08:31:38.923Z,38.5404,-119.5213,5.6,0.7,ml,8,164.09,0.046,0.0674,nn,nn00840441,2022-06-06T22:38:59.092Z,"3 km SSW of Coleville, California",earthquake,,1.5,0.35,4,reviewed,nn,nn
 2022-06-06T08:29:14.206Z,-2.7543,139.0469,41.1,5.1,mb,,47,6.791,0.44,us,us7000hfaj,2022-06-06T08:48:59.040Z,"177 km W of Abepura, Indonesia",earthquake,8.4,6.3,0.049,134,reviewed,us,us
 2022-06-06T08:25:40.061Z,50.9367,178.0342,29.4,3.6,ml,,236,1.074,1.07,us,us7000hfai,2022-06-06T09:33:20.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,9.4,8.9,0.085,18,reviewed,us,us
 2022-06-06T08:14:21.379Z,32.40692139,-101.5833413,7.654337565,4,ml,11,72,0.2111882978,0.1,tx,tx2022kzqw,2022-06-06T18:12:28.040Z,"18 km SE of Ackerly, Texas",earthquake,0.9646207883,3.293803835,0.2,7,reviewed,tx,tx
@@ -184,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T23:05:46.430Z,37.4168333,-118.4415,4.67,1.51,md,12,92,0.01599,0.08,nc,nc73740896,2022-06-06T18:35:22.173Z,"4km NW of Dixon Lane-Meadow Creek, CA",earthquake,0.32,0.58,0.196,7,reviewed,nc,nc
 2022-06-05T22:59:32.779Z,59.8789,-153.3715,141.1,1.2,ml,,,,0.3,ak,ak02276dae44,2022-06-06T03:35:23.040Z,"42 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-05T22:44:37.480Z,40.996666,-123.690834,23.53,2.27,md,7,158,0.1258,0.04,nc,nc73740886,2022-06-05T23:08:10.365Z,"8km NW of Willow Creek, CA",earthquake,0.84,1.23,0.17,6,automatic,nc,nc
-2022-06-05T22:40:45.590Z,63.8518,-149.1024,98.2,1.4,ml,,,,3.5,ak,ak02276d6ci7,2022-06-05T22:42:50.906Z,"6 km W of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
