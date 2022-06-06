@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-06T15:44:55.918Z,59.9392,-152.1508,90.7,-0.1,ml,,,,0.27,ak,ak02277wkirf,2022-06-06T15:47:25.030Z,"23 km W of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-06-06T15:20:57.660Z,33.133,-116.6136667,2.43,0.39,ml,10,115,0.05361,0.11,ci,ci40034791,2022-06-06T15:24:30.483Z,"6km N of Julian, CA",earthquake,0.34,0.32,0.042,5,automatic,ci,ci
 2022-06-06T15:11:14.920Z,19.1280002593994,-155.482833862305,32.3699989318848,1.85000002,md,36,173,,0.119999997,hv,hv73035807,2022-06-06T15:14:24.340Z,"8 km S of Pāhala, Hawaii",earthquake,0.64,1.15999997,1.88999999,4,automatic,hv,hv
 2022-06-06T14:55:51.920Z,-19.2441,-174.8039,122.57,4.9,mww,,84,6.044,0.79,us,us7000hfbe,2022-06-06T15:14:10.040Z,"78 km NW of Pangai, Tonga",earthquake,11.9,7,0.098,10,reviewed,us,us
-2022-06-06T14:55:14.640Z,36.2906685,-120.427002,15.83,1.5,md,6,155,0.06387,0.15,nc,nc73740996,2022-06-06T15:16:14.990Z,"18km NNW of Coalinga, CA",earthquake,3.77,6.67,0.37,4,automatic,nc,nc
+2022-06-06T14:55:14.640Z,36.2906685,-120.427002,15.83,1.5,md,6,155,0.06387,0.15,nc,nc73740996,2022-06-06T15:47:27.174Z,"18km NNW of Coalinga, CA",earthquake,3.77,6.67,0.37,4,automatic,nc,nc
 2022-06-06T14:09:28.277Z,36.7839,70.9267,69.73,4.2,mb,,83,0.441,0.42,us,us7000hfb9,2022-06-06T14:54:54.040Z,"12 km SE of Jurm, Afghanistan",earthquake,5.5,5.9,0.136,15,reviewed,us,us
 2022-06-06T13:57:06.689Z,-8.1113,119.9503,188.77,4.5,mb,,110,2.322,0.61,us,us7000hfb6,2022-06-06T14:19:04.040Z,"43 km N of Labuan Bajo, Indonesia",earthquake,11.1,8.3,0.145,15,reviewed,us,us
 2022-06-06T13:54:48.555Z,61.7758,-149.5765,43.3,2.1,ml,,,,0.63,ak,ak02277vfst2,2022-06-06T14:30:48.571Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T07:05:51.780Z,36.1943333,-91.311,12.95,1.69,md,6,123,0.1776,0.13,nm,nm60152343,2022-06-06T13:51:19.120Z,"6 km SW of Ravenden, Arkansas",earthquake,0.59,1.14,0.117,4,reviewed,nm,nm
 2022-06-06T07:04:35.560Z,36.2013333,-91.322,14.21,1.87,md,38,57,0.1889,0.26,nm,nm60398086,2022-06-06T13:14:30.610Z,"6 km SSE of Williford, Arkansas",earthquake,0.33,0.6,0.061,32,reviewed,nm,nm
 2022-06-06T07:02:04.290Z,36.181,-91.3226667,12.84,2.26,md,30,58,0.1758,0.13,nm,nm60398081,2022-06-06T12:41:54.219Z,"8 km SSE of Williford, Arkansas",earthquake,0.44,0.93,0.078,25,reviewed,nm,nm
-2022-06-06T07:00:26.950Z,36.1946667,-91.32,15.43,2.37,md,51,58,0.1831,0.22,nm,nm60398076,2022-06-06T15:04:31.052Z,"7 km SSE of Williford, Arkansas",earthquake,0.3,0.46,0.047,44,reviewed,nm,nm
+2022-06-06T07:00:26.950Z,36.1946667,-91.32,15.43,2.37,md,51,58,0.1831,0.22,nm,nm60398076,2022-06-06T15:04:31.052Z,"Arkansas",earthquake,0.3,0.46,0.047,44,reviewed,nm,nm
 2022-06-06T06:27:42.230Z,19.2588329315186,-155.394836425781,31.7800006866455,2.25,ml,48,129,,0.129999995,hv,hv73035467,2022-06-06T09:07:08.040Z,"10 km NE of Pāhala, Hawaii",earthquake,0.5,0.639999986,3.49,17,automatic,hv,hv
 2022-06-06T06:17:33.696Z,61.3337,-148.9219,21.4,2.2,ml,,,,0.7,ak,ak02277r1sxj,2022-06-06T06:27:33.492Z,"14 km S of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-06T06:14:47.219Z,63.0786,-151.3627,0,1.3,ml,,,,0.92,ak,ak02277r16tt,2022-06-06T06:27:32.694Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -136,5 +137,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T15:59:44.236Z,62.1718,-141.9022,0,1.6,ml,,,,0.67,ak,ak0227694drr,2022-06-05T16:19:19.854Z,"61 km ESE of Nabesna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-05T15:55:47.990Z,19.1731662750244,-155.489837646484,32.7099990844727,1.91,ml,41,90,,0.180000007,hv,hv73034737,2022-06-05T16:01:16.440Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.59,0.899999976,4.55,4,automatic,hv,hv
 2022-06-05T15:55:10.217Z,59.7787,-153.1512,98.1,2.2,ml,,,,0.47,ak,ak0227693g97,2022-06-05T16:11:14.040Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-06-05T15:50:31.965Z,39.319,-120.1403,10.1,0,ml,6,108.92,0.085,0.0782,nn,nn00840362,2022-06-05T16:15:24.957Z,"3 km ESE of Truckee, California",earthquake,,2.1,0,1,reviewed,nn,nn
-2022-06-05T15:46:04.104Z,63.5756,-150.6608,0,1.4,ml,,,,0.63,ak,ak0227691id6,2022-06-05T15:58:42.462Z,"52 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
