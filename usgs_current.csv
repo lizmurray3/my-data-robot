@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T10:00:15.940Z,35.9205,-117.7075,2.51,1.18,ml,16,65,0.0872,0.13,ci,ci40036151,2022-06-08T10:03:56.872Z,"18km E of Little Lake, CA",earthquake,0.2,0.35,0.148,16,automatic,ci,ci
 2022-06-08T09:55:07.700Z,34.3188333,-116.8426667,5.26,1.45,ml,37,47,0.03172,0.16,ci,ci40036143,2022-06-08T10:05:41.810Z,"6km N of Big Bear City, CA",earthquake,0.25,0.65,0.164,29,automatic,ci,ci
 2022-06-08T09:49:24.654Z,31.6097,-103.9565,5,2.5,ml,,62,0.25,0.62,us,us7000hfvi,2022-06-08T10:02:02.040Z,"35 km WSW of Mentone, Texas",earthquake,1,1.8,0.069,42,reviewed,us,us
-2022-06-08T09:43:50.430Z,38.814167,-122.8131638,2.87,0.35,md,11,86,0.009525,0.01,nc,nc73741441,2022-06-08T10:06:15.519Z,"6km NW of The Geysers, CA",earthquake,0.39,1.13,,1,automatic,nc,nc
+2022-06-08T09:43:50.430Z,38.814167,-122.8131638,2.87,0.35,md,11,86,0.009525,0.01,nc,nc73741441,2022-06-08T11:19:17.010Z,"6km NW of The Geysers, CA",earthquake,0.39,1.13,,1,automatic,nc,nc
 2022-06-08T09:37:31.320Z,38.8263321,-122.8525009,1.99,0.86,md,9,123,0.01402,0.01,nc,nc73741436,2022-06-08T10:52:18.837Z,"10km WNW of The Geysers, CA",earthquake,0.38,1.04,,1,automatic,nc,nc
 2022-06-08T09:25:29.080Z,35.9432,78.0266,10,4.4,mb,,117,4.533,0.53,us,us7000hfvg,2022-06-08T09:53:56.040Z,"158 km NE of Thang, India",earthquake,4.8,2,0.189,8,reviewed,us,us
 2022-06-08T09:22:59.110Z,19.2586669921875,-155.411666870117,33.5499992370605,1.92999995,md,35,121,,0.109999999,hv,hv73037967,2022-06-08T09:26:04.110Z,"9 km NE of Pāhala, Hawaii",earthquake,0.56,1.04999995,0.790000021,11,automatic,hv,hv
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T11:33:39.190Z,35.6743333,-117.522,7.94,1.06,ml,29,78,0.1003,0.14,ci,ci40035423,2022-06-07T16:53:18.881Z,"15km SW of Searles Valley, CA",earthquake,0.21,0.84,0.126,13,reviewed,ci,ci
 2022-06-07T11:29:32.852Z,62.9077,-143.969,3.8,1,ml,,,,0.5,ak,ak02279hmvzc,2022-06-07T11:32:04.550Z,"10 km W of Mentasta Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-07T11:28:27.710Z,17.9786666666667,-66.9776666666667,7.78,1.98,md,3,170,,0.06,pr,pr71352758,2022-06-07T11:42:43.110Z,"6 km W of Fuig, Puerto Rico",earthquake,3.11,1.49,0.0402961628108798,3,reviewed,pr,pr
-2022-06-07T11:21:17.370Z,46.6313333,-112.7333333,2.48,1.61,ml,22,74,0.198,0.18,mb,mb80548169,2022-06-07T23:09:32.950Z,"10 km WNW of Avon, Montana",earthquake,0.35,1.62,0.123,5,reviewed,mb,mb
