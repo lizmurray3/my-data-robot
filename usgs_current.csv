@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T20:54:21.635Z,-27.1797,-112.4294,10,4.9,mb,,174,2.668,1.65,us,us7000hgb7,2022-06-09T21:46:18.040Z,"297 km W of Hanga Roa, Chile",earthquake,13.1,1.9,0.063,78,reviewed,us,us
 2022-06-09T20:47:03.930Z,38.8366661,-122.7734985,1.29,0.85,md,7,189,0.006345,0.01,nc,nc73743386,2022-06-09T21:11:19.156Z,"5km WNW of Cobb, CA",earthquake,0.8,1.05,,1,automatic,nc,nc
 2022-06-09T20:38:46.210Z,36.813,-113.0633333,26.17,1.47,ml,10,176,0.2456,0.11,uu,uu60501012,2022-06-09T21:21:52.030Z,"17 km SSW of Centennial Park, Arizona",earthquake,0.72,31.61,0.184,4,reviewed,uu,uu
-2022-06-09T20:37:28.494Z,32.4601,102.0257,10,4.5,mb,,77,6.747,1.1,us,us7000hgax,2022-06-09T21:36:53.040Z,"244 km NW of Tianpeng, China",earthquake,9.8,1.9,0.094,33,reviewed,us,us
+2022-06-09T20:37:28.494Z,32.4601,102.0257,10,4.5,mb,,77,6.747,1.1,us,us7000hgax,2022-06-10T10:03:17.471Z,"244 km NW of Tianpeng, China",earthquake,9.8,1.9,0.094,33,reviewed,us,us
 2022-06-09T20:27:59.980Z,44.765,-110.8606667,5.65,2.03,ml,19,86,0.02443,0.16,uu,uu60500997,2022-06-09T20:51:02.710Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.33,0.8,0.335,5,reviewed,uu,uu
 2022-06-09T20:25:47.880Z,17.9955,-66.9396666666667,16.4,2.13,md,8,147,,0.11,pr,pr71353268,2022-06-09T20:45:28.350Z,"2 km WNW of Fuig, Puerto Rico",earthquake,0.5,0.79,0.180724581657127,3,reviewed,pr,pr
 2022-06-09T20:20:25.804Z,31.66450978,-104.4524076,7.699755859,2.4,ml,8,84,0.04143441943,0.3,tx,tx2022lgbg,2022-06-09T22:05:20.383Z,"57 km S of Whites City, New Mexico",earthquake,1.459617173,1.3353355,0.1,6,reviewed,tx,tx
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T10:26:37.400Z,45.9891667,-111.8473333,18.14,-0.59,md,6,225,0.153,0.11,mb,mb80548354,2022-06-09T19:05:17.350Z,"16 km NNE of Cardwell, Montana",earthquake,1.82,1.19,,1,reviewed,mb,mb
 2022-06-09T10:25:13.724Z,61.2545,-149.7826,22.8,1.5,ml,,,,1.07,ak,ak0227cs390s,2022-06-09T10:27:47.481Z,"7 km ENE of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-09T10:17:24.420Z,38.7868347,-122.7770004,2.19,0.36,md,7,125,0.01063,0.02,nc,nc73743256,2022-06-09T11:55:10.601Z,"2km WNW of The Geysers, CA",earthquake,0.59,1.41,,1,automatic,nc,nc
-2022-06-09T10:04:34.770Z,46.8815,-112.53,10.29,1.32,ml,21,64,0.055,0.23,mb,mb80548289,2022-06-09T14:57:14.580Z,"14 km SE of Lincoln, Montana",earthquake,0.51,0.7,0.134,7,reviewed,mb,mb
-2022-06-09T09:59:41.755Z,40.0753,-119.7486,15.4,0.1,ml,5,134.94,0.096,0.1219,nn,nn00840668,2022-06-10T02:38:27.495Z,"18 km NW of Sutcliffe, Nevada",earthquake,,2.5,0.46,3,reviewed,nn,nn
