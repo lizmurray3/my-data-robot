@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T17:16:42.693Z,38.6106,-119.3551,4.1,1.2,ml,12,82.34,0.125,0.1549,nn,nn00840790,2022-06-11T17:21:10.928Z,"California-Nevada border region",earthquake,,4.8,0.1,7,automatic,nn,nn
 2022-06-11T17:05:31.540Z,38.836834,-122.8034973,2.65,0.57,md,11,109,0.01039,0.01,nc,nc73744031,2022-06-11T17:16:10.760Z,"7km WNW of Cobb, CA",earthquake,0.41,0.96,0.28,3,automatic,nc,nc
 2022-06-11T17:01:40.300Z,38.8328323,-122.8081665,1.3,0.85,md,9,96,0.009541,0.02,nc,nc73744026,2022-06-11T17:12:10.726Z,"8km W of Cobb, CA",earthquake,0.39,1.17,,1,automatic,nc,nc
-2022-06-11T17:00:24.680Z,37.5495,-118.8633333,3.73,1.35,md,22,170,0.04875,0.05,nc,nc73744021,2022-06-11T18:33:13.240Z,"14km SE of Mammoth Lakes, CA",earthquake,0.38,0.74,0.106,17,reviewed,nc,nc
+2022-06-11T17:00:24.680Z,37.5495,-118.8633333,3.73,1.35,md,22,170,0.04875,0.05,nc,nc73744021,2022-06-11T20:53:17.059Z,"14km SE of Mammoth Lakes, CA",earthquake,0.38,0.74,0.106,17,reviewed,nc,nc
 2022-06-11T16:47:40.100Z,33.913,-116.8713333,9.39,0.71,ml,21,55,0.1003,0.19,ci,ci40038511,2022-06-11T16:51:14.033Z,"2km SSE of Banning, CA",earthquake,0.4,1.24,0.093,17,automatic,ci,ci
 2022-06-11T16:41:10.882Z,-7.6981,-13.7872,10,4.7,mb,,123,0.613,0.72,us,us7000hgrr,2022-06-11T17:05:53.040Z,"73 km ENE of Georgetown, Saint Helena",earthquake,3,1.9,0.117,22,reviewed,us,us
 2022-06-11T16:38:33.852Z,63.5986,-150.6815,0,1.1,ml,,,,1.07,ak,ak0227g6tdi7,2022-06-11T16:41:20.561Z,"52 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -107,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T08:24:07.178Z,32.40142822,-101.598347,13.5723877,2.9,ml,10,94,0.1974227172,0.1,tx,tx2022liuq,2022-06-11T09:40:46.504Z,"western Texas",earthquake,1.357160701,2.253064249,0.1,8,reviewed,tx,tx
 2022-06-11T08:06:53.501Z,-7.9872,-13.675,10,4.8,mb,,138,0.68,0.67,us,us7000hgpe,2022-06-11T08:30:31.040Z,"81 km E of Georgetown, Saint Helena",earthquake,7.9,1.9,0.116,23,reviewed,us,us
 2022-06-11T08:03:09.090Z,19.1946659088135,-155.49299621582,36.0499992370605,1.76999998,md,40,68,,0.170000002,hv,hv73040862,2022-06-11T08:06:17.050Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.65,1.16999996,0.879999995,8,automatic,hv,hv
-2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"Puerto Rico region",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
+2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"2 km SW of Indios, Puerto Rico",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
 2022-06-11T07:45:02.360Z,17.9893333333333,-66.977,6.84,2.14,md,4,174,,0.08,pr,pr71353488,2022-06-11T08:08:08.130Z,"6 km W of Fuig, Puerto Rico",earthquake,1.8,1.39,0.0305241230336799,3,reviewed,pr,pr
 2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:41:59.860Z,18.009,-66.8258333333333,14.71,2.76,md,6,157,,0.11,pr,pr71353483,2022-06-11T10:39:02.137Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.44,0.91,0.170971430842863,3,reviewed,pr,pr
@@ -189,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T21:30:55.220Z,38.7563324,-122.7131653,1.86,1.37,md,18,76,0.01055,0.06,nc,nc73743741,2022-06-11T00:27:11.220Z,"3km SW of Anderson Springs, CA",earthquake,0.29,0.38,0.06,6,automatic,nc,nc
 2022-06-10T21:17:10.550Z,49.324,-120.4535,-0.49,1.85,ml,9,208,0.5418,0.45,uw,uw61841537,2022-06-11T00:00:46.940Z,"15 km SSE of Princeton, Canada",explosion,2.22,31.61,0.11967269231186539,5,reviewed,uw,uw
 2022-06-10T21:15:07.460Z,33.717,-116.75,17.02,0.66,ml,13,187,0.03189,0.09,ci,ci40038135,2022-06-10T21:41:03.179Z,"4km SW of Idyllwild, CA",earthquake,0.3,0.33,0.192,9,reviewed,ci,ci
-2022-06-10T20:53:25.970Z,53.8475,-166.6402,8.5,-0.1,ml,,,,0.06,ak,ak0227elqyk5,2022-06-11T10:47:56.099Z,"7 km WSW of Unalaska, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-06-10T20:51:21.283Z,27.6539,85.3923,13.94,3.6,mb,,155,0.176,0.68,us,us7000hgnj,2022-06-11T15:43:42.566Z,"2 km S of Madhyapur Thimi, Nepal",earthquake,7.3,5.9,0.151,11,reviewed,us,us
