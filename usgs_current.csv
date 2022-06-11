@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T12:05:02.900Z,38.8330002,-122.8071671,2.24,0.82,md,18,49,0.009856,0.01,nc,nc73743966,2022-06-11T12:22:14.006Z,"7km W of Cobb, CA",earthquake,0.23,0.57,0.28,3,automatic,nc,nc
+2022-06-11T11:56:27.319Z,60.3186,-152.4747,97.7,1.4,ml,,,,0.51,ak,ak0227g3y1uz,2022-06-11T11:58:18.687Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-11T11:53:45.470Z,19.3301658630371,-155.257507324219,28.0499992370605,1.88999999,md,39,82,,0.159999996,hv,hv73041032,2022-06-11T11:56:59.070Z,"12 km S of Volcano, Hawaii",earthquake,0.5,0.649999976,1.38999999,14,automatic,hv,hv
 2022-06-11T11:38:14.488Z,64.4626,-147.3558,0,0.9,ml,,,,1.06,ak,ak0227g3u5zl,2022-06-11T11:40:45.321Z,"22 km WSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-11T11:32:33.070Z,34.5003333,-118.3386667,4.52,1.06,ml,21,54,0.07617,0.14,ci,ci40038335,2022-06-11T11:36:04.260Z,"1km WNW of Agua Dulce, CA",earthquake,0.26,0.54,0.198,25,automatic,ci,ci
 2022-06-11T11:31:25.650Z,60.8689,-149.3137,60.8,1.5,ml,,,,1.3,ak,ak0227g3sotx,2022-06-11T11:33:33.485Z,"6 km ESE of Sunrise, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -101,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T21:17:10.550Z,49.324,-120.4535,-0.49,1.85,ml,9,208,0.5418,0.45,uw,uw61841537,2022-06-11T00:00:46.940Z,"15 km SSE of Princeton, Canada",explosion,2.22,31.61,0.11967269231186539,5,reviewed,uw,uw
 2022-06-10T21:15:07.460Z,33.717,-116.75,17.02,0.66,ml,13,187,0.03189,0.09,ci,ci40038135,2022-06-10T21:41:03.179Z,"4km SW of Idyllwild, CA",earthquake,0.3,0.33,0.192,9,reviewed,ci,ci
 2022-06-10T20:53:25.970Z,53.8475,-166.6402,8.5,-0.1,ml,,,,0.06,ak,ak0227elqyk5,2022-06-11T10:47:56.099Z,"7 km WSW of Unalaska, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-06-10T20:51:21.283Z,27.6539,85.3923,13.94,3.6,mb,,155,0.176,0.68,us,us7000hgnj,2022-06-11T05:35:34.088Z,"2 km S of Madhyapur Thimi, Nepal",earthquake,7.3,5.9,0.151,11,reviewed,us,us
+2022-06-10T20:51:21.283Z,27.6539,85.3923,13.94,3.6,mb,,155,0.176,0.68,us,us7000hgnj,2022-06-11T12:14:01.264Z,"2 km S of Madhyapur Thimi, Nepal",earthquake,7.3,5.9,0.151,11,reviewed,us,us
 2022-06-10T20:43:10.200Z,-39.3049,-74.7988,10,4.5,mb,,152,1.206,0.94,us,us7000hgli,2022-06-10T22:00:11.040Z,"134 km WNW of Corral, Chile",earthquake,7.7,1.7,0.14,15,reviewed,us,us
 2022-06-10T20:39:39.820Z,38.5198333,-122.4293333,9.85,1.17,md,13,72,0.0903,0.07,nc,nc73743731,2022-06-11T08:36:14.672Z,"4km ENE of Saint Helena, CA",earthquake,0.23,0.8,0.237,16,reviewed,nc,nc
 2022-06-10T20:24:21.459Z,40.0918,-119.4598,10.3,0.5,ml,3,240.76,0.223,0.086,nn,nn00840768,2022-06-11T02:38:20.730Z,"19 km NE of Sutcliffe, Nevada",earthquake,,21,0.12,3,reviewed,nn,nn
@@ -182,7 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T13:03:36.110Z,51.8375,-172.4642,15.9,1.8,ml,,,,0.79,ak,ak0227eha994,2022-06-10T13:27:56.864Z,"125 km ESE of Atka, Alaska",earthquake,,266.3,,,reviewed,ak,ak
 2022-06-10T13:02:00.540Z,46.8968333,-112.5006667,7,0.69,ml,6,121,0.048,0.04,mb,mb80548469,2022-06-10T16:43:55.390Z,"15 km ESE of Lincoln, Montana",earthquake,0.91,1.39,0.174,2,reviewed,mb,mb
 2022-06-10T12:38:04.600Z,34.1535,-117.4321667,6.26,1.3,ml,61,29,0.0392,0.17,ci,ci40037911,2022-06-10T18:30:52.150Z,"7km NNE of Fontana, CA",earthquake,0.16,0.41,0.154,23,reviewed,ci,ci
-2022-06-10T12:28:34.170Z,35.6041667,-117.401,6.56,1.94,ml,28,50,0.08445,0.13,ci,ci40037887,2022-06-10T18:19:39.030Z,"18km S of Trona, CA",earthquake,0.19,0.61,0.113,25,reviewed,ci,ci
-2022-06-10T12:14:12.650Z,17.696,-67.104,6.96,2.57,md,3,349,,0.06,pr,pr71353383,2022-06-11T04:09:41.355Z,"31 km S of La Parguera, Puerto Rico",earthquake,5.18,8.17,0.118362908889155,2,reviewed,pr,pr
-2022-06-10T12:08:01.784Z,-0.172,122.8886,86.48,4.7,mb,,51,0.871,0.56,us,us7000hgga,2022-06-10T12:27:56.040Z,"80 km SSW of Gorontalo, Indonesia",earthquake,6.2,4.7,0.076,53,reviewed,us,us
-2022-06-10T12:04:40.000Z,61.5266,-146.4246,33.3,1.3,ml,,,,0.6,ak,ak0227egp0ps,2022-06-10T12:07:47.247Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
