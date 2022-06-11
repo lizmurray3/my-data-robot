@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T11:04:52.330Z,17.9953333333333,-66.8828333333333,15.26,2.17,md,7,91,,0.08,pr,pr71353533,2022-06-11T11:20:56.370Z,"2 km NNE of Maria Antonia, Puerto Rico",earthquake,0.65,0.75,0.0777645484056839,4,reviewed,pr,pr
 2022-06-11T10:58:25.710Z,33.638,-116.6743333,6.98,0.21,ml,9,121,0.06597,0.17,ci,ci40038303,2022-06-11T11:02:06.310Z,"9km N of Anza, CA",earthquake,0.49,1.2,0.221,5,automatic,ci,ci
 2022-06-11T10:47:37.970Z,40.8656667,-122.173,11.95,1.36,md,8,200,0.1241,0.09,nc,nc73743951,2022-06-11T17:54:11.024Z,"21km WNW of Round Mountain, CA",earthquake,1.13,1.71,0.261,7,reviewed,nc,nc
-2022-06-11T09:56:48.500Z,38.889,-123.2463333,0.52,1.36,md,12,59,0.02815,0.05,nc,nc73743941,2022-06-11T17:49:11.163Z,"17km SE of Boonville, CA",earthquake,0.25,0.52,0.137,13,reviewed,nc,nc
+2022-06-11T09:56:48.500Z,38.889,-123.2463333,0.52,1.36,md,12,59,0.02815,0.05,nc,nc73743941,2022-06-11T18:55:12.368Z,"17km SE of Boonville, CA",earthquake,0.25,0.52,0.137,13,reviewed,nc,nc
 2022-06-11T09:48:08.395Z,36.6219,-115.6291,7.4,1.3,ml,21,135.78,0.305,0.2262,nn,nn00840779,2022-06-11T09:51:37.922Z,"6 km NNE of Indian Springs, Nevada",earthquake,,1.1,0.31,15,automatic,nn,nn
 2022-06-11T09:47:40.670Z,17.8915,-66.9431666666667,11.39,2.25,md,6,242,,0.09,pr,pr71353528,2022-06-11T10:21:44.790Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.81,0.59,0.024879346498887,2,reviewed,pr,pr
 2022-06-11T09:42:55.311Z,-65.1963,177.8779,10,5.7,mww,,112,13.15,0.67,us,us7000hgq1,2022-06-11T11:46:26.689Z,"Balleny Islands region",earthquake,6.8,1.9,0.098,10,reviewed,us,us
@@ -93,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T08:24:07.178Z,32.40142822,-101.598347,13.5723877,2.9,ml,10,94,0.1974227172,0.1,tx,tx2022liuq,2022-06-11T09:40:46.504Z,"western Texas",earthquake,1.357160701,2.253064249,0.1,8,reviewed,tx,tx
 2022-06-11T08:06:53.501Z,-7.9872,-13.675,10,4.8,mb,,138,0.68,0.67,us,us7000hgpe,2022-06-11T08:30:31.040Z,"81 km E of Georgetown, Saint Helena",earthquake,7.9,1.9,0.116,23,reviewed,us,us
 2022-06-11T08:03:09.090Z,19.1946659088135,-155.49299621582,36.0499992370605,1.76999998,md,40,68,,0.170000002,hv,hv73040862,2022-06-11T08:06:17.050Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.65,1.16999996,0.879999995,8,automatic,hv,hv
-2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"Puerto Rico region",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
+2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"2 km SW of Indios, Puerto Rico",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
 2022-06-11T07:45:02.360Z,17.9893333333333,-66.977,6.84,2.14,md,4,174,,0.08,pr,pr71353488,2022-06-11T08:08:08.130Z,"6 km W of Fuig, Puerto Rico",earthquake,1.8,1.39,0.0305241230336799,3,reviewed,pr,pr
 2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:41:59.860Z,18.009,-66.8258333333333,14.71,2.76,md,6,157,,0.11,pr,pr71353483,2022-06-11T10:39:02.137Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.44,0.91,0.170971430842863,3,reviewed,pr,pr
