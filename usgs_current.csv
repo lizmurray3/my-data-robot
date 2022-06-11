@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T06:44:58.560Z,33.9768333,-117.1508331,16.5,1.23,ml,13,170,0.1235,0.15,ci,ci40038255,2022-06-11T06:47:04.446Z,"9km NE of Moreno Valley, CA",earthquake,0.78,0.94,0.172,6,automatic,ci,ci
 2022-06-11T06:01:59.096Z,39.0345,-119.7081,10.5,1.2,ml,14,55.05,0.1,0.1313,nn,nn00840773,2022-06-11T06:05:15.705Z,"1 km SE of Johnson Lane, Nevada",earthquake,,0.6,0.39,11,automatic,nn,nn
 2022-06-11T05:32:17.910Z,37.5429993,-118.8779984,6.29,1.77,md,19,109,0.06094,0.02,nc,nc73743886,2022-06-11T06:07:12.691Z,"14km SE of Mammoth Lakes, CA",earthquake,0.31,0.97,0.15,20,automatic,nc,nc
 2022-06-11T05:30:23.150Z,19.1765003204346,-155.497161865234,34.5400009155273,2.02,ml,36,88,,0.119999997,hv,hv73040732,2022-06-11T05:35:53.700Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.790000021,5.16,5,automatic,hv,hv
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T00:19:21.870Z,40.6466675,-122.4191666,22.27,1.78,md,8,156,0.08036,0.1,nc,nc73743776,2022-06-11T03:52:10.949Z,"6km SW of Shasta Lake, CA",earthquake,1.18,1.35,0.14,6,automatic,nc,nc
 2022-06-11T00:13:28.090Z,17.9751666666667,-66.8785,10.33,2.2,md,8,190,,0.12,pr,pr71353438,2022-06-11T00:23:52.180Z,"1 km ESE of Maria Antonia, Puerto Rico",earthquake,0.5,0.54,0.229793769030612,6,reviewed,pr,pr
 2022-06-11T00:09:06.318Z,64.3478,-150.9744,12.3,1.1,ml,,,,0.62,ak,ak0227fx45xj,2022-06-11T00:10:54.049Z,"74 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-11T00:03:12.090Z,46.189166666666665,-120.35433333333333,12.47,2.41,ml,31,93,0.1494,0.13,uw,uw61850311,2022-06-11T00:26:37.040Z,"18 km WSW of Satus, Washington",earthquake,0.25,1.35,0.16453003091207008,19,reviewed,uw,uw
+2022-06-11T00:03:12.090Z,46.189166666666665,-120.35433333333333,12.47,2.41,ml,31,93,0.1494,0.13,uw,uw61850311,2022-06-11T00:26:37.040Z,"Washington",earthquake,0.25,1.35,0.16453003091207008,19,reviewed,uw,uw
 2022-06-11T00:03:03.442Z,62.9487,-150.3539,10.6,1.4,ml,,,,0.22,ak,ak0227fx2vew,2022-06-11T00:04:49.447Z,"54 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-11T00:02:06.230Z,19.1979999542236,-155.466171264648,35.7799987792969,1.79999995,md,36,100,,0.129999995,hv,hv73040457,2022-06-11T00:05:24.060Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.64,1.00999999,0.49000001,5,automatic,hv,hv
 2022-06-10T23:36:52.770Z,17.9616666666667,-66.9845,8.84,1.93,md,4,196,,0.05,pr,pr71353428,2022-06-11T00:00:01.070Z,"Puerto Rico region",earthquake,0.77,0.91,0.0473311250265518,3,reviewed,pr,pr
@@ -202,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T07:12:13.852Z,37.4714,-116.36,16.5,-0.3,ml,5,279.47,0.309,0.0677,nn,nn00840742,2022-06-11T02:37:59.686Z,"57 km WSW of Rachel, Nevada",earthquake,,9.9,0.83,3,reviewed,nn,nn
 2022-06-10T06:52:45.590Z,17.9075,-67.0278333333333,13.53,2.43,md,6,258,,0.08,pr,pr71353333,2022-06-10T07:05:41.400Z,"7 km SSE of La Parguera, Puerto Rico",earthquake,0.88,0.7,0.0502248324905001,3,reviewed,pr,pr
 2022-06-10T06:48:08.479Z,36.8234,-116.0175,8.2,-0.4,ml,9,149.24,0.061,0.1722,nn,nn00840741,2022-06-11T02:37:58.054Z,"41 km NW of Indian Springs, Nevada",earthquake,,3.1,0.43,6,reviewed,nn,nn
-2022-06-10T06:39:24.389Z,53.1404,-166.7346,28.04,2.8,ml,,207,0.66,0.56,us,us7000hggj,2022-06-11T04:36:29.040Z,"82 km S of Unalaska, Alaska",earthquake,3.9,11.6,0.097,14,reviewed,us,us
