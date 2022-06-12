@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T17:36:49.935Z,61.0914,-151.1093,29.3,1.1,ml,,,,0.63,ak,ak0227huxrep,2022-06-12T17:39:58.892Z,"2 km NNE of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-12T17:16:36.740Z,38.5373344,-122.6135025,7.2,1.76,md,19,127,0.119,0.06,nc,nc73744451,2022-06-12T17:26:10.537Z,"6km SSW of Calistoga, CA",earthquake,0.38,1.11,0.2,12,automatic,nc,nc
 2022-06-12T17:16:17.953Z,61.5439,-146.3815,29,1.5,ml,,,,0.78,ak,ak0227hutemb,2022-06-12T17:18:44.474Z,"46 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-12T17:02:59.670Z,38.7676659,-122.7353363,-0.82,0.38,md,8,92,0.01019,0.26,nc,nc73744441,2022-06-12T17:19:13.490Z,"2km ESE of The Geysers, CA",earthquake,0.65,3.4,,1,automatic,nc,nc
+2022-06-12T17:02:59.670Z,38.7676659,-122.7353363,-0.82,0.38,md,8,92,0.01019,0.26,nc,nc73744441,2022-06-12T17:37:10.611Z,"2km ESE of The Geysers, CA",earthquake,0.65,3.4,,1,automatic,nc,nc
 2022-06-12T16:57:07.806Z,61.8421,-150.0804,35.3,1.1,ml,,,,0.48,ak,ak0227hugql8,2022-06-12T16:59:33.424Z,"10 km NNW of Willow, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2022-06-12T16:55:20.530Z,17.9418333333333,-66.953,18.02,1.93,md,6,215,,0.4,pr,pr71353788,2022-06-12T17:20:04.150Z,"5 km SW of Guánica, Puerto Rico",earthquake,1.78,2.19,0.0326624764940238,4,reviewed,pr,pr
 2022-06-12T16:38:26.990Z,34.2875,-118.4428333,8.82,1.3,ml,26,38,0.03066,0.28,ci,ci40038887,2022-06-12T16:42:07.086Z,"0km W of San Fernando, CA",earthquake,0.43,0.78,0.185,29,automatic,ci,ci
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T18:02:55.556Z,56.0081,-150.0406,10,2.9,ml,,221,2.261,1.33,us,us7000hgs0,2022-06-11T21:20:48.040Z,"224 km SE of Chiniak, Alaska",earthquake,8.3,2,0.055,44,reviewed,us,us
 2022-06-11T17:55:02.162Z,-18.9496,-12.3287,10,5.6,mww,,35,6.95,0.75,us,us7000hgrz,2022-06-11T19:57:49.838Z,"southern Mid-Atlantic Ridge",earthquake,9.2,1.9,0.098,10,reviewed,us,us
 2022-06-11T17:48:47.200Z,38.8338318,-122.80867,2.35,0.74,md,18,51,0.01048,0.02,nc,nc73744051,2022-06-11T17:54:11.163Z,"8km W of Cobb, CA",earthquake,0.24,0.59,0.24,3,automatic,nc,nc
-2022-06-11T17:30:28.310Z,39.2233333,-122.7958333,3.31,1.64,md,20,75,0.09813,0.11,nc,nc73744041,2022-06-11T19:10:14.455Z,"12km ENE of Upper Lake, CA",earthquake,0.19,1.37,0.145,19,reviewed,nc,nc
