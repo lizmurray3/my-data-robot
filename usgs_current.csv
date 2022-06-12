@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-12T06:05:28.680Z,38.8274994,-122.8028336,1.74,0.35,md,9,75,0.006984,0.01,nc,nc73744291,2022-06-12T06:15:10.481Z,"7km NW of The Geysers, CA",earthquake,0.35,1,,1,automatic,nc,nc
+2022-06-12T06:31:52.320Z,19.2426662445068,-155.383499145508,33.6500015258789,2.18,ml,46,142,,0.129999995,hv,hv73041757,2022-06-12T06:37:22.220Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.55,0.800000012,0.38,3,automatic,hv,hv
+2022-06-12T06:28:11.130Z,38.8323326,-122.8073349,1.77,0.85,md,11,93,0.009177,0.02,nc,nc73744306,2022-06-12T06:36:10.596Z,"7km W of Cobb, CA",earthquake,0.31,1.33,,1,automatic,nc,nc
+2022-06-12T06:25:06.860Z,33.671,-116.9201667,14.36,0.79,ml,19,137,0.07291,0.19,ci,ci40038703,2022-06-12T06:28:45.852Z,"9km SSW of Valle Vista, CA",earthquake,0.4,0.7,0.144,21,automatic,ci,ci
+2022-06-12T06:23:19.710Z,36.4623333,-117.8871667,8.36,1.84,ml,14,135,0.111,0.21,ci,ci40038695,2022-06-12T06:26:59.828Z,"21km SE of Lone Pine, CA",earthquake,0.56,1.22,0.15,23,automatic,ci,ci
+2022-06-12T06:05:28.680Z,38.8274994,-122.8028336,1.74,0.35,md,9,75,0.006984,0.01,nc,nc73744291,2022-06-12T06:37:17.603Z,"7km NW of The Geysers, CA",earthquake,0.35,1,,1,automatic,nc,nc
+2022-06-12T05:53:21.590Z,17.9793333333333,-66.96,8,2.78,md,23,183,,0.25,pr,pr71353703,2022-06-12T06:22:09.750Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.52,1.05,0.168064046875241,4,reviewed,pr,pr
 2022-06-12T05:50:12.710Z,18.026,-66.999,19.64,2.55,md,8,147,,0.13,pr,pr71353693,2022-06-12T06:04:50.400Z,"6 km WSW of Liborio Negron Torres, Puerto Rico",earthquake,0.79,0.54,0.205251689854387,5,reviewed,pr,pr
 2022-06-12T05:41:22.990Z,17.9755,-66.9623333333333,4.45,2.71,md,3,193,,0.07,pr,pr71353688,2022-06-12T05:56:57.820Z,"5 km WSW of Fuig, Puerto Rico",earthquake,2.09,1.79,0.0441464750334326,3,reviewed,pr,pr
 2022-06-12T05:40:03.817Z,35.11499786,-95.56256104,2.78894639,2.06,ml,17,99.08476257,0.1157753393,0.4669206048,ok,ok2022lkks,2022-06-12T05:43:56.876Z,"9 km E of Crowder, Oklahoma",earthquake,3.532448946,2.412819183,,13,automatic,ok,ok
@@ -52,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T23:57:36.730Z,47.79066666666667,-123.32416666666667,38.57,2.85,ml,35,56,0.2148,0.21,uw,uw61850651,2022-06-12T00:35:01.340Z,"33 km W of Quilcene, Washington",earthquake,0.5,0.94,0.21020770028741653,6,reviewed,uw,uw
 2022-06-11T23:55:32.350Z,-8.3459,111.4605,111.51,5,mb,,73,1.023,0.95,us,us7000hgtm,2022-06-12T01:27:21.185Z,"40 km SW of Trenggalek, Indonesia",earthquake,7.7,6.5,0.069,69,reviewed,us,us
 2022-06-11T23:47:14.165Z,62.5809,-151.0783,80.6,1.4,ml,,,,0.54,ak,ak0227gb1ans,2022-06-11T23:49:37.486Z,"18 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-06-11T23:43:19.272Z,59.5607,-151.8947,68.6,1.1,ml,,,,0.1,ak,ak0227gb0fzh,2022-06-12T00:46:50.265Z,"16 km WNW of Seldovia Village, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2022-06-11T23:43:19.272Z,59.5607,-151.8947,68.6,1.1,ml,,,,0.1,ak,ak0227gb0fzh,2022-06-12T06:39:34.227Z,"16 km WNW of Seldovia Village, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-06-11T23:37:38.360Z,38.8413315,-122.8238297,1.24,0.76,md,18,88,0.009507,0.04,nc,nc73744221,2022-06-12T01:32:10.835Z,"9km WNW of Cobb, CA",earthquake,0.25,0.41,0.11,4,automatic,nc,nc
 2022-06-11T23:15:37.880Z,18.7601666666667,-68.2958333333333,15.45,3.09,md,15,187,,0.49,pr,pr71353613,2022-06-11T23:33:06.520Z,"22 km NNE of Punta Cana, Dominican Republic",earthquake,1.86,4.49,0.0953862786821451,14,reviewed,pr,pr
 2022-06-11T23:10:01.820Z,33.2423333,-116.1063333,3.19,1.53,ml,40,46,0.1007,0.25,ci,ci40038607,2022-06-11T23:13:47.817Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.29,0.75,0.161,27,automatic,ci,ci
@@ -195,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T07:00:38.390Z,38.7718315,-122.7378311,1.12,0.66,md,11,126,0.0144,0.03,nc,nc73743891,2022-06-11T07:17:17.153Z,"2km ESE of The Geysers, CA",earthquake,0.28,0.45,0.21,3,automatic,nc,nc
 2022-06-11T06:59:36.911Z,4.5719,-82.7061,10,4.2,mb,,164,4.194,0.9,us,us7000hgp2,2022-06-11T07:17:17.040Z,"south of Panama",earthquake,9.8,2,0.216,6,reviewed,us,us
 2022-06-11T06:44:58.230Z,33.992,-117.1775,19.21,0.68,ml,13,148,0.1321,0.29,ci,ci40038255,2022-06-11T06:48:38.621Z,"7km S of Redlands, CA",earthquake,0.72,1.12,0.171,11,automatic,ci,ci
-2022-06-11T06:35:29.966Z,-7.9201,-13.6782,10,5.2,mww,,45,0.675,0.57,us,us7000hgp0,2022-06-11T07:19:44.040Z,"80 km E of Georgetown, Saint Helena",earthquake,6.5,1.9,0.083,14,reviewed,us,us
