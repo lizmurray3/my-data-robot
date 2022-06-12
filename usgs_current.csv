@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T05:22:08.604Z,60.4718,-141.3074,0,2.3,ml,,,,0.87,ak,ak0227hnpgxo,2022-06-12T05:24:09.516Z,"135 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-12T05:09:18.903Z,60.4797,-152.4183,106,1.4,ml,,,,0.49,ak,ak0227hnmpf6,2022-06-12T05:12:03.245Z,"62 km WSW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-12T05:00:50.705Z,62.5729,-149.0861,50.8,1.2,ml,,,,0.87,ak,ak0227hnkufi,2022-06-12T05:02:48.336Z,"54 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-12T04:55:09.960Z,34.477,-119.5911667,0.36,1.21,ml,10,126,0.1085,0.19,ci,ci40038687,2022-06-12T04:58:54.701Z,"6km NE of Montecito, CA",earthquake,0.58,31.61,0.381,9,automatic,ci,ci
