@@ -1,16 +1,19 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-14T21:45:09.210Z,38.786499,-122.767334,2.11,0.36,md,9,130,0.01531,0.02,nc,nc73745416,2022-06-14T21:53:11.221Z,"1km NW of The Geysers, CA",earthquake,0.44,0.75,,1,automatic,nc,nc
+2022-06-14T21:45:09.210Z,38.786499,-122.767334,2.11,0.36,md,9,130,0.01531,0.02,nc,nc73745416,2022-06-14T22:03:19.282Z,"1km NW of The Geysers, CA",earthquake,0.44,0.75,,1,automatic,nc,nc
 2022-06-14T21:36:25.240Z,17.9033333333333,-66.955,9.26,2.28,md,3,260,,0.02,pr,pr71354093,2022-06-14T21:45:44.580Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.37,1.73,0.0381591035313829,3,reviewed,pr,pr
 2022-06-14T21:35:46.790Z,34.9898333,-118.1793333,-0.82,1.38,ml,21,53,0.1179,0.16,ci,ci40040239,2022-06-14T21:44:39.133Z,"7km S of Mojave, CA",earthquake,0.31,31.61,0.099,17,reviewed,ci,ci
+2022-06-14T21:33:38.510Z,37.4275,-118.5166667,12.07,1.42,md,11,94,0.06988,0.05,nc,nc73745411,2022-06-14T22:16:32.067Z,"7km ENE of Round Valley, CA",earthquake,0.36,0.98,0.165,12,reviewed,nc,nc
 2022-06-14T21:09:54.590Z,33.6911667,-116.7363333,16.61,0.93,ml,34,65,0.02719,0.1,ci,ci40040223,2022-06-14T21:38:59.829Z,"6km SSW of Idyllwild, CA",earthquake,0.17,0.26,0.158,19,reviewed,ci,ci
 2022-06-14T21:09:11.040Z,33.2343333,-116.6465,11.93,0.79,ml,24,54,0.03509,0.16,ci,ci40040215,2022-06-14T21:34:11.596Z,"6km SSW of Warner Springs, CA",earthquake,0.26,0.56,0.082,11,reviewed,ci,ci
 2022-06-14T21:04:09.320Z,38.8231659,-122.8079987,3.04,0.84,md,8,96,0.001637,0.01,nc,nc73745386,2022-06-14T21:31:19.088Z,"7km NW of The Geysers, CA",earthquake,0.58,1.91,,1,automatic,nc,nc
+2022-06-14T20:58:29.020Z,35.1533333,-118.3933333,-0.7,1.41,ml,19,43,0.1395,0.19,ci,ci40040183,2022-06-14T22:17:10.841Z,"6km ENE of Tehachapi, CA",quarry blast,0.35,0.91,0.104,6,reviewed,ci,ci
 2022-06-14T20:50:11.420Z,35.9435,-117.674,4.73,1.14,ml,17,86,0.05919,0.09,ci,ci40040167,2022-06-14T21:33:47.169Z,"21km E of Little Lake, CA",earthquake,0.15,0.27,0.204,12,reviewed,ci,ci
+2022-06-14T20:45:30.060Z,35.9401667,-117.6718333,5.24,0.87,ml,12,94,0.05709,0.06,ci,ci40040151,2022-06-14T22:08:12.846Z,"21km E of Little Lake, CA",earthquake,0.15,0.47,0.173,7,reviewed,ci,ci
 2022-06-14T20:44:31.408Z,61.2782,-151.9062,108.8,1.5,ml,,,,0.76,ak,ak0227l7uflg,2022-06-14T20:47:08.488Z,"46 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-14T20:39:31.530Z,43.288333333333334,-124.57666666666667,35.62,2.07,ml,14,214,0.3044,0.29,uw,uw61851611,2022-06-14T21:43:52.090Z,"22 km WSW of Barview, Oregon",earthquake,1.14,2.21,0.18907786147322336,5,reviewed,uw,uw
 2022-06-14T20:35:33.340Z,39.4118333,-110.2861667,-1.94,2.08,ml,13,187,0.03255,0.15,uu,uu60501872,2022-06-14T21:23:38.430Z,"17 km SSE of Sunnyside, Utah",earthquake,0.82,0.95,0.099,4,reviewed,uu,uu
 2022-06-14T20:30:19.210Z,36.9785004,-121.1936646,2.16,2.02,md,4,161,0.1679,0.01,nc,nc73745376,2022-06-14T21:00:21.915Z,"23km NE of Hollister, CA",earthquake,1.03,7.81,0.37,3,automatic,nc,nc
-2022-06-14T20:10:56.530Z,38.8226662,-122.8078308,2.69,1.21,md,29,37,0.001897,0.02,nc,nc73745361,2022-06-14T20:27:23.712Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.04,6,automatic,nc,nc
+2022-06-14T20:10:56.530Z,38.8226662,-122.8078308,2.69,1.21,md,29,37,0.001897,0.02,nc,nc73745361,2022-06-14T22:16:10.367Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.04,6,automatic,nc,nc
 2022-06-14T19:57:40.880Z,35.7083333,-117.5651667,6.28,1.15,ml,24,73,0.1104,0.13,ci,ci40040135,2022-06-14T20:27:35.191Z,"14km NE of Ridgecrest, CA",earthquake,0.19,0.61,0.182,11,reviewed,ci,ci
 2022-06-14T19:57:40.290Z,36.5708333,-118.041,1.64,0.62,ml,4,262,0.1344,0.12,ci,ci37422876,2022-06-14T20:42:35.196Z,"3km ESE of Lone Pine, CA",earthquake,2.35,3.88,0.402,2,reviewed,ci,ci
 2022-06-14T19:50:15.050Z,38.7893333,-122.7340012,1.61,1.06,md,16,107,0.006449,0.03,nc,nc73745356,2022-06-14T20:15:21.643Z,"2km NE of The Geysers, CA",earthquake,0.29,0.49,0.14,4,automatic,nc,nc
@@ -99,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-14T08:04:02.010Z,33.9743333,-118.721,13.5,1.24,ml,21,138,0.0774,0.13,ci,ci40039863,2022-06-14T15:32:53.059Z,"7km SSW of Malibu Beach, CA",earthquake,0.3,0.55,0.15,13,reviewed,ci,ci
 2022-06-14T08:02:06.454Z,60.0814,-152.78,88.7,0.9,ml,,,,0.56,ak,ak0227l0g691,2022-06-14T08:04:07.610Z,"60 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-14T07:59:22.586Z,31.72076869,-104.5221571,5.206079102000001,2.9,ml,17,103,0.03294759216,0.2,tx,tx2022logi,2022-06-14T08:19:59.713Z,"52 km SSW of Whites City, New Mexico",earthquake,1.358067114,0.7802642664,0.2,10,reviewed,tx,tx
+2022-06-14T07:48:20.340Z,39.2925,-123.3421667,5.83,1.21,md,15,101,0.09231,0.07,nc,nc73745206,2022-06-14T22:12:11.341Z,"12km WNW of Redwood Valley, CA",earthquake,0.23,1,0.108,13,reviewed,nc,nc
 2022-06-14T07:44:01.910Z,17.9743333333333,-66.9901666666667,8.78,1.77,md,6,174,,0.07,pr,pr71353998,2022-06-14T07:52:16.060Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.44,0.82,0.0315026281688884,3,reviewed,pr,pr
 2022-06-14T07:37:01.940Z,18.0398333333333,-66.997,8.75,1.92,md,3,226,,0.08,pr,pr71353993,2022-06-14T10:29:22.000Z,"5 km SW of Sabana Grande, Puerto Rico",earthquake,5.39,8.96,0.0113403072305571,3,reviewed,pr,pr
 2022-06-14T07:35:44.771Z,36.4812,71.1634,207.9,4.9,mb,,72,0.797,1,us,us7000hh92,2022-06-14T09:03:49.574Z,"39 km SW of Ashkāsham, Afghanistan",earthquake,6.8,5.4,0.038,219,reviewed,us,us
