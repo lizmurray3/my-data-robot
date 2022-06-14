@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-14T07:44:01.910Z,17.9743333333333,-66.9901666666667,8.78,1.77,md,6,174,,0.07,pr,pr71353998,2022-06-14T07:52:16.060Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.44,0.82,0.0315026281688884,3,reviewed,pr,pr
+2022-06-14T07:35:44.771Z,36.4812,71.1634,207.9,4.9,mb,,72,0.797,1,us,us7000hh92,2022-06-14T07:51:40.040Z,"39 km SW of Ashkāsham, Afghanistan",earthquake,6.8,5.4,0.038,219,reviewed,us,us
 2022-06-14T07:32:39.550Z,38.783165,-122.75,-0.05,0.86,md,9,112,0.01038,0.02,nc,nc73745201,2022-06-14T07:41:11.050Z,"1km NE of The Geysers, CA",earthquake,0.3,0.79,,1,automatic,nc,nc
 2022-06-14T07:29:51.840Z,33.8195,-116.9995,12.32,0.68,ml,19,86,0.1111,0.23,ci,ci40039855,2022-06-14T07:33:25.740Z,"6km NW of San Jacinto, CA",earthquake,0.41,1.16,0.086,15,automatic,ci,ci
 2022-06-14T07:01:36.560Z,18.0038333333333,-66.9991666666667,12.77,1.88,md,3,191,,0.05,pr,pr71353988,2022-06-14T07:39:48.640Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,2.23,1.17,0.0298048809060363,3,reviewed,pr,pr
@@ -219,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T08:04:53.600Z,40.5948333,-122.0756667,16.11,1.46,md,15,70,0.0961,0.19,nc,nc73744856,2022-06-14T01:45:15.058Z,"10km ENE of Millville, CA",earthquake,0.52,1.16,0.096,18,reviewed,nc,nc
 2022-06-13T08:04:02.040Z,38.8146667,-122.8225021,2.64,0.83,md,12,95,0.007793,0.01,nc,nc73744851,2022-06-13T10:03:16.538Z,"7km NW of The Geysers, CA",earthquake,0.4,0.87,0.46,2,automatic,nc,nc
 2022-06-13T07:59:41.390Z,42.3801667,-112.281,1.86,1.2,md,8,135,0.2918,0.15,uu,uu60501652,2022-06-13T18:55:18.330Z,"13 km WSW of Downey, Idaho",earthquake,0.72,31.61,0.378,5,reviewed,uu,uu
-2022-06-13T07:48:28.770Z,35.6231667,-117.4673333,9.61,1.67,ml,24,74,0.1289,0.13,ci,ci40039231,2022-06-13T21:29:19.570Z,"17km SSW of Searles Valley, CA",earthquake,0.2,0.48,0.134,19,reviewed,ci,ci
