@@ -215,9 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T08:45:59.110Z,55.8123,-158.1468,81.9,2.3,ml,,,,0.58,ak,ak0227jd65lz,2022-06-13T09:26:26.040Z,"56 km SSE of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-06-13T08:44:14.740Z,18.6508333333333,-66.4793333333333,63.27,2.79,md,14,227,,0.22,pr,pr71353888,2022-06-13T09:40:26.340Z,"20 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.29,1.5,0.0603519192156541,10,reviewed,pr,pr
 2022-06-13T08:42:45.570Z,38.8139992,-122.8216629,2.42,0.99,md,17,68,0.007793,0.03,nc,nc73744866,2022-06-13T10:58:10.854Z,"7km NW of The Geysers, CA",earthquake,0.3,0.62,0.09,3,automatic,nc,nc
-2022-06-13T08:41:44.260Z,33.5071667,-116.4488333,4.1,0.53,ml,19,126,0.1046,0.17,ci,ci40039279,2022-06-13T16:19:21.467Z,"22km ESE of Anza, CA",earthquake,0.32,0.71,0.13,10,reviewed,ci,ci
-2022-06-13T08:36:37.210Z,33.6665,-116.7341667,13.62,0.69,ml,17,100,0.05098,0.15,ci,ci40039263,2022-06-13T13:16:30.795Z,"8km S of Idyllwild, CA",earthquake,0.41,0.57,0.204,14,reviewed,ci,ci
-2022-06-13T08:34:34.110Z,35.9121667,-117.6771667,7.08,0.96,ml,10,136,0.116,0.13,ci,ci40039271,2022-06-13T16:12:43.093Z,"21km E of Little Lake, CA",earthquake,0.36,1.06,0.156,5,reviewed,ci,ci
-2022-06-13T08:30:27.420Z,35.8783333,-117.6953333,3.85,1.05,ml,9,117,0.08967,0.1,ci,ci40039255,2022-06-13T16:07:35.762Z,"20km ESE of Little Lake, CA",earthquake,0.23,0.88,0.195,3,reviewed,ci,ci
-2022-06-13T08:26:17.823Z,60.863,-152.3652,103.2,0.7,ml,,,,0.62,ak,ak0227jd1zty,2022-06-13T08:29:30.181Z,"61 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-06-13T08:24:20.130Z,51.9933333333333,-174.071333333333,29.94,2.02,ml,5,338,,0.19,av,av91597971,2022-06-14T00:05:35.520Z,"24 km SSE of Atka, Alaska",earthquake,4.65,2.65,0.134957314126006,4,reviewed,av,av
