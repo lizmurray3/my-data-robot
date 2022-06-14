@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-14T18:34:42.887Z,61.9485,-150.8163,63.6,1.7,ml,,,,0.39,ak,ak0227l6lg0w,2022-06-14T18:37:26.106Z,"30 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-14T18:04:13.350Z,17.9475,-66.972,16.57,1.94,md,3,216,,0.03,pr,pr71354088,2022-06-14T18:12:39.910Z,"7 km WSW of Guánica, Puerto Rico",earthquake,2.34,0.9,0.212737719533276,3,reviewed,pr,pr
+2022-06-14T17:56:45.320Z,33.7151667,-117.335,-0.53,0.82,ml,17,94,0.04084,0.17,ci,ci40040087,2022-06-14T18:51:44.541Z,"5km N of Lake Elsinore, CA",quarry blast,0.49,31.61,0.114,11,reviewed,ci,ci
 2022-06-14T17:51:58.700Z,39.2958336,-122.768837,0.53,2.24,md,12,95,0.1292,0.22,nc,nc73745336,2022-06-14T18:24:16.203Z,"19km NE of Upper Lake, CA",earthquake,0.6,16.46,0.09,7,automatic,nc,nc
 2022-06-14T17:51:04.805Z,61.3445,-150.724,43.5,1.7,ml,,,,0.42,ak,ak0227l63knk,2022-06-14T17:53:20.038Z,"24 km SSW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-06-14T17:46:04.990Z,38.7883339,-122.7653351,2.09,0.53,md,11,89,0.01304,0.04,nc,nc73745326,2022-06-14T18:14:13.983Z,"2km NNW of The Geysers, CA",earthquake,0.34,0.78,0.38,2,automatic,nc,nc
@@ -169,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T20:52:40.150Z,38.7985001,-122.8181686,3.07,0.77,md,14,87,0.01346,0.03,nc,nc73745046,2022-06-13T21:17:27.460Z,"6km WNW of The Geysers, CA",earthquake,0.39,0.72,0.4,3,automatic,nc,nc
 2022-06-13T20:51:43.721Z,63.2452,-150.4681,2.8,1.7,ml,,,,1.36,ak,ak0227jkclz8,2022-06-13T20:54:11.516Z,"70 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-13T20:51:08.350Z,19.2001667022705,-155.480331420898,33.7700004577637,1.84000003,md,30,132,,0.150000006,hv,hv73043142,2022-06-13T20:54:17.880Z,"0 km SSW of Pāhala, Hawaii",earthquake,0.69,1.22000003,0.579999983,11,automatic,hv,hv
-2022-06-13T20:50:58.433Z,57.1113,-136.3049,15,3.5,ml,,,,0.77,ak,ak0227jkcfeu,2022-06-14T17:04:59.131Z,"59 km W of Sitka, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2022-06-13T20:50:58.433Z,57.1113,-136.3049,15,3.5,ml,,,,0.77,ak,ak0227jkcfeu,2022-06-14T18:43:41.629Z,"59 km W of Sitka, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2022-06-13T20:50:45.900Z,38.7975006,-122.8168335,3.68,0.49,md,11,90,0.01413,0.02,nc,nc73745041,2022-06-13T21:07:20.396Z,"6km WNW of The Geysers, CA",earthquake,0.48,1.33,0.36,2,automatic,nc,nc
 2022-06-13T20:48:03.543Z,54.3697,-162.2481,35,3.5,ml,,181,0.837,0.73,us,us7000hh5t,2022-06-14T15:36:14.040Z,"77 km S of King Cove, Alaska",earthquake,2.7,2,0.071,26,reviewed,us,us
 2022-06-13T20:38:52.410Z,33.4648333,-116.5248333,10.74,0.9,ml,23,53,0.07119,0.1,ci,ci40039663,2022-06-13T21:27:09.030Z,"17km SE of Anza, CA",earthquake,0.18,0.34,0.19,15,reviewed,ci,ci
@@ -192,6 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T19:30:26.030Z,38.7873344,-122.7678299,2.02,1.47,md,27,80,0.01471,0.04,nc,nc73745016,2022-06-13T21:52:10.670Z,"2km NW of The Geysers, CA",earthquake,0.22,0.39,0.1,8,automatic,nc,nc
 2022-06-13T19:08:21.534Z,-5.9846,147.4001,61.43,4.4,mb,,100,5.068,1.09,us,us7000hh4z,2022-06-14T15:14:07.040Z,"80 km NW of Finschhafen, Papua New Guinea",earthquake,9.4,7.8,0.095,32,reviewed,us,us
 2022-06-13T19:04:27.703Z,59.2342,-153.642,99.5,1.4,ml,,,,0.32,ak,ak0227jjh2he,2022-06-13T19:07:21.411Z,"60 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-06-13T18:49:30.430Z,38.7976685,-122.7503357,2.1,0.45,md,13,96,0.007899,0.03,nc,nc73745011,2022-06-13T19:53:22.927Z,"2km NNE of The Geysers, CA",earthquake,0.31,0.73,0.4,3,automatic,nc,nc
-2022-06-13T18:42:47.701Z,60.0206,-140.2564,0,1.7,ml,,,,0.5,ak,ak0227jj3tna,2022-06-13T18:45:45.255Z,"Southern Yukon Territory, Canada",earthquake,,0.5,,,automatic,ak,ak
-2022-06-13T18:41:45.240Z,51.8828333333333,-177.846333333333,2.33,0.29,ml,4,243,,0.16,av,av91062868,2022-06-14T05:52:57.710Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.86,3.01,0.189112117068035,4,reviewed,av,av
