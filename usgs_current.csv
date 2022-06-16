@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T08:58:13.670Z,35.6906667,-117.4945,13.61,0.85,ml,10,180,0.1072,0.14,ci,ci40041159,2022-06-16T09:01:51.933Z,"12km SW of Searles Valley, CA",earthquake,0.57,0.99,0.095,8,automatic,ci,ci
 2022-06-16T08:54:37.710Z,38.8289986,-122.8014984,1.89,0.85,md,11,76,0.008728,0.01,nc,nc73746111,2022-06-16T09:01:10.951Z,"7km W of Cobb, CA",earthquake,0.35,0.75,,1,automatic,nc,nc
 2022-06-16T08:50:39.770Z,38.8274994,-122.7976685,1.79,1.07,md,19,50,0.01052,0.03,nc,nc73746106,2022-06-16T08:58:10.803Z,"6km W of Cobb, CA",earthquake,0.23,0.56,0.16,2,automatic,nc,nc
-2022-06-16T08:49:44.860Z,38.8226662,-122.7935028,0.93,0.39,md,11,81,0.01296,0.02,nc,nc73746096,2022-06-16T08:58:10.944Z,"6km NNW of The Geysers, CA",earthquake,0.26,0.85,0.3,2,automatic,nc,nc
+2022-06-16T08:49:44.860Z,38.8226662,-122.7935028,0.93,0.39,md,11,81,0.01296,0.02,nc,nc73746096,2022-06-16T09:35:27.024Z,"6km NNW of The Geysers, CA",earthquake,0.26,0.85,0.3,2,automatic,nc,nc
 2022-06-16T08:48:56.620Z,38.8276672,-122.7981644,1.87,2.68,md,62,31,0.01023,0.07,nc,nc73746091,2022-06-16T09:23:29.948Z,"6km W of Cobb, CA",earthquake,0.15,0.2,0.11,53,automatic,nc,nc
 2022-06-16T08:47:45.610Z,35.986,-117.4088333,1.37,1.21,ml,14,119,0.2288,0.13,ci,ci40041151,2022-06-16T08:51:23.767Z,"24km N of Searles Valley, CA",earthquake,0.35,1.1,0.135,12,automatic,ci,ci
 2022-06-16T08:22:35.340Z,33.91,-116.759,18.26,0.72,ml,16,96,0.08263,0.19,ci,ci40041135,2022-06-16T08:26:04.697Z,"3km ESE of Cabazon, CA",earthquake,0.5,0.96,0.141,13,automatic,ci,ci
@@ -251,7 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T09:52:01.116Z,62.1957,-153.248,0,1.6,ml,,,,1.63,ak,ak0227movnqn,2022-06-15T09:54:57.238Z,"99 km WNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-15T09:48:31.660Z,37.7371674,-122.1451645,3.13,1.25,md,9,113,0.02428,0.05,nc,nc73745596,2022-06-15T11:39:15.165Z,"2km NE of San Leandro, CA",earthquake,0.37,0.84,0.18,8,automatic,nc,nc
 2022-06-15T09:46:40.920Z,38.8223343,-122.8115005,1.62,0.84,md,17,45,0.001537,0.02,nc,nc73745591,2022-06-15T11:12:13.979Z,"7km NW of The Geysers, CA",earthquake,0.21,0.59,,1,automatic,nc,nc
-2022-06-15T09:45:05.239Z,32.21282959,-103.1010623,5.404500326,2.6,ml,9,80,0.1090826954,0.2,tx,tx2022lqfh,2022-06-15T16:45:47.707Z,"14 km NE of Jal, New Mexico",earthquake,1.474397607,2.432897774,0.1,7,reviewed,tx,tx
-2022-06-15T09:42:24.990Z,37.7371674,-122.0578308,7.81,1.26,md,12,124,0.00562,0.09,nc,nc73745586,2022-06-15T10:47:23.819Z,"5km NNE of Castro Valley, CA",earthquake,0.57,0.41,0.16,6,automatic,nc,nc
-2022-06-15T09:37:48.553Z,26.4939,54.1159,10,4.1,mb,,122,2.434,0.38,us,us7000hhi3,2022-06-15T14:09:55.132Z,"11 km SE of Kīsh, Iran",earthquake,9.3,1.9,0.109,23,reviewed,us,us
-2022-06-15T09:37:35.190Z,36.5793343,-121.0390015,7.44,1.84,md,15,127,0.0009626,0.14,nc,nc73745581,2022-06-15T10:21:15.668Z,"11km ENE of Pinnacles, CA",earthquake,0.49,0.79,0.13,15,automatic,nc,nc
