@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-18T15:36:47.360Z,36.0211678,-120.5784988,2.9,0.59,md,8,134,0.03593,0.04,nc,nc73747061,2022-06-18T15:49:11.307Z,"19km NW of Parkfield, CA",earthquake,0.46,1.41,0.01,3,automatic,nc,nc
+2022-06-18T16:06:30.435Z,35.0880127,-95.5202179,2.492516279,2.04,ml,15,111.3649292,0.1212614477,0.3681201951,ok,ok2022lwek,2022-06-18T16:08:55.103Z,"14 km WSW of Quinton, Oklahoma",earthquake,4.350444963,3.470465747,,13,automatic,ok,ok
+2022-06-18T15:36:47.360Z,36.0211678,-120.5784988,2.9,0.59,md,8,134,0.03593,0.04,nc,nc73747061,2022-06-18T16:10:15.412Z,"19km NW of Parkfield, CA",earthquake,0.46,1.41,0.01,3,automatic,nc,nc
 2022-06-18T15:31:15.155Z,62.1226,-147.4978,32.7,1.1,ml,,,,0.43,ak,ak0227rqxtwb,2022-06-18T15:33:04.771Z,"26 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-18T15:05:10.272Z,-32.4156,-177.2727,18.77,4.9,mb,,152,3.192,0.91,us,us7000hidx,2022-06-18T15:25:16.040Z,"south of the Kermadec Islands",earthquake,11.7,7.3,0.136,19,reviewed,us,us
 2022-06-18T14:58:18.430Z,61.6822,-147.1749,34.4,1.9,ml,,,,0.32,ak,ak0227rqi6vn,2022-06-18T14:59:25.653Z,"28 km S of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-18T14:56:07.500Z,35.7648333,-117.5613333,6.94,0.93,ml,13,176,0.0587,0.19,ci,ci40286768,2022-06-18T14:59:42.132Z,"14km W of Searles Valley, CA",earthquake,0.79,1.18,0.081,9,automatic,ci,ci
 2022-06-18T14:38:34.878Z,63.2361,-151.0872,2.3,1.2,ml,,,,0.43,ak,ak0227rqdxtr,2022-06-18T14:40:33.056Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-18T14:23:05.122Z,62.4032,-149.5377,47.6,1.9,ml,,,,0.39,ak,ak0227rqansg,2022-06-18T14:25:03.305Z,"29 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-06-18T13:58:40.403Z,31.72641008,-104.5359507,4.820458984,3.7,ml,20,83,0.03232584933,0.3,tx,tx2022lwae,2022-06-18T14:32:15.053Z,"52 km SSW of Whites City, New Mexico",earthquake,2.962653306,1.093543808,0.1,12,reviewed,tx,tx
+2022-06-18T13:58:40.403Z,31.72641008,-104.5359507,4.820458984,3.7,ml,20,83,0.03232584933,0.3,tx,tx2022lwae,2022-06-18T16:01:46.192Z,"52 km SSW of Whites City, New Mexico",earthquake,2.962653306,1.093543808,0.1,12,reviewed,tx,tx
 2022-06-18T13:51:36.890Z,38.7874985,-122.7679977,1.88,0.67,md,14,99,0.01462,0.03,nc,nc73747041,2022-06-18T15:00:16.014Z,"2km NW of The Geysers, CA",earthquake,0.3,0.65,0.14,2,automatic,nc,nc
 2022-06-18T13:46:32.396Z,61.69,-149.4666,35.3,1.2,ml,,,,0.43,ak,ak0227rpu7rb,2022-06-18T13:48:33.531Z,"7 km NNW of Tanaina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-18T13:36:01.617Z,61.9528,-150.975,61.4,1.7,ml,,,,0.46,ak,ak0227rps081,2022-06-18T13:38:33.297Z,"22 km E of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -189,7 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T16:37:03.040Z,58.563,-154.634833333333,7.08,-0.21,ml,4,212,,0.03,av,av91063273,2022-06-18T07:05:20.170Z,"97 km S of Kokhanok, Alaska",earthquake,0.45,0.78,0.306830609142867,4,reviewed,av,av
 2022-06-17T16:29:21.800Z,31.9926667,-116.1778333,14.34,1.86,ml,20,158,0.1957,0.17,ci,ci40286176,2022-06-17T17:15:43.774Z,"44km ENE of Ensenada, B.C., MX",earthquake,0.36,0.61,0.33,6,reviewed,ci,ci
 2022-06-17T16:25:07.310Z,53.8938333333333,-166.892833333333,3.51,0.12,ml,5,186,,0.09,av,av91601481,2022-06-18T07:03:09.570Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.35,1.25,0.111946106895325,5,reviewed,av,av
-2022-06-17T16:02:17.530Z,33.5331667,-116.4495,7.03,0.51,ml,14,109,0.02214,0.1,ci,ci40286152,2022-06-17T19:19:18.545Z,"19km SW of La Quinta, CA",earthquake,0.25,0.5,0.157,8,reviewed,ci,ci
-2022-06-17T16:02:01.380Z,66.4906,-147.0213,1,1.1,ml,,,,1.04,ak,ak0227q3to7d,2022-06-17T16:05:36.186Z,"22 km NE of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-17T15:58:54.277Z,-10.6062,116.0066,36.75,4.4,mb,,65,2.801,0.75,us,us7000hi6g,2022-06-17T17:15:40.040Z,"208 km S of Lembar, Indonesia",earthquake,8.6,7.3,0.123,19,reviewed,us,us
-2022-06-17T15:53:51.970Z,38.8216667,-122.7634964,2.31,0.95,md,13,121,0.01012,0.01,nc,nc73746751,2022-06-17T16:20:12.818Z,"4km W of Cobb, CA",earthquake,0.31,0.69,0.19,3,automatic,nc,nc
