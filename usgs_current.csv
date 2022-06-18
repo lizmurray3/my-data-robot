@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-18T03:59:17.360Z,19.1916675567627,-155.434173583984,33.7299995422363,1.85000002,md,35,146,,0.109999999,hv,hv73047492,2022-06-18T04:02:28.600Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.879999995,0.360000014,9,automatic,hv,hv
 2022-06-18T03:42:06.240Z,34.054,-118.3241667,10.3,1.41,ml,9,142,0.07057,0.23,ci,ci40286464,2022-06-18T03:45:46.416Z,"4km W of MacArthur Park, CA",earthquake,1.98,4.86,0.433,15,automatic,ci,ci
 2022-06-18T03:09:52.542Z,62.2784,-150.9199,65,1.8,ml,,,,0.53,ak,ak0227rjnzrq,2022-06-18T03:11:51.387Z,"25 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-06-18T02:57:31.408Z,23.2455,121.4183,16.46,4.4,mb,,158,0.183,0.86,us,us7000hiac,2022-06-18T03:18:34.040Z,"83 km SSW of Hualien City, Taiwan",earthquake,2.3,3.3,0.24,5,reviewed,us,us
+2022-06-18T02:57:31.408Z,23.2455,121.4183,16.46,4.4,mb,,158,0.183,0.86,us,us7000hiac,2022-06-18T03:18:34.040Z,"Taiwan",earthquake,2.3,3.3,0.24,5,reviewed,us,us
 2022-06-18T02:55:12.010Z,17.971,-66.8351666666667,12.28,2.5,md,6,210,,0.05,pr,pr71354778,2022-06-18T03:15:21.160Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.89,0.54,0.00937862584055971,3,reviewed,pr,pr
 2022-06-18T02:49:51.844Z,-32.1497,-177.7086,10,5.2,mww,,84,2.884,1.31,us,us7000hiab,2022-06-18T05:48:01.040Z,"south of the Kermadec Islands",earthquake,5.1,1.8,0.071,19,reviewed,us,us
 2022-06-18T02:33:32.688Z,61.9692,-149.7865,34.7,1.8,ml,,,,0.59,ak,ak0227rj7ntg,2022-06-18T02:35:29.736Z,"21 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
