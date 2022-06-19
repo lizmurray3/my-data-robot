@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-19T23:32:23.740Z,34.1608333,-117.3568333,13.41,1.18,ml,28,106,0.04573,0.2,ci,ci40287464,2022-06-19T23:35:56.925Z,"1km WNW of Muscoy, CA",earthquake,0.45,0.75,0.247,29,automatic,ci,ci
 2022-06-19T23:07:00.786Z,65.0033,-147.4561,0,1.1,ml,,,,0.55,ak,ak0227tj3gxq,2022-06-19T23:08:05.615Z,"9 km ENE of Fox, Alaska",earthquake,,28.8,,,automatic,ak,ak
 2022-06-19T22:55:02.481Z,63.3307,-153.253,15.4,1.3,ml,,,,0.37,ak,ak0227tisbu0,2022-06-19T22:56:46.242Z,"66 km ENE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-19T22:54:02.890Z,38.8231667,-122.7636667,2.14,0.39,md,13,153,0.008775,0.01,nc,nc73747761,2022-06-19T23:24:12.809Z,"4km W of Cobb, CA",earthquake,0.49,0.46,0.172,2,reviewed,nc,nc
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-19T21:05:38.850Z,38.8388329,-122.8099976,1.98,1.56,md,30,36,0.01535,0.02,nc,nc73747746,2022-06-19T23:22:10.794Z,"8km WNW of Cobb, CA",earthquake,0.18,0.32,0.06,8,automatic,nc,nc
 2022-06-19T20:58:41.770Z,33.5531667,-116.672,6.09,0.39,ml,16,46,0.04937,0.2,ci,ci40287400,2022-06-19T21:02:15.828Z,"0km SE of Anza, CA",earthquake,0.36,0.86,0.148,11,automatic,ci,ci
 2022-06-19T20:45:41.322Z,57.8403,-153.6388,56.6,2.3,ml,,,,0.31,ak,ak0227thjegm,2022-06-19T20:59:41.040Z,"39 km NNE of Larsen Bay, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-06-19T20:44:34.670Z,31.6579,-104.4736,7.94,2.7,ml,,66,0.025,0.29,us,us7000hil0,2022-06-19T20:56:38.040Z,"58 km S of Whites City, New Mexico",earthquake,1.2,6.1,0.059,64,reviewed,us,us
+2022-06-19T20:44:34.670Z,31.6579,-104.4736,7.94,2.7,ml,,66,0.025,0.29,us,us7000hil0,2022-06-19T20:56:38.040Z,"western Texas",earthquake,1.2,6.1,0.059,64,reviewed,us,us
 2022-06-19T20:29:36.801Z,61.5031,-149.8855,31.9,2.2,ml,,,,0.44,ak,ak0227thfyl4,2022-06-19T20:31:04.216Z,"4 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-19T20:26:31.745Z,44.4647,147.9723,105.13,5,mb,,134,3.877,0.75,us,us7000hikw,2022-06-19T20:44:25.040Z,"85 km S of Kuril’sk, Russia",earthquake,8.8,6.8,0.036,242,reviewed,us,us
 2022-06-19T20:25:16.310Z,34.053,-117.2561667,14.37,1.18,ml,32,89,0.0988,0.22,ci,ci40287392,2022-06-19T20:28:50.624Z,"1km NE of Loma Linda, CA",earthquake,0.38,0.85,0.244,29,automatic,ci,ci
