@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-21T18:12:54.215Z,60.16,-152.7329,108.8,2.2,ml,,,,0.41,ak,ak0227wr86ki,2022-06-21T18:16:21.313Z,"60 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-21T18:02:55.670Z,17.9683333333333,-66.847,13.01,2.2,md,3,348,,0.05,pr,pr71355353,2022-06-21T18:11:28.880Z,"4 km SW of Indios, Puerto Rico",earthquake,3.44,0.65,0.084599923460827,4,reviewed,pr,pr
+2022-06-21T17:56:48.120Z,33.0518333,-115.0018333,1.12,1.59,ml,12,75,0.08186,0.24,ci,ci40288648,2022-06-21T18:00:38.768Z,"44km NE of Holtville, CA",earthquake,0.77,1.72,0.294,8,automatic,ci,ci
 2022-06-21T17:42:41.840Z,35.5951667,-117.3863333,7.85,2.26,ml,29,106,0.06244,0.18,ci,ci40288640,2022-06-21T17:53:14.520Z,"19km S of Trona, CA",earthquake,0.32,0.68,0.193,26,automatic,ci,ci
 2022-06-21T17:40:49.987Z,38.1625,-117.8284,6.7,1.4,ml,9,181.45,0.106,0.1649,nn,nn00841382,2022-06-21T17:44:34.602Z,"35 km SE of Mina, Nevada",earthquake,,0.5,0.2,7,automatic,nn,nn
 2022-06-21T17:26:55.010Z,37.6329994,-118.8759995,-0.2,1.66,md,8,142,0.0174,0.02,nc,nc73749106,2022-06-21T17:39:11.209Z,"9km E of Mammoth Lakes, CA",earthquake,0.36,0.56,0.09,9,automatic,nc,nc
@@ -21,12 +24,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T15:18:25.700Z,38.8463326,-122.7786636,0.9,0.86,md,8,191,0.004124,0.02,nc,nc73749081,2022-06-21T15:30:10.374Z,"6km WNW of Cobb, CA",earthquake,0.74,0.8,,1,automatic,nc,nc
 2022-06-21T15:17:34.230Z,38.8465004,-122.7708359,-0.15,0.88,md,13,158,0.005833,0.05,nc,nc73749076,2022-06-21T15:26:11.358Z,"5km WNW of Cobb, CA",earthquake,0.33,0.42,0.01,3,automatic,nc,nc
 2022-06-21T15:15:13.130Z,35.8995,-117.71,9.71,1.23,ml,16,118,0.1006,0.11,ci,ci40288584,2022-06-21T15:18:51.234Z,"18km ESE of Little Lake, CA",earthquake,0.24,0.65,0.199,16,automatic,ci,ci
+2022-06-21T15:14:16.583Z,62.6206,-149.6587,68.5,0.8,ml,,,,0.29,ak,ak0227wpg7va,2022-06-21T18:14:02.094Z,"29 km NE of Chase, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2022-06-21T15:11:50.520Z,19.1468334197998,-155.482498168945,33.1500015258789,1.83000004,md,30,166,,0.189999998,hv,hv73050877,2022-06-21T15:14:52.780Z,"6 km S of Pāhala, Hawaii",earthquake,0.84,0.980000019,0.910000026,3,automatic,hv,hv
 2022-06-21T14:53:59.702Z,26.8049,126.3854,10,4.8,mb,,53,1.686,0.5,us,us7000hj08,2022-06-21T15:51:31.040Z,"144 km WNW of Naha, Japan",earthquake,7,1.9,0.079,54,reviewed,us,us
 2022-06-21T14:28:15.863Z,60.5217,-150.3862,22.3,1.8,ml,,,,0.63,ak,ak0227woxsoi,2022-06-21T14:30:22.911Z,"20 km E of Funny River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-21T14:23:52.807Z,59.0025,-152.4651,82.2,2.1,ml,,,,0.23,ak,ak0227wowsy8,2022-06-21T14:40:13.040Z,"50 km SW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-21T14:20:09.530Z,18.1811,-64.2786,5,3.71,md,22,171,0.6262,0.58,pr,pr2022172000,2022-06-21T16:25:46.040Z,"56 km ESE of Cruz Bay, U.S. Virgin Islands",earthquake,4.49,1.9,0.21,14,reviewed,pr,pr
-2022-06-21T14:16:44.310Z,37.6376648,-118.8846664,-0.57,1.31,md,10,133,0.01177,0.06,nc,nc73749066,2022-06-21T17:53:23.170Z,"8km E of Mammoth Lakes, CA",earthquake,0.28,0.35,0.12,9,automatic,nc,nc
+2022-06-21T14:16:44.310Z,37.6376648,-118.8846664,-0.57,1.31,md,10,133,0.01177,0.06,nc,nc73749066,2022-06-21T18:06:11.241Z,"8km E of Mammoth Lakes, CA",earthquake,0.28,0.35,0.12,9,automatic,nc,nc
 2022-06-21T14:15:27.730Z,38.7753334,-122.7456665,2.34,0.62,md,12,65,0.01054,0.02,nc,nc73749061,2022-06-21T15:08:17.247Z,"1km ESE of The Geysers, CA",earthquake,0.43,0.67,0.5,3,automatic,nc,nc
 2022-06-21T14:15:01.480Z,33.6,-116.8018333,7.95,0.27,ml,15,82,0.03212,0.14,ci,ci40288560,2022-06-21T14:18:40.535Z,"13km WNW of Anza, CA",earthquake,0.48,0.86,0.084,5,automatic,ci,ci
 2022-06-21T14:14:52.910Z,44.4495,-114.1281667,3.33,1.47,ml,11,103,0.092,0.19,mb,mb80549489,2022-06-21T14:32:21.610Z,"10 km SE of Challis, Idaho",earthquake,0.56,0.89,0.33,10,reviewed,mb,mb
@@ -42,6 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T13:29:59.340Z,38.8328323,-122.8034973,1.93,1.17,md,14,61,0.01073,0.01,nc,nc73749021,2022-06-21T15:40:15.561Z,"7km W of Cobb, CA",earthquake,0.25,0.67,,1,automatic,nc,nc
 2022-06-21T13:05:27.100Z,44.5771667,-112.4793333,4.7,0.99,ml,7,136,0.063,0.13,mb,mb80549484,2022-06-21T14:23:38.900Z,"11 km SE of Lima, Montana",earthquake,0.53,1.32,0.226,6,reviewed,mb,mb
 2022-06-21T12:50:02.530Z,19.21266746521,-155.379165649414,31.3600006103516,2.39,ml,42,166,,0.129999995,hv,hv73050807,2022-06-21T12:55:32.580Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.920000017,4.1,5,automatic,hv,hv
+2022-06-21T12:49:32.750Z,37.4523333,-121.788,7.25,0.96,md,27,42,0.03682,0.07,nc,nc73749011,2022-06-21T18:13:34.696Z,"10km NNE of Alum Rock, CA",earthquake,0.21,0.44,0.246,23,reviewed,nc,nc
 2022-06-21T12:42:14.572Z,63.1815,-151.1412,0,1.8,ml,,,,0.71,ak,ak0227wntxe9,2022-06-21T12:45:06.507Z,"49 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-21T12:30:11.362Z,61.972,-144.0581,15.7,0.9,ml,,,,0.86,ak,ak0227wnrckp,2022-06-21T12:32:47.408Z,"54 km ENE of Kenny Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-21T12:10:29.550Z,19.1881675720215,-155.387832641602,32.8300018310547,1.75,md,41,164,,0.109999999,hv,hv73050782,2022-06-21T12:13:38.860Z,"9 km E of Pāhala, Hawaii",earthquake,0.62,0.779999971,0.870000005,3,automatic,hv,hv
@@ -80,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T08:29:22.412Z,-15.4051,-172.8992,40.11,4.7,mb,,88,1.838,0.92,us,us7000hiyl,2022-06-21T08:47:28.040Z,"113 km ENE of Hihifo, Tonga",earthquake,6.9,8.4,0.054,103,reviewed,us,us
 2022-06-21T08:29:21.350Z,37.6551666,-118.8915024,-1.3,1.1,md,8,193,0.01132,0.13,nc,nc73748906,2022-06-21T12:49:10.425Z,"8km ENE of Mammoth Lakes, CA",earthquake,0.53,0.81,0.09,7,automatic,nc,nc
 2022-06-21T08:28:53.900Z,38.828167,-122.8003311,1.11,1.41,md,18,49,0.008979,0.03,nc,nc73748901,2022-06-21T12:23:11.275Z,"7km W of Cobb, CA",earthquake,0.2,0.61,,1,automatic,nc,nc
-2022-06-21T08:25:04.639Z,38.1763,-117.8289,3.7,0.5,ml,8,189.59,0.109,0.0903,nn,nn00841365,2022-06-21T08:30:28.511Z,"34 km SE of Mina, Nevada",earthquake,,12,0.41,3,automatic,nn,nn
+2022-06-21T08:25:04.807Z,38.1755,-117.8272,6.1,0.5,ml,13,181.52,0.11,0.1387,nn,nn00841365,2022-06-21T18:06:56.066Z,"34 km SE of Mina, Nevada",earthquake,,3.4,0.41,3,reviewed,nn,nn
 2022-06-21T08:16:57.420Z,37.6269989,-118.8700027,-0.47,1.21,md,9,128,0.009758,0.05,nc,nc73748891,2022-06-21T11:58:11.123Z,"10km E of Mammoth Lakes, CA",earthquake,0.32,0.43,0.35,9,automatic,nc,nc
 2022-06-21T08:09:59.613Z,-28.0553,-69.2943,10,4.9,mb,,42,0.951,1.71,us,us7000hiyh,2022-06-21T08:40:47.040Z,"127 km SE of Copiapó, Chile",earthquake,3.7,1,0.039,266,reviewed,us,us
 2022-06-21T08:09:31.171Z,63.0877,-150.8808,24.2,1.6,ml,,,,1.37,ak,ak0227wl95ml,2022-06-21T08:12:20.810Z,"65 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -115,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T06:21:02.960Z,19.1975002288818,-155.387832641602,32.6800003051758,2.07999992,md,45,161,,0.119999997,hv,hv73050592,2022-06-21T06:24:08.810Z,"9 km E of Pāhala, Hawaii",earthquake,0.52,0.860000014,1.33000004,24,automatic,hv,hv
 2022-06-21T06:11:15.970Z,17.9286666666667,-66.8433333333333,12.07,2.17,md,10,190,,0.14,pr,pr71355258,2022-06-21T06:24:09.130Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.8,0.49,0.0905384662084215,4,reviewed,pr,pr
 2022-06-21T06:10:09.170Z,33.062,-116.4523333,14.3,0.72,ml,19,79,0.1234,0.21,ci,ci40288448,2022-06-21T06:13:48.786Z,"14km E of Julian, CA",earthquake,0.5,0.94,0.086,10,automatic,ci,ci
-2022-06-21T06:09:36.479Z,38.1583,-118.1943,4.5,0.7,ml,9,160.38,0.261,0.1312,nn,nn00841358,2022-06-21T06:15:18.586Z,"26 km SSW of Mina, Nevada",earthquake,,2.1,0.13,7,automatic,nn,nn
+2022-06-21T06:09:36.730Z,38.1627,-118.1939,5.3,0.6,ml,13,159.33,0.186,0.1088,nn,nn00841358,2022-06-21T17:57:36.178Z,"26 km SSW of Mina, Nevada",earthquake,,4.7,0.12,5,reviewed,nn,nn
 2022-06-21T06:08:27.850Z,33.1475,-116.4108333,10.9,0.96,ml,41,47,0.1205,0.23,ci,ci40288440,2022-06-21T06:12:04.309Z,"12km SSW of Borrego Springs, CA",earthquake,0.27,0.57,0.154,26,automatic,ci,ci
 2022-06-21T05:54:17.170Z,37.3778333,-121.7568333,0.15,0.99,md,20,59,0.01079,0.11,nc,nc73748826,2022-06-21T17:39:11.559Z,"6km ENE of Alum Rock, CA",earthquake,0.27,0.47,0.23,20,reviewed,nc,nc
 2022-06-21T05:48:30.040Z,35.9918333,-117.7471667,5.58,1.13,ml,19,91,0.05089,0.13,ci,ci40288432,2022-06-21T05:52:09.177Z,"16km ENE of Little Lake, CA",earthquake,0.26,0.66,0.221,10,automatic,ci,ci
@@ -201,7 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T23:30:09.220Z,53.8558333333333,-166.643666666667,9.26,0.52,ml,12,150,,0.11,av,av91063528,2022-06-21T06:48:39.870Z,"7 km WSW of Unalaska, Alaska",earthquake,0.32,0.22,0.271617182116423,11,reviewed,av,av
 2022-06-20T23:28:45.870Z,35.029,-117.6745,0.26,1.57,ml,26,70,0.09607,0.29,ci,ci40288320,2022-06-20T23:32:25.656Z,"4km NW of Boron, CA",quarry blast,0.64,31.61,0.252,23,automatic,ci,ci
 2022-06-20T23:26:58.970Z,37.6306667,-118.8731667,-0.82,0.99,md,7,138,0.0142,0.05,nc,nc73748606,2022-06-21T04:53:21.476Z,"9km E of Mammoth Lakes, CA",earthquake,0.43,0.64,0.055,4,reviewed,nc,nc
-2022-06-20T23:21:55.830Z,37.6268333,-118.871,-0.65,1.66,md,10,112,0.0101,0.09,nc,nc73748601,2022-06-21T17:06:11.156Z,"10km E of Mammoth Lakes, CA",earthquake,0.38,0.43,0.182,7,reviewed,nc,nc
+2022-06-20T23:21:55.830Z,37.6268333,-118.871,-0.65,1.66,md,10,112,0.0101,0.09,nc,nc73748601,2022-06-21T18:00:16.207Z,"10km E of Mammoth Lakes, CA",earthquake,0.38,0.43,0.182,7,reviewed,nc,nc
 2022-06-20T23:19:10.770Z,38.7973328,-122.7151642,4.15,0.87,md,7,202,0.02195,0.01,nc,nc73748591,2022-06-20T23:57:15.714Z,"3km SSE of Cobb, CA",earthquake,1.03,1.79,,1,automatic,nc,nc
 2022-06-20T23:19:00.980Z,37.6298332,-118.8730011,-1.03,1.86,md,10,100,0.01345,0.07,nc,nc73748586,2022-06-21T02:49:13.726Z,"9km E of Mammoth Lakes, CA",earthquake,0.3,0.33,0.03,10,automatic,nc,nc
 2022-06-20T23:17:53.460Z,37.4961667,-121.8255,4.05,0.94,md,19,60,0.01919,0.06,nc,nc73748596,2022-06-21T04:41:20.413Z,"10km NE of Milpitas, CA",earthquake,0.23,0.33,0.199,17,reviewed,nc,nc
@@ -252,7 +257,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T20:38:02.800Z,37.6286659,-118.8744965,-0.22,2.48,md,21,107,0.01331,0.05,nc,nc73748441,2022-06-21T17:00:04.742Z,"9km E of Mammoth Lakes, CA",earthquake,0.26,0.23,0.13,19,automatic,nc,nc
 2022-06-20T20:33:14.670Z,19.1665000915527,-155.373001098633,30.4300003051758,2,md,39,175,,0.119999997,hv,hv73050232,2022-06-20T20:36:25.660Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.67,1.12,1.37,18,automatic,hv,hv
 2022-06-20T20:31:25.950Z,44.7888333,-110.8091667,5.68,0.52,md,10,205,0.02944,0.14,uu,uu60502922,2022-06-21T15:30:57.440Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.62,0.77,0.257,5,reviewed,uu,uu
-2022-06-20T20:24:15.830Z,33.1468333,-116.4111667,10.98,1.01,ml,35,52,0.1211,0.23,ci,ci40288184,2022-06-20T20:52:25.545Z,"13km SSW of Borrego Springs, CA",earthquake,0.33,0.62,0.161,27,reviewed,ci,ci
+2022-06-20T20:24:15.790Z,33.147,-116.4168333,11.12,1.09,ml,52,37,0.1209,0.18,ci,ci40288184,2022-06-21T17:57:22.300Z,"13km SSW of Borrego Springs, CA",earthquake,0.18,0.36,0.151,18,reviewed,ci,ci
 2022-06-20T20:23:10.450Z,37.6246667,-118.8731667,-0.66,1.8,md,11,116,0.009893,0.09,nc,nc73748436,2022-06-21T17:50:17.149Z,"9km E of Mammoth Lakes, CA",earthquake,0.39,0.35,0.111,6,reviewed,nc,nc
 2022-06-20T20:19:20.460Z,18.058,-67.0926666666667,16.8,2.53,md,8,141,,0.13,pr,pr71355183,2022-06-20T20:35:45.210Z,"2 km NW of Palmarejo, Puerto Rico",earthquake,0.57,0.66,0.232873609790854,2,reviewed,pr,pr
 2022-06-20T20:01:14.450Z,37.6303329,-118.8748322,-0.99,1.71,md,9,101,0.01474,0.06,nc,nc73748431,2022-06-20T23:58:10.718Z,"9km E of Mammoth Lakes, CA",earthquake,0.27,0.35,0.15,10,automatic,nc,nc
@@ -293,10 +298,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T18:29:38.789Z,59.9945,-152.4911,94,1.1,ml,,,,0.35,ak,ak0227v3sg3a,2022-06-20T18:31:14.918Z,"42 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-20T18:29:26.220Z,54.1918333333333,-165.988166666667,7.2,-0.56,ml,7,150,,0.08,av,av91063523,2022-06-21T06:16:22.640Z,"15 km WNW of Akutan, Alaska",earthquake,0.38,0.4,0.178728785763756,6,reviewed,av,av
 2022-06-20T18:28:34.770Z,40.9688333,-125.2936667,23.67,2.98,md,32,293,0.8767,0.16,nc,nc73748321,2022-06-20T23:29:11.550Z,"96km WNW of Bayview, CA",earthquake,2.5,11.67,0.199,27,reviewed,nc,nc
+2022-06-20T18:27:47.920Z,35.8826667,-117.6776667,7.22,0.28,ml,11,86,0.06876,0.11,ci,ci40288080,2022-06-21T18:15:57.474Z,"22km ESE of Little Lake, CA",earthquake,0.23,0.87,0.229,5,reviewed,ci,ci
 2022-06-20T18:19:32.991Z,59.9822,-152.3538,74.1,1.9,ml,,,,0.48,ak,ak0227v3qahf,2022-06-20T18:21:43.446Z,"34 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-20T18:13:36.490Z,38.8113327,-122.7726669,1.58,0.59,md,10,81,0.006553,0.01,nc,nc73748311,2022-06-20T18:15:11.189Z,"4km NNW of The Geysers, CA",earthquake,0.41,0.81,0.26,2,automatic,nc,nc
-2022-06-20T18:13:17.970Z,38.8095016,-122.7695007,1.08,1.42,md,30,85,0.009509,0.07,nc,nc73748306,2022-06-20T18:26:12.116Z,"4km NNW of The Geysers, CA",earthquake,0.22,0.35,0.04,8,automatic,nc,nc
-2022-06-20T18:11:45.850Z,37.6338348,-118.8758316,-2.03,1.4,md,8,130,0.018,0.05,nc,nc73748301,2022-06-20T22:36:18.244Z,"9km E of Mammoth Lakes, CA",earthquake,0.28,6.55,0.26,8,automatic,nc,nc
-2022-06-20T18:06:39.650Z,37.6355019,-118.8820038,-0.05,1.79,md,17,95,0.01474,0.04,nc,nc73748291,2022-06-20T20:00:16.278Z,"8km E of Mammoth Lakes, CA",earthquake,0.33,0.3,0.1,17,automatic,nc,nc
-2022-06-20T17:59:13.650Z,35.6846667,-117.511,10.52,1.47,ml,23,102,0.1057,0.18,ci,ci40288048,2022-06-20T20:55:20.220Z,"13km SW of Searles Valley, CA",earthquake,0.36,0.76,0.181,21,reviewed,ci,ci
-2022-06-20T17:57:42.070Z,38.8255005,-122.8048325,2.51,1.17,md,9,77,0.004603,0.01,nc,nc73748286,2022-06-20T22:31:11.210Z,"7km NW of The Geysers, CA",earthquake,0.48,1.38,,1,automatic,nc,nc
