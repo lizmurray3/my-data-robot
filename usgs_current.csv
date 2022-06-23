@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-23T14:38:27.990Z,36.0023346,-120.5693359,4.94,1.11,md,15,92,0.02746,0.06,nc,nc73749966,2022-06-23T14:40:02.458Z,"17km NW of Parkfield, CA",earthquake,0.44,0.65,0.1,6,automatic,nc,nc
+2022-06-23T14:38:27.990Z,36.0023346,-120.5693359,4.94,1.11,md,15,92,0.02746,0.06,nc,nc73749966,2022-06-23T14:51:10.459Z,"17km NW of Parkfield, CA",earthquake,0.44,0.65,0.1,6,automatic,nc,nc
 2022-06-23T14:20:03.230Z,61.496,-151.5221,78.7,1.8,ml,,,,0.23,ak,ak0227zzyqyr,2022-06-23T14:21:45.835Z,"46 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-23T14:11:20.969Z,38.2578,-118.4396,4.2,0.7,ml,8,143.41,0.052,0.0421,nn,nn00841542,2022-06-23T14:15:31.343Z,"32 km WSW of Mina, Nevada",earthquake,,4,0.46,5,automatic,nn,nn
-2022-06-23T14:01:45.645Z,53.095,-167.4321,47.71,4.3,mb,,167,0.427,0.78,us,us7000hjlr,2022-06-23T14:15:46.040Z,"97 km E of Nikolski, Alaska",earthquake,5.9,11.1,0.066,66,reviewed,us,us
+2022-06-23T14:01:45.645Z,53.095,-167.4321,47.71,4.3,mb,,167,0.427,0.78,us,us7000hjlr,2022-06-23T14:49:21.564Z,"97 km E of Nikolski, Alaska",earthquake,5.9,11.1,0.066,66,reviewed,us,us
 2022-06-23T13:38:29.450Z,36.6561661,-121.3186646,3.66,2.26,md,27,84,0.04532,0.17,nc,nc73749956,2022-06-23T14:38:10.381Z,"15km S of Tres Pinos, CA",earthquake,0.36,1.43,0.21,25,automatic,nc,nc
 2022-06-23T13:36:34.291Z,61.5214,-149.8267,32.5,1.7,ml,,,,0.61,ak,ak0227zzgt7p,2022-06-23T13:39:24.923Z,"6 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-23T13:23:16.620Z,33.3515,-116.9391667,4.79,0.54,ml,18,54,0.06408,0.15,ci,ci40289672,2022-06-23T13:26:56.668Z,"7km W of Palomar Observatory, CA",earthquake,0.31,0.55,0.08,12,automatic,ci,ci
@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T15:17:49.930Z,43.191,-110.9181667,4.13,2.2,ml,10,199,0.294,0.18,mb,mb80549589,2022-06-22T22:28:44.550Z,"7 km E of Alpine Northeast, Wyoming",earthquake,1.33,2.64,0.238,21,reviewed,mb,mb
 2022-06-22T15:17:27.860Z,44.81,-110.7995,7.32,0.91,md,10,232,0.04228,0.12,uu,uu60503072,2022-06-22T15:29:05.990Z,"20 km SSW of Mammoth, Wyoming",earthquake,1.36,0.7,0.609,6,reviewed,uu,uu
 2022-06-22T15:09:00.191Z,63.1661,-150.5138,97.8,1.3,ml,,,,0.33,ak,ak0227ycygyr,2022-06-22T15:10:49.740Z,"73 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-06-22T14:49:32.713Z,37.1944,-116.3922,10.2,-0.3,ml,5,210.19,0.1,0.1499,nn,nn00841506,2022-06-23T02:40:02.644Z,"45 km NE of Beatty, Nevada",earthquake,,5.2,0.94,4,reviewed,nn,nn
