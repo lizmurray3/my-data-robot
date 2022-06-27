@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T19:53:28.242Z,38.1729,-117.828,4.3,0.9,ml,8,185.49,0.109,0.1276,nn,nn00841770,2022-06-26T19:57:32.002Z,"34 km SE of Mina, Nevada",earthquake,,3.6,0.38,5,automatic,nn,nn
 2022-06-26T19:45:27.840Z,35.8496667,-117.6755,10.7,0.79,ml,8,84,0.07185,0.14,ci,ci40291888,2022-06-26T19:48:54.387Z,"23km ESE of Little Lake, CA",earthquake,0.41,0.82,0.096,8,automatic,ci,ci
 2022-06-26T19:37:06.220Z,33.9608333,-116.6448333,9.83,1.53,ml,49,60,0.06089,0.17,ci,ci40291880,2022-06-26T19:48:03.430Z,"11km NW of Garnet, CA",earthquake,0.2,0.46,0.119,27,automatic,ci,ci
-2022-06-26T19:17:51.013Z,35.9133,-0.3626,10,4.5,mb,,155,1.747,0.76,us,us7000hkfb,2022-06-27T04:31:23.135Z,"13 km NNW of Aïn el Bya, Algeria",earthquake,7.1,1.9,0.096,32,reviewed,us,us
+2022-06-26T19:17:51.013Z,35.9133,-0.3626,10,4.5,mb,,155,1.747,0.76,us,us7000hkfb,2022-06-27T08:52:10.859Z,"13 km NNW of Aïn el Bya, Algeria",earthquake,7.1,1.9,0.096,32,reviewed,us,us
 2022-06-26T19:11:50.286Z,62.6272,-151.3127,82.9,1.7,ml,,,,0.5,ak,ak022851i4no,2022-06-26T19:14:52.292Z,"31 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-06-26T19:09:52.633Z,64.0831,-151.546,0,1.5,ml,,,,0.87,ak,ak022851hpen,2022-06-26T19:11:55.759Z,"43 km ENE of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-26T19:05:11.390Z,18.2648333333333,-68.0501666666667,109.7,3.42,md,15,187,,0.52,pr,pr71356213,2022-06-26T19:42:29.010Z,"51 km SE of Punta Cana, Dominican Republic",earthquake,4.42,2.71,0.0625030261974315,8,reviewed,pr,pr
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T09:01:21.420Z,37.6275,-118.8726667,0.18,-0.14,md,7,130,0.01147,0.02,nc,nc73751176,2022-06-26T20:31:33.375Z,"9km E of Mammoth Lakes, CA",earthquake,0.45,0.4,0.192,5,reviewed,nc,nc
 2022-06-26T08:59:11.290Z,37.6331673,-118.87117,-0.34,1.13,md,8,147,0.01558,0.03,nc,nc73751171,2022-06-26T11:51:15.541Z,"10km E of Mammoth Lakes, CA",earthquake,0.34,0.58,0.11,8,automatic,nc,nc
 2022-06-26T08:58:04.280Z,35.6431667,-118.3205,7.39,0.89,ml,18,85,0.05779,0.17,ci,ci40291632,2022-06-26T13:16:22.920Z,"14km ENE of Lake Isabella, CA",earthquake,0.36,0.77,0.15,11,reviewed,ci,ci
-2022-06-26T08:57:51.120Z,37.6323318,-118.871666,-0.13,1.55,md,10,144,0.01501,0.03,nc,nc73751166,2022-06-26T11:19:18.280Z,"10km E of Mammoth Lakes, CA",earthquake,0.35,0.32,0.12,10,automatic,nc,nc
