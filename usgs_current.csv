@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-29T10:45:28.120Z,38.8296661,-122.7535019,-0.35,1.6,md,29,75,0.01284,0.06,nc,nc73752511,2022-06-29T10:47:04.329Z,"3km WNW of Cobb, CA",earthquake,0.24,0.45,0.08,9,automatic,nc,nc
+2022-06-29T10:49:00.535Z,63.3652,-149.9955,0,1.1,ml,,,,0.38,ak,ak02289uzb2d,2022-06-29T10:50:51.554Z,"52 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-29T10:45:28.120Z,38.8296661,-122.7535019,-0.35,1.6,md,29,75,0.01284,0.06,nc,nc73752511,2022-06-29T10:54:11.097Z,"3km WNW of Cobb, CA",earthquake,0.24,0.45,0.08,9,automatic,nc,nc
 2022-06-29T10:35:06.203Z,38.0387,-118.7362,5.5,1.4,ml,13,86.25,0.28,0.2103,nn,nn00841915,2022-06-29T10:38:36.872Z,"33 km NW of Benton, California",earthquake,,1.6,0.24,7,automatic,nn,nn
 2022-06-29T10:20:22.541Z,58.2285,-134.5752,12.9,2.7,ml,,,,0.73,ak,ak02289ut4zy,2022-06-29T10:29:25.040Z,"12 km SW of Juneau, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-29T10:10:03.710Z,18.0526666666667,-66.8706666666667,7.45,1.69,md,3,287,,0.13,pr,pr71356623,2022-06-29T10:36:10.250Z,"2 km NW of Yauco, Puerto Rico",earthquake,3.15,2.47,0.208960829842877,3,reviewed,pr,pr
