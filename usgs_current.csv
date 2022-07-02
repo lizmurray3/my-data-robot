@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-02T07:45:33.100Z,33.6093333,-116.7366667,12.48,0.5,ml,18,73,0.02771,0.14,ci,ci40295280,2022-07-02T07:49:08.477Z,"8km NW of Anza, CA",earthquake,0.35,0.54,0.196,11,automatic,ci,ci
 2022-07-02T07:35:42.750Z,33.6056667,-116.7376667,11.85,0.94,ml,38,50,0.02509,0.18,ci,ci40295272,2022-07-02T07:39:22.004Z,"8km NW of Anza, CA",earthquake,0.23,0.43,0.182,25,automatic,ci,ci
 2022-07-02T07:26:48.840Z,34.0036667,-116.7616667,13.48,0.69,ml,18,97,0.04953,0.23,ci,ci40295264,2022-07-02T07:30:26.449Z,"10km NNE of Cabazon, CA",earthquake,0.41,0.81,0.083,17,automatic,ci,ci
 2022-07-02T07:22:42.310Z,33.0945,-116.5785,14.13,0.64,ml,17,151,0.1193,0.13,ci,ci40295256,2022-07-02T07:26:19.059Z,"3km NE of Julian, CA",earthquake,0.36,0.77,0.064,10,automatic,ci,ci
@@ -212,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T08:10:52.480Z,40.736,-112.0526667,10.3,1.31,ml,33,43,0.01564,0.17,uu,uu60504202,2022-07-01T16:31:17.843Z,"5 km NE of Magna, Utah",earthquake,0.29,0.52,0.205,5,reviewed,uu,uu
 2022-07-01T08:02:56.930Z,53.9198333333333,-166.488,12.09,0,ml,5,255,,0.07,av,av91064633,2022-07-01T23:45:22.910Z,"4 km NE of Dutch Harbor, Alaska",earthquake,0.5,0.64,0.269202323268823,5,reviewed,av,av
 2022-07-01T07:55:03.730Z,46.77,-112.1476667,7.36,0.85,ml,11,210,0.127,0.11,mb,mb80550209,2022-07-01T14:23:22.510Z,"Western Montana",earthquake,0.7,1.23,0.214,5,reviewed,mb,mb
-2022-07-01T07:43:15.930Z,35.7485,-117.5681667,8.34,1.05,ml,14,153,0.07121,0.15,ci,ci40294728,2022-07-01T07:46:52.170Z,"15km W of Searles Valley, CA",earthquake,0.4,0.99,0.107,12,automatic,ci,ci
