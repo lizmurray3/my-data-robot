@@ -139,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T16:12:57.080Z,38.8156662,-122.815834,3.48,0.35,md,8,93,0.008933,0.02,nc,nc73753551,2022-07-02T17:02:09.872Z,"7km NW of The Geysers, CA",earthquake,0.56,2.52,,1,automatic,nc,nc
 2022-07-02T16:09:47.400Z,33.2498333,-116.1011667,3.26,0.82,ml,15,58,0.1093,0.24,ci,ci40295512,2022-07-02T16:13:29.158Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.4,0.9,0.098,17,automatic,ci,ci
 2022-07-02T16:05:25.710Z,44.126,-122.89666666666666,9.52,0.92,ml,8,99,0.0961,0.23,uw,uw61848472,2022-07-03T03:47:56.060Z,"13 km NE of Springfield, Oregon",earthquake,0.53,1.69,0.14412782037488225,4,reviewed,uw,uw
-2022-07-02T15:59:56.010Z,34.1685,-80.7256667,1.65,2.09,md,10,63,0.04035,0.42,se,se60155643,2022-07-03T10:34:59.575Z,"6 km E of Elgin, South Carolina",earthquake,1.22,2.03,0.042,8,reviewed,se,se
+2022-07-02T15:59:56.010Z,34.1685,-80.7256667,1.65,2.09,md,10,63,0.04035,0.42,se,se60155643,2022-07-03T11:19:52.787Z,"6 km E of Elgin, South Carolina",earthquake,1.22,2.03,0.042,8,reviewed,se,se
 2022-07-02T15:57:26.040Z,40.2941667,-124.669,14.85,2.62,md,46,234,0.2497,0.17,nc,nc73753546,2022-07-02T22:34:15.800Z,"33km W of Petrolia, CA",earthquake,0.52,0.57,0.109,42,reviewed,nc,nc
 2022-07-02T15:53:11.760Z,18.0405,-66.6536666666667,19.26,2.6,md,31,59,,0.11,pr,pr71357188,2022-07-02T18:03:55.966Z,"4 km NW of Ponce, Puerto Rico",earthquake,0.26,0.18,0.180032858086994,17,reviewed,pr,pr
 2022-07-02T15:45:47.650Z,17.9573333333333,-66.8363333333333,16.2,2.57,md,33,192,,0.23,pr,pr71357178,2022-07-02T18:24:34.040Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.64,0.41,0.209253090155948,20,reviewed,pr,pr
@@ -183,6 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T11:48:28.240Z,36.6206667,-89.5526667,13.72,1.72,md,24,35,0.03261,0.02,nm,nm60401666,2022-07-02T13:29:48.500Z,"4 km NNW of New Madrid, Missouri",earthquake,0.71,0.59,0.081,15,reviewed,nm,nm
 2022-07-02T11:25:27.230Z,33.6718333,-116.7161667,14.28,1.04,ml,38,54,0.03927,0.17,ci,ci40295384,2022-07-02T16:12:05.580Z,"8km S of Idyllwild, CA",earthquake,0.25,0.37,0.195,28,reviewed,ci,ci
 2022-07-02T11:25:25.709Z,62.5857,-152.1912,0,1.4,ml,,,,1.28,ak,ak0228eu1owq,2022-07-02T11:27:24.226Z,"74 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-02T11:17:40.920Z,37.58,-118.8721667,2.89,0.6,md,12,211,0.03564,0.05,nc,nc73753476,2022-07-02T17:19:14.956Z,"11km SE of Mammoth Lakes, CA",earthquake,0.74,1.4,0.163,11,reviewed,nc,nc
-2022-07-02T11:15:36.470Z,46.2045,-122.17866666666667,3.32,0.3,ml,13,76,0.006405,0.11,uw,uw61848387,2022-07-02T22:02:25.040Z,"Washington",earthquake,0.47,1.29,0.1537865553915847,7,reviewed,uw,uw
-2022-07-02T11:13:05.974Z,63.796,-147.8566,7.7,0.9,ml,,,,0.67,ak,ak0228etz2sl,2022-07-02T11:15:38.212Z,"52 km E of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
