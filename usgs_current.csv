@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-03T09:29:40.000Z,38.809166,-122.8133316,3.17,0.9,md,22,55,0.01238,0.02,nc,nc73753811,2022-07-03T09:31:16.656Z,"6km NW of The Geysers, CA",earthquake,0.26,0.66,0.27,3,automatic,nc,nc
+2022-07-03T09:39:34.730Z,34.0371667,-117.0445,18.12,0.93,ml,24,56,0.08226,0.25,ci,ci40295768,2022-07-03T09:43:15.746Z,"0km NNW of Yucaipa, CA",earthquake,0.39,0.9,0.247,26,automatic,ci,ci
+2022-07-03T09:37:42.370Z,38.841835,-122.8404999,1.84,0.73,md,18,89,0.005082,0.02,nc,nc73753816,2022-07-03T09:39:16.629Z,"10km NW of The Geysers, CA",earthquake,0.26,0.42,0.13,4,automatic,nc,nc
+2022-07-03T09:29:40.000Z,38.809166,-122.8133316,3.17,0.9,md,22,55,0.01238,0.02,nc,nc73753811,2022-07-03T09:37:10.680Z,"6km NW of The Geysers, CA",earthquake,0.26,0.66,0.27,3,automatic,nc,nc
 2022-07-03T09:23:56.671Z,61.0263,-147.3052,23.5,1.4,ml,,,,0.57,ak,ak0228ggdt5f,2022-07-03T09:26:21.359Z,"38 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-03T09:12:14.968Z,61.5005,-151.2459,0,2,ml,,,,0.71,ak,ak0228ggbd20,2022-07-03T09:14:10.641Z,"39 km W of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-03T09:03:22.090Z,19.2133331298828,-155.370834350586,33.1399993896484,2.56,ml,47,159,,0.129999995,hv,hv73063537,2022-07-03T09:08:53.160Z,"11 km E of Pāhala, Hawaii",earthquake,0.56,0.75999999,0.85,3,automatic,hv,hv
