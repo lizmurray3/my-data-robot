@@ -125,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T10:55:25.160Z,33.9791667,-116.9613333,15.9,1.48,ml,42,41,0.05981,0.18,ci,ci40297920,2022-07-06T11:06:22.050Z,"6km NNE of Beaumont, CA",earthquake,0.22,0.52,0.127,27,automatic,ci,ci
 2022-07-06T10:48:09.770Z,37.4758333,-118.8466667,5.45,0.69,md,23,132,0.1148,0.05,nc,nc73755296,2022-07-06T11:53:26.346Z,"18km WSW of Toms Place, CA",earthquake,0.24,1.18,0.226,20,reviewed,nc,nc
 2022-07-06T10:43:38.520Z,37.628,-118.8618333,5.37,-0.16,md,10,88,0.009036,0.03,nc,nc73755291,2022-07-06T11:19:53.618Z,"10km E of Mammoth Lakes, CA",earthquake,1.1,0.88,0.224,9,reviewed,nc,nc
+2022-07-06T10:39:08.469Z,37.0661,-117.8935,3.6,0.5,ml,3,312.87,0.259,0.152,nn,nn00842334,2022-07-06T23:34:00.321Z,"36 km ESE of Big Pine, California",earthquake,,8.7,0.52,3,reviewed,nn,nn
 2022-07-06T10:32:19.417Z,60.0552,-148.675,35.4,1.8,ml,,,,0.61,ak,ak0228lfn3zp,2022-07-06T10:35:06.354Z,"36 km W of Chenega, Alaska",earthquake,,6.9,,,automatic,ak,ak
 2022-07-06T10:31:27.370Z,33.5365,-116.4485,6.29,0.57,ml,17,51,0.0231,0.13,ci,ci40297912,2022-07-06T10:35:00.560Z,"19km SW of La Quinta, CA",earthquake,0.22,0.6,0.163,11,automatic,ci,ci
 2022-07-06T10:27:12.340Z,39.3371667,-123.4078333,6.7,1.2,md,12,121,0.1425,0.07,nc,nc73755286,2022-07-06T13:12:16.871Z,"9km SSW of Willits, CA",earthquake,0.39,1.51,0.445,11,reviewed,nc,nc
@@ -256,6 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T23:49:30.840Z,60.9632,-146.8904,27,1.3,ml,,,,0.67,ak,ak0228jzy38c,2022-07-05T23:50:42.812Z,"15 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-05T23:48:26.210Z,38.7711678,-122.7096634,0.77,2.56,md,47,46,0.01525,0.09,nc,nc73755121,2022-07-06T02:39:14.149Z,"2km WSW of Anderson Springs, CA",earthquake,0.19,0.34,0.14,28,automatic,nc,nc
 2022-07-05T23:42:07.130Z,37.5215,-118.8358333,8.54,0.61,md,7,312,0.09968,0.04,nc,nc73755111,2022-07-06T06:55:10.687Z,"14km WSW of Toms Place, CA",earthquake,4.21,2.72,0.056,7,reviewed,nc,nc
-2022-07-05T23:40:09.960Z,17.9981666666667,-66.9718333333333,10.71,2.03,md,6,144,,0.08,pr,pr71357603,2022-07-05T23:53:32.140Z,"5 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,0.38,0.66,0.137115464468879,6,reviewed,pr,pr
-2022-07-05T23:34:18.650Z,39.4281667,-110.3066667,-1.18,1.17,ml,8,196,0.01484,0.13,uu,uu60504582,2022-07-06T15:17:23.740Z,"15 km SSE of Sunnyside, Utah",earthquake,1.24,0.53,0.03,3,reviewed,uu,uu
-2022-07-05T23:30:41.550Z,38.7035,-122.7588333,5.23,0.93,md,27,202,0.007316,0.03,nc,nc73755106,2022-07-06T23:28:15.603Z,"8km S of The Geysers, CA",earthquake,0.28,0.3,0.09,6,reviewed,nc,nc
