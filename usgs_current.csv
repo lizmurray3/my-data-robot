@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-07T11:21:57.660Z,19.412166595459,-155.634994506836,0.340000003576279,2.59,ml,34,89,,0.340000004,hv,hv73067772,2022-07-07T11:27:27.710Z,"24 km ESE of Honaunau-Napoopoo, Hawaii",earthquake,0.64,2.25,3.74,16,automatic,hv,hv
 2022-07-07T11:07:23.128Z,63.0956,-150.345,97.9,1.1,ml,,,,0.09,ak,ak0228n3mkag,2022-07-07T11:08:55.532Z,"70 km NNE of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-07-07T10:54:07.878Z,61.6385,-146.4155,29.1,1.4,ml,,,,0.55,ak,ak0228n3b65v,2022-07-07T10:55:44.768Z,"43 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-07T10:48:53.450Z,40.0827,-119.692,15,1.6,ml,12,121.59,0.093,0.1553,nn,nn00842354,2022-07-07T10:52:11.319Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,0.8,0.18,9,automatic,nn,nn
@@ -16,9 +17,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T09:22:18.730Z,37.5680008,-118.9260025,9.29,1.38,md,17,154,0.06082,0.02,nc,nc73755786,2022-07-07T10:02:13.652Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.4,1.16,0.1,16,automatic,nc,nc
 2022-07-07T09:19:06.280Z,37.5496674,-118.9276657,9.36,2.78,md,20,146,0.07878,0.06,nc,nc73755781,2022-07-07T09:47:18.565Z,"11km SSE of Mammoth Lakes, CA",earthquake,0.61,0.97,0.13,30,automatic,nc,nc
 2022-07-07T09:06:26.120Z,37.566,-118.9273333,8.63,0.33,md,16,155,0.06304,0.03,nc,nc73755771,2022-07-07T09:48:10.571Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.32,0.85,0.232,15,reviewed,nc,nc
-2022-07-07T09:05:39.311Z,61.2517,-149.2586,28.7,1,ml,,,,0.57,ak,ak0228n2fawb,2022-07-07T09:07:38.130Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-07T09:05:39.311Z,61.2517,-149.2586,28.7,1,ml,,,,0.57,ak,ak0228n2fawb,2022-07-07T09:07:38.130Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-07T09:04:40.770Z,37.6808319,-118.9493332,3.45,0.92,md,10,206,0.05531,0.34,nc,nc73755766,2022-07-07T09:47:17.566Z,"6km NNE of Mammoth Lakes, CA",earthquake,3.84,4.38,0.28,9,automatic,nc,nc
-2022-07-07T09:02:25.558Z,60.0779,-152.5107,85.1,1.2,ml,,,,0.31,ak,ak0228n2emor,2022-07-07T09:04:42.549Z,"45 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-07T09:02:25.558Z,60.0779,-152.5107,85.1,1.2,ml,,,,0.31,ak,ak0228n2emor,2022-07-07T09:04:42.549Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-07T08:57:48.530Z,37.565834,-118.9264984,8.83,0.78,md,10,227,0.063,0.02,nc,nc73755761,2022-07-07T09:03:11.454Z,"9km SSE of Mammoth Lakes, CA",earthquake,1.19,1.72,0.13,9,automatic,nc,nc
 2022-07-07T08:57:06.360Z,37.6098328,-122.4873352,9.84,0.96,md,7,214,0.02615,0.03,nc,nc73755756,2022-07-07T09:09:11.493Z,"0km S of Pacifica, CA",earthquake,0.87,1.72,0.09,6,automatic,nc,nc
 2022-07-07T08:51:39.320Z,38.6381683,-122.7276688,5.06,1.61,md,20,107,0.07608,0.07,nc,nc73755751,2022-07-07T11:04:11.996Z,"13km ENE of Healdsburg, CA",earthquake,0.46,1.05,0.09,8,automatic,nc,nc
@@ -44,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T07:13:29.610Z,38.8283348,-122.7546692,1.38,0.54,md,7,152,0.0121,0.01,nc,nc73755711,2022-07-07T07:38:12.777Z,"3km WNW of Cobb, CA",earthquake,0.46,1.31,0.39,2,automatic,nc,nc
 2022-07-07T07:12:22.730Z,38.9691667,-123.3671667,3.04,1.09,md,14,76,0.02329,0.09,nc,nc73755706,2022-07-07T11:10:12.032Z,"4km S of Boonville, CA",earthquake,0.2,0.48,0.098,12,reviewed,nc,nc
 2022-07-07T07:03:57.640Z,37.5675,-118.8608333,2.56,0.08,md,7,283,0.03378,0.02,nc,nc73755701,2022-07-07T08:47:16.235Z,"13km SE of Mammoth Lakes, CA",earthquake,1.75,2.38,0.073,5,reviewed,nc,nc
-2022-07-07T06:54:22.290Z,40.4888333,-124.312,18.96,1.68,md,22,147,0.02353,0.1,nc,nc73755691,2022-07-07T09:38:12.522Z,"10km SSW of Ferndale, CA",earthquake,0.43,0.3,0.205,13,reviewed,nc,nc
+2022-07-07T06:54:22.290Z,40.4888333,-124.312,18.96,1.68,md,22,147,0.02353,0.1,nc,nc73755691,2022-07-07T11:31:12.307Z,"10km SSW of Ferndale, CA",earthquake,0.43,0.3,0.205,13,reviewed,nc,nc
 2022-07-07T06:47:48.480Z,37.5828333,-118.8715,3.08,0.23,md,12,206,0.03443,0.03,nc,nc73755686,2022-07-07T08:54:11.273Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.54,0.85,0.263,10,reviewed,nc,nc
 2022-07-07T06:18:45.860Z,38.8308334,-122.8011703,1.94,0.85,md,8,121,0.01018,0.01,nc,nc73755676,2022-07-07T07:33:13.745Z,"7km W of Cobb, CA",earthquake,0.54,1.46,,1,automatic,nc,nc
 2022-07-07T05:49:26.155Z,61.7194,-152.0983,115.7,1.8,ml,,,,0.54,ak,ak0228n0ayxa,2022-07-07T05:51:44.916Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -145,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T18:32:52.590Z,38.7939987,-122.4226685,8.14,1.64,md,8,179,0.02282,0.07,nc,nc73755436,2022-07-06T20:35:22.482Z,"12km E of Hidden Valley Lake, CA",earthquake,1.57,1.43,0.11,6,automatic,nc,nc
 2022-07-06T18:31:47.572Z,61.189,-146.861,7.9,1.5,ml,,,,0.83,ak,ak0228lkeg4f,2022-07-06T20:04:58.883Z,"28 km WNW of Valdez, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-07-06T18:31:32.730Z,39.4293333,-110.3,-1.7,1.58,md,6,198,0.02013,0.15,uu,uu60504677,2022-07-06T20:41:58.250Z,"15 km SSE of Sunnyside, Utah",earthquake,1.31,1.14,0.191,6,reviewed,uu,uu
-2022-07-06T18:31:23.731Z,10.3979,94.1893,10,4.5,mb,31,178,1.891,0.78,us,us6000i0bz,2022-07-06T20:12:49.040Z,"211 km SE of Port Blair, India",earthquake,10.3,1.9,0.119,21,reviewed,us,us
+2022-07-06T18:31:23.731Z,10.3979,94.1893,10,4.5,mb,31,178,1.891,0.78,us,us6000i0bz,2022-07-06T20:12:49.040Z,"Andaman Islands, India region",earthquake,10.3,1.9,0.119,21,reviewed,us,us
 2022-07-06T18:24:24.825Z,15.8402,-93.5335,105.03,4.1,mb,28,168,1.412,0.57,us,us6000i0bv,2022-07-06T20:07:36.040Z,"4 km S of Tres Picos, Mexico",earthquake,9.3,13.1,0.101,27,reviewed,us,us
 2022-07-06T18:19:03.940Z,19.1823333333333,-155.400666666667,31.58,1.64,md,21,187,,0.12,hv,hv73067047,2022-07-06T21:54:07.750Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.72,0.93,0.116446179313557,13,reviewed,hv,hv
 2022-07-06T18:13:51.850Z,37.0221667,-119.7575,8.14,2.04,md,16,81,0.04803,0.07,nc,nc73755431,2022-07-07T04:20:13.542Z,"6km NW of Friant, CA",earthquake,0.23,0.26,0.323,29,reviewed,nc,nc
