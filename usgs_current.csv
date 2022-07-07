@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T05:05:42.310Z,19.2343330383301,-155.383499145508,32.2900009155273,1.77999997,md,27,147,,0.129999995,hv,hv73067522,2022-07-07T05:08:56.390Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.81,0.99000001,0.0599999987,5,automatic,hv,hv
 2022-07-07T04:54:00.950Z,18.0283333333333,-66.7811666666667,14.56,2.15,md,12,96,,0.25,pr,pr71357903,2022-07-07T06:48:24.090Z,"Puerto Rico region",earthquake,0.57,0.93,0.0795322761569968,9,reviewed,pr,pr
 2022-07-07T04:32:56.290Z,34.0391667,-117.2006667,15.97,1.12,ml,21,88,0.1083,0.18,ci,ci40298808,2022-07-07T04:36:35.359Z,"2km SW of Redlands, CA",earthquake,0.34,0.88,0.206,26,automatic,ci,ci
-2022-07-07T04:21:39.790Z,37.6611667,-118.8946667,-1.27,0.29,md,7,241,0.01082,0.03,nc,nc73755651,2022-07-07T06:38:11.393Z,"8km ENE of Mammoth Lakes, CA",earthquake,0.51,0.46,0.11,7,reviewed,nc,nc
+2022-07-07T04:21:39.790Z,37.6611667,-118.8946667,-1.27,0.29,md,7,241,0.01082,0.03,nc,nc73755651,2022-07-07T07:00:13.534Z,"8km ENE of Mammoth Lakes, CA",earthquake,0.51,0.46,0.11,7,reviewed,nc,nc
 2022-07-07T04:14:45.360Z,38.8208351,-122.833168,14.01,0.7,md,13,113,0.002702,0.13,nc,nc73755646,2022-07-07T05:26:11.969Z,"8km NW of The Geysers, CA",earthquake,2.13,0.78,0.05,3,automatic,nc,nc
 2022-07-07T04:14:23.910Z,17.9966666666667,-67.0056666666667,10.47,2.11,md,16,130,,0.14,pr,pr71357898,2022-07-07T04:38:21.100Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.38,0.67,0.0752649973112756,6,reviewed,pr,pr
 2022-07-07T04:11:00.640Z,17.9476666666667,-66.8471666666667,11.55,2.39,md,29,176,,0.17,pr,pr71357893,2022-07-07T04:28:14.210Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.35,0.33,0.156008912057902,19,reviewed,pr,pr
@@ -223,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T07:25:30.026Z,38.1681,-118.1689,8.1,0.6,ml,15,156.25,0.167,0.1023,nn,nn00842267,2022-07-07T02:39:39.461Z,"25 km SSW of Mina, Nevada",earthquake,,3.3,0.19,4,reviewed,nn,nn
 2022-07-06T07:24:09.874Z,17.1143,-100.0562,41.5,4.1,mb,32,181,1.491,0.69,us,us6000i07t,2022-07-06T10:47:56.842Z,"7 km WNW of Pueblo Viejo, Mexico",earthquake,10.9,15.8,0.041,167,reviewed,us,us
 2022-07-06T07:15:57.399Z,38.5916,-118.5039,9.2,0,ml,6,198.53,0.039,0.0612,nn,nn00842327,2022-07-07T02:40:30.917Z,"12 km NE of Hawthorne, Nevada",earthquake,,4.2,0,1,reviewed,nn,nn
-2022-07-06T07:03:33.728Z,63.0852,-151.5369,0,1.4,ml,,,,1.05,ak,ak0228ldonbw,2022-07-06T07:06:27.001Z,"51 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-06T07:00:47.872Z,38.6405,-118.4283,6.7,0,ml,6,250.65,0.075,0.0714,nn,nn00842326,2022-07-07T02:40:29.882Z,"21 km NE of Hawthorne, Nevada",earthquake,,17.5,0,1,reviewed,nn,nn
-2022-07-06T06:58:39.560Z,18.029,-66.763,11.52,2.32,md,25,81,,0.23,pr,pr71357678,2022-07-06T07:22:09.850Z,"Puerto Rico region",earthquake,0.35,0.39,0.192869934837722,15,reviewed,pr,pr
-2022-07-06T06:56:13.225Z,38.6165,-118.4628,8.7,0.3,ml,8,217.66,0.048,0.0949,nn,nn00842325,2022-07-07T02:40:28.861Z,"17 km NE of Hawthorne, Nevada",earthquake,,2.7,0,1,reviewed,nn,nn
