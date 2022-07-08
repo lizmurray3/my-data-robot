@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-08T09:33:56.840Z,19.1858329772949,-155.498168945312,34.7700004577637,1.70000005,md,34,88,,0.159999996,hv,hv73069037,2022-07-08T09:37:08.490Z,"2 km SW of Pāhala, Hawaii",earthquake,0.58,1.08000004,1.76999998,4,automatic,hv,hv
 2022-07-08T09:18:15.337Z,36.36872482,-98.14455414,2.669282436,1.56,ml,13,101.6350098,0.1879479438,0.2292569229,ok,ok2022ngez,2022-07-08T09:20:30.352Z,"3 km ESE of Meno, Oklahoma",earthquake,3.820517446,3.077648717,,11,automatic,ok,ok
 2022-07-08T09:11:17.217Z,38.1754,-117.8987,7.8,0.6,ml,10,170.32,0.06,0.0963,nn,nn00842409,2022-07-08T09:15:33.572Z,"30 km SE of Mina, Nevada",earthquake,,0.8,0.51,6,automatic,nn,nn
 2022-07-08T09:05:47.450Z,33.2403333,-116.1005,5.19,1.01,ml,33,99,0.1016,0.31,ci,ci40299672,2022-07-08T09:09:17.689Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.43,1.36,0.098,18,automatic,ci,ci
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T09:44:45.545Z,29.02313232,-97.64028033,0.0244547526,2.3,ml,14,68,0.1121327554,0.2,tx,tx2022nekj,2022-07-08T06:36:55.040Z,"11 km NNW of Nordheim, Texas",earthquake,2.261509936,2.807140089,0.1,6,reviewed,tx,tx
 2022-07-07T09:43:31.603Z,60.9918,-147.3658,20.4,1.7,ml,,,,0.41,ak,ak0228n2nfig,2022-07-07T09:45:25.726Z,"39 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-07T09:42:23.500Z,17.9481666666667,-66.9428333333333,7.85,2.01,md,6,217,,0.08,pr,pr71357953,2022-07-07T12:24:16.790Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.65,0.27,0.0148991528441496,5,reviewed,pr,pr
-2022-07-07T09:39:45.750Z,38.7481667,-112.1451667,-0.57,1.42,ml,9,166,0.05218,0.26,uu,uu60504787,2022-07-07T13:52:46.540Z,"5 km WSW of Richfield, Utah",earthquake,0.83,0.63,0.099,6,reviewed,uu,uu
