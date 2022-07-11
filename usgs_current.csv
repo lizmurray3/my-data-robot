@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T08:04:12.693Z,61.9923,-150.5284,16.9,1.2,ml,,,,0.2,ak,ak0228s0fmzz,2022-07-10T08:09:24.947Z,"37 km NW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-10T07:58:53.080Z,37.5516667,-118.9296667,6.09,0.64,md,13,165,0.07727,0.08,nc,nc73757016,2022-07-10T20:14:14.416Z,"10km SSE of Mammoth Lakes, CA",earthquake,0.5,2.19,0.158,12,reviewed,nc,nc
 2022-07-10T07:49:48.832Z,-6.1481,122.9475,44.32,4.8,mb,36,106,2.569,0.4,us,us6000i1cp,2022-07-10T08:15:33.040Z,"142 km SSE of Katabu, Indonesia",earthquake,7.8,3,0.113,31,reviewed,us,us
-2022-07-10T07:34:36.740Z,17.9685,-66.9808333333333,6.61,1.93,md,5,186,,0.12,pr,pr71358623,2022-07-10T08:47:28.980Z,"7 km E of La Parguera, Puerto Rico",earthquake,0.57,1.14,0.0887700027744325,5,reviewed,pr,pr
