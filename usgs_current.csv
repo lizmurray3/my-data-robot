@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T23:13:36.800Z,34.995,-117.6803333,0.29,1.79,ml,12,140,0.06187,0.25,ci,ci40302688,2022-07-12T23:17:19.387Z,"3km W of Boron, CA",quarry blast,0.89,31.61,0.089,36,automatic,ci,ci
 2022-07-12T23:07:12.250Z,18.0178333333333,-66.7456666666667,13.76,1.61,md,8,173,,0.15,pr,pr71359073,2022-07-12T23:14:44.070Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.64,0.46,0.17106652340843,7,reviewed,pr,pr
 2022-07-12T23:01:54.166Z,61.2172,-147.8763,45.6,1.5,ml,,,,0.83,ak,ak0228vkfa48,2022-07-12T23:04:21.490Z,"61 km ESE of Knik River, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2022-07-12T22:56:07.309Z,14.0564,-92.58,35,4.4,mb,78,170,2.073,0.89,us,us6000i1yh,2022-07-12T23:32:24.040Z,"65 km SW of Ocós, Guatemala",earthquake,8.5,2,0.054,98,reviewed,us,us
 2022-07-12T22:50:54.278Z,14.2146,-92.4787,35,4.7,mb,111,170,1.945,0.75,us,us6000i1yg,2022-07-12T23:27:11.368Z,"44 km SW of Brisas Barra de Suchiate, Mexico",earthquake,9.3,2,0.032,294,reviewed,us,us
 2022-07-12T22:48:48.620Z,19.1733341217041,-155.464492797852,32.5900001525879,3.12,ml,45,103,,0.140000001,hv,hv73073737,2022-07-12T23:22:21.979Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.51,0.819999993,3.55,35,automatic,hv,hv
 2022-07-12T22:39:52.140Z,19.1578330993652,-155.464340209961,31.9500007629395,2.24,ml,45,87,,0.159999996,hv,hv73073727,2022-07-12T22:45:22.740Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.58,0.790000021,4.16,5,automatic,hv,hv
@@ -100,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T14:49:35.050Z,38.8911667,-109.2953333,5.99,1.67,md,10,137,0.414,0.14,uu,uu60505362,2022-07-12T16:15:11.000Z,"29 km NNE of Castle Valley, Utah",earthquake,1.13,7.91,0.28,3,reviewed,uu,uu
 2022-07-12T14:44:34.520Z,34.1676667,-117.3138333,6.08,1.06,ml,42,66,0.05833,0.19,ci,ci40302416,2022-07-12T21:15:44.396Z,"3km ENE of Muscoy, CA",earthquake,0.21,0.68,0.117,20,reviewed,ci,ci
 2022-07-12T14:40:36.740Z,34.1736667,-117.3108333,6.69,2.17,ml,96,25,0.03637,0.15,ci,ci40302408,2022-07-12T21:04:05.360Z,"4km NE of Muscoy, CA",earthquake,0.1,0.25,0.13,111,reviewed,ci,ci
-2022-07-12T14:37:38.910Z,39.0245,-123.22,7.26,1.18,md,20,68,0.08669,0.08,nc,nc73757816,2022-07-12T23:04:23.804Z,"13km E of Boonville, CA",earthquake,0.22,0.69,0.187,12,reviewed,nc,nc
+2022-07-12T14:37:38.910Z,39.0245,-123.22,7.26,1.18,md,20,68,0.08669,0.08,nc,nc73757816,2022-07-12T23:29:20.959Z,"13km E of Boonville, CA",earthquake,0.22,0.69,0.187,12,reviewed,nc,nc
 2022-07-12T14:33:42.670Z,33.5863333,-116.8031667,7.75,0.42,ml,23,70,0.03343,0.08,ci,ci40302400,2022-07-12T20:47:40.638Z,"12km WNW of Anza, CA",earthquake,0.17,0.3,0.143,6,reviewed,ci,ci
 2022-07-12T14:24:35.230Z,37.63,-118.8735,0.4,0.56,md,12,119,0.01382,0.05,nc,nc73757811,2022-07-12T17:09:16.540Z,"9km E of Mammoth Lakes, CA",earthquake,0.28,0.39,0.331,10,reviewed,nc,nc
 2022-07-12T14:23:30.070Z,19.4213333333333,-155.326333333333,5.76,0.77,md,19,123,,0.08,hv,hv73073392,2022-07-12T20:51:47.840Z,"9 km WSW of Volcano, Hawaii",earthquake,0.31,0.54,0.108264383023639,4,reviewed,hv,hv
@@ -262,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T23:57:36.630Z,18.9506666666667,-65.2281666666667,22.9,3.34,md,18,266,,0.25,pr,pr71358948,2022-07-12T00:25:19.670Z,"72 km N of Culebra, Puerto Rico",earthquake,1.19,20.36,0.0555199470989094,13,reviewed,pr,pr
 2022-07-11T23:50:37.596Z,62.4542,-149.3083,14.2,0.9,ml,,,,0.48,ak,ak0228tx6efj,2022-07-11T23:53:25.042Z,"40 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-11T23:41:58.850Z,38.8343315,-122.8171692,1.61,1.4,md,26,49,0.01225,0.03,nc,nc73757596,2022-07-12T02:23:16.015Z,"8km NW of The Geysers, CA",earthquake,0.19,0.33,0.06,6,automatic,nc,nc
-2022-07-11T23:33:00.540Z,38.7901649,-122.7369995,1.54,0.47,md,8,101,0.006921,0.01,nc,nc73757591,2022-07-11T23:58:14.214Z,"2km NE of The Geysers, CA",earthquake,0.32,0.71,0.08,2,automatic,nc,nc
-2022-07-11T23:28:14.640Z,35.9043333,-117.6863333,8.72,0.52,ml,8,143,0.07549,0.14,ci,ci37506989,2022-07-12T21:20:17.174Z,"20km E of Little Lake, CA",earthquake,0.49,0.84,0.272,4,reviewed,ci,ci
-2022-07-11T23:27:56.630Z,35.9078333,-117.682,9.02,1.04,ml,21,64,0.07086,0.08,ci,ci40302080,2022-07-12T21:15:52.637Z,"20km E of Little Lake, CA",earthquake,0.12,0.33,0.067,4,reviewed,ci,ci
