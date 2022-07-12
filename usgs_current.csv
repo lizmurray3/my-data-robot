@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-12T09:44:53.980Z,66.1339,-148.8087,5.8,1.3,ml,,,,1.41,ak,ak0228vccffk,2022-07-12T09:47:29.445Z,"19 km NE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-12T09:29:26.470Z,33.4913333,-116.7496667,6.85,0.19,ml,14,83,0.06908,0.18,ci,ci40302272,2022-07-12T09:32:56.079Z,"10km SW of Anza, CA",earthquake,0.45,0.94,0.036,4,automatic,ci,ci
 2022-07-12T09:23:28.955Z,61.7236,-150.0504,31.4,1.8,ml,,,,0.62,ak,ak0228vc7vgf,2022-07-12T09:26:07.335Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-12T09:09:27.176Z,63.588,-147.928,17.1,1.1,ml,,,,0.52,ak,ak0228vc4val,2022-07-12T09:12:17.722Z,"51 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
