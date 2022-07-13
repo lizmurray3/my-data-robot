@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-13T20:44:19.240Z,38.7843323,-122.7343369,1.38,0.98,md,15,82,0.002163,0.02,nc,nc73758356,2022-07-13T20:45:57.003Z,"2km ENE of The Geysers, CA",earthquake,0.25,0.42,0.15,3,automatic,nc,nc
 2022-07-13T20:30:10.632Z,38.7289,-116.0835,11.9,1.6,ml,8,176.87,1.391,0.2418,nn,nn00842829,2022-07-13T20:35:21.470Z,"87 km S of Eureka, Nevada",earthquake,,21.4,0.87,5,automatic,nn,nn
 2022-07-13T20:22:46.663Z,62.7076,-151.7718,0,2.3,ml,,,,0.7,ak,ak0228x6at96,2022-07-13T20:25:00.896Z,"56 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-13T20:19:56.750Z,38.5958328,-122.7068329,3.47,1.9,md,24,89,0.0944,0.09,nc,nc73758341,2022-07-13T20:29:11.394Z,"10km NNE of Larkfield-Wikiup, CA",earthquake,0.33,1.98,0.09,15,automatic,nc,nc
@@ -9,9 +10,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T20:00:54.110Z,32.817,-117.0673333,3.4,0.67,ml,15,96,0.06805,0.19,ci,ci40303232,2022-07-13T20:04:26.277Z,"7km NW of La Mesa, CA",earthquake,0.67,1.66,0.08,4,automatic,ci,ci
 2022-07-13T19:54:54.743Z,63.1537,-150.7233,26.9,1.5,ml,,,,0.9,ak,ak0228x5w96q,2022-07-13T19:56:43.924Z,"66 km SE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-07-13T19:52:35.570Z,38.6845,-116.0935,1.9,2,ml,8,152.81,1.404,0.0944,nn,nn00842824,2022-07-13T19:58:10.594Z,"92 km S of Eureka, Nevada",earthquake,,3.4,0.27,6,automatic,nn,nn
-2022-07-13T19:43:58.070Z,38.8409996,-122.8255005,1.84,0.37,md,10,113,0.008162,0.01,nc,nc73758331,2022-07-13T20:10:14.299Z,"9km WNW of Cobb, CA",earthquake,0.34,0.89,,1,automatic,nc,nc
+2022-07-13T19:43:58.070Z,38.8409996,-122.8255005,1.84,0.37,md,10,113,0.008162,0.01,nc,nc73758331,2022-07-13T20:43:09.466Z,"9km WNW of Cobb, CA",earthquake,0.34,0.89,,1,automatic,nc,nc
 2022-07-13T19:43:27.690Z,38.8414993,-122.8239975,1.57,0.86,md,11,94,0.009432,0.02,nc,nc73758326,2022-07-13T20:42:15.462Z,"9km WNW of Cobb, CA",earthquake,0.3,0.89,,1,automatic,nc,nc
-2022-07-13T19:25:39.250Z,32.6085,-116.977,3.05,1.57,ml,18,242,0.03952,0.18,ci,ci40303208,2022-07-13T19:29:20.653Z,"7km ESE of Chula Vista, CA",quarry blast,1.48,0.55,0.135,10,automatic,ci,ci
+2022-07-13T19:25:39.130Z,32.6075,-116.9825,3.38,1.33,ml,23,127,0.04415,0.16,ci,ci40303208,2022-07-13T20:49:18.408Z,"6km ESE of Chula Vista, CA",quarry blast,0.47,0.33,0.115,10,reviewed,ci,ci
 2022-07-13T19:22:59.880Z,33.3233333,-116.3171667,11.12,0.94,ml,34,65,0.03944,0.17,ci,ci40303216,2022-07-13T20:39:24.123Z,"9km NE of Borrego Springs, CA",earthquake,0.26,0.39,0.124,7,reviewed,ci,ci
 2022-07-13T19:18:54.135Z,41.1414,20.2052,10,4.1,mb,34,43,0.329,0.71,us,us6000i26d,2022-07-13T19:40:27.040Z,"10 km ENE of Elbasan, Albania",earthquake,5.4,2,0.371,2,reviewed,us,us
 2022-07-13T19:13:54.620Z,37.6116676,-118.87117,0.92,0.46,md,7,147,0.0098,0.19,nc,nc73758321,2022-07-13T20:18:15.344Z,"10km ESE of Mammoth Lakes, CA",earthquake,0.93,1.57,0.05,6,automatic,nc,nc
@@ -43,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T16:09:32.350Z,33.3228333,-116.3238333,10.13,1.01,ml,29,48,0.04119,0.16,ci,ci40303088,2022-07-13T18:02:00.142Z,"9km NNE of Borrego Springs, CA",earthquake,0.22,0.4,0.26,4,reviewed,ci,ci
 2022-07-13T16:09:13.710Z,33.3203333,-116.3228333,11.72,0.54,ml,10,138,0.04336,0.08,ci,ci37507021,2022-07-13T17:54:26.774Z,"9km NE of Borrego Springs, CA",earthquake,0.4,0.3,0.039,2,reviewed,ci,ci
 2022-07-13T16:08:43.700Z,33.3968333,-116.4171667,6.75,0.51,ml,4,264,0.09634,0.02,ci,ci37507029,2022-07-13T17:57:20.119Z,"16km NNW of Borrego Springs, CA",earthquake,0.37,0.56,0.126,1,reviewed,ci,ci
-2022-07-13T16:08:16.610Z,36.982666,-121.4691696,4.37,3.06,ml,66,57,0.09444,0.14,nc,nc73758261,2022-07-13T20:40:53.640Z,"9km ESE of Gilroy, CA",earthquake,0.21,0.89,0.26,26,automatic,nc,nc
+2022-07-13T16:08:16.610Z,36.982666,-121.4691696,4.37,3.06,ml,66,57,0.09444,0.14,nc,nc73758261,2022-07-13T20:48:43.566Z,"9km ESE of Gilroy, CA",earthquake,0.21,0.89,0.26,26,automatic,nc,nc
 2022-07-13T16:08:14.930Z,33.3221667,-116.332,11.35,0.69,ml,15,120,0.04426,0.15,ci,ci37507053,2022-07-13T20:13:55.334Z,"8km NNE of Borrego Springs, CA",earthquake,0.33,0.42,0.136,5,reviewed,ci,ci
 2022-07-13T16:07:40.820Z,33.3261667,-116.3218333,10.58,0.8,ml,23,128,0.03753,0.14,ci,ci40303080,2022-07-13T20:22:25.985Z,"9km NNE of Borrego Springs, CA",earthquake,0.21,0.33,0.21,8,reviewed,ci,ci
 2022-07-13T16:07:28.340Z,33.325,-116.3235,11.22,0.57,ml,16,127,0.03904,0.16,ci,ci37507061,2022-07-13T20:21:35.227Z,"9km NNE of Borrego Springs, CA",earthquake,0.28,0.37,0.115,3,reviewed,ci,ci
@@ -87,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T11:59:43.019Z,63.0609,-148.4698,66.9,0.7,ml,,,,0.28,ak,ak0228x15t91,2022-07-13T17:10:10.083Z,"44 km SSE of Cantwell, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-07-13T11:58:55.310Z,33.5221667,-116.5288333,14.39,1.18,ml,41,33,0.03529,0.12,ci,ci40302960,2022-07-13T17:30:49.760Z,"14km ESE of Anza, CA",earthquake,0.13,0.21,0.123,16,reviewed,ci,ci
 2022-07-13T11:54:35.970Z,33.665,-116.676,16.44,0.51,ml,24,68,0.004302,0.15,ci,ci40302944,2022-07-13T17:22:05.725Z,"9km SSE of Idyllwild, CA",earthquake,0.25,0.37,0.135,7,reviewed,ci,ci
-2022-07-13T11:54:06.398Z,38.7993,-116.0064,0,1.8,ml,10,205.83,1.462,0.2636,nn,nn00842804,2022-07-13T11:59:09.653Z,"79 km S of Eureka, Nevada",earthquake,,25.6,0.29,7,automatic,nn,nn
+2022-07-13T11:54:09.109Z,38.6879,-116.1137,3.9,1.7,ml,7,153.07,0.846,0.2173,nn,nn00842804,2022-07-13T20:44:28.258Z,"92 km S of Eureka, Nevada",earthquake,,4.1,0.24,3,reviewed,nn,nn
 2022-07-13T11:49:26.010Z,33.6548333,-116.6848333,14.99,1.77,ml,56,25,0.06128,0.2,ci,ci40302936,2022-07-13T13:20:44.770Z,"10km SSE of Idyllwild, CA",earthquake,0.19,0.4,0.157,26,reviewed,ci,ci
 2022-07-13T11:42:39.460Z,37.6238333,-118.8913333,0.26,0.35,md,13,139,0.009442,0.06,nc,nc73758206,2022-07-13T16:40:15.042Z,"8km E of Mammoth Lakes, CA",earthquake,0.32,0.3,0.235,11,reviewed,nc,nc
 2022-07-13T11:30:23.873Z,63.0547,-150.77,28.3,1.5,ml,,,,0.51,ak,ak0228x0zks3,2022-07-13T11:32:25.384Z,"62 km N of Petersville, Alaska",earthquake,,2.3,,,automatic,ak,ak
@@ -236,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T21:01:47.670Z,33.6895,-116.8045,14.69,1.9,ml,68,27,0.06947,0.19,ci,ci40302648,2022-07-13T13:22:51.180Z,"10km SW of Idyllwild, CA",earthquake,0.19,0.27,0.252,26,reviewed,ci,ci
 2022-07-12T20:58:06.679Z,34.73383333,-96.73383333,0,1.59,ml,27,173,0.07198587392,0.37,ok,ok2022nokc,2022-07-13T15:11:28.682Z,"6 km SW of Ada, Oklahoma",quarry blast,,0.8,0.18,4,reviewed,ok,ok
 2022-07-12T20:57:30.810Z,37.5916667,-118.8293333,1.04,1.42,md,17,104,0.001647,0.03,nc,nc73757991,2022-07-12T22:44:14.660Z,"14km WNW of Toms Place, CA",earthquake,0.4,0.47,0.126,15,reviewed,nc,nc
-2022-07-12T20:47:24.970Z,38.7556667,-122.7126667,2.23,0.2,md,20,70,0.01122,0.03,nc,nc73757986,2022-07-12T21:54:10.356Z,"3km SW of Anderson Springs, CA",earthquake,0.28,0.33,0.077,3,reviewed,nc,nc
-2022-07-12T20:46:54.572Z,-36.1254,-97.4309,10,4.9,mb,120,72,13.53,0.77,us,us6000i1xb,2022-07-12T22:11:25.040Z,"West Chile Rise",earthquake,12.2,1.9,0.052,117,reviewed,us,us
-2022-07-12T20:46:21.700Z,63.097,-148.9387,63.2,1.1,ml,,,,0.68,ak,ak0228viwk0q,2022-07-12T20:48:29.405Z,"32 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
