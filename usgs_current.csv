@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-14T10:39:39.030Z,35.7325,-117.6231667,2.59,0.79,ml,8,123,0.08564,0.19,ci,ci40303592,2022-07-14T10:43:06.656Z,"13km NNE of Ridgecrest, CA",earthquake,0.86,1.47,0.311,6,automatic,ci,ci
 2022-07-14T09:24:22.361Z,61.295,-150.5218,52.5,1.1,ml,,,,1.03,ak,ak0228ynarng,2022-07-14T09:28:41.349Z,"27 km S of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-14T09:19:48.620Z,35.527832,-120.7409973,0.41,1.21,md,7,144,0.1378,0.09,nc,nc73758526,2022-07-14T10:12:11.388Z,"4km SW of Templeton, CA",earthquake,0.74,6.58,0.01,6,automatic,nc,nc
 2022-07-14T09:15:05.500Z,32.6393333,-115.7306667,7.89,1.61,ml,18,72,0.0106,0.21,ci,ci40303576,2022-07-14T09:18:47.159Z,"15km WNW of Progreso, B.C., MX",earthquake,0.6,1.15,0.271,21,automatic,ci,ci
