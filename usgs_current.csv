@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-15T21:40:59.500Z,37.6134987,-118.9720001,5.06,1.75,md,17,114,0.04322,0.02,nc,nc73759021,2022-07-15T21:43:33.510Z,"3km SSE of Mammoth Lakes, CA",earthquake,0.31,0.74,0.12,16,automatic,nc,nc
+2022-07-15T21:39:54.200Z,33.2305,-116.1031667,6.8,2.34,ml,66,37,0.09226,0.24,ci,ci40064103,2022-07-15T21:43:42.034Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,1.14,0.129,25,automatic,ci,ci
 2022-07-15T21:30:41.646Z,65.2512,-150.0869,0,1.1,ml,,,,0.63,ak,ak02290i0n6s,2022-07-15T21:33:15.441Z,"28 km S of Rampart, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"south of the Fiji Islands",earthquake,5.4,5.8,0.03,370,reviewed,us,us
+2022-07-15T21:16:31.555Z,51.9322,-176.2013,118,1.7,ml,,,,0.23,ak,ak02290hxkx9,2022-07-15T21:43:06.306Z,"30 km ENE of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-07-15T20:54:36.896Z,52.1218,-175.9941,97,1.9,ml,,,,0.38,ak,ak02290hkbqb,2022-07-15T21:39:03.724Z,"51 km ENE of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-07-15T20:42:13.310Z,33.1549988,-115.9878311,6.95,1.36,ml,14,68,0.02029,0.17,ci,ci40064079,2022-07-15T20:45:47.370Z,"14km E of Ocotillo Wells, CA",earthquake,0.48,0.75,0.576,10,automatic,ci,ci
 2022-07-15T20:31:32.317Z,64.5505,-147.9918,18,1.1,ml,,,,2.07,ak,ak02290hfek4,2022-07-15T20:37:03.877Z,"30 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -11,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T19:58:56.984Z,38.73,-116.1331,8,1.8,ml,6,156.23,0.824,0.1674,nn,nn00842995,2022-07-15T20:55:07.215Z,"88 km S of Eureka, Nevada",earthquake,,4.7,0.25,3,reviewed,nn,nn
 2022-07-15T19:47:11.430Z,18.04,-66.8268333333333,21.34,2.7,md,13,129,,0.11,pr,pr71359673,2022-07-15T20:11:15.390Z,"2 km ENE of Yauco, Puerto Rico",earthquake,0.41,0.73,0.0512766989349773,6,reviewed,pr,pr
 2022-07-15T19:40:49.790Z,38.574501,-119.4628296,5.85,3.13,ml,11,123,0.04614,0.02,nc,nc73758971,2022-07-15T21:13:15.851Z,"7km NNE of Walker, CA",earthquake,0.39,0.42,0.439,22,automatic,nc,nc
-2022-07-15T19:37:21.087Z,-44.5696,-79.7528,10,6.4,mww,109,108,5.671,0.97,us,us6000i2v0,2022-07-15T20:22:27.228Z,"Off the coast of Aisen, Chile",earthquake,9.9,1.9,0.05,38,reviewed,us,us
+2022-07-15T19:37:21.087Z,-44.5696,-79.7528,10,6.4,mww,109,108,5.671,0.97,us,us6000i2v0,2022-07-15T21:40:24.968Z,"Off the coast of Aisen, Chile",earthquake,9.9,1.9,0.05,38,reviewed,us,us
 2022-07-15T19:35:52.390Z,44.3723333,-110.7811667,2.65,1.31,ml,8,96,0.08817,0.08,uu,uu60505927,2022-07-15T20:08:07.110Z,"41 km SE of West Yellowstone, Montana",earthquake,0.32,1.42,0.286,2,reviewed,uu,uu
 2022-07-15T19:00:47.420Z,39.4316667,-110.3135,-1.09,1.22,ml,7,194,0.01174,0.11,uu,uu60505917,2022-07-15T20:24:04.980Z,"Utah",earthquake,1.25,0.61,0.002,2,reviewed,uu,uu
 2022-07-15T18:45:09.250Z,38.786335,-122.7245026,1.5,1.1,md,16,84,0.01004,0.04,nc,nc73758966,2022-07-15T20:40:16.667Z,"3km ENE of The Geysers, CA",earthquake,0.26,0.5,0.1,4,automatic,nc,nc
@@ -270,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T22:17:41.640Z,46.684333333333335,-122.3175,9.68,0.8300000000000001,ml,18,138,0.2036,0.16,uw,uw61862021,2022-07-15T03:51:57.140Z,"Washington",earthquake,0.47,15.53,0.15809642879344787,13,reviewed,uw,uw
 2022-07-14T22:15:56.990Z,44.25,-115.0925,6,1.27,ml,6,116,0.768,0.17,mb,mb80551394,2022-07-15T18:13:24.780Z,"12 km WNW of Stanley, Idaho",earthquake,0.49,10.12,0.112,6,reviewed,mb,mb
 2022-07-14T22:11:55.500Z,36.1,-117.6876667,2.23,1.2,ml,13,128,0.0936,0.11,ci,ci40063279,2022-07-15T16:24:36.852Z,"24km ENE of Coso Junction, CA",earthquake,0.22,0.35,0.199,5,reviewed,ci,ci
-2022-07-14T21:46:18.620Z,19.242000579834,-155.397994995117,33.7299995422363,1.84000003,md,20,154,,0.0900000036,hv,hv73075337,2022-07-14T21:49:42.840Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.78,0.959999979,1.84000003,4,automatic,hv,hv
