@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-15T14:40:03.610Z,39.4736671,-123.2904968,7.87,1.51,md,7,86,0.03668,0.03,nc,nc73758891,2022-07-15T14:48:10.674Z,"9km ENE of Brooktrails, CA",earthquake,0.4,0.81,0.13,5,automatic,nc,nc
+2022-07-15T14:39:47.890Z,33.3255,-116.3245,12.07,0.69,ml,17,102,0.03883,0.27,ci,ci40063879,2022-07-15T14:43:29.779Z,"9km NNE of Borrego Springs, CA",earthquake,0.54,0.94,0.129,11,automatic,ci,ci
 2022-07-15T14:25:26.830Z,19.2393341064453,-155.385162353516,34.2299995422363,2.37,ml,45,143,,0.129999995,hv,hv73075982,2022-07-15T14:30:57.620Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.699999988,4.14,5,automatic,hv,hv
 2022-07-15T14:25:06.390Z,33.5878333,-116.6338333,0.98,0.77,ml,15,55,0.02128,0.35,ci,ci40063863,2022-07-15T14:28:41.083Z,"5km NE of Anza, CA",earthquake,0.63,1.34,0.321,9,automatic,ci,ci
 2022-07-15T14:17:53.190Z,33.5426667,-116.753,1.03,0.57,ml,13,94,0.04977,0.34,ci,ci40063855,2022-07-15T14:21:32.859Z,"8km W of Anza, CA",earthquake,0.79,1.39,0.29,6,automatic,ci,ci
+2022-07-15T13:56:01.440Z,18.2273333333333,-67.4085,5.13,3.25,md,22,214,,0.56,pr,pr71359643,2022-07-15T14:45:52.870Z,"20 km WSW of Stella, Puerto Rico",earthquake,1.38,1.39,0.0598766747757709,11,reviewed,pr,pr
 2022-07-15T13:47:01.700Z,33.8346672,-117.7073364,7.74,1.3,ml,28,68,0.03409,0.14,ci,ci40063839,2022-07-15T13:50:32.844Z,"10km ENE of Villa Park, CA",earthquake,0.35,0.72,0.735,7,automatic,ci,ci
 2022-07-15T13:46:10.474Z,63.8659,-148.9517,50.1,1,ml,,,,0.51,ak,ak02290dcjef,2022-07-15T13:48:54.054Z,"1 km NE of Healy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-15T13:40:46.730Z,37.600666,-122.4596634,8.07,1.92,md,19,94,0.03644,0.05,nc,nc73758886,2022-07-15T14:27:10.546Z,"3km ESE of Pacifica, CA",earthquake,0.41,0.49,0.24,17,automatic,nc,nc
@@ -26,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T12:09:45.590Z,60.6111,-145.4005,9.9,1.5,ml,,,,0.58,ak,ak02290cj90f,2022-07-15T12:12:09.435Z,"21 km ENE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-15T12:04:57.661Z,64.3282,-150.9623,9.7,1,ml,,,,0.49,ak,ak02290ci7d2,2022-07-15T12:07:06.361Z,"76 km SSW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-15T11:54:20.850Z,33.115,-116.0278333,2.14,0.88,ml,27,83,0.07189,0.24,ci,ci40063815,2022-07-15T11:57:59.302Z,"10km ESE of Ocotillo Wells, CA",earthquake,0.38,1.02,0.117,13,automatic,ci,ci
-2022-07-15T11:52:10.660Z,41.9026667,-112.3661667,5.19,1.03,md,12,139,0.04085,0.14,uu,uu60505877,2022-07-15T14:38:54.310Z,"13 km SW of Portage, Utah",earthquake,0.58,1.21,0.147,10,reviewed,uu,uu
+2022-07-15T11:52:10.660Z,41.9026667,-112.3656667,5.19,1.03,md,12,139,0.04057,0.14,uu,uu60505877,2022-07-15T14:39:58.580Z,"13 km SW of Portage, Utah",earthquake,0.54,1.14,0.147,10,reviewed,uu,uu
 2022-07-15T11:31:47.875Z,38.5871,-119.4309,3.3,1.5,ml,18,49.97,0.07,0.1786,nn,nn00842959,2022-07-15T11:34:44.835Z,"7 km ENE of Coleville, California",earthquake,,0.8,0.32,12,automatic,nn,nn
 2022-07-15T11:29:41.380Z,38.5841675,-119.4526672,6.91,2.62,md,7,109,0.05269,0.02,nc,nc73758856,2022-07-15T12:01:10.737Z,"8km NNE of Walker, CA",earthquake,0.46,0.54,0.28,8,automatic,nc,nc
 2022-07-15T11:28:17.566Z,38.6586,-116.1455,0.3,1.6,ml,8,250.1,1.572,0.3036,nn,nn00842955,2022-07-15T11:33:22.041Z,"96 km S of Eureka, Nevada",earthquake,,7.1,0.2,4,automatic,nn,nn
@@ -37,6 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T10:50:10.709Z,-18.492,-175.0092,209.34,4.5,mb,29,150,5.511,0.4,us,us6000i2n3,2022-07-15T11:21:02.040Z,"109 km W of Neiafu, Tonga",earthquake,9.9,8.2,0.106,26,reviewed,us,us
 2022-07-15T10:27:31.629Z,60.7021,-150.6299,26,1.4,ml,,,,0.91,ak,ak02290bg7m2,2022-07-15T10:30:24.399Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-15T10:24:54.690Z,33.024,-116.2946667,1.27,2.13,ml,61,29,0.0696,0.22,ci,ci40063791,2022-07-15T10:35:37.880Z,"20km SW of Ocotillo Wells, CA",earthquake,0.21,0.6,0.127,25,automatic,ci,ci
+2022-07-15T10:21:27.390Z,37.5908333,-113.3095,8.11,1.15,ml,8,79,0.05831,0.04,uu,uu60505872,2022-07-15T14:46:11.640Z,"12 km N of New Harmony, Utah",earthquake,0.39,0.81,0.151,5,reviewed,uu,uu
 2022-07-15T10:20:36.550Z,33.7071667,-116.7285,18.03,0.65,ml,23,72,0.0126,0.15,ci,ci40063783,2022-07-15T10:24:15.588Z,"4km SSW of Idyllwild, CA",earthquake,0.37,0.52,0.192,15,automatic,ci,ci
 2022-07-15T10:17:30.797Z,38.7492,-116.0519,15.9,1.8,ml,12,157.63,1.362,0.3569,nn,nn00842950,2022-07-15T10:22:40.566Z,"85 km S of Eureka, Nevada",earthquake,,0,0.16,9,automatic,nn,nn
 2022-07-15T10:15:02.140Z,19.1731662750244,-155.463333129883,30.5900001525879,2.4,ml,40,106,,0.150000006,hv,hv73075802,2022-07-15T10:29:15.040Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.51,0.75999999,3.99,9,automatic,hv,hv
