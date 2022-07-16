@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T13:43:09.753Z,-6.9638,129.2959,194.1,4.9,mb,24,62,2.229,0.76,us,us6000i31j,2022-07-16T14:04:32.040Z,"Banda Sea",earthquake,9.1,7.8,0.156,13,reviewed,us,us
 2022-07-16T13:40:55.354Z,37.1596,-117.3904,7.3,2,ml,28,145.32,0.165,0.2241,nn,nn00843048,2022-07-16T13:44:12.649Z,"62 km SSW of Goldfield, Nevada",earthquake,,1.1,0.95,18,automatic,nn,nn
 2022-07-16T13:27:45.440Z,33.3118333,-116.7706667,13.63,0.79,ml,25,62,0.0763,0.12,ci,ci40064607,2022-07-16T13:31:22.666Z,"8km N of Lake Henshaw, CA",earthquake,0.23,0.58,0.124,22,automatic,ci,ci
-2022-07-16T13:10:28.410Z,38.7873344,-122.7228317,2.32,0.94,md,15,87,0.02575,0.01,nc,nc73759296,2022-07-16T13:31:17.575Z,"3km WNW of Anderson Springs, CA",earthquake,0.27,0.91,0.1,4,automatic,nc,nc
+2022-07-16T13:10:28.410Z,38.7873344,-122.7228317,2.32,0.94,md,15,87,0.02575,0.01,nc,nc73759296,2022-07-16T14:50:11.059Z,"3km WNW of Anderson Springs, CA",earthquake,0.27,0.91,0.1,4,automatic,nc,nc
 2022-07-16T13:09:27.090Z,32.6466675,-115.7316666,7.99,2.18,ml,42,131,0.00519,0.24,ci,ci40064599,2022-07-16T13:12:58.545Z,"16km WNW of Progreso, B.C., MX",earthquake,0.3,0.57,0.256,28,automatic,ci,ci
 2022-07-16T13:07:39.370Z,32.6461667,-115.7326667,8.28,1.65,ml,16,122,0.006171,0.19,ci,ci40064591,2022-07-16T13:11:27.520Z,"16km WNW of Progreso, B.C., MX",earthquake,0.63,0.45,0.31,16,automatic,ci,ci
 2022-07-16T12:56:20.690Z,33.1365,-116.6446667,4.94,1.33,ml,41,42,0.06252,0.21,ci,ci40064463,2022-07-16T13:07:17.870Z,"8km NNW of Julian, CA",earthquake,0.26,0.8,0.196,27,automatic,ci,ci
@@ -153,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T00:40:35.230Z,35.8728333,-117.7208333,7.09,0.59,ml,10,80,0.1096,0.13,ci,ci40064151,2022-07-16T00:44:03.910Z,"18km ESE of Little Lake, CA",earthquake,0.56,2.53,0.17,5,automatic,ci,ci
 2022-07-16T00:27:03.720Z,35.8723333,-117.7345,5.15,1.43,ml,23,57,0.06826,0.15,ci,ci40064143,2022-07-16T00:38:08.720Z,"17km ESE of Little Lake, CA",earthquake,0.23,0.94,0.254,18,automatic,ci,ci
 2022-07-16T00:25:22.079Z,61.5483,-149.9379,34.4,1.9,ml,,,,0.47,ak,ak02291t0rvz,2022-07-16T00:27:16.172Z,"3 km NNE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-16T00:15:27.880Z,44.2588333,-115.1521667,6,1.46,ml,5,115,0.809,0.08,mb,mb80551564,2022-07-16T13:27:06.830Z,"17 km WNW of Stanley, Idaho",earthquake,0.34,7.74,0.343,6,reviewed,mb,mb
+2022-07-16T00:15:27.880Z,44.2588333,-115.1521667,6,1.46,ml,5,115,0.809,0.08,mb,mb80551564,2022-07-16T13:27:06.830Z,"southern Idaho",earthquake,0.34,7.74,0.343,6,reviewed,mb,mb
 2022-07-16T00:13:24.977Z,29.7198,141.0026,94.26,4.6,mb,95,117,3.534,0.71,us,us6000i2wu,2022-07-16T00:37:05.040Z,"Izu Islands, Japan region",earthquake,9.3,6.9,0.048,129,reviewed,us,us
 2022-07-16T00:12:08.310Z,35.8706667,-117.7263333,7.86,0.75,ml,11,70,0.06944,0.12,ci,ci40064135,2022-07-16T00:15:40.676Z,"18km ESE of Little Lake, CA",earthquake,0.33,1.1,0.225,8,automatic,ci,ci
 2022-07-16T00:07:07.845Z,61.9172,-149.5955,37.7,1,ml,,,,0.77,ak,ak02291swvvc,2022-07-16T00:10:09.416Z,"27 km NW of Fishhook, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -253,5 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T15:24:24.630Z,44.2858333,-114.8275,3.87,1.82,ml,7,124,0.574,0.28,mb,mb80551479,2022-07-15T21:55:02.910Z,"11 km NE of Stanley, Idaho",earthquake,0.71,18.64,0.133,8,reviewed,mb,mb
 2022-07-15T15:15:35.240Z,34.164,-80.72,3.25,1.62,md,5,144,0.0339,0.24,se,se60156643,2022-07-16T13:31:34.560Z,"6 km E of Elgin, South Carolina",earthquake,1.51,1.93,0.149,4,reviewed,se,se
 2022-07-15T14:55:36.870Z,35.7021667,-117.5653333,10.4,0.49,ml,7,149,0.1163,0.03,ci,ci40063887,2022-07-15T14:59:06.884Z,"14km NE of Ridgecrest, CA",earthquake,0.29,0.57,0.134,7,automatic,ci,ci
-2022-07-15T14:51:33.368Z,38.1614,-117.9609,8.4,1.3,ml,14,139.64,0.023,0.1234,nn,nn00842974,2022-07-16T00:01:59.497Z,"28 km SSE of Mina, Nevada",earthquake,,0.9,0.29,5,reviewed,nn,nn
-2022-07-15T14:47:45.120Z,19.1946659088135,-155.379501342773,32.1800003051758,1.87,md,34,164,,0.129999995,hv,hv73075992,2022-07-15T14:50:59.950Z,"10 km E of Pāhala, Hawaii",earthquake,0.72,1.05999994,0.930000007,3,automatic,hv,hv
