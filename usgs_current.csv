@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-17T11:43:10.930Z,33.2311668,-116.1016693,7.57,1.4,ml,55,49,0.09354,0.2,ci,ci40065183,2022-07-17T11:45:16.400Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.23,0.86,0.173,4,automatic,ci,ci
-2022-07-17T11:40:21.890Z,38.814167,-122.819664,1.22,0.85,md,10,95,0.009124,0.02,nc,nc73759736,2022-07-17T11:41:55.717Z,"7km NW of The Geysers, CA",earthquake,0.32,0.79,,1,automatic,nc,nc
+2022-07-17T11:49:54.600Z,38.8269997,-122.8131638,2.09,0.92,md,25,57,0.004334,0.02,nc,nc73759746,2022-07-17T11:51:30.993Z,"7km NW of The Geysers, CA",earthquake,0.19,0.35,0.26,4,automatic,nc,nc
+2022-07-17T11:43:10.930Z,33.2333333,-116.1,7.47,1.43,ml,46,49,0.09611,0.2,ci,ci40065183,2022-07-17T11:54:03.290Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,0.82,0.112,28,automatic,ci,ci
+2022-07-17T11:40:21.890Z,38.814167,-122.819664,1.22,0.85,md,10,95,0.009124,0.02,nc,nc73759736,2022-07-17T11:53:18.905Z,"7km NW of The Geysers, CA",earthquake,0.32,0.79,,1,automatic,nc,nc
 2022-07-17T11:40:08.138Z,36.7937,-116.247,0.6,-0.3,ml,9,211.53,0.072,0.2786,nn,nn00843104,2022-07-17T11:43:02.951Z,"47 km ESE of Beatty, Nevada",earthquake,,4.2,0.25,5,automatic,nn,nn
-2022-07-17T11:34:47.500Z,35.4883347,-118.2848358,2.28,3.44,ml,89,26,0.1273,0.19,ci,ci40065175,2022-07-17T11:45:30.360Z,"22km ESE of Bodfish, CA",earthquake,0.17,0.52,0.266,18,automatic,ci,ci
-2022-07-17T11:14:10.870Z,37.5525017,-118.9231644,10.59,1.13,md,11,196,0.0752,0.04,nc,nc73759726,2022-07-17T11:23:11.606Z,"11km SSE of Mammoth Lakes, CA",earthquake,1.55,1.59,0.11,11,automatic,nc,nc
+2022-07-17T11:34:47.500Z,35.4883347,-118.2848358,2.28,3.44,ml,89,26,0.1273,0.19,ci,ci40065175,2022-07-17T11:55:08.567Z,"22km ESE of Bodfish, CA",earthquake,0.17,0.52,0.266,18,automatic,ci,ci
+2022-07-17T11:14:10.870Z,37.5525017,-118.9231644,10.59,1.13,md,11,196,0.0752,0.04,nc,nc73759726,2022-07-17T11:54:25.797Z,"11km SSE of Mammoth Lakes, CA",earthquake,1.55,1.59,0.11,11,automatic,nc,nc
 2022-07-17T11:05:36.590Z,18.8540000915527,-155.198333740234,7.51000022888184,2.53999996,md,20,265,,0.119999997,hv,hv73077832,2022-07-17T11:19:26.040Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.85,0.639999986,1.26999998,3,automatic,hv,hv
 2022-07-17T10:59:47.230Z,33.875,-116.8341667,14.52,0.43,ml,16,86,0.05142,0.19,ci,ci40065159,2022-07-17T11:03:15.147Z,"6km SW of Cabazon, CA",earthquake,0.46,0.95,0.116,9,automatic,ci,ci
 2022-07-17T10:46:15.471Z,38.1291,-117.9444,10.1,1.2,ml,8,165.46,0.016,0.3879,nn,nn00843100,2022-07-17T10:49:43.732Z,"32 km SSE of Mina, Nevada",earthquake,,0.4,0.87,5,automatic,nn,nn
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T10:40:12.741Z,12.3232,120.7494,10,4.4,mb,45,108,7.064,0.41,us,us6000i37v,2022-07-17T11:39:54.040Z,"27 km WSW of Adela, Philippines",earthquake,10.1,1.9,0.094,33,reviewed,us,us
 2022-07-17T10:25:39.860Z,38.8313332,-122.7963333,1.55,1.99,md,35,38,0.008474,0.03,nc,nc73759696,2022-07-17T11:08:14.509Z,"6km W of Cobb, CA",earthquake,0.16,0.24,0.06,10,automatic,nc,nc
 2022-07-17T10:24:04.940Z,38.8441658,-122.8198318,1.89,0.86,md,10,100,0.01083,0.02,nc,nc73759691,2022-07-17T10:56:14.426Z,"9km WNW of Cobb, CA",earthquake,0.39,0.88,,1,automatic,nc,nc
-2022-07-17T10:22:12.590Z,38.8323326,-122.7965012,1.67,0.86,md,16,45,0.007742,0.02,nc,nc73759686,2022-07-17T10:45:14.341Z,"6km W of Cobb, CA",earthquake,0.24,0.39,0.03,3,automatic,nc,nc
+2022-07-17T10:22:12.590Z,38.8323326,-122.7965012,1.67,0.86,md,16,45,0.007742,0.02,nc,nc73759686,2022-07-17T11:54:24.797Z,"6km W of Cobb, CA",earthquake,0.24,0.39,0.03,3,automatic,nc,nc
 2022-07-17T10:18:06.110Z,33.924,-116.1996667,9.94,0.72,ml,15,58,0.02189,0.17,ci,ci40065143,2022-07-17T10:21:39.909Z,"21km ENE of Thousand Palms, CA",earthquake,0.35,0.61,0.176,9,automatic,ci,ci
 2022-07-17T10:17:28.622Z,61.7063,-148.0286,13.2,1.1,ml,,,,1.06,ak,ak02293mgr7i,2022-07-17T10:18:56.851Z,"22 km WSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-17T10:16:17.355Z,58.5436,-153.9673,105.3,1.4,ml,,,,0.23,ak,ak02293mgimf,2022-07-17T10:18:13.563Z,"82 km NW of Aleneva, Alaska",earthquake,,1.7,,,automatic,ak,ak
