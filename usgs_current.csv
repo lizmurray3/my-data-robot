@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-18T10:46:02.630Z,38.7434998,-122.7111664,0.72,0.88,md,7,138,0.021,0.02,nc,nc73760201,2022-07-18T10:47:38.822Z,"4km SSW of Anderson Springs, CA",earthquake,0.39,0.81,0.33,3,automatic,nc,nc
+2022-07-18T11:07:31.651Z,36.8829,-116.0082,14,0.5,ml,17,90.86,0.062,0.2161,nn,nn00843156,2022-07-18T11:10:31.588Z,"46 km NW of Indian Springs, Nevada",earthquake,,0.7,0.37,10,automatic,nn,nn
+2022-07-18T10:46:02.630Z,38.7434998,-122.7111664,0.72,0.88,md,7,138,0.021,0.02,nc,nc73760201,2022-07-18T11:06:14.391Z,"4km SSW of Anderson Springs, CA",earthquake,0.39,0.81,0.33,3,automatic,nc,nc
 2022-07-18T10:38:25.181Z,38.1695,-118.1618,0.9,0.6,ml,9,160.98,0.263,0.1058,nn,nn00843154,2022-07-18T10:42:09.833Z,"24 km S of Mina, Nevada",earthquake,,0,0.36,4,automatic,nn,nn
-2022-07-18T10:38:05.470Z,38.8343315,-122.7906647,1.82,0.33,md,10,65,0.01387,0.02,nc,nc73760196,2022-07-18T10:48:10.280Z,"6km WNW of Cobb, CA",earthquake,0.39,0.56,0.35,2,automatic,nc,nc
+2022-07-18T10:38:05.470Z,38.8343315,-122.7906647,1.82,0.33,md,10,65,0.01387,0.02,nc,nc73760196,2022-07-18T11:11:11.424Z,"6km WNW of Cobb, CA",earthquake,0.39,0.56,0.35,2,automatic,nc,nc
 2022-07-18T10:30:44.580Z,33.6415,-116.6941667,14.26,0.28,ml,17,99,0.07146,0.13,ci,ci40065759,2022-07-18T10:34:18.600Z,"10km N of Anza, CA",earthquake,0.33,0.47,0.155,6,automatic,ci,ci
 2022-07-18T10:26:33.780Z,34.0735,-117.2733333,14.83,1.2,ml,43,50,0.1164,0.2,ci,ci40065751,2022-07-18T10:37:08.760Z,"3km NNW of Loma Linda, CA",earthquake,0.25,0.6,0.154,29,automatic,ci,ci
 2022-07-18T10:04:07.861Z,61.0842,-151.0684,49.8,1.8,ml,,,,0.45,ak,ak022959x9si,2022-07-18T10:06:54.585Z,"4 km ENE of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T08:09:25.035Z,15.4311,-61.171,142.9,4.2,mb,87,133,0.614,0.45,us,us6000i3dr,2022-07-18T09:31:48.040Z,"9 km E of Castle Bruce, Dominica",earthquake,6.4,5.4,0.071,55,reviewed,us,us
 2022-07-18T08:07:57.190Z,34.6148333,-116.6283333,1.21,1.97,ml,24,48,0.175,0.1,ci,ci40065703,2022-07-18T08:11:43.723Z,"36km ENE of Lucerne Valley, CA",earthquake,0.19,0.51,0.136,27,automatic,ci,ci
 2022-07-18T08:04:49.045Z,34.4697,45.5653,10,4.4,mb,61,52,0.658,0.41,us,us6000i3dq,2022-07-18T09:05:13.040Z,"Iran-Iraq border region",earthquake,5.6,1.9,0.092,34,reviewed,us,us
-2022-07-18T08:01:28.200Z,18.8446674346924,-155.211837768555,9.5600004196167,2.51999998,md,24,267,,0.25999999,hv,hv73078767,2022-07-18T08:04:38.740Z,"45 km ESE of Naalehu, Hawaii",earthquake,1.24,0.879999995,0.449999988,9,automatic,hv,hv
+2022-07-18T08:01:28.200Z,18.8446674346924,-155.211837768555,9.5600004196167,2.51999998,md,24,267,,0.25999999,hv,hv73078767,2022-07-18T11:01:19.040Z,"45 km ESE of Naalehu, Hawaii",earthquake,1.24,0.879999995,0.449999988,9,automatic,hv,hv
 2022-07-18T07:58:45.510Z,18.0465,-67.9495,7,3.75,md,30,185,0.5792,0.32,pr,pr2022199000,2022-07-18T08:50:09.776Z,"76 km SE of Punta Cana, Dominican Republic",earthquake,1.11,0.82,0.18,22,reviewed,pr,pr
 2022-07-18T07:54:26.940Z,38.7453346,-122.716835,1.19,0.86,md,10,132,0.01741,0.04,nc,nc73760166,2022-07-18T08:34:12.426Z,"4km SSW of Anderson Springs, CA",earthquake,0.41,0.48,0.03,4,automatic,nc,nc
 2022-07-18T07:50:05.510Z,38.7428322,-122.713501,1.22,2.04,md,33,67,0.02073,0.04,nc,nc73760156,2022-07-18T09:31:12.784Z,"4km SSW of Anderson Springs, CA",earthquake,0.2,0.27,0.06,11,automatic,nc,nc
@@ -249,8 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T11:26:24.910Z,36.4843333,-89.5478333,8.29,1.84,md,27,56,0.05476,0.05,nm,nm60400022,2022-07-17T13:33:58.380Z,"6 km ESE of Marston, Missouri",earthquake,0.54,0.88,0.155,21,reviewed,nm,nm
 2022-07-17T11:22:02.645Z,40.1959,-118.2492,0,1,ml,8,163.78,0.414,0.2403,nn,nn00843120,2022-07-17T15:56:38.749Z,"19 km E of Lovelock, Nevada",earthquake,,0,0.3,3,reviewed,nn,nn
 2022-07-17T11:20:32.950Z,43.915,-110.1486667,12.23,1.78,ml,17,132,0.432,0.19,mb,mb80551709,2022-07-17T13:22:53.960Z,"50 km NE of Kelly, Wyoming",earthquake,0.54,2.04,0.175,10,reviewed,mb,mb
-2022-07-17T11:14:11.220Z,37.5558333,-118.9305,7.52,1.04,md,22,104,0.07348,0.07,nc,nc73759726,2022-07-17T16:14:10.483Z,"10km SSE of Mammoth Lakes, CA",earthquake,0.23,0.92,0.126,17,reviewed,nc,nc
-2022-07-17T11:12:06.020Z,33.7883333,-116.9165,12.8,0.51,ml,22,83,0.1012,0.15,ci,ci40065167,2022-07-17T19:45:09.275Z,"4km E of San Jacinto, CA",earthquake,0.26,0.59,0.125,6,reviewed,ci,ci
-2022-07-17T11:05:36.590Z,18.8540000915527,-155.198333740234,7.51000022888184,2.53999996,md,20,265,,0.119999997,hv,hv73077832,2022-07-17T11:19:26.040Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.85,0.639999986,1.26999998,3,automatic,hv,hv
-2022-07-17T10:59:47.230Z,33.875,-116.8341667,14.52,0.43,ml,16,86,0.05142,0.19,ci,ci40065159,2022-07-17T11:03:15.147Z,"6km SW of Cabazon, CA",earthquake,0.46,0.95,0.116,9,automatic,ci,ci
-2022-07-17T10:59:19.480Z,38.8193333,-122.8263333,2.37,0.43,md,12,114,0.007773,0.01,nc,nc73759711,2022-07-17T17:56:09.991Z,"8km NW of The Geysers, CA",earthquake,0.48,0.91,0.128,3,reviewed,nc,nc
