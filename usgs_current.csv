@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-21T12:23:07.710Z,36.6629982,-121.3263321,2.92,1.24,md,8,83,0.04725,0.16,nc,nc73761246,2022-07-21T12:34:09.708Z,"14km S of Tres Pinos, CA",earthquake,0.62,1.71,0.25,6,automatic,nc,nc
+2022-07-21T12:16:18.390Z,19.236665725708,-155.380004882812,31.3999996185303,2.32,ml,48,146,,0.140000001,hv,hv73083137,2022-07-21T12:21:50.070Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.52,0.709999979,4.32,5,automatic,hv,hv
+2022-07-21T12:15:13.340Z,33.7948333,-116.104,1.64,0.63,ml,10,98,0.1425,0.2,ci,ci40067215,2022-07-21T12:18:56.479Z,"13km NE of Indio, CA",earthquake,0.47,0.97,0.121,10,automatic,ci,ci
 2022-07-21T11:30:14.942Z,38.1649,-117.9843,1.8,0.6,ml,8,159.9,0.032,0.0511,nn,nn00843324,2022-07-21T11:34:34.402Z,"27 km SSE of Mina, Nevada",earthquake,,0.3,0.12,3,automatic,nn,nn
-2022-07-21T11:29:40.710Z,37.3163338,-121.6978302,-0.56,1.93,md,26,89,0.05078,0.08,nc,nc73761241,2022-07-21T11:46:13.377Z,"13km ESE of Alum Rock, CA",earthquake,0.2,2.67,0.11,16,automatic,nc,nc
+2022-07-21T11:29:40.710Z,37.3163338,-121.6978302,-0.56,1.93,md,26,89,0.05078,0.08,nc,nc73761241,2022-07-21T12:36:14.723Z,"13km ESE of Alum Rock, CA",earthquake,0.2,2.67,0.11,16,automatic,nc,nc
 2022-07-21T11:21:30.560Z,19.2323341369629,-155.380493164062,32.3899993896484,2.0999999,md,46,149,,0.119999997,hv,hv73083082,2022-07-21T11:27:01.050Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.649999976,0.959999979,16,automatic,hv,hv
 2022-07-21T11:21:26.506Z,61.3895,-147.1449,33.6,1.8,ml,,,,0.17,ak,ak0229a98fhm,2022-07-21T11:22:38.428Z,"51 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-21T11:17:57.950Z,19.3753337860107,-155.407165527344,6.86999988555908,2.4,ml,44,40,,0.170000002,hv,hv73083077,2022-07-21T11:23:28.350Z,"19 km WSW of Volcano, Hawaii",earthquake,0.3,0.600000024,0.66,4,automatic,hv,hv
@@ -190,13 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T12:58:03.283Z,66.0583,-148.2473,10,1.1,ml,,,,0.86,ak,ak02298mieb2,2022-07-20T13:01:11.236Z,"38 km E of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-20T12:51:06.750Z,31.14704434,-103.0011136,0.7071777344,2.4,ml,18,79,0.072805178,0.4,tx,tx2022ockc,2022-07-21T03:34:34.269Z,"12 km SSE of Coyanosa, Texas",earthquake,1.463143259,1.447194258,0.1,15,reviewed,tx,tx
 2022-07-20T12:39:04.850Z,35.5071667,-118.3953333,7.74,1.13,ml,25,66,0.168,0.12,ci,ci40066695,2022-07-20T20:55:39.917Z,"12km SE of Bodfish, CA",earthquake,0.17,0.87,0.126,12,reviewed,ci,ci
-2022-07-20T12:30:17.213Z,62.052,-149.2563,42.2,1.2,ml,,,,0.22,ak,ak02298mcfbt,2022-07-20T12:31:37.960Z,"33 km ESE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-07-20T12:17:31.400Z,58.3945,-154.4565,1.96,0.03,ml,4,292,,0.23,av,av91066623,2022-07-21T09:34:05.300Z,"91 km N of Karluk, Alaska",earthquake,1.26,2.79,0.235265969579148,4,reviewed,av,av
-2022-07-20T12:16:58.050Z,36.1398333,-117.9891667,1.83,0.64,ml,11,202,0.111,0.12,ci,ci40066687,2022-07-20T13:26:11.328Z,"11km NNW of Coso Junction, CA",earthquake,0.45,0.43,0.08,2,reviewed,ci,ci
-2022-07-20T12:15:52.806Z,38.6782,-116.0935,0.2,1.4,ml,5,152.35,0.863,0.2339,nn,nn00843275,2022-07-20T20:45:34.272Z,"93 km S of Eureka, Nevada",earthquake,,4.3,0,1,reviewed,nn,nn
-2022-07-20T12:13:29.150Z,37.4661667,-118.8165,3.7,0.94,md,19,227,0.115,0.05,nc,nc73760956,2022-07-20T16:34:10.555Z,"16km SW of Toms Place, CA",earthquake,0.54,1.77,0.085,15,reviewed,nc,nc
-2022-07-20T12:11:35.991Z,62.9236,-148.386,15.2,1.2,ml,,,,0.79,ak,ak02298m8e67,2022-07-20T12:14:23.050Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-20T12:09:23.590Z,38.7105,-116.0485,0.2,1.8,ml,11,146.2,0.892,0.1731,nn,nn00843273,2022-07-20T18:57:20.064Z,"88 km WSW of Preston, Nevada",earthquake,,2.4,0.21,5,reviewed,nn,nn
-2022-07-20T12:04:36.503Z,62.9683,-149.6064,85.4,1.1,ml,,,,0.42,ak,ak02298m6w76,2022-07-20T12:06:58.482Z,"57 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-07-20T12:01:39.520Z,54.099,-165.974333333333,17.28,0.68,ml,12,104,,0.23,av,av91639351,2022-07-21T07:09:30.870Z,"13 km WSW of Akutan, Alaska",earthquake,0.84,0.88,0.311823214834798,11,reviewed,av,av
-2022-07-20T11:55:34.540Z,58.4363333333333,-154.8645,5.16,-0.54,ml,7,107,,0.22,av,av91066613,2022-07-21T06:55:07.760Z,"99 km NNW of Karluk, Alaska",earthquake,0.51,1.75,0.150290391290768,7,reviewed,av,av
