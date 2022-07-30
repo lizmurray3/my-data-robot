@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T16:00:57.010Z,35.5048333,-118.3923333,6.18,0.9,ml,15,101,0.1711,0.12,ci,ci40072399,2022-07-30T16:04:30.432Z,"13km SE of Bodfish, CA",earthquake,0.25,1.05,0.187,9,automatic,ci,ci
 2022-07-30T15:53:49.804Z,57.7435,-156.8882,122,1.6,ml,,,,0.53,ak,ak0229p7n72e,2022-07-30T15:56:49.377Z,"39 km NE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-30T15:30:52.352Z,60.6562,-150.9591,25.9,1,ml,,,,0.45,ak,ak0229p7i8w8,2022-07-30T15:34:16.211Z,"15 km NNE of Ridgeway, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-07-30T15:25:03.850Z,39.3271667,-123.3275,0.58,1.31,md,15,104,0.06462,0.07,nc,nc73764401,2022-07-30T18:03:15.048Z,"10km SSE of Willits, CA",earthquake,0.18,0.7,0.209,13,reviewed,nc,nc
+2022-07-30T15:25:03.850Z,39.3271667,-123.3275,0.58,1.31,md,15,104,0.06462,0.07,nc,nc73764401,2022-07-30T19:46:15.691Z,"10km SSE of Willits, CA",earthquake,0.18,0.7,0.209,13,reviewed,nc,nc
 2022-07-30T15:18:14.340Z,36.1446667,-117.8626667,6.84,1.45,ml,17,125,0.02776,0.16,ci,ci40072375,2022-07-30T15:21:46.542Z,"14km NE of Coso Junction, CA",earthquake,0.4,0.66,0.248,15,automatic,ci,ci
 2022-07-30T15:12:44.820Z,33.4318333,-116.6273333,5.11,0.29,ml,7,181,0.06613,0.02,ci,ci40072367,2022-07-30T15:16:06.621Z,"14km SSE of Anza, CA",earthquake,0.27,0.45,0.377,3,automatic,ci,ci
 2022-07-30T15:02:25.080Z,37.2503333,-119.635,42.57,2.11,md,14,165,0.1899,0.06,nc,nc73764396,2022-07-30T19:22:11.550Z,"6km ESE of Coarsegold, CA",earthquake,0.48,0.7,0.142,15,reviewed,nc,nc
@@ -95,6 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T07:15:50.980Z,38.8253326,-122.8141632,0.97,0.85,md,9,77,0.003734,0.02,nc,nc73764301,2022-07-30T09:47:10.944Z,"7km NW of The Geysers, CA",earthquake,0.31,0.8,,1,automatic,nc,nc
 2022-07-30T07:04:22.250Z,46.197833333333335,-122.183,2.39,0.51,ml,18,85,0.002936,0.13,uw,uw61867136,2022-07-30T18:19:04.270Z,"37 km NNE of Amboy, Washington",earthquake,0.34,0.55,0.165973480436441,15,reviewed,uw,uw
 2022-07-30T07:01:26.151Z,-0.1513,124.2411,65.61,4.6,mb,53,42,1.715,0.58,us,us6000i6qx,2022-07-30T07:20:30.040Z,"151 km ESE of Gorontalo, Indonesia",earthquake,5.3,8.1,0.087,39,reviewed,us,us
+2022-07-30T06:55:37.724Z,61.8754,-149.7647,68.8,0.9,ml,,,,0.86,ak,ak0229p2anmz,2022-07-30T19:39:02.989Z,"20 km NE of Willow, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2022-07-30T06:47:35.390Z,37.5848333,-122.449,7.66,0.87,md,15,86,0.02314,0.05,nc,nc73764291,2022-07-30T08:39:16.301Z,"5km SE of Pacifica, CA",earthquake,0.25,0.44,0.324,10,reviewed,nc,nc
 2022-07-30T06:43:14.871Z,62.2172,-149.9906,24.2,1.2,ml,,,,0.34,ak,ak0229p282rj,2022-07-30T06:45:20.672Z,"9 km NW of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-30T06:35:40.750Z,39.025,-123.0711667,3.55,2.78,md,93,49,0.1268,0.14,nc,nc73764286,2022-07-30T16:04:53.149Z,"14km W of Lakeport, CA",earthquake,0.13,0.73,0.228,69,reviewed,nc,nc
@@ -194,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T20:04:09.636Z,60.0342,-152.2239,67.6,1,ml,,,,0.26,ak,ak0229nmsfer,2022-07-29T20:06:54.519Z,"29 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-29T19:51:01.920Z,47.39183333333333,-117.85916666666667,-0.67,2.39,ml,8,163,0.3631,0.12,uw,uw61866951,2022-07-30T05:13:48.429Z,"13 km NE of Sprague, Washington",explosion,1.45,31.61,0.10101375886498731,6,reviewed,uw,uw
 2022-07-29T19:49:33.930Z,32.55,142.3286,10,5.2,mww,125,94,2.19,0.75,us,us6000i6md,2022-07-29T20:26:35.040Z,"Izu Islands, Japan region",earthquake,9,1.8,0.057,30,reviewed,us,us
-2022-07-29T19:45:20.660Z,19.3851666666667,-155.2465,1.8,2.09,ml,21,69,,0.1,hv,hv73091847,2022-07-29T22:20:57.310Z,"6 km SSW of Volcano, Hawaii",earthquake,0.18,0.15,0.16360820636773,7,reviewed,hv,hv
-2022-07-29T19:39:38.970Z,40.1161667,-123.7943333,21.94,1.62,md,28,86,0.01121,0.15,nc,nc73764136,2022-07-30T00:38:10.443Z,"2km E of Redway, CA",earthquake,0.42,0.38,0.278,20,reviewed,nc,nc
