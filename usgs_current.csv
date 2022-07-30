@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-30T23:35:49.930Z,35.5853348,-118.3586655,0.8,1.53,ml,24,88,0.1097,0.18,ci,ci40072567,2022-07-30T23:37:59.655Z,"11km ESE of Lake Isabella, CA",earthquake,0.39,0.62,0.325,5,automatic,ci,ci
+2022-07-30T23:35:49.930Z,35.5846667,-118.355,0.22,1.33,ml,21,107,0.1103,0.2,ci,ci40072567,2022-07-30T23:39:16.470Z,"11km ESE of Lake Isabella, CA",earthquake,0.41,0.75,0.264,20,automatic,ci,ci
 2022-07-30T23:23:01.670Z,33.9053333,-117.044,13.83,1.4,ml,45,32,0.1411,0.21,ci,ci40072551,2022-07-30T23:26:41.513Z,"7km WSW of Beaumont, CA",earthquake,0.24,0.7,0.154,27,automatic,ci,ci
 2022-07-30T23:02:05.450Z,33.327,-116.1968333,8.74,1.13,ml,9,124,0.3788,0.35,ci,ci40072535,2022-07-30T23:05:36.289Z,"18km SSW of Oasis, CA",earthquake,1.77,31.61,0.234,10,automatic,ci,ci
 2022-07-30T22:50:00.400Z,19.220666885376,-155.38850402832,31.8600006103516,1.83000004,md,26,168,,0.109999999,hv,hv73092872,2022-07-30T22:53:07.480Z,"Island of Hawaii, Hawaii",earthquake,0.84,0.720000029,1.82000005,5,automatic,hv,hv
