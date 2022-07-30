@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-30T13:30:21.923Z,64.1508,-148.3227,40.4,1,ml,,,,0.76,ak,ak0229p6bcfz,2022-07-30T13:32:43.527Z,"41 km ENE of Ferry, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2022-07-30T13:05:25.970Z,36.0013351,-120.5633316,1.46,1.18,md,16,90,0.02312,0.07,nc,nc73764386,2022-07-30T13:22:16.162Z,"16km NW of Parkfield, CA",earthquake,0.3,0.58,0.23,6,automatic,nc,nc
 2022-07-30T12:58:46.610Z,19.8608341217041,-155.563171386719,22.3700008392334,2.5999999,md,48,117,,0.150000006,hv,hv73092437,2022-07-30T13:09:23.040Z,"21 km SSE of Waimea, Hawaii",earthquake,0.56,1.04999995,1.00999999,19,automatic,hv,hv
 2022-07-30T12:56:56.135Z,58.0809,-154.4139,8.9,1.1,ml,,,,0.35,ak,ak0229p5vjxh,2022-07-30T12:59:32.644Z,"57 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -6,13 +7,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T12:46:41.198Z,-36.8751,-72.9542,55.06,4,mb,30,128,0.228,0.66,us,us6000i6sa,2022-07-30T13:05:56.040Z,"8 km NE of Chiguayante, Chile",earthquake,3.7,8.4,0.196,7,reviewed,us,us
 2022-07-30T12:43:35.610Z,33.3216667,-116.1105,6.88,1.19,ml,45,27,0.1715,0.23,ci,ci40072335,2022-07-30T12:46:59.224Z,"15km W of Salton City, CA",earthquake,0.26,1.29,0.141,27,automatic,ci,ci
 2022-07-30T12:24:47.010Z,33.109,-116.636,6.28,0.68,ml,21,62,0.04269,0.22,ci,ci40072327,2022-07-30T12:28:20.881Z,"5km NW of Julian, CA",earthquake,0.4,0.72,0.1,9,automatic,ci,ci
-2022-07-30T12:18:54.240Z,36.0011673,-120.5644989,1.9,1.78,md,21,78,0.02407,0.07,nc,nc73764366,2022-07-30T12:35:20.893Z,"16km NW of Parkfield, CA",earthquake,0.3,0.66,0.16,10,automatic,nc,nc
+2022-07-30T12:18:54.240Z,36.0011673,-120.5644989,1.9,1.78,md,21,78,0.02407,0.07,nc,nc73764366,2022-07-30T13:44:14.302Z,"16km NW of Parkfield, CA",earthquake,0.3,0.66,0.16,10,automatic,nc,nc
 2022-07-30T12:17:40.180Z,19.2165,-64.5903,24,3.97,md,24,297,0.9385,0.39,pr,pr2022211000,2022-07-30T13:09:36.890Z,"100 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.7,28.96,0.1,20,reviewed,pr,pr
 2022-07-30T12:12:05.010Z,35.4996667,-118.3938333,4.21,1.15,ml,21,79,0.1754,0.19,ci,ci40072303,2022-07-30T12:15:32.372Z,"13km SE of Bodfish, CA",earthquake,0.33,1.01,0.18,15,automatic,ci,ci
 2022-07-30T12:05:59.375Z,63.5487,-149.4706,94.3,1.6,ml,,,,0.49,ak,ak0229p5kmm9,2022-07-30T12:08:31.727Z,"31 km NW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-30T11:56:23.681Z,38.5774,-119.454,8,0.8,ml,10,146.15,0.052,0.1612,nn,nn00843871,2022-07-30T12:00:48.373Z,"California-Nevada border region",earthquake,,0.8,0.45,4,automatic,nn,nn
 2022-07-30T11:53:37.222Z,61.5167,-149.9359,32.2,1.3,ml,,,,0.58,ak,ak0229p59foa,2022-07-30T11:55:10.544Z,"1 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-30T11:41:13.890Z,34.1655,-80.7193333,3.63,1.78,md,6,142,0.03475,0.32,se,se60157943,2022-07-30T13:24:37.758Z,"6 km E of Elgin, South Carolina",earthquake,1.41,2,0.085,4,reviewed,se,se
+2022-07-30T11:41:13.890Z,34.1655,-80.7193333,3.63,1.78,md,6,142,0.03475,0.32,se,se60157943,2022-07-30T13:39:51.724Z,"6 km E of Elgin, South Carolina",earthquake,1.41,2,0.085,4,reviewed,se,se
 2022-07-30T11:25:40.907Z,38.5811,-119.4465,7.6,1.2,ml,12,61.39,0.058,0.169,nn,nn00843868,2022-07-30T11:28:40.201Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.29,9,automatic,nn,nn
 2022-07-30T11:25:16.920Z,17.9843333333333,-66.8383333333333,15.75,2.41,md,15,165,,0.17,pr,pr71361638,2022-07-30T11:50:33.500Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.53,0.54,0.0507899633576141,5,reviewed,pr,pr
 2022-07-30T11:17:06.639Z,61.7155,-151.7827,96.9,1.3,ml,,,,0.52,ak,ak0229p51njb,2022-07-30T11:19:11.493Z,"36 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -211,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T13:55:31.883Z,32.20733643,-102.0635242,13.03438314,2,ml,11,69,0.09794299685,0.2,tx,tx2022osxs,2022-07-29T14:20:24.255Z,"23 km N of Midland, Texas",earthquake,1.523151334,2.211143372,0.1,7,reviewed,tx,tx
 2022-07-29T13:46:39.610Z,17.9396666666667,-66.9826666666667,10.59,2.29,md,6,227,,0.1,pr,pr71361528,2022-07-29T14:43:03.850Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.69,0.83,0.078830747796812,5,reviewed,pr,pr
 2022-07-29T13:44:48.280Z,38.435,22.0387,4.52,4.4,mwr,89,40,0.629,0.54,us,us6000i6gf,2022-07-30T05:58:33.040Z,"15 km NNE of Kamárai, Greece",earthquake,5.5,4.2,0.075,17,reviewed,us,us
-2022-07-29T13:41:26.340Z,13.6066,-88.5413,176.22,4.3,mb,42,111,0.252,0.63,us,us6000i6gd,2022-07-30T05:43:18.040Z,"11 km N of Berlín, El Salvador",earthquake,7.1,5,0.067,62,reviewed,us,us
-2022-07-29T13:39:00.755Z,17.8427,120.5794,58.43,4.6,mb,58,121,4.971,0.58,us,us6000i6ht,2022-07-30T05:34:41.040Z,"Luzon, Philippines",earthquake,8.4,7.3,0.059,87,reviewed,us,us
-2022-07-29T13:31:57.870Z,46.939,-119.27433333333333,7.79,0.67,ml,7,104,0.0932,0.26,uw,uw61866821,2022-07-29T20:19:16.260Z,"14 km NNW of Othello, Washington",earthquake,0.56,0.94,0.07823905618571764,7,reviewed,uw,uw
