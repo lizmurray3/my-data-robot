@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-30T23:02:05.450Z,33.327,-116.1968333,8.74,1.13,ml,9,124,0.3788,0.35,ci,ci40072535,2022-07-30T23:05:36.289Z,"18km SSW of Oasis, CA",earthquake,1.77,31.61,0.234,10,automatic,ci,ci
+2022-07-30T22:50:00.400Z,19.220666885376,-155.38850402832,31.8600006103516,1.83000004,md,26,168,,0.109999999,hv,hv73092872,2022-07-30T22:53:07.480Z,"Island of Hawaii, Hawaii",earthquake,0.84,0.720000029,1.82000005,5,automatic,hv,hv
 2022-07-30T22:41:09.781Z,63.8459,-148.6939,90.7,2.2,ml,,,,0.75,ak,ak0229pbqkjd,2022-07-30T22:43:05.163Z,"13 km E of Healy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-30T22:33:24.782Z,62.2112,-149.8871,13.2,1.4,ml,,,,0.46,ak,ak0229pbow1q,2022-07-30T22:35:17.605Z,"5 km NNW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-30T22:13:53.108Z,51.2095,160.7755,10,4.2,mb,26,144,2.239,0.89,us,us6000i6ul,2022-07-30T22:31:51.040Z,"251 km SE of Vilyuchinsk, Russia",earthquake,8.7,1.9,0.118,20,reviewed,us,us
@@ -184,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T23:21:32.180Z,33.7098333,-116.8156667,16.24,0.73,ml,20,80,0.08401,0.2,ci,ci40072071,2022-07-29T23:25:04.696Z,"8km ESE of Valle Vista, CA",earthquake,0.59,0.64,0.183,18,automatic,ci,ci
 2022-07-29T23:20:28.190Z,38.8321648,-122.810997,2.07,0.71,md,15,53,0.008787,0.01,nc,nc73764191,2022-07-29T23:40:16.106Z,"8km W of Cobb, CA",earthquake,0.28,0.58,0.14,2,automatic,nc,nc
 2022-07-29T23:14:20.350Z,19.1438331604004,-155.464340209961,30.4200000762939,1.73000002,md,33,172,,0.150000006,hv,hv73092002,2022-07-29T23:17:23.830Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.66,1.03999996,1.73000002,4,automatic,hv,hv
-2022-07-29T23:05:43.212Z,51.1891,160.9594,7,5.6,mww,154,33,2.324,0.62,us,us6000i6pa,2022-07-30T01:09:38.109Z,"261 km SE of Vilyuchinsk, Russia",earthquake,7.6,1.8,0.052,35,reviewed,us,us
-2022-07-29T22:59:05.321Z,62.9898,-150.4216,103.9,1.9,ml,,,,0.42,ak,ak0229nob2na,2022-07-29T23:01:18.229Z,"57 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
