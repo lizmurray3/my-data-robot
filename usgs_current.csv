@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-30T06:29:10.040Z,38.8043327,-122.7808304,0.91,0.45,md,12,86,0.008914,0.02,nc,nc73764281,2022-07-30T06:30:43.872Z,"4km NW of The Geysers, CA",earthquake,0.31,0.61,0.39,2,automatic,nc,nc
+2022-07-30T06:05:27.534Z,44.0526,149.2551,10,4.8,mb,80,174,4.8,0.48,us,us6000i6qp,2022-07-30T06:25:38.040Z,"170 km SE of Kuril’sk, Russia",earthquake,11.5,1.9,0.062,79,reviewed,us,us
 2022-07-30T06:02:21.892Z,37.1455,-115.8353,10.7,0.6,ml,10,214.98,0.131,0.1885,nn,nn00843864,2022-07-30T06:05:16.873Z,"55 km S of Rachel, Nevada",earthquake,,1.6,0.76,7,automatic,nn,nn
-2022-07-30T05:59:03.370Z,35.7384987,-121.1809998,7.55,1.91,md,21,158,0.06034,0.07,nc,nc73764271,2022-07-30T06:00:39.741Z,"10km N of San Simeon, CA",earthquake,0.32,0.54,0.1,14,automatic,nc,nc
-2022-07-30T05:59:02.480Z,38.7823334,-122.7558365,1.4,0.21,md,9,69,0.01394,0.01,nc,nc73764266,2022-07-30T06:00:40.024Z,"1km N of The Geysers, CA",earthquake,0.33,0.61,0.16,2,automatic,nc,nc
+2022-07-30T05:59:03.370Z,35.7384987,-121.1809998,7.55,1.91,md,21,158,0.06034,0.07,nc,nc73764271,2022-07-30T06:25:14.466Z,"10km N of San Simeon, CA",earthquake,0.32,0.54,0.1,14,automatic,nc,nc
+2022-07-30T05:59:02.480Z,38.7823334,-122.7558365,1.4,0.21,md,9,69,0.01394,0.01,nc,nc73764266,2022-07-30T06:15:15.413Z,"1km N of The Geysers, CA",earthquake,0.33,0.61,0.16,2,automatic,nc,nc
 2022-07-30T05:49:40.879Z,-6.2058,128.6039,328.28,4.5,mb,52,75,3.204,0.87,us,us6000i6qm,2022-07-30T06:06:02.040Z,"281 km S of Ambon, Indonesia",earthquake,9.3,7.5,0.079,46,reviewed,us,us
+2022-07-30T05:44:53.624Z,12.1205,-87.7369,35,4.1,mb,32,162,0.903,0.85,us,us6000i6qk,2022-07-30T06:30:36.509Z,"73 km WSW of Corinto, Nicaragua",earthquake,4.8,2,0.15,12,reviewed,us,us
 2022-07-30T05:44:22.109Z,63.1723,-153.2805,9.6,2.3,ml,,,,0.97,ak,ak0229p1mvfl,2022-07-30T05:47:27.234Z,"58 km ENE of Nikolai, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-30T05:40:36.980Z,17.9468333333333,-66.834,12.07,2.12,md,8,235,,0.13,pr,pr71361573,2022-07-30T06:04:06.420Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.74,0.68,0.14982084317477,6,reviewed,pr,pr
 2022-07-30T05:32:47.393Z,63.312,-153.0003,6.4,1.3,ml,,,,0.32,ak,ak0229p1kcsj,2022-07-30T05:34:35.724Z,"68 km WSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -17,11 +20,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T04:43:20.075Z,38.3839,-119.3498,1.9,1.4,ml,11,79.74,0.079,0.2754,nn,nn00843860,2022-07-30T04:46:27.257Z,"17 km NW of Bridgeport, California",earthquake,,5,0.36,8,automatic,nn,nn
 2022-07-30T04:34:28.116Z,17.5306,120.7152,10,4.5,mb,41,123,5.271,0.68,us,us6000i6q8,2022-07-30T05:58:47.955Z,"11 km NNW of Bantay, Philippines",earthquake,7.7,1.8,0.071,58,reviewed,us,us
 2022-07-30T04:25:19.980Z,35.5805,-120.7536667,6.66,1.14,md,36,50,0.1097,0.07,nc,nc73764251,2022-07-30T05:53:21.286Z,"6km NW of Templeton, CA",earthquake,0.19,0.81,0.225,18,reviewed,nc,nc
-2022-07-30T04:23:58.100Z,38.8400002,-122.8353348,0.8,1.05,md,19,85,0.001414,0.09,nc,nc73764246,2022-07-30T05:11:21.048Z,"10km NW of The Geysers, CA",earthquake,0.23,0.45,0.14,5,automatic,nc,nc
+2022-07-30T04:23:58.100Z,38.8400002,-122.8353348,0.8,1.05,md,19,85,0.001414,0.09,nc,nc73764246,2022-07-30T06:22:11.450Z,"10km NW of The Geysers, CA",earthquake,0.23,0.45,0.14,5,automatic,nc,nc
 2022-07-30T04:23:38.690Z,38.8371658,-122.8373337,1.21,1.41,md,21,80,0.002025,0.04,nc,nc73764241,2022-07-30T05:43:15.222Z,"10km NW of The Geysers, CA",earthquake,0.21,0.36,0.02,5,automatic,nc,nc
 2022-07-30T04:23:23.200Z,38.8378333,-122.837,1.37,0.09,md,20,111,0.001402,0.01,nc,nc73764236,2022-07-30T05:55:11.300Z,"10km NW of The Geysers, CA",earthquake,0.23,0.33,,1,reviewed,nc,nc
 2022-07-30T04:23:09.900Z,38.8371658,-122.8371658,1.5,1.16,md,17,109,0.001934,0.02,nc,nc73764231,2022-07-30T05:00:10.988Z,"10km NW of The Geysers, CA",earthquake,0.23,0.41,0.02,4,automatic,nc,nc
-2022-07-30T04:20:16.997Z,-11.7941,-77.0781,64.52,3.8,mb,11,207,0.3,0.65,us,us6000i6qa,2022-07-30T05:07:02.232Z,"near the coast of central Peru",earthquake,8,6.9,0.51,1,reviewed,us,us
+2022-07-30T04:20:16.997Z,-11.7941,-77.0781,64.52,3.8,mb,11,207,0.3,0.65,us,us6000i6qa,2022-07-30T06:23:49.592Z,"near the coast of central Peru",earthquake,8,6.9,0.51,1,reviewed,us,us
 2022-07-30T04:12:56.400Z,33.7995,-116.124,0.33,0.7,ml,12,93,0.08125,0.27,ci,ci40072183,2022-07-30T04:16:31.794Z,"12km NE of Indio, CA",earthquake,0.58,31.61,0.103,13,automatic,ci,ci
 2022-07-30T04:04:38.680Z,33.2615,-115.9683333,4.44,1.64,ml,44,68,0.08813,0.21,ci,ci40072175,2022-07-30T04:15:08.800Z,"4km SSW of Salton City, CA",earthquake,0.27,1.08,0.152,26,automatic,ci,ci
 2022-07-30T03:17:36.244Z,60.6772,-152.6384,9.4,0.4,ml,,,,0.47,ak,ak0229p0a8zc,2022-07-30T03:19:40.855Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -221,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T06:42:49.240Z,39.4198333,-110.268,-3.4,1.44,ml,6,209,0.04443,0.21,uu,uu60507492,2022-07-29T16:05:57.490Z,"17 km SE of Sunnyside, Utah",earthquake,2.93,5.35,0.084,4,reviewed,uu,uu
 2022-07-29T06:39:55.650Z,46.1985,-122.18283333333333,2.19,0.68,ml,20,83,0.002514,0.14,uw,uw61866791,2022-07-29T16:56:47.960Z,"37 km NNE of Amboy, Washington",earthquake,0.34,0.67,0.18358208635983309,15,reviewed,uw,uw
 2022-07-29T06:36:34.864Z,31.67303692,-104.4148067,7.699755859,2.5,ml,19,58,0.0734196399,0.3,tx,tx2022osjg,2022-07-29T08:31:22.040Z,"55 km S of Whites City, New Mexico",earthquake,1.531397723,1.580453556,0.1,20,reviewed,tx,tx
-2022-07-29T06:26:45.370Z,39.4216667,-110.2796667,-3.36,1.53,ml,6,205,0.03527,0.12,uu,uu60507487,2022-07-29T16:04:22.240Z,"17 km SSE of Sunnyside, Utah",earthquake,1.89,3.69,0.14,4,reviewed,uu,uu
-2022-07-29T06:12:59.940Z,46.20216666666666,-122.182,2.45,-0.12,ml,6,142,0.003127,0.08,uw,uw61866786,2022-07-29T16:59:23.710Z,"38 km NNE of Amboy, Washington",earthquake,0.48,1.58,0.19797141616847236,3,reviewed,uw,uw
-2022-07-29T06:12:52.100Z,36.8606667,-121.3151667,4.85,1.03,md,16,114,0.0436,0.11,nc,nc73763966,2022-07-29T19:07:14.301Z,"7km NE of Ridgemark, CA",earthquake,0.32,0.85,0.125,14,reviewed,nc,nc
