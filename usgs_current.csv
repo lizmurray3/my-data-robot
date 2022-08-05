@@ -167,7 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-04T14:58:24.190Z,54.1526666666667,-165.9735,2.8,-0.73,ml,6,94,,0.26,av,av91067628,2022-08-05T00:49:29.110Z,"13 km W of Akutan, Alaska",earthquake,0.34,0.82,0.28182415817835,5,reviewed,av,av
 2022-08-04T14:48:16.300Z,17.9721666666667,-66.9365,8.36,2.21,md,5,183,,0.08,pr,pr71362583,2022-08-04T15:26:56.060Z,"2 km SW of Fuig, Puerto Rico",earthquake,0.55,1.25,0.0500107338180844,3,reviewed,pr,pr
 2022-08-04T14:45:18.611Z,31.67343001,-104.3897782,7.262719727000001,2.5,ml,24,57,0.09474550065,0.3,tx,tx2022pdyj,2022-08-05T02:31:34.597Z,"55 km S of Whites City, New Mexico",earthquake,1.031331208,1.23787465,0.1,15,reviewed,tx,tx
-2022-08-04T14:44:34.620Z,36.9703333,-121.6066667,3.37,0.82,md,10,68,0.02478,0.07,nc,nc73764045,2022-08-05T04:57:11.210Z,"5km SW of Gilroy, CA",earthquake,0.26,0.55,0.126,9,reviewed,nc,nc
+2022-08-04T14:44:34.620Z,36.9703333,-121.6066667,3.37,0.82,md,10,68,0.02478,0.07,nc,nc73764045,2022-08-05T05:50:12.547Z,"5km SW of Gilroy, CA",earthquake,0.26,0.55,0.126,9,reviewed,nc,nc
 2022-08-04T14:41:20.664Z,32.7478,142.5324,10,5,mb,80,99,2.315,1.39,us,us6000i814,2022-08-04T15:01:22.040Z,"Izu Islands, Japan region",earthquake,8.51,1.863,0.032,309,reviewed,us,us
 2022-08-04T14:41:01.780Z,38.8230019,-122.7649994,1.95,0.97,md,14,121,0.008388,0.03,nc,nc73764040,2022-08-04T16:19:16.468Z,"4km W of Cobb, CA",earthquake,0.34,0.59,0.28,2,automatic,nc,nc
 2022-08-04T14:40:21.573Z,32.154,141.3241,10,4.7,mb,44,82,1.595,1.04,us,us6000i818,2022-08-04T15:17:46.040Z,"Izu Islands, Japan region",earthquake,6.33,1.838,0.061,82,reviewed,us,us
@@ -270,5 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-04T05:59:12.485Z,36.7071,-116.3388,6.9,-0.3,ml,10,154.33,0.034,0.082,nn,nn00844195,2022-08-04T21:31:02.021Z,"43 km ESE of Beatty, Nevada",earthquake,,1.9,0.19,5,reviewed,nn,nn
 2022-08-04T05:57:44.419Z,63.8669,-149.1703,114.1,1.3,ml,,,,0.48,ak,ak0229xbefxl,2022-08-04T06:00:54.841Z,"10 km W of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-04T05:55:29.437Z,62.9585,-149.9359,77,1.6,ml,,,,0.34,ak,ak0229xbdzcf,2022-08-04T05:57:38.656Z,"57 km N of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-04T05:51:57.861Z,31.72149605,-104.5170479,4.769042969,3.6,ml,24,82,0.03163549345,0.3,tx,tx2022pdgu,2022-08-04T16:44:55.172Z,"52 km SSW of Whites City, New Mexico",earthquake,2.261278207,1.344309631,0.2,21,reviewed,tx,tx
-2022-08-04T05:50:56.329Z,32.42889404,-102.1256907,8.192342122,1.6,ml,25,58,0.2696634189,0.2,tx,tx2022pdgt,2022-08-05T04:11:56.040Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.92493277,2.722561647,0.2,14,reviewed,tx,tx
