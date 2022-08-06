@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T10:10:00.590Z,17.9945,-66.8323333333333,18.53,2.75,md,14,152,,0.09,pr,pr71362843,2022-08-05T11:24:07.770Z,"1 km W of Indios, Puerto Rico",earthquake,0.35,0.32,0.0727942439707867,8,reviewed,pr,pr
 2022-08-05T10:08:23.250Z,19.1818332672119,-155.481338500977,38.0499992370605,2.05999994,md,40,148,,0.119999997,hv,hv73099612,2022-08-05T10:11:48.170Z,"2 km S of Pāhala, Hawaii",earthquake,0.5,0.879999995,1.01999998,3,automatic,hv,hv
 2022-08-05T10:01:45.048Z,63.3073,-151.0561,0,1.2,ml,,,,1.03,ak,ak0229z1kyeg,2022-08-05T10:04:11.473Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-08-05T09:58:59.880Z,19.5381666666667,-155.649833333333,4.13,1.5,md,19,76,,0.12,hv,hv73099602,2022-08-06T01:01:23.420Z,"24 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.42,0.58,0.156722394859321,7,reviewed,hv,hv
