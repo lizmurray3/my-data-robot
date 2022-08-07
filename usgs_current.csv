@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-07T19:03:24.970Z,17.9893333333333,-66.8253333333333,16.85,2.02,md,9,180,,0.24,pr,pr71363633,2022-08-07T19:14:55.420Z,"0 km SW of Indios, Puerto Rico",earthquake,0.81,1.07,0.159789657091512,6,reviewed,pr,pr
 2022-08-07T18:58:16.190Z,19.2531661987305,-155.383834838867,31.4200000762939,1.82000005,md,34,139,,0.119999997,hv,hv73102017,2022-08-07T19:01:35.600Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.73,0.920000017,0.680000007,8,automatic,hv,hv
 2022-08-07T18:57:33.716Z,61.5747,-146.214,39.6,1.3,ml,,,,0.92,ak,ak022a2hr3gb,2022-08-07T18:59:54.158Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-07T18:49:20.803Z,62.3586,-149.1798,0,2.2,ml,,,,0.46,ak,ak022a2hpcq8,2022-08-07T18:51:27.206Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-07T18:47:38.094Z,60.3043,-152.6538,8,1.4,ml,,,,0.75,ak,ak022a2hoymp,2022-08-07T18:49:29.518Z,"61 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-07T18:32:25.330Z,36.0838333,-117.8803333,2.1,1.04,ml,14,66,0.03949,0.17,ci,ci40077087,2022-08-07T18:35:54.552Z,"8km NE of Coso Junction, CA",earthquake,0.38,0.29,0.267,13,automatic,ci,ci
-2022-08-07T18:29:38.997Z,38.1854,-117.8448,2,2.1,ml,15,132.71,0.101,0.2771,nn,nn00844373,2022-08-07T18:33:27.557Z,"32 km SE of Mina, Nevada",earthquake,,0.7,0.53,9,automatic,nn,nn
+2022-08-07T18:29:39.802Z,38.1675,-117.8667,8.9,1.7,ml,16,85.79,0.079,0.1681,nn,nn00844373,2022-08-07T19:18:24.779Z,"32 km SE of Mina, Nevada",earthquake,,1.3,0.32,7,reviewed,nn,nn
 2022-08-07T18:19:34.180Z,38.8241653,-122.8078308,2.49,0.93,md,17,42,0.001914,0.04,nc,nc73765195,2022-08-07T18:38:15.371Z,"7km NW of The Geysers, CA",earthquake,0.27,0.78,0.29,2,automatic,nc,nc
 2022-08-07T18:08:30.450Z,33.319,-117.0763333,25.29,0.78,ml,8,120,0.3386,0.24,ci,ci40077071,2022-08-07T18:12:06.303Z,"5km S of Pala, CA",earthquake,1.25,9.52,0.081,8,automatic,ci,ci
 2022-08-07T17:52:02.085Z,60.1283,-152.5874,102.2,1.8,ml,,,,0.4,ak,ak022a2h4its,2022-08-07T17:53:45.915Z,"51 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T17:22:58.840Z,19.199499130249,-155.470672607422,32.4599990844727,2.16,ml,47,144,,0.100000001,hv,hv73101962,2022-08-07T17:28:30.160Z,"0 km ESE of Pāhala, Hawaii",earthquake,0.43,0.670000017,4.47,13,automatic,hv,hv
 2022-08-07T17:12:19.270Z,19.1660003662109,-155.463668823242,31.6900005340576,2.50999999,md,44,109,,0.119999997,hv,hv73101947,2022-08-07T17:17:50.520Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.5,0.779999971,2.1400001,26,automatic,hv,hv
 2022-08-07T17:08:58.081Z,63.1073,-151.0542,24,1.5,ml,,,,1.13,ak,ak022a2gv7n4,2022-08-07T17:11:22.744Z,"58 km SE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-08-07T16:58:07.460Z,36.0168343,-120.5784988,1.25,1.08,md,10,117,0.03476,0.05,nc,nc73765185,2022-08-07T17:14:13.816Z,"19km NW of Parkfield, CA",earthquake,0.35,1.36,0.06,3,automatic,nc,nc
+2022-08-07T16:58:07.460Z,36.0168343,-120.5784988,1.25,1.08,md,10,117,0.03476,0.05,nc,nc73765185,2022-08-07T19:25:10.674Z,"19km NW of Parkfield, CA",earthquake,0.35,1.36,0.06,3,automatic,nc,nc
 2022-08-07T16:37:07.320Z,33.9778333,-117.684,8,1.09,ml,18,100,0.06682,0.26,ci,ci40077039,2022-08-07T16:40:41.910Z,"4km S of Chino, CA",earthquake,0.59,1.41,0.42,23,automatic,ci,ci
 2022-08-07T16:34:27.520Z,34.4173333,-116.4958333,11.83,2.04,ml,53,49,0.1092,0.13,ci,ci40077031,2022-08-07T18:30:16.050Z,"34km N of Yucca Valley, CA",earthquake,0.12,0.34,0.139,83,reviewed,ci,ci
 2022-08-07T16:24:05.094Z,63.9295,-148.693,114.1,1.1,ml,,,,0.29,ak,ak022a2gd3el,2022-08-07T16:26:33.505Z,"15 km ENE of Healy, Alaska",earthquake,,1.4,,,automatic,ak,ak
