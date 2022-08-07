@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T13:03:28.079Z,38.5443,-119.5148,5.5,0.7,ml,8,161.74,0.042,0.1998,nn,nn00844349,2022-08-07T13:06:41.103Z,"2 km SSW of Coleville, California",earthquake,,0.7,0.17,3,automatic,nn,nn
 2022-08-07T12:53:25.450Z,38.8308334,-122.815834,1.39,0.92,md,16,49,0.008684,0.01,nc,nc73765095,2022-08-07T13:09:18.240Z,"8km NW of The Geysers, CA",earthquake,0.21,0.59,0.26,3,automatic,nc,nc
 2022-08-07T12:52:36.210Z,32.5453,142.541,10,4.6,mb,56,136,2.365,0.56,us,us6000i8vs,2022-08-07T13:16:41.040Z,"Izu Islands, Japan region",earthquake,10.07,1.841,0.047,134,reviewed,us,us
-2022-08-07T12:25:19.900Z,38.8089981,-122.7923355,1.04,0.83,md,11,87,0.002536,0.02,nc,nc73765090,2022-08-07T14:37:10.811Z,"5km NW of The Geysers, CA",earthquake,0.29,0.52,,1,automatic,nc,nc
+2022-08-07T12:25:19.900Z,38.8089981,-122.7923355,1.04,0.83,md,11,87,0.002536,0.02,nc,nc73765090,2022-08-07T14:40:13.833Z,"5km NW of The Geysers, CA",earthquake,0.29,0.52,,1,automatic,nc,nc
 2022-08-07T12:23:36.393Z,61.5426,-146.5832,29.6,1.4,ml,,,,0.71,ak,ak022a2dz7on,2022-08-07T12:25:35.720Z,"47 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-07T12:21:32.338Z,38.1177,-118.0601,8.2,0.3,ml,9,163.3,0.082,0.0799,nn,nn00844348,2022-08-07T12:26:29.636Z,"30 km S of Mina, Nevada",earthquake,,1.6,0.36,6,automatic,nn,nn
 2022-08-07T12:17:13.270Z,33.3600006,-116.2188339,9.07,1.05,ml,28,113,0.076,0.23,ci,ci40076895,2022-08-07T12:20:42.365Z,"16km SW of Oasis, CA",earthquake,0.54,1.48,0.104,5,automatic,ci,ci
@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T09:22:47.770Z,19.1733341217041,-155.480834960938,32.0699996948242,1.73000002,md,36,83,,0.150000006,hv,hv73101632,2022-08-07T09:25:56.870Z,"3 km S of Pāhala, Hawaii",earthquake,0.64,0.860000014,1.73000002,4,automatic,hv,hv
 2022-08-07T09:13:49.379Z,63.4795,-151.1398,3.4,1.6,ml,,,,0.77,ak,ak022a2c4spl,2022-08-07T09:16:05.692Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-07T08:49:39.223Z,35.4601,137.1021,277.018,4.2,mb,28,76,0.125,0.48,us,us6000i8uy,2022-08-07T09:09:08.040Z,"5 km NNW of Mitake, Japan",earthquake,7.55,4.838,0.132,17,reviewed,us,us
-2022-08-07T08:40:01.990Z,31.5569992,-115.7126694,7.91,3.49,mlr,17,91,0.176,0.25,ci,ci40076855,2022-08-07T09:43:29.637Z,"83km ESE of Maneadero, B.C., MX",earthquake,0.37,1.38,0.274,23,reviewed,ci,ci
+2022-08-07T08:40:01.880Z,31.5595,-115.711,8.75,3.52,ml,13,90,0.1788,0.19,ci,ci40076855,2022-08-07T14:46:29.312Z,"83km ESE of Maneadero, B.C., MX",earthquake,0.37,1.22,0.136,57,reviewed,ci,ci
 2022-08-07T08:28:50.709Z,31.7178,-104.5859,5,2.6,ml,23,131,0.088,0.35,us,us6000i8ur,2022-08-07T08:48:28.505Z,"54 km SSW of Whites City, New Mexico",earthquake,1.64,1.947,0.06,50,reviewed,us,us
 2022-08-07T08:27:55.470Z,34.2505,-118.6135,7.12,0.84,ml,7,98,0.04987,0.28,ci,ci40076847,2022-08-07T08:31:30.003Z,"1km SW of Chatsworth, CA",earthquake,2.32,3.54,0.294,13,automatic,ci,ci
 2022-08-07T08:15:16.128Z,31.70943056,-104.5917806,5.951611328,3.9,ml,16,147,0.07902872629,0.3,tx,tx2022piya,2022-08-07T14:38:24.416Z,"55 km SSW of Whites City, New Mexico",earthquake,2.367081413,1.493026844,0.2,13,reviewed,tx,tx
