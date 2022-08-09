@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-09T06:38:53.900Z,33.2314987,-116.732666,12.27,1.07,ml,35,32,0.02232,0.2,ci,ci40077999,2022-08-09T06:41:11.791Z,"3km ESE of Lake Henshaw, CA",earthquake,0.29,0.7,0.22,4,automatic,ci,ci
+2022-08-09T06:49:39.110Z,35.1336667,-118.9755,15.48,1.26,ml,16,152,0.1194,0.19,ci,ci40078023,2022-08-09T06:53:10.310Z,"15km SSW of Lamont, CA",earthquake,0.59,1.21,0.142,16,automatic,ci,ci
+2022-08-09T06:46:51.820Z,33.8175,-116.9278333,12.53,0.35,ml,8,164,0.1252,0.14,ci,ci40078015,2022-08-09T06:50:18.603Z,"5km NE of San Jacinto, CA",earthquake,1.1,1.8,0.157,6,automatic,ci,ci
+2022-08-09T06:39:42.570Z,33.2331667,-116.7316667,10.94,0.52,ml,20,52,0.02288,0.13,ci,ci40078007,2022-08-09T06:43:13.626Z,"3km ESE of Lake Henshaw, CA",earthquake,0.24,0.45,0.157,9,automatic,ci,ci
+2022-08-09T06:38:53.900Z,33.233,-116.7296667,12.49,0.65,ml,25,37,0.02456,0.18,ci,ci40077999,2022-08-09T06:42:26.517Z,"3km ESE of Lake Henshaw, CA",earthquake,0.28,0.79,0.153,16,automatic,ci,ci
 2022-08-09T06:37:11.964Z,38.5979,-119.436,2.4,1.1,ml,13,78.59,0.067,0.1034,nn,nn00844518,2022-08-09T06:40:39.637Z,"7 km ENE of Coleville, California",earthquake,,2,0.17,9,automatic,nn,nn
 2022-08-09T06:36:44.622Z,63.1627,-151.4018,4.1,1.9,ml,,,,0.35,ak,ak022a5lk3zi,2022-08-09T06:38:45.801Z,"45 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-08-09T06:36:08.160Z,-8.3291,117.0957,10,4.6,mb,28,50,0.836,0.46,us,us6000i9ap,2022-08-09T06:55:31.040Z,"40 km WNW of Sumbawa Besar, Indonesia",earthquake,4.51,1.792,0.129,18,reviewed,us,us
 2022-08-09T06:14:04.615Z,62.4824,-151.3017,77.6,1.6,ml,,,,0.53,ak,ak022a5lfb59,2022-08-09T06:16:06.703Z,"27 km W of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-09T05:53:36.060Z,38.822834,-122.786499,2.34,0.84,md,8,95,0.01058,0.01,nc,nc73765840,2022-08-09T06:10:15.430Z,"6km W of Cobb, CA",earthquake,0.73,1.71,,1,automatic,nc,nc
 2022-08-09T05:47:11.420Z,36.0643333,-117.3621667,-0.25,1.39,ml,11,200,0.1845,0.18,ci,ci40077983,2022-08-09T05:50:39.215Z,"33km N of Searles Valley, CA",earthquake,0.74,31.61,0.184,12,automatic,ci,ci
@@ -272,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T07:09:53.860Z,38.7546654,-122.7324982,2.54,0.36,md,6,142,0.009138,0.05,nc,nc73765350,2022-08-08T09:22:17.872Z,"3km SE of The Geysers, CA",earthquake,1.08,0.71,0.04,2,automatic,nc,nc
 2022-08-08T07:06:50.100Z,18.223,-68.3301,55,3.64,md,15,166,0.2954,0.54,pr,pr2022220003,2022-08-08T10:30:37.318Z,"34 km ESE of Boca de Yuma, Dominican Republic",earthquake,3.09,3.65,0.23,12,reviewed,pr,pr
 2022-08-08T07:06:23.550Z,35.06316667,-95.899,6,1.75,ml,92,74,0.2762457912,0.28,ok,ok2022pkrg,2022-08-08T12:30:55.489Z,"14 km NNE of Arpelar, Oklahoma",earthquake,,0.8,0.22,22,reviewed,ok,ok
-2022-08-08T06:50:52.900Z,51.915,-176.904,13.07,0.09,ml,7,153,,0.14,av,av91067878,2022-08-09T05:43:26.240Z,"19 km WNW of Adak, Alaska",earthquake,1.09,1.42,0.185039953804297,7,reviewed,av,av
-2022-08-08T06:47:36.680Z,51.9033333333333,-176.886166666667,4.26,0.33,ml,8,145,,0.16,av,av91067873,2022-08-09T05:44:08.480Z,"17 km W of Adak, Alaska",earthquake,0.97,1.29,0.202720527824062,8,reviewed,av,av
