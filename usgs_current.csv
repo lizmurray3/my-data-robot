@@ -280,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T14:52:23.460Z,17.9805,-66.843,16.07,2.47,md,6,249,,0.08,pr,pr71364373,2022-08-09T15:23:14.550Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.65,0.45,0.0687457769428095,6,reviewed,pr,pr
 2022-08-09T14:50:13.750Z,38.8409996,-122.8273315,1.75,0.78,md,15,99,0.006809,0.02,nc,nc73765960,2022-08-09T15:44:13.895Z,"9km WNW of Cobb, CA",earthquake,0.28,0.41,0.4,3,automatic,nc,nc
 2022-08-09T14:48:30.180Z,56.9689,-156.9798,82.6,2.4,ml,,,,0.3,ak,ak022a5qe4ay,2022-08-09T15:23:54.040Z,"65 km SSE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-09T14:40:47.749Z,41.8714,-126.7177,10,4.3,mb,45,196,1.806,0.28,us,us6000i9du,2022-08-09T18:36:29.067Z,"197 km WSW of Pistol River, Oregon",earthquake,7.43,1.994,0.177,9,reviewed,us,us
-2022-08-09T14:38:03.672Z,62.1691,-150.0528,10.1,1.7,ml,,,,0.67,ak,ak022a5qbx3j,2022-08-09T14:40:07.901Z,"10 km W of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
