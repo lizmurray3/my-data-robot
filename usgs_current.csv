@@ -1,10 +1,19 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-12T06:21:06.182Z,39.7267,-119.8583,13.2,1.1,ml,10,85.69,0.143,0.1106,nn,nn00844823,2022-08-12T06:23:57.290Z,"10 km N of Lemmon Valley, Nevada",earthquake,,1,0.12,9,automatic,nn,nn
+2022-08-12T06:19:27.480Z,33.2386667,-116.1011667,6.18,0.93,ml,28,55,0.09989,0.22,ci,ci40324056,2022-08-12T06:22:57.548Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.35,1.87,0.105,19,automatic,ci,ci
+2022-08-12T06:17:54.455Z,60.9485,-150.9328,13.9,1.6,ml,,,,0.73,ak,ak022aak23md,2022-08-12T06:19:44.035Z,"13 km WNW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-08-12T06:15:42.640Z,39.288166,-123.3444977,-0.44,2.4,md,18,93,0.08893,0.35,nc,nc73767180,2022-08-12T06:22:11.026Z,"12km WNW of Redwood Valley, CA",earthquake,0.9,3.89,0.09,17,automatic,nc,nc
+2022-08-12T06:07:12.931Z,40.6562,34.7822,10,4.3,mb,27,68,0.9,0.84,us,us6000ia4m,2022-08-12T06:23:07.040Z,"15 km SSW of Laçin, Turkey",earthquake,3.07,1.93,0.142,14,reviewed,us,us
+2022-08-12T06:04:48.332Z,57.4312,-154.8519,83.7,1.7,ml,,,,0.75,ak,ak022aajzau9,2022-08-12T06:06:53.782Z,"28 km WSW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-08-12T06:03:03.760Z,38.7723351,-122.7161636,1.78,0.68,md,11,111,0.0127,0.02,nc,nc73767175,2022-08-12T06:19:20.013Z,"2km W of Anderson Springs, CA",earthquake,0.44,0.45,0.16,2,automatic,nc,nc
+2022-08-12T06:02:35.180Z,19.1959991455078,-155.492172241211,33.4099998474121,1.84000003,md,27,136,,0.180000007,hv,hv73106452,2022-08-12T06:05:52.670Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.73,0.99000001,0.00999999978,5,automatic,hv,hv
 2022-08-12T05:41:47.654Z,61.7361,-148.2005,13.9,2.1,ml,,,,0.34,ak,ak022aajlsod,2022-08-12T05:55:38.679Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-12T05:39:23.531Z,60.6075,-141.2338,19.5,1.3,ml,,,,0.48,ak,ak022aajlbdt,2022-08-12T05:40:48.661Z,"129 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-12T05:38:14.960Z,35.3935,-117.7193333,10.66,0.76,ml,12,201,0.09107,0.18,ci,ci40324048,2022-08-12T05:41:47.299Z,"8km WNW of Johannesburg, CA",earthquake,0.95,0.95,0.211,8,automatic,ci,ci
 2022-08-12T05:31:22.775Z,61.7972,-149.5727,35.9,2.3,ml,,,,0.33,ak,ak022aajjllh,2022-08-12T05:33:12.328Z,"18 km WNW of Fishhook, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-08-12T05:30:27.830Z,17.9791666666667,-66.8445,18.11,1.96,md,7,251,,0.08,pr,pr71365243,2022-08-12T05:44:21.530Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.71,0.51,0.0671356003639689,2,reviewed,pr,pr
 2022-08-12T05:30:14.824Z,38.5983,-119.4354,1.2,1.1,ml,9,86.08,0.067,0.1006,nn,nn00844821,2022-08-12T05:33:16.474Z,"7 km ENE of Coleville, California",earthquake,,1.1,0.22,6,automatic,nn,nn
+2022-08-12T05:26:11.830Z,17.9843333333333,-66.832,16.11,2.83,md,23,151,,0.16,pr,pr71365228,2022-08-12T06:08:16.620Z,"1 km SW of Indios, Puerto Rico",earthquake,0.29,0.41,0.143063338673651,13,reviewed,pr,pr
 2022-08-12T05:25:46.106Z,38.5987,-119.4341,1.1,1.4,ml,21,77.27,0.068,0.2007,nn,nn00844816,2022-08-12T05:28:49.150Z,"7 km ENE of Coleville, California",earthquake,,0.9,0.17,14,automatic,nn,nn
 2022-08-12T05:22:17.180Z,38.5793343,-119.4459991,6.57,2.96,md,9,154,0.05826,0.08,nc,nc73767170,2022-08-12T05:56:30.554Z,"8km NNE of Walker, CA",earthquake,0.5,1.08,0.16,36,automatic,nc,nc
 2022-08-12T05:15:11.360Z,38.8268318,-122.7904968,1.5,1.27,md,26,63,0.01156,0.03,nc,nc73767165,2022-08-12T05:32:15.721Z,"6km W of Cobb, CA",earthquake,0.19,0.31,0.06,5,automatic,nc,nc
@@ -19,12 +28,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-12T04:20:41.790Z,19.2436676025391,-155.421173095703,37.1800003051758,2.23,ml,26,126,,0.180000007,hv,hv73106382,2022-08-12T04:26:12.510Z,"7 km NE of Pāhala, Hawaii",earthquake,0.85,1.21000004,4.63,4,automatic,hv,hv
 2022-08-12T04:09:21.430Z,38.5866,-119.4486,3.4,1.2,ml,14,59.65,0.056,0.2861,nn,nn00844806,2022-08-12T04:12:26.425Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.2,9,automatic,nn,nn
 2022-08-12T04:00:33.742Z,38.5803,-119.4651,8,1.3,ml,11,68.74,0.043,0.2134,nn,nn00844803,2022-08-12T04:03:35.735Z,"3 km ENE of Coleville, California",earthquake,,0.7,0.22,8,automatic,nn,nn
-2022-08-12T03:56:36.430Z,38.5913315,-119.4633331,5.79,2.64,md,7,119,0.04463,0.03,nc,nc73767150,2022-08-12T04:05:27.235Z,"9km N of Walker, CA",earthquake,0.42,0.6,0.23,9,automatic,nc,nc
+2022-08-12T03:56:36.430Z,38.5913315,-119.4633331,5.79,2.64,md,7,119,0.04463,0.03,nc,nc73767150,2022-08-12T06:04:18.924Z,"9km N of Walker, CA",earthquake,0.42,0.6,0.23,9,automatic,nc,nc
 2022-08-12T03:50:05.543Z,38.6055,-119.4431,1.1,1.4,ml,11,72.5,0.063,0.2414,nn,nn00844796,2022-08-12T03:53:15.947Z,"6 km ESE of Topaz, California",earthquake,,1,0.19,8,automatic,nn,nn
 2022-08-12T03:47:39.110Z,17.9656666666667,-66.9403333333333,11.36,2.66,md,13,186,,0.14,pr,pr71365208,2022-08-12T04:46:40.540Z,"3 km W of Guánica, Puerto Rico",earthquake,0.48,0.56,0.142548146484085,6,reviewed,pr,pr
 2022-08-12T03:47:14.148Z,38.5986,-119.4585,3.9,1.3,ml,13,62.91,0.05,0.2158,nn,nn00844793,2022-08-12T03:50:06.270Z,"5 km NE of Coleville, California",earthquake,,0.7,0.11,9,automatic,nn,nn
 2022-08-12T03:43:46.487Z,38.5977,-119.4344,0,1.6,ml,13,121.21,0.068,0.1766,nn,nn00844791,2022-08-12T03:48:25.769Z,"7 km ENE of Coleville, California",earthquake,,3.8,0.18,7,automatic,nn,nn
-2022-08-12T03:37:05.020Z,38.5876667,-119.4523333,5.2,3.45,ml,23,55,0.05295,0.09,nc,nc73767145,2022-08-12T05:19:16.648Z,"8km NNE of Walker, CA",earthquake,0.22,0.48,0.193,122,reviewed,nc,nc
+2022-08-12T03:37:05.020Z,38.5876667,-119.4523333,5.2,3.45,ml,23,55,0.05295,0.09,nc,nc73767145,2022-08-12T06:19:19.014Z,"8km NNE of Walker, CA",earthquake,0.22,0.48,0.193,122,reviewed,nc,nc
 2022-08-12T03:35:36.148Z,31.67970402,-104.5128498,6.465771484,2.9,ml,37,79,0.01515784875,0.2,tx,tx2022prsh,2022-08-12T04:06:54.730Z,"56 km SSW of Whites City, New Mexico",earthquake,1.858927932,1.188560298,0.1,22,reviewed,tx,tx
 2022-08-12T03:34:43.369Z,59.7385,-153.1618,103.2,1.5,ml,,,,0.53,ak,ak022aaidfmf,2022-08-12T03:36:59.766Z,"53 km E of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-08-12T03:30:58.080Z,18.821,-67.2921,15,3.7,md,26,203,0.3971,0.3,pr,pr2022224001,2022-08-12T04:06:07.520Z,"41 km NNW of San Antonio, Puerto Rico",earthquake,0.8,1.24,0.03,18,reviewed,pr,pr
@@ -79,6 +88,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-11T21:23:46.940Z,39.428,-110.3068333,-1.34,1.75,ml,9,181,0.01467,0.15,uu,uu60509452,2022-08-11T21:50:11.520Z,"15 km SSE of Sunnyside, Utah",earthquake,1.17,0.61,0.112,4,reviewed,uu,uu
 2022-08-11T21:22:48.430Z,38.8231659,-122.8078308,5.82,0.84,md,7,130,0.001767,0.06,nc,nc73767005,2022-08-11T21:39:16.977Z,"7km NW of The Geysers, CA",earthquake,0.88,2.48,,1,automatic,nc,nc
 2022-08-11T21:20:01.369Z,61.9114,-150.9194,75.4,1.5,ml,,,,0.4,ak,ak022a95gs94,2022-08-11T21:22:13.679Z,"26 km ESE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-08-11T21:17:08.433Z,31.69252796,-104.3859101,6.157275391,2.1,ml,13,79,0.1008011609,0.3,tx,tx2022prfw,2022-08-12T06:23:46.700Z,"53 km S of Whites City, New Mexico",earthquake,2.675277553,1.999491981,0.2,13,reviewed,tx,tx
+2022-08-11T21:15:35.124Z,31.73071911,-104.5128335,6.825683594,2.2,ml,21,89,0.02236143993,0.4,tx,tx2022prft,2022-08-12T06:14:26.725Z,"50 km SSW of Whites City, New Mexico",earthquake,3.120595997,2.006405126,0.2,16,reviewed,tx,tx
 2022-08-11T21:08:46.615Z,60.3812,-152.4117,93.4,1.8,ml,,,,0.59,ak,ak022a95eb9d,2022-08-11T21:13:43.560Z,"55 km NW of Ninilchik, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-08-11T21:04:16.070Z,34.262,-96.42466667,0,1.34,ml,34,105,0.479605885,0.43,ok,ok2022prfk,2022-08-11T21:25:49.553Z,"11 km ENE of Milburn, Oklahoma",quarry blast,,0.6,0.15,9,reviewed,ok,ok
 2022-08-11T21:02:48.680Z,38.8284988,-122.80233,1.77,0.65,md,19,36,0.00791,0.02,nc,nc73767000,2022-08-11T21:19:17.863Z,"7km W of Cobb, CA",earthquake,0.22,0.46,0.2,3,automatic,nc,nc
@@ -249,11 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-11T06:47:41.020Z,41.7491667,-112.794,7.12,1.12,md,15,219,0.03363,0.16,uu,uu60509352,2022-08-11T15:39:39.750Z,"25 km SSW of Snowville, Utah",earthquake,1.19,1.3,0.158,11,reviewed,uu,uu
 2022-08-11T06:38:34.250Z,39.4195,-110.2753333,-3.41,1.9,ml,6,207,0.03882,0.16,uu,uu60509347,2022-08-11T15:33:58.240Z,"17 km SSE of Sunnyside, Utah",earthquake,2.32,4.46,0.113,9,reviewed,uu,uu
 2022-08-11T06:31:07.880Z,19.2485008239746,-155.398330688477,31.1200008392334,2.35,ml,46,136,,0.129999995,hv,hv73105742,2022-08-11T07:34:28.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.709999979,4.03,18,automatic,hv,hv
-2022-08-11T06:24:53.500Z,33.6726667,-116.7875,15.41,0.68,ml,44,76,0.06589,0.12,ci,ci40079639,2022-08-11T17:31:29.145Z,"10km SW of Idyllwild, CA",earthquake,0.14,0.26,0.137,14,reviewed,ci,ci
-2022-08-11T06:24:48.527Z,-13.2116,-74.7831,83.204,4.8,mb,73,131,2.35,0.59,us,us6000i9vv,2022-08-11T11:28:23.738Z,"26 km SE of Huachocolpa, Peru",earthquake,8.21,6.539,0.033,289,reviewed,us,us
-2022-08-11T06:23:32.820Z,33.6731667,-116.7858333,14.86,0.26,ml,22,134,0.06727,0.08,ci,ci40079631,2022-08-11T15:46:44.693Z,"10km SW of Idyllwild, CA",earthquake,0.2,0.31,0.162,6,reviewed,ci,ci
-2022-08-11T06:15:59.970Z,39.4236667,-110.2815,-3.39,1.43,ml,6,205,0.03377,0.1,uu,uu60509342,2022-08-11T15:29:48.590Z,"16 km SSE of Sunnyside, Utah",earthquake,1.77,3.24,0.124,4,reviewed,uu,uu
-2022-08-11T06:11:49.274Z,60.1729,-152.6403,72.3,1.1,ml,,,,1.14,ak,ak022a8whgaq,2022-08-11T06:14:00.087Z,"55 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-08-11T06:09:11.964Z,31.72185463,-104.2857211,7.828295898,2.2,ml,16,75,0.05401943887,0.2,tx,tx2022pqbw,2022-08-11T17:39:32.834Z,"51 km S of Whites City, New Mexico",earthquake,1.165637279,1.312019794,0,6,reviewed,tx,tx
-2022-08-11T06:01:25.620Z,39.4203333,-110.272,-3.41,1.56,ml,7,208,0.0413,0.17,uu,uu60509337,2022-08-11T15:11:16.270Z,"17 km SE of Sunnyside, Utah",earthquake,2.16,3.98,0.1,4,reviewed,uu,uu
-2022-08-11T05:57:14.630Z,35.5961667,-117.4125,6.07,0.97,ml,17,101,0.08111,0.14,ci,ci40079623,2022-08-11T15:40:11.135Z,"19km S of Trona, CA",earthquake,0.3,0.82,0.179,7,reviewed,ci,ci
