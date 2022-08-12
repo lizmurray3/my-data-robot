@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-12T07:46:33.590Z,33.4775,-116.4538333,7.85,1.14,ml,45,45,0.05146,0.22,ci,ci40324072,2022-08-12T07:50:00.489Z,"22km ESE of Anza, CA",earthquake,0.23,0.64,0.221,26,automatic,ci,ci
+2022-08-12T07:46:33.590Z,33.4775,-116.4538333,7.85,1.14,ml,45,45,0.05146,0.22,ci,ci40324072,2022-08-12T07:57:42.350Z,"22km ESE of Anza, CA",earthquake,0.23,0.64,0.221,26,automatic,ci,ci
+2022-08-12T07:42:25.607Z,-59.0138,-25.7163,39.254,4.9,mb,48,69,15.717,0.79,us,us6000ia5w,2022-08-12T07:58:02.040Z,"South Sandwich Islands region",earthquake,11.61,3.291,0.087,42,reviewed,us,us
 2022-08-12T07:34:00.890Z,19.1758327484131,-155.491500854492,34.9500007629395,2.46000004,md,43,95,,0.129999995,hv,hv73106517,2022-08-12T07:37:21.690Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.55,0.779999971,1.74000001,27,automatic,hv,hv
 2022-08-12T07:32:35.010Z,19.2431659698486,-155.378829956055,33.310001373291,1.74000001,md,33,148,,0.159999996,hv,hv73106512,2022-08-12T07:35:50.670Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.75,1.03999996,1.22000003,7,automatic,hv,hv
 2022-08-12T07:19:33.660Z,19.193000793457,-155.470336914062,33.560001373291,1.94000006,md,31,153,,0.140000001,hv,hv73106502,2022-08-12T07:22:42.650Z,"1 km SE of Pāhala, Hawaii",earthquake,0.7,1.17999995,0.879999995,7,automatic,hv,hv
@@ -42,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-12T04:20:41.790Z,19.2436676025391,-155.421173095703,37.1800003051758,2.23,ml,26,126,,0.180000007,hv,hv73106382,2022-08-12T04:26:12.510Z,"7 km NE of Pāhala, Hawaii",earthquake,0.85,1.21000004,4.63,4,automatic,hv,hv
 2022-08-12T04:09:21.430Z,38.5866,-119.4486,3.4,1.2,ml,14,59.65,0.056,0.2861,nn,nn00844806,2022-08-12T04:12:26.425Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.2,9,automatic,nn,nn
 2022-08-12T04:00:33.742Z,38.5803,-119.4651,8,1.3,ml,11,68.74,0.043,0.2134,nn,nn00844803,2022-08-12T04:03:35.735Z,"3 km ENE of Coleville, California",earthquake,,0.7,0.22,8,automatic,nn,nn
-2022-08-12T03:56:36.430Z,38.5913315,-119.4633331,5.79,2.64,md,7,119,0.04463,0.03,nc,nc73767150,2022-08-12T06:04:18.924Z,"9km N of Walker, CA",earthquake,0.42,0.6,0.23,9,automatic,nc,nc
+2022-08-12T03:56:36.420Z,38.5871667,-119.4515,5.09,2.46,md,16,95,0.05359,0.08,nc,nc73767150,2022-08-12T08:04:17.669Z,"8km NNE of Walker, CA",earthquake,0.26,0.52,0.21,34,reviewed,nc,nc
 2022-08-12T03:50:05.543Z,38.6055,-119.4431,1.1,1.4,ml,11,72.5,0.063,0.2414,nn,nn00844796,2022-08-12T03:53:15.947Z,"California-Nevada border region",earthquake,,1,0.19,8,automatic,nn,nn
 2022-08-12T03:47:39.110Z,17.9656666666667,-66.9403333333333,11.36,2.66,md,13,186,,0.14,pr,pr71365208,2022-08-12T04:46:40.540Z,"3 km W of Guánica, Puerto Rico",earthquake,0.48,0.56,0.142548146484085,6,reviewed,pr,pr
 2022-08-12T03:47:14.148Z,38.5986,-119.4585,3.9,1.3,ml,13,62.91,0.05,0.2158,nn,nn00844793,2022-08-12T03:50:06.270Z,"5 km NE of Coleville, California",earthquake,,0.7,0.11,9,automatic,nn,nn
@@ -78,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-12T00:12:09.970Z,33.9088333,-116.792,9.71,1.34,ml,43,47,0.07518,0.18,ci,ci40323848,2022-08-12T00:23:00.680Z,"1km SSW of Cabazon, CA",earthquake,0.21,0.53,0.141,25,automatic,ci,ci
 2022-08-12T00:10:01.800Z,63.3211,-152.7304,3.5,1.4,ml,,,,0.6,ak,ak022aagfvx0,2022-08-12T00:11:47.347Z,"55 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-11T23:51:52.880Z,38.8433342,-122.8310013,2.16,0.86,md,9,119,0.005893,0.03,nc,nc73767075,2022-08-12T00:10:14.819Z,"10km WNW of Cobb, CA",earthquake,0.38,1.18,,1,automatic,nc,nc
-2022-08-11T23:40:39.390Z,38.5865,-119.4618333,4.05,2.49,md,17,54,0.04548,0.1,nc,nc73767070,2022-08-12T07:49:45.968Z,"8km N of Walker, CA",earthquake,0.25,0.46,0.127,32,reviewed,nc,nc
+2022-08-11T23:40:39.390Z,38.5865,-119.4618333,4.05,2.49,md,17,54,0.04548,0.1,nc,nc73767070,2022-08-12T07:54:10.611Z,"8km N of Walker, CA",earthquake,0.25,0.46,0.127,32,reviewed,nc,nc
 2022-08-11T23:39:25.644Z,-30.0856,-177.7645,36.018,4.9,mb,50,83,0.832,0.79,us,us6000ia2k,2022-08-12T00:47:13.040Z,"Kermadec Islands, New Zealand",earthquake,8.31,6.468,0.053,112,reviewed,us,us
 2022-08-11T23:35:27.633Z,62.1801,-151.1371,13.7,1.9,ml,,,,0.6,ak,ak022a96qx8b,2022-08-11T23:37:25.785Z,"25 km NNE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-11T23:31:26.650Z,36.1601667,-118.0651667,-0.38,1.73,ml,16,90,0.1755,0.23,ci,ci40323832,2022-08-11T23:35:03.068Z,"15km SSW of Olancha, CA",earthquake,0.42,31.61,0.208,24,automatic,ci,ci
@@ -253,7 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-11T08:21:39.130Z,60.0993,-152.5733,98.1,1.1,ml,,,,0.32,ak,ak022a8xqg0p,2022-08-11T08:23:40.700Z,"49 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-11T08:11:56.300Z,17.9813333333333,-66.841,13.3,2.03,md,16,170,,0.13,pr,pr71364993,2022-08-11T08:22:41.120Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.52,0.3,0.134320462249574,11,reviewed,pr,pr
 2022-08-11T08:09:35.328Z,38.5873,-119.4351,4.3,0.6,ml,8,111.98,0.066,0.1185,nn,nn00844739,2022-08-11T08:13:51.427Z,"6 km ENE of Coleville, California",earthquake,,7.2,0.23,5,automatic,nn,nn
-2022-08-11T08:03:48.420Z,33.8711667,-116.8271667,9.35,0.57,ml,12,179,0.04494,0.11,ci,ci40079679,2022-08-11T13:13:40.327Z,"6km SW of Cabazon, CA",earthquake,0.47,0.76,0.11,11,reviewed,ci,ci
-2022-08-11T08:02:06.940Z,33.6395,-116.7298333,16.1,0.22,ml,16,83,0.0539,0.09,ci,ci40079671,2022-08-11T14:54:56.319Z,"11km NNW of Anza, CA",earthquake,0.22,0.4,0.161,5,reviewed,ci,ci
-2022-08-11T07:56:51.900Z,18.5908333333333,-66.6273333333333,26.49,2.67,md,7,241,,0.21,pr,pr71364988,2022-08-11T08:10:28.250Z,"16 km NE of Arecibo, Puerto Rico",earthquake,1.14,2.61,0.0476058540486775,2,reviewed,pr,pr
-2022-08-11T07:56:16.990Z,38.8323326,-122.879837,2.67,1.11,md,20,73,0.006525,0.03,nc,nc73766760,2022-08-11T09:26:13.124Z,"12km ENE of Cloverdale, CA",earthquake,0.31,0.51,0.1,4,automatic,nc,nc
