@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T11:49:40.300Z,33.1938333,-115.5213333,3.79,1.69,ml,21,97,0.08075,0.22,ci,ci40324744,2022-08-13T12:00:08.190Z,"5km S of Niland, CA",earthquake,0.35,0.59,0.195,26,automatic,ci,ci
 2022-08-13T11:48:36.520Z,37.9046669,-121.9140015,-0.31,1.13,md,9,153,0.009373,0.23,nc,nc73767630,2022-08-13T13:00:10.675Z,"4km SSE of Clayton, CA",earthquake,2.32,3.78,0.12,6,automatic,nc,nc
 2022-08-13T11:42:42.540Z,35.9674988,-120.5214996,10.63,1.13,md,18,59,0.02342,0.06,nc,nc73767625,2022-08-13T12:33:10.512Z,"11km NW of Parkfield, CA",earthquake,0.42,0.73,0.2,7,automatic,nc,nc
-2022-08-13T11:35:11.415Z,44.6969,-67.6333,5.232,2.1,ml,18,150,0.126,0.31,us,us6000iapl,2022-08-14T04:50:25.040Z,"3 km ESE of Centerville, Maine",earthquake,1.84,5.096,0.071,26,reviewed,us,us
-2022-08-13T11:30:46.047Z,62.4622,-150.6424,32,1.7,ml,,,,0.68,ak,ak022acandss,2022-08-13T11:33:33.660Z,"7 km ESE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
