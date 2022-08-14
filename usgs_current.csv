@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-14T14:43:38.000Z,51.837,178.1519,140,5.4,Mb,52,161.99998704000103,0.2488333,0.57,at,at00rgm0wq,2022-08-14T14:50:23.566Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0,0,,29,reviewed,at,at
+2022-08-14T14:43:38.626Z,52.1141,178.1699,133.201,5.2,mb,114,79,0.258,0.62,us,us6000iatg,2022-08-14T15:09:29.678Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.46,2.713,0.021,721,reviewed,us,us
 2022-08-14T14:36:29.590Z,19.5303325653076,-155.654663085938,2.72000002861023,2.34,ml,38,70,,0.360000014,hv,hv73108857,2022-08-14T14:42:00.980Z,"23 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.56,0.860000014,3.99,12,automatic,hv,hv
 2022-08-14T14:32:02.930Z,33.625,-116.818,8.18,0.75,ml,10,148,0.08984,0.24,ci,ci40325368,2022-08-14T14:35:27.867Z,"15km SSE of Valle Vista, CA",earthquake,0.8,1.63,0.232,20,automatic,ci,ci
 2022-08-14T14:25:28.941Z,61.5773,-148.0178,19.2,1.1,ml,,,,0.72,ak,ak022adzxx7i,2022-08-14T14:28:07.524Z,"32 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T03:33:52.080Z,17.9953333333333,-65.6048333333333,15.75,2.88,md,12,201,,0.17,pr,pr71365743,2022-08-14T03:59:01.780Z,"18 km SW of Esperanza, Puerto Rico",earthquake,0.78,0.49,0.107956676486656,7,reviewed,pr,pr
 2022-08-14T03:27:46.602Z,-15.7991,166.9639,10,4.9,mb,16,129,0.419,0.46,us,us6000iap6,2022-08-14T03:47:12.040Z,"37 km SW of Luganville, Vanuatu",earthquake,7.67,1.932,0.116,25,reviewed,us,us
 2022-08-14T03:27:13.970Z,60.2666,-152.9125,102.4,1.9,ml,,,,0.28,ak,ak022adtejtx,2022-08-14T03:51:52.040Z,"73 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-14T03:24:22.996Z,37.9837,27.1478,12.179,5,mb,65,34,1.22,1.11,us,us6000ianw,2022-08-14T12:42:41.333Z,"3 km SSE of Özdere, Turkey",earthquake,5.13,4.546,0.05,132,reviewed,us,us
+2022-08-14T03:24:22.996Z,37.9837,27.1478,12.179,5,mb,65,34,1.22,1.11,us,us6000ianw,2022-08-14T15:05:40.249Z,"3 km SSE of Özdere, Turkey",earthquake,5.13,4.546,0.05,132,reviewed,us,us
 2022-08-14T03:11:50.874Z,-15.7976,167.0591,10,5.9,mww,76,49,0.375,0.92,us,us6000ianq,2022-08-14T08:38:27.686Z,"32 km SSW of Luganville, Vanuatu",earthquake,8.91,1.857,0.098,10,reviewed,us,us
 2022-08-14T03:08:49.520Z,33.4913333,-116.443,13.88,0.68,ml,24,74,0.0351,0.14,ci,ci40325128,2022-08-14T03:12:22.748Z,"22km ESE of Anza, CA",earthquake,0.25,0.58,0.111,15,automatic,ci,ci
 2022-08-14T02:58:29.187Z,-14.1455,-75.5612,58.346,4.4,mb,23,158,2.482,0.75,us,us6000iamx,2022-08-14T04:27:27.549Z,"14 km E of Pampa de Tate, Peru",earthquake,7.92,10.395,0.155,13,reviewed,us,us
@@ -127,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T00:27:35.420Z,46.199666666666666,-122.18183333333333,3.1,0.2,ml,14,144,0.002602,0.11,uw,uw61863182,2022-08-14T03:58:38.560Z,"38 km NNE of Amboy, Washington",earthquake,0.35,0.47,0.12056450548607373,8,reviewed,uw,uw
 2022-08-14T00:27:08.760Z,17.9791666666667,-66.8363333333333,15.72,2.15,md,9,192,,0.17,pr,pr71365718,2022-08-14T00:41:09.290Z,"2 km SW of Indios, Puerto Rico",earthquake,0.65,0.89,0.119009982608135,7,reviewed,pr,pr
 2022-08-14T00:24:30.275Z,61.1627,-152.1091,5.7,1.3,ml,,,,0.75,ak,ak022adrln4j,2022-08-14T00:26:38.331Z,"53 km W of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-08-14T00:07:40.230Z,19.2473335266113,-155.37516784668,33.1199989318848,2,md,32,146,,0.129999995,hv,hv73108312,2022-08-14T00:11:02.280Z,"Island of Hawaii, Hawaii",earthquake,0.79,0.639999986,0.850000024,3,automatic,hv,hv
+2022-08-14T00:07:40.230Z,19.2473335266113,-155.37516784668,33.1199989318848,2,md,32,146,,0.129999995,hv,hv73108312,2022-08-14T00:11:02.280Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.79,0.639999986,0.850000024,3,automatic,hv,hv
 2022-08-14T00:01:02.210Z,17.9368333333333,-66.8485,17.85,2.39,md,5,268,,0.05,pr,pr71365713,2022-08-14T00:11:33.700Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.73,0.57,0.149483408995497,5,reviewed,pr,pr
 2022-08-13T23:54:22.290Z,17.977,-66.8388333333333,17.56,2.25,md,7,200,,0.08,pr,pr71365708,2022-08-14T00:05:02.250Z,"2 km SW of Indios, Puerto Rico",earthquake,0.43,0.56,0.145128410181038,6,reviewed,pr,pr
 2022-08-13T23:47:04.910Z,17.9878333333333,-66.8325,16.7,2.16,md,16,146,,0.2,pr,pr71365698,2022-08-13T23:59:56.060Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.55,0.42,0.203940928706987,10,reviewed,pr,pr
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T15:23:56.730Z,33.7806667,-116.9128333,10.36,1.16,ml,34,55,0.05335,0.22,ci,ci40324904,2022-08-13T15:27:29.344Z,"4km NNW of Valle Vista, CA",earthquake,0.3,0.6,0.212,30,automatic,ci,ci
 2022-08-13T15:22:13.933Z,59.8648,-152.5089,73.7,1.6,ml,,,,0.68,ak,ak022acczb5h,2022-08-13T15:24:24.331Z,"39 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-13T15:21:21.480Z,33.7733333,-116.9081667,11.68,1.13,ml,38,50,0.06058,0.24,ci,ci40324888,2022-08-13T15:24:55.332Z,"3km NNW of Valle Vista, CA",earthquake,0.29,0.67,0.179,28,automatic,ci,ci
-2022-08-13T15:06:22.903Z,-18.8887,169.2521,148.722,5.1,mb,31,114,4.072,1.1,us,us6000iaj8,2022-08-13T15:21:02.040Z,"72 km N of Isangel, Vanuatu",earthquake,11.86,8.879,0.104,30,reviewed,us,us
