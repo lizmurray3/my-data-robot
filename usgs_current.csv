@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-16T15:41:39.130Z,38.7998352,-122.7518311,2.19,0.67,md,11,98,0.006208,0.01,nc,nc73768775,2022-08-16T15:43:15.699Z,"2km N of The Geysers, CA",earthquake,0.28,1.14,0.15,2,automatic,nc,nc
-2022-08-16T15:14:05.800Z,41.3095016,-123.4469986,-0.21,2.23,md,18,105,0.452,0.3,nc,nc73768770,2022-08-16T15:20:10.614Z,"8km SSE of Somes Bar, CA",earthquake,0.81,9.54,0.28,4,automatic,nc,nc
+2022-08-16T15:49:25.990Z,38.8166656,-122.8231659,2.5,1.19,md,27,47,0.009093,0.02,nc,nc73768780,2022-08-16T15:51:00.954Z,"7km NW of The Geysers, CA",earthquake,0.19,0.37,0.1,5,automatic,nc,nc
+2022-08-16T15:41:39.130Z,38.7998352,-122.7518311,2.19,0.67,md,11,98,0.006208,0.01,nc,nc73768775,2022-08-16T15:51:10.769Z,"2km N of The Geysers, CA",earthquake,0.28,1.14,0.15,2,automatic,nc,nc
+2022-08-16T15:14:05.460Z,41.311,-123.4665,32.22,2.4,md,27,62,0.03374,0.22,nc,nc73768770,2022-08-16T15:56:10.928Z,"7km S of Somes Bar, CA",earthquake,0.47,0.77,0.183,21,reviewed,nc,nc
 2022-08-16T14:59:06.220Z,38.815834,-122.8156662,2.86,0.84,md,9,94,0.008723,0.02,nc,nc73768765,2022-08-16T15:19:16.608Z,"7km NW of The Geysers, CA",earthquake,0.57,1.2,,1,automatic,nc,nc
 2022-08-16T14:50:16.803Z,38.1879,-117.8639,10,0.7,ml,8,181.58,0.09,0.0792,nn,nn00845112,2022-08-16T14:54:20.072Z,"31 km SE of Mina, Nevada",earthquake,,1.7,0.47,5,automatic,nn,nn
 2022-08-16T14:37:36.070Z,44.2568,149.4652,20.702,4.8,mb,68,134,5.131,0.51,us,us6000ibb7,2022-08-16T15:44:21.040Z,"165 km SE of Kuril’sk, Russia",earthquake,6.58,5.7,0.047,137,reviewed,us,us
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T13:50:29.310Z,41.8971667,-112.3826667,4.08,0.42,md,5,128,0.05391,0.02,uu,uu60510042,2022-08-16T15:37:13.490Z,"12 km NNE of Howell, Utah",earthquake,0.53,0.96,0.108,3,reviewed,uu,uu
 2022-08-16T13:48:20.680Z,36.4791679,-121.0596695,6.05,1.44,md,13,93,0.02388,0.11,nc,nc73768745,2022-08-16T14:14:19.267Z,"10km SE of Pinnacles, CA",earthquake,0.41,0.73,0.23,8,automatic,nc,nc
 2022-08-16T13:46:24.430Z,35.9548333,-117.3456667,8.52,0.84,ml,8,173,0.08139,0.13,ci,ci40326384,2022-08-16T13:49:51.357Z,"21km N of Trona, CA",earthquake,0.53,1.89,0.073,6,automatic,ci,ci
-2022-08-16T13:45:55.320Z,36.6491661,-121.1066666,1.59,1.26,md,5,188,0.08883,0.02,nc,nc73768740,2022-08-16T14:03:19.203Z,"14km NNE of Pinnacles, CA",earthquake,0.59,1.44,0.15,7,automatic,nc,nc
+2022-08-16T13:45:55.320Z,36.6491661,-121.1066666,1.59,1.26,md,5,188,0.08883,0.02,nc,nc73768740,2022-08-16T15:56:10.803Z,"14km NNE of Pinnacles, CA",earthquake,0.59,1.44,0.15,7,automatic,nc,nc
 2022-08-16T13:45:29.970Z,34.7778333,-118.9213333,11.03,1.08,ml,18,102,0.03961,0.25,ci,ci40326376,2022-08-16T13:48:58.349Z,"5km SSE of Frazier Park, CA",earthquake,0.81,1,0.132,12,automatic,ci,ci
 2022-08-16T13:27:44.490Z,38.8178329,-122.8085022,3.29,0.73,md,14,70,0.005688,0.01,nc,nc73768735,2022-08-16T15:30:10.668Z,"6km NW of The Geysers, CA",earthquake,0.34,1.01,0.13,2,automatic,nc,nc
 2022-08-16T13:25:39.710Z,19.179666519165,-155.353668212891,29.0100002288818,2.34,ml,51,181,,0.140000001,hv,hv73111152,2022-08-16T13:54:43.040Z,"13 km E of Pāhala, Hawaii",earthquake,0.56,0.699999988,3.86,18,automatic,hv,hv
@@ -199,7 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-15T19:23:45.147Z,64.7886,-148.9888,21.7,2.3,ml,,,,0.72,ak,ak022afqg1jm,2022-08-15T19:25:16.098Z,"21 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-15T19:23:00.158Z,65.0188,-147.1183,0,1.1,ml,,,,0.31,ak,ak022afqfy5z,2022-08-15T20:18:06.563Z,"16 km NNW of Two Rivers, Alaska",explosion,,0,,,reviewed,ak,ak
 2022-08-15T19:22:33.810Z,32.5953333,-117.0146667,-0.43,1.69,ml,30,209,0.07236,0.23,ci,ci40325976,2022-08-15T21:28:30.793Z,"5km SE of Chula Vista, CA",quarry blast,0.98,31.61,0.153,17,reviewed,ci,ci
-2022-08-15T19:21:19.420Z,44.3363,149.4221,35,4.7,mb,51,137,4.913,0.72,us,us6000ib52,2022-08-15T19:39:03.040Z,"157 km SE of Kuril’sk, Russia",earthquake,7.42,1.936,0.072,58,reviewed,us,us
+2022-08-15T19:21:15.086Z,44.3033,149.5027,10,4.7,mb,53,137,4.971,0.68,us,us6000ib52,2022-08-16T15:53:39.040Z,"164 km SE of Kuril’sk, Russia",earthquake,8.13,1.691,0.073,57,reviewed,us,us
 2022-08-15T19:14:08.970Z,36.3783333,-121.2258333,6.91,1.08,md,21,70,0.123,0.05,nc,nc73768490,2022-08-15T20:37:13.904Z,"7km NNE of Greenfield, CA",earthquake,0.22,1.01,0.213,19,reviewed,nc,nc
 2022-08-15T19:08:18.340Z,33.4633333,-116.4336667,7.47,0.62,ml,22,77,0.06028,0.11,ci,ci40325968,2022-08-15T21:23:29.370Z,"24km NNW of Borrego Springs, CA",earthquake,0.2,0.59,0.111,16,reviewed,ci,ci
 2022-08-15T18:58:30.725Z,36.9613,-114.5463,1.6,1.2,ml,11,342.22,1.129,0.1503,nn,nn00845048,2022-08-15T19:01:57.941Z,"31 km N of Moapa Town, Nevada",earthquake,,1.1,0.34,5,automatic,nn,nn
@@ -239,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-15T16:25:48.590Z,39.4321667,-110.3265,-0.98,1.19,ml,6,155,0.008129,0.04,uu,uu60509932,2022-08-15T16:58:07.850Z,"14 km SSE of Sunnyside, Utah",earthquake,1.26,0.35,0.071,2,reviewed,uu,uu
 2022-08-15T16:23:32.936Z,38.1645,-117.8097,13.9,0.7,ml,8,182.96,0.119,0.0887,nn,nn00845026,2022-08-15T16:27:15.160Z,"36 km SE of Mina, Nevada",earthquake,,6.1,0.51,5,automatic,nn,nn
 2022-08-15T16:00:42.820Z,19.1898326873779,-155.48567199707,31.8099994659424,1.83000004,md,37,78,,0.119999997,hv,hv73110087,2022-08-15T16:03:47.970Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.68,1.08000004,0.910000026,8,automatic,hv,hv
-2022-08-15T15:49:25.600Z,17.9575,-66.9161666666667,13,2.29,md,4,213,,0.02,pr,pr71366128,2022-08-15T17:10:39.020Z,"1 km SSW of Guánica, Puerto Rico",earthquake,0.62,0.83,0.0988084342373536,4,reviewed,pr,pr
-2022-08-15T15:49:00.690Z,37.5873333,-119.0056667,2.65,0.32,md,8,247,0.02828,0.03,nc,nc73768390,2022-08-15T17:19:10.775Z,"6km SSW of Mammoth Lakes, CA",earthquake,0.68,0.34,0.427,7,reviewed,nc,nc
