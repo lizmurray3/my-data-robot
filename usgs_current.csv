@@ -18,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T21:23:25.953Z,51.8815,-173.2198,30.055,3.5,ml,21,204,0.67,0.42,us,us6000ibqz,2022-08-17T23:18:57.040Z,"75 km ESE of Atka, Alaska",earthquake,5.67,14.692,0.077,22,reviewed,us,us
 2022-08-17T21:19:22.360Z,44.7828333,-110.804,4.23,0.52,md,7,207,0.03357,0.14,uu,uu60510262,2022-08-17T21:58:50.430Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.76,0.68,0.184,5,reviewed,uu,uu
 2022-08-17T21:16:55.764Z,63.4186,-147.7338,85.9,1.6,ml,,,,0.53,ak,ak022aj2o4js,2022-08-17T21:19:04.548Z,"60 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-08-17T20:48:27.090Z,31.5611667,-115.7045,7.58,2.55,ml,9,125,0.1824,0.05,ci,ci40327320,2022-08-17T23:40:40.831Z,"83km ESE of Maneadero, B.C., MX",earthquake,0.28,0.81,0.138,18,reviewed,ci,ci
 2022-08-17T20:32:33.960Z,39.4315,-110.306,-1.54,1.56,ml,8,181,0.01654,0.12,uu,uu60510257,2022-08-17T21:04:22.140Z,"15 km SSE of Sunnyside, Utah",earthquake,1.05,0.59,0.119,4,reviewed,uu,uu
 2022-08-17T20:25:31.680Z,36.6378326,-121.0958328,6.41,1.42,md,6,149,0.07455,0.13,nc,nc73769175,2022-08-17T22:56:11.311Z,"12km NNE of Pinnacles, CA",earthquake,1.23,3.73,0.17,5,automatic,nc,nc
 2022-08-17T20:22:58.080Z,37.2451668,-122.1566696,9.48,1.36,md,9,132,0.05725,0.14,nc,nc73769170,2022-08-17T22:30:10.169Z,"12km W of Saratoga, CA",earthquake,0.89,1.75,0.06,9,automatic,nc,nc
@@ -170,7 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T07:09:09.930Z,19.4566666666667,-155.597166666667,-1.34,1.82,md,13,76,,0.14,hv,hv73112037,2022-08-17T22:51:53.440Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.2,0.0315056580811813,6,reviewed,hv,hv
 2022-08-17T06:58:00.720Z,39.4333333,-110.3321667,-1.22,1.4,md,5,137,0.01072,0.02,uu,uu60030819,2022-08-17T15:47:46.360Z,"13 km SSE of Sunnyside, Utah",earthquake,1.72,0.98,0.12,4,reviewed,uu,uu
 2022-08-17T06:57:18.580Z,39.4286667,-110.3021667,-1.5,1.07,ml,7,197,0.01834,0.14,uu,uu60510192,2022-08-17T15:45:40.310Z,"15 km SSE of Sunnyside, Utah",earthquake,1.83,1.24,0.081,2,reviewed,uu,uu
-2022-08-17T06:55:10.694Z,44.6889,-67.6409,5,3,mb_lg,13,172,0.132,0.24,us,us6000ibip,2022-08-17T20:41:51.276Z,"3 km ESE of Centerville, Maine",earthquake,2.27,1.955,0.12,18,reviewed,us,us
+2022-08-17T06:55:10.694Z,44.6889,-67.6409,5,3,mb_lg,13,172,0.132,0.24,us,us6000ibip,2022-08-17T23:32:09.939Z,"3 km ESE of Centerville, Maine",earthquake,2.27,1.955,0.12,18,reviewed,us,us
 2022-08-17T06:40:26.610Z,31.72692799,-104.5876655,6.979931641,2.1,ml,17,86,0.06761897151,0.5,tx,tx2022qbbx,2022-08-17T07:22:22.163Z,"53 km SSW of Whites City, New Mexico",earthquake,1.943245816,1.423510958,0.2,13,reviewed,tx,tx
 2022-08-17T06:29:39.373Z,36.9184,-115.945,3.3,-0.1,ml,5,227.66,0.037,0.1346,nn,nn00845246,2022-08-17T19:33:58.259Z,"45 km NNW of Indian Springs, Nevada",earthquake,,4.8,0.36,4,reviewed,nn,nn
 2022-08-17T06:25:23.400Z,38.7946663,-122.8016663,-0.72,0.84,md,8,115,0.006425,0.06,nc,nc73768980,2022-08-17T06:52:14.535Z,"4km WNW of The Geysers, CA",earthquake,0.3,1.05,,1,automatic,nc,nc
@@ -244,7 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T00:19:07.260Z,33.4995,-116.5295,11.45,-0.03,ml,7,192,0.06094,0.06,ci,ci40326712,2022-08-17T00:54:32.170Z,"15km ESE of Anza, CA",earthquake,0.37,0.56,0.051,2,reviewed,ci,ci
 2022-08-17T00:17:55.270Z,46.199,-122.18466666666667,3.16,0.08,ml,11,137,0.001333,0.11,uw,uw61872971,2022-08-17T03:25:38.590Z,"37 km NNE of Amboy, Washington",earthquake,0.38,0.54,0.13617571344285706,6,reviewed,uw,uw
 2022-08-17T00:03:00.810Z,33.4853333,-116.514,14.28,0.67,ml,21,56,0.0743,0.14,ci,ci40326704,2022-08-17T00:50:58.929Z,"17km ESE of Anza, CA",earthquake,0.26,0.58,0.083,15,reviewed,ci,ci
-2022-08-16T23:34:44.722Z,60.0913,-140.6034,17.4,2.2,ml,,,,0.69,ak,ak022ahgfhaw,2022-08-16T23:36:46.464Z,"Southern Yukon Territory, Canada",earthquake,,0.2,,,automatic,ak,ak
-2022-08-16T23:33:52.650Z,33.4916667,-116.4731667,12.87,1.78,ml,47,34,0.05074,0.17,ci,ci40326696,2022-08-17T00:48:44.540Z,"20km ESE of Anza, CA",earthquake,0.21,0.36,0.173,25,reviewed,ci,ci
-2022-08-16T23:33:45.860Z,33.4921667,-116.4658333,13.23,1.13,ml,31,67,0.04577,0.12,ci,ci40326688,2022-08-17T00:43:39.670Z,"20km ESE of Anza, CA",earthquake,0.2,0.41,0.166,14,reviewed,ci,ci
-2022-08-16T23:32:02.060Z,33.485,-116.7975,6.71,0.63,ml,22,141,0.0274,0.09,ci,ci40326680,2022-08-17T00:38:32.620Z,"8km NE of Aguanga, CA",earthquake,0.18,0.26,0.095,13,reviewed,ci,ci
