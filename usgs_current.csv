@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-18T10:54:52.776Z,63.2184,-151.3263,0,1.1,ml,,,,0.91,ak,ak022akjvud9,2022-08-18T10:57:06.253Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-08-18T10:53:07.411Z,60.6735,-151.8794,74.2,1.8,ml,,,,0.44,ak,ak022akjvj5h,2022-08-18T10:55:07.004Z,"31 km WNW of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-08-18T10:53:00.960Z,32.9188333,-116.2906667,10.5,1.14,ml,28,83,0.03724,0.16,ci,ci40327624,2022-08-18T10:56:28.900Z,"25km ENE of Pine Valley, CA",earthquake,0.24,0.54,0.225,20,automatic,ci,ci
 2022-08-18T10:43:57.740Z,18.8016662597656,-155.246994018555,7.84999990463257,2.27999997,md,21,271,,0.140000001,hv,hv73113387,2022-08-18T10:47:20.700Z,"45 km SE of Naalehu, Hawaii",earthquake,1.47,1.01999998,1.29999995,3,automatic,hv,hv
 2022-08-18T10:30:39.660Z,19.412166595459,-155.331497192383,4.15000009536743,2.31,ml,45,46,,0.150000006,hv,hv73113372,2022-08-18T10:36:11.020Z,"10 km WSW of Volcano, Hawaii",earthquake,0.27,0.680000007,3.19,22,automatic,hv,hv
 2022-08-18T10:04:28.670Z,38.784832,-122.7334976,1.62,0.46,md,8,110,0.002983,0.01,nc,nc73769310,2022-08-18T10:22:13.339Z,"2km ENE of The Geysers, CA",earthquake,0.31,0.64,0.08,2,automatic,nc,nc
@@ -123,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T18:50:51.750Z,34.5773333,-118.0286667,9.36,0.89,ml,18,67,0.05016,0.1,ci,ci40327240,2022-08-17T19:01:50.373Z,"7km E of Palmdale, CA",earthquake,0.17,0.46,0.16,15,reviewed,ci,ci
 2022-08-17T18:49:50.500Z,33.7518333,-117.1031667,-0.52,0.71,ml,20,77,0.04714,0.19,ci,ci40327248,2022-08-17T19:10:00.189Z,"3km WNW of Green Acres, CA",quarry blast,0.49,31.61,0.105,12,reviewed,ci,ci
 2022-08-17T18:34:59.350Z,38.7606667,-122.9623333,3.91,1.09,md,36,162,0.04196,0.08,nc,nc73769145,2022-08-17T21:25:11.786Z,"7km SE of Cloverdale, CA",earthquake,0.22,0.55,0.112,11,reviewed,nc,nc
-2022-08-17T18:23:28.360Z,44.20066666666666,-122.699,-0.79,1.48,ml,9,118,0.09258,0.1,uw,uw61873116,2022-08-18T05:14:25.660Z,"18 km SSE of Holley, Oregon",explosion,0.37,31.61,0.3127734582180146,4,reviewed,uw,uw
+2022-08-17T18:23:28.360Z,44.20066666666666,-122.699,-0.79,1.48,ml,9,118,0.09258,0.1,uw,uw61873116,2022-08-18T05:14:25.660Z,"Oregon",explosion,0.37,31.61,0.3127734582180146,4,reviewed,uw,uw
 2022-08-17T18:22:39.550Z,38.8226667,-122.7843333,2.12,0.25,md,10,107,0.009817,0.02,nc,nc73769140,2022-08-18T07:10:15.189Z,"5km W of Cobb, CA",earthquake,0.45,0.63,0.273,2,reviewed,nc,nc
 2022-08-17T18:21:22.931Z,59.8483,-152.8833,103.8,1.2,ml,,,,0.23,ak,ak022aj0wtta,2022-08-17T18:24:02.093Z,"59 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-17T18:21:06.710Z,38.8224983,-122.828331,1.92,0.87,md,19,49,0.005269,0.02,nc,nc73769135,2022-08-17T18:35:10.742Z,"8km NW of The Geysers, CA",earthquake,0.23,0.37,0.28,4,automatic,nc,nc
@@ -210,6 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T11:19:56.192Z,32.77679443,-100.6529869,7.752156576,3.1,ml,17,56,0.06382544282,0.2,tx,tx2022qbld,2022-08-17T18:38:48.435Z,"18 km NNE of Hermleigh, Texas",earthquake,1.697447915,2.833886121,0,7,reviewed,tx,tx
 2022-08-17T11:17:14.230Z,33.2365,-116.6505,11.78,0.27,ml,24,83,0.03735,0.13,ci,ci40326896,2022-08-17T17:55:46.164Z,"5km SSW of Warner Springs, CA",earthquake,0.26,0.49,0.174,6,reviewed,ci,ci
 2022-08-17T11:17:13.480Z,36.6386667,-121.2406667,6.81,0.88,md,14,137,0.06568,0.08,nc,nc73769030,2022-08-17T17:57:17.587Z,"15km NW of Pinnacles, CA",earthquake,0.36,0.75,0.237,14,reviewed,nc,nc
-2022-08-17T11:04:57.330Z,17.962,-66.8288333333333,17.88,2.5,md,11,182,,0.17,pr,pr71366523,2022-08-17T11:53:22.750Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.54,0.69,0.141765003894181,8,reviewed,pr,pr
-2022-08-17T11:04:47.390Z,38.8006668,-122.7354965,0.82,0.53,md,8,113,0.01743,0.02,nc,nc73769025,2022-08-17T12:25:11.501Z,"3km SSW of Cobb, CA",earthquake,0.25,1.04,0.39,2,automatic,nc,nc
-2022-08-17T11:02:08.450Z,35.9823333,-117.6613333,1.23,1.44,ml,22,96,0.1196,0.13,ci,ci40326880,2022-08-17T17:49:08.082Z,"23km ENE of Little Lake, CA",earthquake,0.22,0.31,0.122,18,reviewed,ci,ci
