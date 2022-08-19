@@ -210,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-18T11:29:57.620Z,18.978,-155.430833333333,36.6,2.59,ml,51,226,,0.13,hv,hv73113412,2022-08-18T22:18:51.105Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.45,0.71,0.0821688065198591,14,reviewed,hv,hv
 2022-08-18T11:21:46.572Z,39.7241,-119.8591,10.3,-0.4,ml,4,122.08,0.141,0.1086,nn,nn00845406,2022-08-18T21:08:58.209Z,"9 km N of Lemmon Valley, Nevada",earthquake,,5.5,0.55,3,reviewed,nn,nn
 2022-08-18T11:18:40.750Z,35.1173333,-118.4961667,1.33,1.03,ml,16,74,0.1791,0.14,ci,ci40327648,2022-08-18T15:29:13.655Z,"5km WSW of Tehachapi, CA",earthquake,0.22,0.44,0.126,3,reviewed,ci,ci
-2022-08-18T11:12:59.460Z,33.4808333,-116.4505,12.57,1.29,ml,67,31,0.04724,0.17,ci,ci40327640,2022-08-18T17:37:55.130Z,"22km ESE of Anza, CA",earthquake,0.15,0.33,0.181,24,reviewed,ci,ci
-2022-08-18T11:12:52.520Z,33.4865,-116.4403333,12.72,0.39,ml,12,120,0.03878,0.13,ci,ci40327632,2022-08-18T17:37:18.371Z,"23km ESE of Anza, CA",earthquake,0.47,1.14,0.156,6,reviewed,ci,ci
-2022-08-18T11:06:08.006Z,40.0795,-119.6623,14.6,-0.3,ml,3,180.43,0.105,0.0433,nn,nn00845405,2022-08-18T21:05:50.370Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,5.5,0.13,2,reviewed,nn,nn
