@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T22:57:58.156Z,63.3864,-151.33,0,2.1,ml,,,,1.06,ak,ak022amel1on,2022-08-19T23:00:15.489Z,"26 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-19T22:41:27.550Z,35.7391667,-120.2838333,6.07,1.02,md,28,112,0.02709,0.09,nc,nc73769825,2022-08-20T00:14:10.991Z,"2km NNE of Cholame, CA",earthquake,0.59,0.33,0.056,10,reviewed,nc,nc
 2022-08-19T22:39:27.590Z,38.8195,-122.8033371,2.96,0.95,md,26,35,0.006544,0.01,nc,nc73769820,2022-08-19T22:56:11.548Z,"6km NW of The Geysers, CA",earthquake,0.23,0.41,0.2,5,automatic,nc,nc
-2022-08-19T22:25:11.920Z,38.4705,-122.7536667,7.5,1.2,md,17,80,0.108,0.09,nc,nc73769815,2022-08-20T02:03:12.673Z,"5km S of Larkfield-Wikiup, CA",earthquake,0.18,0.53,0.151,18,reviewed,nc,nc
