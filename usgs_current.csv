@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-24T11:20:54.982Z,62.4149,-148.264,19.6,2.6,ml,,,,0.67,ak,ak022auhi2t8,2022-08-24T11:23:02.782Z,"69 km N of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-24T11:00:39.280Z,33.2336667,-116.723,12.06,0.23,ml,13,61,0.03006,0.1,ci,ci40330824,2022-08-24T11:04:13.734Z,"4km ESE of Lake Henshaw, CA",earthquake,0.28,0.37,0.122,3,automatic,ci,ci
 2022-08-24T10:51:02.084Z,63.3626,-149.2476,62.9,1.2,ml,,,,0.58,ak,ak022auh369s,2022-08-24T10:53:08.824Z,"15 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-08-24T10:15:07.620Z,18.7813,-64.4221,9,3.82,md,20,215,0.6852,0.39,pr,pr2022236000,2022-08-24T10:56:01.595Z,"63 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.07,3.28,0.07,10,reviewed,pr,pr
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-24T09:51:18.720Z,19.2465000152588,-155.415328979492,36.2999992370605,2.02999997,md,47,127,,0.109999999,hv,hv73119652,2022-08-24T09:54:42.340Z,"8 km NE of Pāhala, Hawaii",earthquake,0.56,0.709999979,1.48000002,14,automatic,hv,hv
 2022-08-24T09:50:48.200Z,18.625,-64.9498333333333,15.42,2.95,md,4,281,,0.16,pr,pr71367693,2022-08-24T10:07:48.560Z,"31 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.21,1.73,0.101852614629899,4,reviewed,pr,pr
 2022-08-24T09:41:28.250Z,19.1598339080811,-155.48567199707,33.4199981689453,1.92999995,md,43,161,,0.119999997,hv,hv73119647,2022-08-24T09:44:46.350Z,"4 km S of Pāhala, Hawaii",earthquake,0.6,0.800000012,0.959999979,8,automatic,hv,hv
-2022-08-24T09:40:25.830Z,37.7313347,-121.9816666,7.83,1.37,md,7,167,0.06628,0.05,nc,nc73771255,2022-08-24T09:57:13.879Z,"5km NW of Dublin, CA",earthquake,1.14,1.18,0.24,6,automatic,nc,nc
+2022-08-24T09:40:25.830Z,37.7313347,-121.9816666,7.83,1.37,md,7,167,0.06628,0.05,nc,nc73771255,2022-08-24T11:18:14.346Z,"5km NW of Dublin, CA",earthquake,1.14,1.18,0.24,6,automatic,nc,nc
 2022-08-24T09:33:31.680Z,33.1821667,-115.6081667,2.21,1.24,ml,14,117,0.007824,0.17,ci,ci40330816,2022-08-24T09:37:00.883Z,"10km SW of Niland, CA",earthquake,0.45,0.34,0.128,18,automatic,ci,ci
 2022-08-24T09:22:14.310Z,33.2325,-116.7311667,11.58,0.72,ml,33,54,0.02339,0.18,ci,ci40330808,2022-08-24T09:25:53.115Z,"3km ESE of Lake Henshaw, CA",earthquake,0.26,0.69,0.133,19,automatic,ci,ci
 2022-08-24T09:19:37.240Z,36.6520004,-121.3044968,3.36,1.38,md,7,95,0.04186,0.17,nc,nc73771250,2022-08-24T10:52:13.184Z,"15km S of Tres Pinos, CA",earthquake,0.73,2.32,0.17,5,automatic,nc,nc
@@ -212,6 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-23T11:34:44.130Z,33.6796667,-116.7263333,14.24,0.28,ml,20,99,0.03302,0.1,ci,ci40330304,2022-08-23T15:46:02.059Z,"7km S of Idyllwild, CA",earthquake,0.23,0.4,0.113,6,reviewed,ci,ci
 2022-08-23T11:34:40.300Z,33.6785,-116.72,14.04,0.37,ml,8,180,0.03294,0.06,ci,ci37512373,2022-08-23T15:56:26.956Z,"7km S of Idyllwild, CA",earthquake,0.42,0.59,0.221,2,reviewed,ci,ci
 2022-08-23T11:31:37.170Z,40.4871667,-122.099,17.59,1.68,md,14,106,0.04568,0.16,nc,nc73771005,2022-08-23T17:55:10.028Z,"11km SE of Millville, CA",earthquake,0.44,0.77,0.159,19,reviewed,nc,nc
-2022-08-23T11:24:08.030Z,34.183,-117.3035,4.52,0.93,ml,45,49,0.04359,0.14,ci,ci40330296,2022-08-23T15:38:54.490Z,"5km NE of Muscoy, CA",earthquake,0.13,0.22,0.126,16,reviewed,ci,ci
-2022-08-23T11:21:41.440Z,33.7715,-116.1198333,7.54,0.68,ml,36,50,0.08836,0.14,ci,ci40330288,2022-08-23T15:07:43.230Z,"10km ENE of Indio, CA",earthquake,0.15,0.41,0.152,11,reviewed,ci,ci
-2022-08-23T11:19:08.090Z,51.8438333333333,-177.775,2.46,0.33,ml,4,286,,0.06,av,av91667406,2022-08-24T02:12:34.220Z,"78 km W of Adak, Alaska",earthquake,0.58,1,0.133924756922404,4,reviewed,av,av
