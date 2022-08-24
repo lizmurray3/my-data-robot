@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-24T21:14:15.380Z,38.7716675,-122.7158356,1.34,0.74,md,6,184,0.01229,0.02,nc,nc73771465,2022-08-24T21:15:51.010Z,"2km W of Anderson Springs, CA",earthquake,0.58,0.89,0.16,2,automatic,nc,nc
+2022-08-24T21:14:15.380Z,38.7716675,-122.7158356,1.34,0.74,md,6,184,0.01229,0.02,nc,nc73771465,2022-08-24T21:31:11.336Z,"2km W of Anderson Springs, CA",earthquake,0.58,0.89,0.16,2,automatic,nc,nc
 2022-08-24T21:09:26.437Z,60.2151,-153.389,140.7,1.6,ml,,,,0.48,ak,ak022aundzqb,2022-08-24T21:11:26.727Z,"51 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-24T21:02:54.690Z,38.8311653,-122.8190002,1.66,0.57,md,18,51,0.01043,0.01,nc,nc73771455,2022-08-24T21:20:12.263Z,"8km NW of The Geysers, CA",earthquake,0.25,0.38,0.19,3,automatic,nc,nc
 2022-08-24T20:55:42.528Z,62.3659,-149.1896,0,1.4,ml,,,,0.88,ak,ak022aun2gb0,2022-08-24T20:57:43.707Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -38,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-24T17:31:47.150Z,39.4303333,-110.3091667,-1.1,1.56,ml,12,180,0.01382,0.11,uu,uu60511057,2022-08-24T19:21:16.990Z,"15 km SSE of Sunnyside, Utah",earthquake,0.79,0.27,0.034,5,reviewed,uu,uu
 2022-08-24T17:02:29.180Z,39.4268333,-110.2895,-3.17,1.98,md,7,202,0.02771,0.14,uu,uu60511052,2022-08-24T17:10:17.140Z,"16 km SSE of Sunnyside, Utah",earthquake,1.76,3.43,0.176,6,reviewed,uu,uu
 2022-08-24T16:36:24.620Z,40.4705009,-124.2176666,29.04,2.05,md,10,259,0.09113,0.08,nc,nc73771380,2022-08-24T19:55:12.739Z,"10km WSW of Rio Dell, CA",earthquake,2.7,3,0.08,6,automatic,nc,nc
+2022-08-24T16:36:15.640Z,38.7963333,-122.8011667,0.2,0.43,md,4,117,0.008133,0.01,nc,nc73771375,2022-08-24T21:33:09.550Z,"4km WNW of The Geysers, CA",earthquake,0.37,1.53,,1,reviewed,nc,nc
 2022-08-24T16:35:40.404Z,61.7646,-149.7433,24.9,1.5,ml,,,,0.42,ak,ak022aukkfeg,2022-08-24T16:37:41.190Z,"15 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-24T16:32:50.480Z,34.021,-117.0395,11.24,1.27,ml,48,37,0.06225,0.19,ci,ci40330920,2022-08-24T19:02:14.946Z,"1km SSE of Yucaipa, CA",earthquake,0.19,0.5,0.159,32,reviewed,ci,ci
 2022-08-24T16:27:34.480Z,36.0266667,-117.6981667,-1.25,0.96,ml,6,148,0.09999,0.17,ci,ci40330912,2022-08-24T19:47:51.398Z,"21km ENE of Little Lake, CA",earthquake,0.48,31.61,0.239,2,reviewed,ci,ci
@@ -208,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-23T21:44:21.650Z,32.7833333,-118.3356667,5.76,1.96,ml,19,224,0.5483,0.16,ci,ci40330672,2022-08-23T23:45:11.357Z,"4km SSE of San Clemente Is. (SE tip), CA",earthquake,0.79,31.61,0.144,16,reviewed,ci,ci
 2022-08-23T21:39:15.110Z,38.758,-122.7363333,1.48,-0.13,md,10,69,0.008296,0.02,nc,nc73771115,2022-08-24T06:16:07.519Z,"3km SE of The Geysers, CA",earthquake,0.27,0.47,,1,reviewed,nc,nc
 2022-08-23T21:38:55.480Z,38.758667,-122.7393341,1.59,0.61,md,9,122,0.007192,0.02,nc,nc73771110,2022-08-23T21:54:11.574Z,"2km SE of The Geysers, CA",earthquake,0.3,0.53,0.24,3,automatic,nc,nc
-2022-08-23T21:29:20.528Z,-14.3671,172.7237,590.37,4.4,mb,36,75,5.444,0.65,us,us7000i1vt,2022-08-23T22:35:01.040Z,"Vanuatu region",earthquake,12.81,8.568,0.1,29,reviewed,us,us
-2022-08-23T21:27:03.610Z,19.2263336181641,-155.387496948242,31.6700000762939,1.98000002,md,34,156,,0.100000001,hv,hv73119107,2022-08-23T21:31:52.970Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.65,0.600000024,0.99000001,3,automatic,hv,hv
