@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-24T09:19:37.240Z,36.6520004,-121.3044968,3.36,1.38,md,7,95,0.04186,0.17,nc,nc73771250,2022-08-24T09:21:13.661Z,"15km S of Tres Pinos, CA",earthquake,0.73,2.32,0.17,5,automatic,nc,nc
+2022-08-24T09:33:31.680Z,33.1821667,-115.6081667,2.21,1.24,ml,14,117,0.007824,0.17,ci,ci40330816,2022-08-24T09:37:00.883Z,"10km SW of Niland, CA",earthquake,0.45,0.34,0.128,18,automatic,ci,ci
+2022-08-24T09:22:14.310Z,33.2325,-116.7311667,11.58,0.72,ml,33,54,0.02339,0.18,ci,ci40330808,2022-08-24T09:25:53.115Z,"3km ESE of Lake Henshaw, CA",earthquake,0.26,0.69,0.133,19,automatic,ci,ci
+2022-08-24T09:19:37.240Z,36.6520004,-121.3044968,3.36,1.38,md,7,95,0.04186,0.17,nc,nc73771250,2022-08-24T09:36:14.750Z,"15km S of Tres Pinos, CA",earthquake,0.73,2.32,0.17,5,automatic,nc,nc
 2022-08-24T09:15:07.699Z,59.845,-152.6576,82.8,1,ml,,,,0.41,ak,ak022auga1bl,2022-08-24T09:17:48.034Z,"46 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-24T09:02:16.360Z,38.786335,-122.7365036,1.25,0.21,md,8,86,0.02633,0.02,nc,nc73771245,2022-08-24T09:19:13.641Z,"2km ENE of The Geysers, CA",earthquake,0.46,2.15,0.17,2,automatic,nc,nc
 2022-08-24T08:48:25.717Z,63.4055,-151.5014,5.4,1.3,ml,,,,0.46,ak,ak022aufvpqj,2022-08-24T08:50:32.034Z,"18 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -223,6 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-23T09:55:00.850Z,19.1809997558594,-155.384170532227,33.9099998474121,2.3,ml,48,176,,0.129999995,hv,hv73118577,2022-08-23T10:00:29.840Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.7,0.850000024,3.57,15,automatic,hv,hv
 2022-08-23T09:49:25.928Z,62.3565,-149.1289,1.1,1.5,ml,,,,0.56,ak,ak022assy0kw,2022-08-23T09:52:15.201Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-23T09:39:42.909Z,62.3429,-149.1455,0,2.1,ml,,,,0.55,ak,ak022assvwq0,2022-08-23T10:53:42.659Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-23T09:33:53.165Z,62.3576,-149.1842,0,1.4,ml,,,,0.67,ak,ak022assun84,2022-08-23T09:35:45.521Z,"40 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-23T09:32:04.210Z,46.74783333333333,-121.03066666666666,3.58,1.55,ml,33,98,0.1423,0.19,uw,uw61865367,2022-08-23T17:47:36.660Z,"10 km SW of Nile, Washington",earthquake,0.35,0.71,0.2162383423091866,29,reviewed,uw,uw
-2022-08-23T09:26:45.451Z,59.8399,-138.0825,10,3.8,mb,50,109,1.031,0.44,us,us6000icz8,2022-08-23T19:06:48.076Z,"Southeastern Alaska",earthquake,2.55,1.945,0.108,22,reviewed,us,us
