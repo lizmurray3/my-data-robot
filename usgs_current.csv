@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-27T13:44:45.620Z,34.5206667,-118.1005,8.66,0.88,ml,20,41,0.03745,0.14,ci,ci40332616,2022-08-27T13:48:16.069Z,"3km NNE of Vincent, CA",earthquake,0.24,0.49,0.183,19,automatic,ci,ci
+2022-08-27T13:40:12.443Z,38.7855,-118.9726,6.4,1.1,ml,13,114.7,0.289,0.1277,nn,nn00845963,2022-08-27T13:43:57.124Z,"23 km SW of Schurz, Nevada",earthquake,,2.6,0.19,10,automatic,nn,nn
 2022-08-27T13:36:31.860Z,44.7898331,-110.8079987,8.76,2.62,ml,27,35,0.0303,0.29,uu,uu60511907,2022-08-27T13:39:32.870Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.48,0.93,0.37,3,automatic,uu,uu
 2022-08-27T12:57:05.500Z,35.6726667,-117.4101667,7.43,0.76,ml,5,211,0.152,0.21,ci,ci40332592,2022-08-27T13:00:25.666Z,"10km S of Searles Valley, CA",earthquake,1.81,11.01,0.128,5,automatic,ci,ci
 2022-08-27T12:51:58.270Z,33.7085,-117.4455,6,0.99,ml,22,49,0.05747,0.28,ci,ci40332584,2022-08-27T12:55:36.084Z,"12km WNW of Lake Elsinore, CA",earthquake,0.39,0.89,0.132,26,automatic,ci,ci
@@ -150,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-26T19:48:05.210Z,44.777,-110.809,4.95,1.55,ml,15,91,0.03165,0.13,uu,uu60511692,2022-08-26T20:54:26.380Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.33,0.45,0.279,4,reviewed,uu,uu
 2022-08-26T19:44:30.799Z,56.5136,-156.6642,35,2.4,ml,,,,0.49,ak,ak022axxhbwn,2022-08-26T19:48:11.175Z,"110 km ENE of Chignik, Alaska",earthquake,,23.9,,,automatic,ak,ak
 2022-08-26T19:38:16.720Z,58.2095,-155.0495,23.01,-0.37,ml,6,157,,0.15,av,av91069553,2022-08-27T10:36:58.050Z,"79 km NNW of Karluk, Alaska",earthquake,0.8,0.87,0.291582035167336,6,reviewed,av,av
-2022-08-26T19:35:49.190Z,17.9658333333333,-67.0146666666667,9.06,2.26,md,5,193,,0.09,pr,pr71368103,2022-08-26T19:44:16.280Z,"Puerto Rico region",earthquake,0.56,0.83,0.231756907731445,3,reviewed,pr,pr
+2022-08-26T19:35:49.190Z,17.9658333333333,-67.0146666666667,9.06,2.26,md,5,193,,0.09,pr,pr71368103,2022-08-26T19:44:16.280Z,"3 km ESE of La Parguera, Puerto Rico",earthquake,0.56,0.83,0.231756907731445,3,reviewed,pr,pr
 2022-08-26T19:33:48.242Z,61.0023,-149.5644,34.9,1.5,ml,,,,0.25,ak,ak022axxf0dk,2022-08-26T19:35:22.034Z,"10 km NNE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-26T19:30:52.610Z,33.1385,-117.157,-0.2,1.29,ml,24,102,0.03322,0.24,ci,ci40332264,2022-08-26T21:15:35.241Z,"1km ESE of San Marcos, CA",quarry blast,0.59,31.61,0.174,18,reviewed,ci,ci
 2022-08-26T19:21:55.570Z,38.7541667,-122.7178333,1.66,0.23,md,19,60,0.009229,0.03,nc,nc73772150,2022-08-27T04:05:10.768Z,"3km SW of Anderson Springs, CA",earthquake,0.22,0.28,0.291,5,reviewed,nc,nc
@@ -218,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-26T13:57:09.234Z,1.5746,127.3251,140.949,4.4,mb,31,103,0.799,0.59,us,us7000i2m2,2022-08-27T05:15:08.040Z,"78 km WSW of Tobelo, Indonesia",earthquake,10.25,5.997,0.127,21,reviewed,us,us
 2022-08-26T13:55:25.270Z,38.7741661,-122.7151642,2.51,0.86,md,10,97,0.01378,0.03,nc,nc73772085,2022-08-26T14:55:13.324Z,"2km W of Anderson Springs, CA",earthquake,0.53,0.77,0.24,4,automatic,nc,nc
 2022-08-26T13:53:40.780Z,38.8233333,-122.7911667,1.67,0.53,md,14,74,0.01297,0.03,nc,nc73772080,2022-08-26T17:36:11.225Z,"6km W of Cobb, CA",earthquake,0.38,0.33,0.025,3,reviewed,nc,nc
-2022-08-26T13:42:25.860Z,33.409,-116.6238333,5.03,2.29,ml,77,25,0.07744,0.21,ci,ci40332104,2022-08-26T14:38:05.840Z,"14km N of Warner Springs, CA",earthquake,0.19,0.81,0.176,26,reviewed,ci,ci
-2022-08-26T13:42:22.620Z,33.6521667,-116.71,14.11,0.4,ml,13,97,0.0345,0.07,ci,ci40332096,2022-08-26T17:34:10.755Z,"10km S of Idyllwild, CA",earthquake,0.38,0.65,0.238,3,reviewed,ci,ci
-2022-08-26T13:40:38.932Z,31.57034874,-103.9944423,7.288427734,2.460252572,mlv,19,53,0.06204625101,0.1,tx,tx2022qsbh,2022-08-27T05:04:59.040Z,"34 km NW of Toyah, Texas",earthquake,1.437161599,2.43118674,0.09548314971,13,reviewed,tx,tx
