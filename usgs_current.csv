@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-28T21:38:09.750Z,33.5936667,-116.641,5.47,0.4,ml,13,78,0.03782,0.29,ci,ci40333408,2022-08-28T21:41:46.616Z,"5km NE of Anza, CA",earthquake,0.96,2.11,0.339,5,automatic,ci,ci
+2022-08-28T21:31:56.257Z,31.7115,-104.0838,8.086,3.2,ml,27,101,0.227,0.27,us,us7000i36z,2022-08-28T21:40:29.040Z,"45 km W of Mentone, Texas",earthquake,0.98,8.623,0.04,82,reviewed,us,us
 2022-08-28T21:27:33.643Z,63.1249,-151.4675,9,1.5,ml,,,,0.41,ak,ak022b19n95g,2022-08-28T21:29:14.062Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-28T21:26:10.562Z,43.4477,-126.7975,10,3.4,ml,65,239,2.02,0.73,us,us7000i36x,2022-08-28T21:35:34.040Z,"197 km W of Bandon, Oregon",earthquake,7.57,2.013,0.036,101,reviewed,us,us
 2022-08-28T21:23:07.675Z,60.9608,-147.1386,17.1,1.5,ml,,,,0.8,ak,ak022b19mca7,2022-08-28T21:25:38.208Z,"27 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -254,7 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-27T22:10:11.830Z,36.2728333,-120.5375,9.73,0.9,md,16,77,0.1493,0.08,nc,nc73772515,2022-08-28T04:45:10.852Z,"20km SE of New Idria, CA",earthquake,0.25,0.82,0.247,5,reviewed,nc,nc
 2022-08-27T22:00:24.710Z,33.6345,-116.705,9.88,0.46,ml,15,158,0.06395,0.29,ci,ci40332856,2022-08-27T22:03:52.031Z,"9km NNW of Anza, CA",earthquake,0.79,1.14,0.103,8,automatic,ci,ci
 2022-08-27T21:49:25.510Z,58.2312,-155.1114,3.7,-0.5,ml,,,,0.15,ak,ak022azm8goh,2022-08-27T23:14:52.107Z,"83 km NNW of Karluk, Alaska",earthquake,,2.1,,,reviewed,ak,ak
-2022-08-27T21:46:01.273Z,58.2562,-154.9401,35.1,-0.3,ml,,,,0.6,ak,ak022azm7x3c,2022-08-27T21:48:08.833Z,"81 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-08-27T21:43:14.019Z,58.2386,-155.1113,5.7,-0.1,ml,,,,0.19,ak,ak022azm75z1,2022-08-27T23:12:46.984Z,"84 km NNW of Karluk, Alaska",earthquake,,1.3,,,reviewed,ak,ak
-2022-08-27T21:41:38.895Z,57.9787,-155.4185,0,1.2,ml,,,,0.97,ak,ak022azm6x35,2022-08-27T21:43:28.343Z,"73 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-08-27T21:39:03.730Z,19.1928329467773,-155.626831054688,0.25,2.67,ml,36,97,,0.189999998,hv,hv73123372,2022-08-27T21:48:38.040Z,"13 km N of Wai‘ōhinu, Hawaii",earthquake,0.34,0.379999995,3.74,23,automatic,hv,hv
