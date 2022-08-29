@@ -256,5 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T12:21:28.210Z,33.5008333,-116.7846667,7.25,0.89,ml,41,32,0.01744,0.14,ci,ci40333208,2022-08-28T12:24:52.341Z,"10km NE of Aguanga, CA",earthquake,0.16,0.53,0.137,27,automatic,ci,ci
 2022-08-28T12:19:08.957Z,51.8359,160.1228,10,4.8,mb,66,149,1.493,0.46,us,us7000i33j,2022-08-28T12:43:39.040Z,"168 km SE of Vilyuchinsk, Russia",earthquake,7.5,1.904,0.062,79,reviewed,us,us
 2022-08-28T12:02:24.670Z,19.1749992370605,-155.456832885742,34.5499992370605,2.01999998,md,42,131,,0.119999997,hv,hv73124007,2022-08-28T12:05:32.040Z,"3 km SE of Pāhala, Hawaii",earthquake,0.57,0.949999988,0.330000013,13,automatic,hv,hv
-2022-08-28T11:58:54.970Z,33.6523333,-116.7011667,13.95,0.6,ml,22,98,0.05967,0.13,ci,ci40333200,2022-08-28T13:15:57.770Z,"10km S of Idyllwild, CA",earthquake,0.29,0.41,0.165,16,reviewed,ci,ci
-2022-08-28T11:58:11.929Z,61.6382,-149.5577,28.3,1.8,ml,,,,0.58,ak,ak022b13vimg,2022-08-28T12:00:12.208Z,"2 km ENE of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
