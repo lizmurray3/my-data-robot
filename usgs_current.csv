@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-29T09:08:04.639Z,38.5253,-119.4793,7.1,0.8,ml,14,153.84,0.038,0.151,nn,nn00846050,2022-08-29T09:10:46.209Z,"California-Nevada border region",earthquake,,0.7,0.43,6,automatic,nn,nn
+2022-08-29T09:04:03.505Z,38.1703,-117.9934,0,1,ml,14,115.84,0.029,0.4301,nn,nn00846047,2022-08-29T09:07:26.441Z,"26 km SSE of Mina, Nevada",earthquake,,0.4,0.22,9,automatic,nn,nn
 2022-08-29T08:42:25.987Z,59.724,-152.8705,104,0.7,ml,,,,0.22,ak,ak022b2pj5xi,2022-08-29T08:43:57.734Z,"58 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-08-29T08:05:50.484Z,61.1101,-148.4215,0,1.4,ml,,,,1.02,ak,ak022b2pbabs,2022-08-29T08:08:09.879Z,"40 km NNE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-29T07:55:55.590Z,34.0053333,-116.4926667,12.8,0.54,ml,10,92,0.09498,0.15,ci,ci40333696,2022-08-29T07:59:25.188Z,"5km N of Desert Hot Springs, CA",earthquake,0.46,0.89,0.089,5,automatic,ci,ci
@@ -123,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T21:26:11.014Z,43.4912,-126.6641,10,3.3,ml,71,237,1.917,0.36,us,us7000i36x,2022-08-28T23:31:06.129Z,"off the coast of Oregon",earthquake,8.19,2.014,0.036,101,reviewed,us,us
 2022-08-28T21:23:07.675Z,60.9608,-147.1386,17.1,1.5,ml,,,,0.8,ak,ak022b19mca7,2022-08-28T21:25:38.208Z,"27 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-28T21:22:36.440Z,19.2584991455078,-155.381500244141,32.5299987792969,2.12,ml,43,144,,0.129999995,hv,hv73124472,2022-08-28T21:28:07.030Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.67,0.769999981,5.3,3,automatic,hv,hv
+2022-08-28T21:15:56.760Z,31.73834795,-104.1102359,7.93112793,2.3,ml,29,76,0.03846619696,0.2,tx,tx2022qwhi,2022-08-29T09:13:53.068Z,"48 km W of Mentone, Texas",earthquake,0.5529301136,0.7844938651,0.2,24,reviewed,tx,tx
 2022-08-28T21:14:52.190Z,47.18716666666667,-122.19566666666667,14.91,0.99,ml,17,163,0.1411,0.12,uw,uw61866862,2022-08-29T03:06:29.730Z,"1 km NNW of Bonney Lake, Washington",earthquake,0.51,0.82,0.1394696388776937,11,reviewed,uw,uw
 2022-08-28T21:12:31.896Z,60.6736,-149.3459,19.9,2.4,ml,,,,1.31,ak,ak022b19k19x,2022-08-29T01:45:15.137Z,"20 km N of Moose Pass, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2022-08-28T21:08:27.642Z,38.1789,-117.8781,8.7,0.9,ml,12,167.9,0.075,0.0947,nn,nn00846021,2022-08-28T21:12:13.964Z,"30 km SE of Mina, Nevada",earthquake,,0.7,0.15,7,automatic,nn,nn
@@ -264,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T09:28:48.490Z,35.1608333,-118.9713333,19.31,0.95,ml,13,112,0.1206,0.16,ci,ci40333048,2022-08-28T09:32:15.724Z,"12km SSW of Lamont, CA",earthquake,0.61,1.54,0.192,5,automatic,ci,ci
 2022-08-28T09:26:22.030Z,35.9315,-117.6766667,1.86,1.95,ml,22,135,0.1158,0.2,ci,ci40333040,2022-08-28T09:29:54.948Z,"21km E of Little Lake, CA",earthquake,0.4,0.5,0.114,26,automatic,ci,ci
 2022-08-28T09:23:56.590Z,38.8413315,-122.8786697,2.21,0.5,md,11,113,0.007959,0.04,nc,nc73772660,2022-08-28T10:49:11.096Z,"13km ENE of Cloverdale, CA",earthquake,0.37,0.66,0.15,2,automatic,nc,nc
-2022-08-28T09:08:08.012Z,38.7264,-119.6262,0.1,0.8,ml,8,173.42,0.266,0.256,nn,nn00845985,2022-08-28T09:12:08.088Z,"7 km WNW of Topaz Lake, Nevada",earthquake,,67.1,0.44,4,automatic,nn,nn
-2022-08-28T09:00:36.620Z,37.5501667,-118.7693333,6.06,1.01,md,20,184,0.02341,0.09,nc,nc73772655,2022-08-28T19:36:10.339Z,"8km W of Toms Place, CA",earthquake,0.49,0.84,0.091,15,reviewed,nc,nc
