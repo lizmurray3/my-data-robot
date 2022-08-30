@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-30T20:34:42.240Z,34.1926667,-116.4545,4.33,0.71,ml,15,64,0.0406,0.25,ci,ci40334664,2022-08-30T20:38:13.833Z,"9km NNW of Yucca Valley, CA",earthquake,0.48,1.05,0.108,10,automatic,ci,ci
 2022-08-30T20:32:07.750Z,33.156,-116.1236667,7.39,0.89,ml,17,73,0.03711,0.36,ci,ci40334656,2022-08-30T20:35:39.819Z,"2km NNE of Ocotillo Wells, CA",earthquake,0.69,1.58,0.1,15,automatic,ci,ci
 2022-08-30T20:30:42.540Z,32.7668333,-116.895,2.7,1.19,ml,20,85,0.05065,0.28,ci,ci40334648,2022-08-30T20:34:15.813Z,"4km ENE of Rancho San Diego, CA",quarry blast,0.5,0.83,0.168,7,automatic,ci,ci
 2022-08-30T20:24:42.480Z,35.6756667,-117.47,6.52,1.16,ml,14,172,0.0892,0.19,ci,ci40334640,2022-08-30T20:28:10.780Z,"12km SSW of Searles Valley, CA",earthquake,0.47,1.21,0.096,13,automatic,ci,ci
 2022-08-30T20:12:15.480Z,35.6443333,-118.3173333,7.29,1.8,ml,31,41,0.05795,0.13,ci,ci40334624,2022-08-30T20:23:25.570Z,"14km ESE of Wofford Heights, CA",earthquake,0.19,0.53,0.256,27,automatic,ci,ci
 2022-08-30T20:03:12.960Z,38.15,-117.8834,2.7,1.4,ml,11,173.04,0.061,0.1908,nn,nn00846135,2022-08-30T20:06:35.271Z,"Nevada",earthquake,,0.8,1.01,6,automatic,nn,nn
 2022-08-30T19:55:28.100Z,38.7956657,-122.7911682,-0.28,0.84,md,8,97,0.003552,0.03,nc,nc73773520,2022-08-30T20:13:10.890Z,"4km NW of The Geysers, CA",earthquake,0.46,0.93,,1,automatic,nc,nc
-2022-08-30T19:54:41.490Z,38.8250008,-122.8113327,2.59,0.85,md,9,86,0.001881,0.02,nc,nc73773515,2022-08-30T20:08:10.862Z,"7km NW of The Geysers, CA",earthquake,0.45,1.34,,1,automatic,nc,nc
+2022-08-30T19:54:41.490Z,38.8250008,-122.8113327,2.59,0.85,md,9,86,0.001881,0.02,nc,nc73773515,2022-08-30T20:46:11.094Z,"7km NW of The Geysers, CA",earthquake,0.45,1.34,,1,automatic,nc,nc
 2022-08-30T19:53:30.900Z,37.251667,-121.6313324,5.55,1.4,md,8,80,0.1018,0.06,nc,nc73773510,2022-08-30T20:35:13.024Z,"14km N of Morgan Hill, CA",earthquake,0.37,1.65,0.16,6,automatic,nc,nc
 2022-08-30T19:45:58.082Z,63.465,-147.7098,0,1.4,ml,,,,1.22,ak,ak022b4jmzpc,2022-08-30T19:50:15.991Z,"62 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-30T19:37:52.400Z,33.8858333,-116.2088333,8.18,0.87,ml,19,70,0.04929,0.17,ci,ci40334584,2022-08-30T19:41:24.482Z,"18km ENE of Thousand Palms, CA",earthquake,0.33,0.69,0.123,21,automatic,ci,ci
@@ -135,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T08:36:11.800Z,4.2436,62.6898,10,4.9,mb,48,64,11.417,1.12,us,us7000i3mi,2022-08-30T10:55:31.040Z,"Carlsberg Ridge",earthquake,11.66,1.881,0.086,42,reviewed,us,us
 2022-08-30T08:35:41.460Z,33.4916667,-116.5436667,12.95,0.48,ml,21,73,0.04901,0.13,ci,ci40334296,2022-08-30T18:18:53.569Z,"14km ESE of Anza, CA",earthquake,0.25,0.48,0.145,7,reviewed,ci,ci
 2022-08-30T08:34:09.010Z,33.4956667,-116.5445,13.42,0.52,ml,29,52,0.04823,0.15,ci,ci40334288,2022-08-30T18:15:19.117Z,"14km ESE of Anza, CA",earthquake,0.23,0.42,0.196,11,reviewed,ci,ci
-2022-08-30T08:33:43.850Z,40.3696671,-124.8714981,17.87,2.92,md,25,255,0.4212,0.15,nc,nc73773385,2022-08-30T10:49:13.520Z,"50km W of Petrolia, CA",earthquake,2.66,1.63,0.05,9,automatic,nc,nc
+2022-08-30T08:33:43.850Z,40.3696671,-124.8714981,17.87,2.92,md,25,255,0.4212,0.15,nc,nc73773385,2022-08-30T20:38:21.853Z,"50km W of Petrolia, CA",earthquake,2.66,1.63,0.05,9,automatic,nc,nc
 2022-08-30T08:29:06.132Z,63.2403,-150.4902,121.1,1.7,ml,,,,0.31,ak,ak022b4czol1,2022-08-30T08:31:28.473Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-08-30T08:17:03.800Z,44.7878333,-110.8075,5.01,0.64,ml,10,113,0.03062,0.13,uu,uu60512647,2022-08-30T15:35:43.850Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.59,0.76,0.433,2,reviewed,uu,uu
 2022-08-30T08:16:54.690Z,33.4946667,-116.5455,12.84,0.2,ml,24,55,0.04738,0.11,ci,ci40334280,2022-08-30T18:10:56.109Z,"14km ESE of Anza, CA",earthquake,0.19,0.41,0.133,11,reviewed,ci,ci
@@ -280,5 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T21:16:10.740Z,49.3475,-120.4645,-0.51,2.16,ml,11,212,0.5495,0.63,uw,uw61876156,2022-08-29T22:13:45.620Z,"12 km SSE of Princeton, Canada",explosion,2.89,31.61,0.13633509949826883,10,reviewed,uw,uw
 2022-08-29T21:06:43.030Z,35.6421667,-118.324,8.09,1.89,ml,34,36,0.0575,0.13,ci,ci40334000,2022-08-30T00:07:17.260Z,"14km ENE of Lake Isabella, CA",earthquake,0.16,0.42,0.244,24,reviewed,ci,ci
 2022-08-29T20:52:25.813Z,31.5431083,-104.1426832,6.157275391,2.6,ml,19,69,0.2335318909,0.2,tx,tx2022qycb,2022-08-30T00:30:26.860Z,"41 km NW of Toyah, Texas",earthquake,1.635386244,3.216173098,0.2,19,reviewed,tx,tx
-2022-08-29T20:47:24.460Z,33.9701667,-116.6921667,10.01,0.82,ml,19,83,0.07745,0.09,ci,ci40333992,2022-08-29T21:12:17.201Z,"10km NE of Cabazon, CA",earthquake,0.18,0.59,0.124,17,reviewed,ci,ci
-2022-08-29T20:40:37.630Z,45.38733333333333,-121.76233333333333,2.79,0.55,ml,3,304,0.01555,0.04,uw,uw61876141,2022-08-29T22:11:03.900Z,"9 km N of Government Camp, Oregon",earthquake,0.66,0.71,0.5028693968190507,2,reviewed,uw,uw
