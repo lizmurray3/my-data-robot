@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-31T14:24:41.370Z,38.7823334,-122.9156647,3.52,1.21,md,17,142,0.04595,0.04,nc,nc73773920,2022-08-31T14:26:18.466Z,"9km ESE of Cloverdale, CA",earthquake,0.58,0.97,0.04,6,automatic,nc,nc
+2022-08-31T14:24:41.370Z,38.7823334,-122.9156647,3.52,1.21,md,17,142,0.04595,0.04,nc,nc73773920,2022-08-31T14:34:10.503Z,"9km ESE of Cloverdale, CA",earthquake,0.58,0.97,0.04,6,automatic,nc,nc
 2022-08-31T14:04:52.330Z,38.8235016,-122.8121643,1.86,0.5,md,19,70,0.001636,0.01,nc,nc73773910,2022-08-31T14:21:10.430Z,"7km NW of The Geysers, CA",earthquake,0.21,0.44,0.35,2,automatic,nc,nc
-2022-08-31T14:01:04.100Z,38.8286667,-122.8246689,1.6,0.85,md,8,68,0.01256,0.02,nc,nc73773905,2022-08-31T14:10:11.351Z,"8km NW of The Geysers, CA",earthquake,0.38,1.01,,1,automatic,nc,nc
+2022-08-31T14:01:04.100Z,38.8286667,-122.8246689,1.6,0.85,md,8,68,0.01256,0.02,nc,nc73773905,2022-08-31T14:38:12.526Z,"8km NW of The Geysers, CA",earthquake,0.38,1.01,,1,automatic,nc,nc
 2022-08-31T13:24:04.669Z,63.7633,-148.4556,89.6,0.9,ml,,,,0.46,ak,ak022b63h4eu,2022-08-31T13:27:01.185Z,"22 km E of Denali Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-31T12:47:47.241Z,62.0772,-141.0673,0,1.3,ml,,,,0.25,ak,ak022b630pk4,2022-08-31T12:49:33.109Z,"66 km S of Alcan Border, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-31T12:43:54.470Z,38.7936668,-122.7490005,1.89,1.23,md,24,91,0.01088,0.03,nc,nc73773885,2022-08-31T13:03:11.952Z,"2km NNE of The Geysers, CA",earthquake,0.26,0.41,0.07,6,automatic,nc,nc
@@ -116,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-31T01:56:03.280Z,33.3191667,-116.3436667,9.64,1.37,ml,45,36,0.05167,0.24,ci,ci40334856,2022-08-31T02:06:28.290Z,"8km NNE of Borrego Springs, CA",earthquake,0.27,0.57,0.14,27,automatic,ci,ci
 2022-08-31T01:49:09.728Z,51.1242,-173.6964,54.1,2.8,ml,,,,0.92,ak,ak022b5whb7a,2022-08-31T05:44:37.498Z,"124 km SSE of Atka, Alaska",earthquake,,10.4,,,reviewed,ak,ak
 2022-08-31T01:47:49.260Z,33.041,-116.4028333,11.6,0.81,ml,20,73,0.12,0.2,ci,ci40334848,2022-08-31T01:51:18.828Z,"19km ESE of Julian, CA",earthquake,0.39,1.23,0.069,10,automatic,ci,ci
-2022-08-31T01:45:30.960Z,33.317,-116.747,14.06,0.56,ml,13,108,0.0814,0.12,ci,ci40334840,2022-08-31T01:49:09.567Z,"8km N of Lake Henshaw, CA",earthquake,0.4,0.81,0.099,8,automatic,ci,ci
+2022-08-31T01:45:30.960Z,33.3176667,-116.7608333,12.39,0.52,ml,29,58,0.08149,0.15,ci,ci40334840,2022-08-31T14:35:47.375Z,"8km N of Lake Henshaw, CA",earthquake,0.22,0.68,0.125,7,reviewed,ci,ci
 2022-08-31T01:34:31.240Z,38.7929993,-122.7678299,2.35,0.84,md,15,86,0.009911,0.03,nc,nc73773695,2022-08-31T02:05:15.944Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.61,0.2,3,automatic,nc,nc
 2022-08-31T01:32:15.710Z,39.7203333,-123.656,-0.72,1.72,md,25,101,0.06616,0.25,nc,nc73773700,2022-08-31T10:23:10.967Z,"14km E of Rockport, CA",earthquake,0.36,0.8,0.13,15,reviewed,nc,nc
 2022-08-31T01:32:13.230Z,38.7924995,-122.7685013,2.37,0.79,md,20,75,0.01063,0.03,nc,nc73773690,2022-08-31T01:54:13.870Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.48,0.24,4,automatic,nc,nc
@@ -271,7 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T14:54:47.320Z,39.4281667,-110.2858333,-2.71,1.81,md,6,225,0.03068,0.11,uu,uu60512687,2022-08-30T15:28:22.130Z,"16 km SSE of Sunnyside, Utah",earthquake,2.91,4.62,0.146,5,reviewed,uu,uu
 2022-08-30T14:46:35.900Z,44.7858333,-110.809,5.2,1.1,ml,14,193,0.02966,0.15,uu,uu60512682,2022-08-30T15:24:43.810Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.7,0.98,0.332,3,reviewed,uu,uu
 2022-08-30T14:44:38.730Z,34.2421667,-116.8378333,2.02,2.05,ml,84,24,0.07156,0.14,ci,ci40334456,2022-08-30T17:10:32.550Z,"2km SSE of Big Bear City, CA",earthquake,0.1,0.26,0.154,32,reviewed,ci,ci
-2022-08-30T14:43:16.381Z,63.1551,-150.4449,114.1,1.5,ml,,,,0.21,ak,ak022b4gnb12,2022-08-30T14:46:04.589Z,"75 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-08-30T14:42:14.270Z,46.882,-121.9485,7.8,0.33,ml,8,123,0.01548,0.08,uw,uw61876291,2022-08-30T19:42:41.680Z,"15 km NNE of Ashford, Washington",earthquake,0.74,0.47,0.14831538327332883,5,reviewed,uw,uw
-2022-08-30T14:37:15.730Z,54.5888333333333,-164.4285,-2.21,1.56,ml,7,148,,0.27,av,av91672091,2022-08-31T09:36:24.790Z,"71 km WSW of False Pass, Alaska",earthquake,0.71,0.53,0.0962016852120933,7,reviewed,av,av
-2022-08-30T14:32:15.708Z,-52.397,-71.5341,11.255,4.5,mb,15,66,0.461,0.45,us,us7000i3p2,2022-08-30T20:54:11.801Z,"94 km NNW of Punta Arenas, Chile",earthquake,4.26,4.137,0.313,5,reviewed,us,us
