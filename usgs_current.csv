@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-03T19:50:22.210Z,33.986,-116.7768333,17.18,1.1,ml,19,69,0.1192,0.25,ci,ci40095655,2022-09-03T19:53:47.208Z,"8km N of Cabazon, CA",earthquake,0.66,1.46,0.272,8,automatic,ci,ci
+2022-09-03T19:49:57.000Z,33.9823333,-116.7641667,14.33,0.93,ml,29,78,0.06394,0.18,ci,ci40095647,2022-09-03T19:53:28.596Z,"8km NNE of Cabazon, CA",earthquake,0.29,0.72,0.178,23,automatic,ci,ci
 2022-09-03T19:30:04.830Z,33.9858333,-116.6546667,6.02,1.06,ml,27,70,0.05285,0.23,ci,ci40095631,2022-09-03T19:33:35.212Z,"10km SW of Morongo Valley, CA",earthquake,0.29,0.94,0.221,28,automatic,ci,ci
 2022-09-03T19:25:54.263Z,61.0414,-149.7083,38.5,1.4,ml,,,,0.64,ak,ak022bb5o32a,2022-09-03T19:27:58.156Z,"14 km NNW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-03T19:25:35.560Z,37.571167,-121.8916702,8.67,1.53,md,16,77,0.03078,0.05,nc,nc73775150,2022-09-03T19:37:10.494Z,"4km S of Sunol, CA",earthquake,0.25,0.52,0.13,15,automatic,nc,nc
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-03T17:11:40.410Z,37.6121667,-118.8275,5.04,0.04,md,10,108,0.02214,0.04,nc,nc73775095,2022-09-03T18:54:11.380Z,"14km ESE of Mammoth Lakes, CA",earthquake,0.96,0.86,0.163,8,reviewed,nc,nc
 2022-09-03T17:10:51.590Z,34.0168333,-117.558,11.53,1.02,ml,23,76,0.01257,0.21,ci,ci40095575,2022-09-03T17:14:29.061Z,"5km NW of Mira Loma, CA",earthquake,0.35,0.6,0.226,30,automatic,ci,ci
 2022-09-03T17:06:32.780Z,33.8795013,-117.732666,6.39,1.47,ml,14,176,0.1058,0.49,ci,ci40095567,2022-09-03T17:10:20.218Z,"8km E of Yorba Linda, CA",earthquake,1.83,5.77,0.283,20,automatic,ci,ci
-2022-09-03T17:04:55.810Z,34.0224991,-117.5571671,11.34,3.57,mw,106,18,0.01823,0.24,ci,ci40095559,2022-09-03T19:42:31.555Z,"5km NW of Mira Loma, CA",earthquake,0.25,0.43,,6,reviewed,ci,ci
+2022-09-03T17:04:55.810Z,34.0224991,-117.5571671,11.34,3.57,mw,106,18,0.01823,0.24,ci,ci40095559,2022-09-03T19:52:38.999Z,"5km NW of Mira Loma, CA",earthquake,0.25,0.43,,6,reviewed,ci,ci
 2022-09-03T17:02:26.060Z,37.3868332,-122.1661682,6.02,0.85,md,8,155,0.01857,0.07,nc,nc73775075,2022-09-03T18:50:11.220Z,"3km WNW of Los Altos Hills, CA",earthquake,0.7,1.08,0.13,7,automatic,nc,nc
 2022-09-03T16:57:32.657Z,37.0458,20.9038,10,4.2,mb,26,234,0.827,0.99,us,us7000i4y1,2022-09-03T18:33:06.040Z,"61 km WSW of Filiatrá, Greece",earthquake,5.2,1.979,0.187,8,reviewed,us,us
 2022-09-03T16:44:35.300Z,37.6248333,-118.7728333,9.72,0.61,md,6,305,0.05174,0.04,nc,nc73775070,2022-09-03T18:50:10.362Z,"11km NW of Toms Place, CA",earthquake,1.86,1.48,0.192,5,reviewed,nc,nc
@@ -223,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-02T20:02:24.842Z,62.6174,-152.2568,4.8,1.5,ml,,,,0.72,ak,ak022b9il6fo,2022-09-02T20:05:01.790Z,"77 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-02T19:59:27.710Z,33.6818333,-116.7421667,15.75,0.36,ml,13,121,0.03743,0.07,ci,ci40095247,2022-09-02T21:49:26.681Z,"7km SSW of Idyllwild, CA",earthquake,0.34,0.34,0.195,10,reviewed,ci,ci
 2022-09-02T19:56:58.740Z,19.1900005340576,-155.387161254883,32.1300010681152,2.04999995,md,42,164,,0.129999995,hv,hv73129362,2022-09-02T20:00:14.580Z,"9 km E of Pāhala, Hawaii",earthquake,0.75,1,1.11000001,19,automatic,hv,hv
-2022-09-02T19:54:20.950Z,58.2305,-155.117666666667,4.93,0.38,ml,15,75,,0.12,av,av91673476,2022-09-03T18:54:51.330Z,"Alaska Peninsula",earthquake,0.21,0.58,0.289342599396696,15,reviewed,av,av
