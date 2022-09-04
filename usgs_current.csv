@@ -1,8 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-04T10:02:42.158Z,38.5006,-119.5278,6.8,1.1,ml,8,268.69,0.07,0.1655,nn,nn00846372,2022-09-04T10:07:06.161Z,"4 km WSW of Walker, California",earthquake,,0.9,0.29,3,automatic,nn,nn
+2022-09-04T09:55:09.450Z,19.1613330841064,-155.489166259766,30.3999996185303,1.84000003,md,36,121,,0.129999995,hv,hv73130867,2022-09-04T09:58:22.970Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.6,0.829999983,0.340000004,5,automatic,hv,hv
+2022-09-04T09:53:04.932Z,62.1155,-151.4357,76.9,1.2,ml,,,,0.14,ak,ak022bcnezr1,2022-09-04T09:54:37.827Z,"14 km N of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-09-04T09:52:17.080Z,19.1641674041748,-155.494171142578,30.8700008392334,2.52,ml,46,116,,0.129999995,hv,hv73130862,2022-09-04T09:57:48.180Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.51,0.790000021,4.47,14,automatic,hv,hv
 2022-09-04T09:46:25.428Z,64.6272,-149.2498,5.2,1.6,ml,,,,0.51,ak,ak022bcndjbi,2022-09-04T09:49:08.382Z,"6 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-04T09:44:03.895Z,38.133,-117.9915,1.1,0.4,ml,10,171.6,0.026,0.1879,nn,nn00846371,2022-09-04T09:47:35.877Z,"30 km SSE of Mina, Nevada",earthquake,,1.1,0.31,5,automatic,nn,nn
+2022-09-04T09:42:18.435Z,-0.9371,-21.719,10,6.5,mwb,89,40,10.103,0.7,us,us7000i53f,2022-09-04T10:06:41.710Z,"central Mid-Atlantic Ridge",earthquake,10,1.824,0.03,105,reviewed,us,us
 2022-09-04T09:35:35.030Z,34.0301667,-116.6563333,8.39,0.87,ml,26,69,0.01086,0.15,ci,ci40095847,2022-09-04T09:39:08.282Z,"7km WSW of Morongo Valley, CA",earthquake,0.23,0.55,0.113,25,automatic,ci,ci
-2022-09-04T09:03:14.410Z,33.7081667,-116.8126667,15.5,0.81,ml,26,70,0.08216,0.16,ci,ci40095839,2022-09-04T09:06:49.728Z,"9km ESE of Valle Vista, CA",earthquake,0.35,0.53,0.149,21,automatic,ci,ci
+2022-09-04T09:03:14.410Z,33.7081667,-116.8126667,15.5,0.81,ml,26,70,0.08216,0.16,ci,ci40095839,2022-09-04T09:56:17.320Z,"9km ESE of Valle Vista, CA",earthquake,0.35,0.53,0.149,21,automatic,ci,ci
 2022-09-04T08:52:14.438Z,-5.0254,102.9125,57.25,5.1,mb,77,79,0.662,0.87,us,us7000i531,2022-09-04T09:11:27.040Z,"116 km SSW of Pagar Alam, Indonesia",earthquake,6.93,6.595,0.057,100,reviewed,us,us
 2022-09-04T08:51:22.211Z,60.004,-153.0005,107.7,1.5,ml,,,,0.31,ak,ak022bcmt60v,2022-09-04T08:54:27.042Z,"66 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-04T08:41:44.777Z,60.3779,-152.9944,123,1,ml,,,,0.46,ak,ak022bcmr2ml,2022-09-04T08:43:40.367Z,"75 km ENE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -214,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-03T10:18:20.160Z,38.8351667,-122.799,2.12,0.49,md,13,60,0.007496,0.02,nc,nc73774940,2022-09-03T19:03:10.302Z,"7km WNW of Cobb, CA",earthquake,0.33,0.49,0.064,3,reviewed,nc,nc
 2022-09-03T10:14:21.260Z,38.8376656,-122.8075027,2.02,1.02,md,25,53,0.01342,0.03,nc,nc73774935,2022-09-03T10:42:14.243Z,"8km WNW of Cobb, CA",earthquake,0.18,0.44,0.32,4,automatic,nc,nc
 2022-09-03T10:12:12.050Z,38.8388329,-122.8083344,2.14,0.85,md,8,171,0.01406,0.01,nc,nc73774930,2022-09-03T11:50:12.639Z,"8km WNW of Cobb, CA",earthquake,0.59,1.5,,1,automatic,nc,nc
-2022-09-03T10:00:36.101Z,38.7403,-119.7152,8,0.7,ml,8,190.26,0.32,0.2342,nn,nn00846344,2022-09-03T10:05:20.194Z,"7 km NE of Markleeville, California",earthquake,,2.3,0.37,4,automatic,nn,nn
-2022-09-03T09:53:42.557Z,32.2209,-103.4008,5,2.7,mb_lg,27,70,0.185,0.2,us,us7000i4wr,2022-09-03T10:36:47.040Z,"22 km WNW of Jal, New Mexico",earthquake,1.01,1.909,0.069,75,reviewed,us,us
