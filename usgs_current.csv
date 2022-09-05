@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-05T10:43:58.431Z,61.7263,-149.8343,29.5,1.1,ml,,,,0.61,ak,ak022bebhqtf,2022-09-05T10:46:09.066Z,"10 km N of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-05T10:41:35.493Z,62.4609,-149.3125,13.3,1,ml,,,,0.38,ak,ak022bebh9m5,2022-09-05T10:43:47.253Z,"40 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-05T10:21:33.121Z,38.1647,-117.9737,1.7,0.8,ml,12,150.15,0.028,0.2408,nn,nn00846443,2022-09-05T10:25:12.602Z,"27 km SSE of Mina, Nevada",earthquake,,0.3,0.22,6,automatic,nn,nn
 2022-09-05T10:18:53.230Z,38.7926674,-122.7269974,-0.25,0.7,md,6,130,0.0121,0.02,nc,nc73775710,2022-09-05T10:31:11.433Z,"3km NE of The Geysers, CA",earthquake,0.72,4.01,0.17,2,automatic,nc,nc
@@ -193,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T15:45:47.210Z,35.8245,-117.6268333,2.34,1.69,ml,15,107,0.02538,0.24,ci,ci40096079,2022-09-04T15:49:15.018Z,"21km WNW of Searles Valley, CA",earthquake,0.56,0.73,0.126,23,automatic,ci,ci
 2022-09-04T15:43:38.700Z,37.3246667,-118.103,7.85,1.12,md,8,272,0.1715,0.04,nc,nc73775375,2022-09-04T19:57:10.254Z,"12km WSW of Deep Springs, CA",earthquake,1.16,2.28,0.139,5,reviewed,nc,nc
 2022-09-04T15:40:00.940Z,34.0386667,-117.1441667,4.37,0.97,ml,19,98,0.02656,0.17,ci,ci40096071,2022-09-04T15:43:40.921Z,"4km SSW of Mentone, CA",earthquake,0.31,0.64,0.167,28,automatic,ci,ci
-2022-09-04T15:39:42.778Z,-7.562,127.6141,165.52,4.4,mb,44,69,3.675,0.54,us,us7000i55a,2022-09-04T16:14:55.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.95,6.809,0.087,39,reviewed,us,us
+2022-09-04T15:39:42.778Z,-7.562,127.6141,165.52,4.4,mb,44,69,3.675,0.54,us,us7000i55a,2022-09-04T16:14:55.040Z,"125 km NNE of Lospalos, Timor Leste",earthquake,8.95,6.809,0.087,39,reviewed,us,us
 2022-09-04T15:32:23.271Z,61.4308,-150.0509,41.1,1.1,ml,,,,0.71,ak,ak022bcqv4rb,2022-09-04T15:34:38.550Z,"8 km NNW of Point MacKenzie, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-09-04T15:29:46.970Z,19.1790008544922,-155.462829589844,32.9300003051758,1.70000005,md,28,160,,0.129999995,hv,hv73131072,2022-09-04T15:32:53.100Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.72,0.879999995,0.560000002,3,automatic,hv,hv
 2022-09-04T15:23:25.890Z,19.2714996337891,-155.39533996582,31.6100006103516,2.1,ml,35,123,,0.150000006,hv,hv73131062,2022-09-04T15:28:55.380Z,"11 km NE of Pāhala, Hawaii",earthquake,0.59,0.75999999,0.22,3,automatic,hv,hv
@@ -219,7 +220,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T13:25:00.300Z,33.8801667,-118.4505,11.2,1.4,ml,18,142,0.08311,0.31,ci,ci40096007,2022-09-04T17:43:22.828Z,"4km W of Manhattan Beach, CA",earthquake,0.81,1.02,0.199,30,automatic,ci,ci
 2022-09-04T13:23:58.660Z,34.0438333,-117.2515,15.71,2.23,ml,83,26,0.07304,0.23,ci,ci40095999,2022-09-04T15:56:29.822Z,"1km ESE of Loma Linda, CA",earthquake,0.22,0.49,0.196,25,automatic,ci,ci
 2022-09-04T13:16:29.112Z,44.2664,-115.1298,10,3.4,ml,34,46,0.873,0.57,us,us7000i54i,2022-09-05T03:09:44.474Z,"16 km WNW of Stanley, Idaho",earthquake,2.16,2.002,0.031,140,reviewed,us,us
-2022-09-04T13:11:59.820Z,33.882,-118.4646683,11.79,3.03,ml,99,119,0.06884,0.29,ci,ci40095991,2022-09-05T06:07:41.206Z,"5km W of Manhattan Beach, CA",earthquake,0.32,0.42,0.271,17,automatic,ci,ci
+2022-09-04T13:11:59.820Z,33.882,-118.4646683,11.79,3.03,ml,99,119,0.06884,0.29,ci,ci40095991,2022-09-05T10:45:41.199Z,"5km W of Manhattan Beach, CA",earthquake,0.32,0.42,0.271,17,automatic,ci,ci
 2022-09-04T13:05:43.240Z,34.6161667,-116.6263333,4.8,2.19,ml,33,38,0.02765,0.14,ci,ci40095983,2022-09-04T13:15:58.550Z,"37km ENE of Lucerne Valley, CA",earthquake,0.23,0.57,0.118,27,automatic,ci,ci
 2022-09-04T13:02:12.991Z,63.2465,-149.7177,83.1,1.5,ml,,,,0.36,ak,ak022bcpht9v,2022-09-04T13:04:01.803Z,"41 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-04T12:59:41.040Z,45.138333333333335,-122.59033333333333,15,0.86,ml,4,191,0.09117,0.27,uw,uw61868792,2022-09-04T19:25:12.320Z,"Oregon",earthquake,1.28,2.08,0.09240220477919725,3,reviewed,uw,uw
@@ -233,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T11:44:29.206Z,38.1658,-117.8985,0.2,0.9,ml,11,130.85,0.055,0.4373,nn,nn00846384,2022-09-04T11:47:46.934Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.38,6,automatic,nn,nn
 2022-09-04T11:38:00.001Z,61.5203,-148.5924,29.7,1.4,ml,,,,0.8,ak,ak022bcoimu8,2022-09-04T11:39:44.405Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-04T11:07:48.590Z,35.6341667,-117.561,6.73,0.52,ml,8,133,0.1649,0.07,ci,ci40095959,2022-09-04T11:11:22.895Z,"10km E of Ridgecrest, CA",earthquake,0.38,1.17,0.214,4,automatic,ci,ci
-2022-09-04T10:45:51.236Z,59.8925,-152.8187,94.1,1.1,ml,,,,0.14,ak,ak022bcnyt4g,2022-09-04T10:47:32.815Z,"56 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-04T10:45:42.720Z,62.8124,-150.0797,75.6,2.1,ml,,,,0.33,ak,ak022bcnysj5,2022-09-04T11:04:21.040Z,"40 km N of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-09-04T10:45:27.810Z,35.6373333,-117.5563333,8.22,2.77,ml,27,77,0.1674,0.1,ci,ci40095951,2022-09-04T13:56:35.952Z,"11km E of Ridgecrest, CA",earthquake,0.19,0.76,0.242,25,automatic,ci,ci
