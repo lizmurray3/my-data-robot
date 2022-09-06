@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-06T07:12:46.970Z,38.8055,-122.7768326,3.6,0.21,md,12,71,0.008312,0.01,nc,nc73775975,2022-09-06T07:25:10.999Z,"4km NNW of The Geysers, CA",earthquake,0.44,1.27,0.15,2,automatic,nc,nc
-2022-09-06T07:06:18.400Z,17.9485,-67.0443333333333,10.79,2.39,md,9,233,,0.08,pr,pr71370088,2022-09-06T07:26:49.440Z,"Puerto Rico region",earthquake,0.6,0.69,0.138890620377532,8,reviewed,pr,pr
+2022-09-06T07:35:34.407Z,12.947,-87.3655,10,5.2,mww,77,125,0.418,1.05,us,us7000i5kj,2022-09-06T07:51:25.252Z,"23 km WNW of Puerto Morazán, Nicaragua",earthquake,4.1,1.868,0.083,14,reviewed,us,us
+2022-09-06T07:28:57.600Z,36.5768318,-121.1306686,9.5,1.82,md,18,125,0.04436,0.11,nc,nc73775980,2022-09-06T07:46:12.125Z,"5km NNE of Pinnacles, CA",earthquake,0.37,0.85,0.11,18,automatic,nc,nc
+2022-09-06T07:12:46.970Z,38.8055,-122.7768326,3.6,0.21,md,12,71,0.008312,0.01,nc,nc73775975,2022-09-06T07:35:13.057Z,"4km NNW of The Geysers, CA",earthquake,0.44,1.27,0.15,2,automatic,nc,nc
+2022-09-06T07:06:18.410Z,17.948,-67.0441666666667,10.69,2.39,md,9,233,,0.08,pr,pr71370088,2022-09-06T07:43:58.800Z,"2 km S of La Parguera, Puerto Rico",earthquake,0.61,0.69,0.138727720000527,8,reviewed,pr,pr
 2022-09-06T07:04:43.025Z,36.6492,70.6291,70.804,4.8,mb,54,70,0.477,0.93,us,us7000i5kb,2022-09-06T07:21:44.040Z,"30 km SW of Jurm, Afghanistan",earthquake,7.07,5.901,0.047,138,reviewed,us,us
 2022-09-06T06:58:15.350Z,34.328,-118.603,24.19,1.37,ml,12,165,0.1606,0.28,ci,ci40096831,2022-09-06T07:01:56.631Z,"8km N of Chatsworth, CA",earthquake,1.66,2.32,0.311,27,automatic,ci,ci
 2022-09-06T06:40:45.094Z,63.4924,-151.0833,0,1.6,ml,,,,0.63,ak,ak022bfwmopp,2022-09-06T06:42:50.430Z,"32 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -218,8 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T08:15:25.650Z,36.5730019,-121.1291656,9.74,2.47,md,38,67,0.04529,0.13,nc,nc73775670,2022-09-06T01:44:55.743Z,"5km NNE of Pinnacles, CA",earthquake,0.3,0.6,0.16,39,automatic,nc,nc
 2022-09-05T08:09:28.980Z,17.9383333333333,-66.8551666666667,11.83,2.49,md,13,181,,0.12,pr,pr71369953,2022-09-05T09:17:27.270Z,"Puerto Rico region",earthquake,0.61,0.51,0.204443660495599,10,reviewed,pr,pr
 2022-09-05T08:07:41.640Z,17.9498333333333,-66.943,10.77,2.21,md,7,215,,0.07,pr,pr71369948,2022-09-05T09:16:08.360Z,"Puerto Rico region",earthquake,0.44,0.64,0.137373501889216,6,reviewed,pr,pr
-2022-09-05T07:50:58.719Z,-33.4356,-72.2752,10,4.9,mwr,76,84,0.595,0.61,us,us7000i5bb,2022-09-05T22:19:34.968Z,"Off the coast of Valparaiso, Chile",earthquake,6.73,1.874,0.048,41,reviewed,us,us
-2022-09-05T07:49:58.638Z,-33.444,-72.3008,10,4.9,mb,75,84,0.611,0.55,us,us7000i5b9,2022-09-05T13:51:46.575Z,"offshore Valparaiso, Chile",earthquake,4.26,1.602,0.037,229,reviewed,us,us
-2022-09-05T07:42:13.931Z,61.344,-150.0284,33.5,1,ml,,,,0.35,ak,ak022be9p4up,2022-09-05T07:43:39.592Z,"3 km WSW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-05T07:37:11.060Z,38.8224983,-122.7886658,0.99,0.46,md,11,76,0.01113,0.01,nc,nc73775665,2022-09-05T07:53:12.536Z,"6km W of Cobb, CA",earthquake,0.3,0.77,0.39,2,automatic,nc,nc
-2022-09-05T07:29:12.210Z,19.1936664581299,-155.469329833984,34.0499992370605,2.26,ml,44,96,,0.129999995,hv,hv73131697,2022-09-05T07:34:43.030Z,"1 km SE of Pāhala, Hawaii",earthquake,0.56,0.660000026,4.06,15,automatic,hv,hv
