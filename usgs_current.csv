@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-07T08:00:00.820Z,38.8344994,-122.7901688,1.93,0.88,md,17,56,0.003906,0.02,nc,nc73776285,2022-09-07T08:01:35.130Z,"6km WNW of Cobb, CA",earthquake,0.24,0.43,0.13,4,automatic,nc,nc
 2022-09-07T07:38:07.290Z,19.2021675109863,-155.384002685547,32.2599983215332,1.84000003,md,37,161,,0.119999997,hv,hv73133262,2022-09-07T07:41:19.150Z,"9 km E of Pāhala, Hawaii",earthquake,0.57,0.910000026,0.469999999,13,automatic,hv,hv
+2022-09-07T07:35:57.350Z,1.7817,127.4784,123.145,4.6,mb,36,105,1.009,0.7,us,us7000i5y8,2022-09-07T08:04:42.040Z,"59 km W of Tobelo, Indonesia",earthquake,10.62,7.252,0.105,27,reviewed,us,us
 2022-09-07T07:25:33.957Z,61.3863,-149.6312,29.1,0.8,ml,,,,1.4,ak,ak022bhko87n,2022-09-07T07:27:09.474Z,"7 km NNW of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T07:23:58.000Z,60.4349,-151.0907,59.1,1.1,ml,,,,0.14,ak,ak022bhknumw,2022-09-07T07:25:50.246Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-09-07T07:23:24.390Z,36.0045013,-120.5605011,4.29,1.05,md,13,99,0.01998,0.03,nc,nc73776280,2022-09-07T07:44:13.055Z,"16km NW of Parkfield, CA",earthquake,0.35,0.53,0.24,5,automatic,nc,nc
@@ -47,9 +49,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T01:43:05.727Z,58.1847,-155.284,1.1,1.2,ml,,,,0.59,ak,ak022bhh7fak,2022-09-07T01:45:58.152Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T01:40:49.067Z,60.0686,-152.9244,103.8,0.7,ml,,,,0.46,ak,ak022bhh6vhm,2022-09-07T01:42:49.579Z,"67 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-07T01:35:39.820Z,37.4551659,-121.5550003,6.67,1.59,md,10,132,0.04802,0.02,nc,nc73776205,2022-09-07T02:53:11.301Z,"26km ENE of Alum Rock, CA",earthquake,0.69,1.43,0.15,5,automatic,nc,nc
-2022-09-07T01:15:50.800Z,18.0143333333333,-67.1115,6.03,2.5,md,17,168,,0.12,pr,pr71370293,2022-09-07T01:50:38.220Z,"4 km SW of Palmarejo, Puerto Rico",earthquake,0.37,0.23,0.143292193337706,8,reviewed,pr,pr
+2022-09-07T01:15:50.800Z,18.0143333333333,-67.1115,6.03,2.5,md,17,168,,0.12,pr,pr71370293,2022-09-07T01:50:38.220Z,"Mona Passage",earthquake,0.37,0.23,0.143292193337706,8,reviewed,pr,pr
 2022-09-07T01:12:45.390Z,19.4728336334229,-155.591995239258,-1.16999995708466,1.86,ml,9,96,,0.209999993,hv,hv73133007,2022-09-07T01:18:16.240Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.67,0.379999995,0.1,4,automatic,hv,hv
-2022-09-07T01:07:26.807Z,59.7476,-152.8877,100.5,0.7,ml,,,,0.35,ak,ak022bhgzr4b,2022-09-07T01:10:10.569Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-09-07T01:07:26.807Z,59.7476,-152.8877,100.5,0.7,ml,,,,0.35,ak,ak022bhgzr4b,2022-09-07T01:10:10.569Z,"59 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-07T01:04:00.580Z,17.9463333333333,-66.5086666666667,10.81,2.29,md,14,110,,0.19,pr,pr71370303,2022-09-07T02:58:31.500Z,"5 km SSW of Potala Pastillo, Puerto Rico",earthquake,0.38,0.5,0.208155448299033,7,reviewed,pr,pr
 2022-09-07T01:02:40.640Z,36.5612,71.1319,210.844,4.1,mb,21,88,2.639,0.68,us,us7000i5vz,2022-09-07T01:51:37.040Z,"38 km WSW of Ashkāsham, Afghanistan",earthquake,9.68,9.642,0.174,9,reviewed,us,us
 2022-09-07T00:49:23.120Z,17.9533333333333,-66.9145,13.22,1.97,md,8,212,,0.05,pr,pr71370288,2022-09-07T00:58:58.040Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.64,0.66,0.18015848211689,7,reviewed,pr,pr
