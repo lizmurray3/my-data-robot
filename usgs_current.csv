@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-09T11:39:39.282Z,63.2889,-151.6528,4.4,1.7,ml,,,,1.1,ak,ak022bky7o20,2022-09-09T11:42:30.605Z,"28 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-09-09T11:29:40.923Z,59.5061,-154.9718,0,1.6,ml,,,,0.68,ak,ak022bky5j0x,2022-09-09T11:32:28.656Z,"13 km WNW of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-09T10:57:04.930Z,38.8209991,-122.7914963,1.91,0.63,md,18,35,0.01145,0.02,nc,nc73779706,2022-09-09T11:14:12.630Z,"6km NNW of The Geysers, CA",earthquake,0.24,0.46,0.07,3,automatic,nc,nc
+2022-09-09T10:54:35.980Z,17.9671666666667,-66.9746666666667,7.54,3.11,md,34,177,,0.17,pr,pr71370708,2022-09-09T11:41:07.910Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.34,0.19,0.15849759961701,17,reviewed,pr,pr
 2022-09-09T10:53:30.920Z,19.5801658630371,-155.660995483398,-3.36999988555908,1.85000002,md,14,120,,0.289999992,hv,hv73135322,2022-09-09T10:56:42.220Z,"25 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.52,0.330000013,0.469999999,5,automatic,hv,hv
 2022-09-09T10:37:02.430Z,19.1573333740234,-155.479827880859,29.4099998474121,1.92,ml,34,158,,0.170000002,hv,hv73135282,2022-09-09T10:42:32.320Z,"5 km S of Pāhala, Hawaii",earthquake,0.59,1.00999999,0.26,3,automatic,hv,hv
 2022-09-09T10:07:13.607Z,63.2723,-149.3171,75,1.6,ml,,,,0.58,ak,ak022bkxfbgz,2022-09-09T10:08:54.737Z,"22 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -205,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-08T11:46:54.120Z,38.7871667,-122.7668333,2.36,1.28,md,43,77,0.01455,0.04,nc,nc73776890,2022-09-09T06:56:11.062Z,"1km NW of The Geysers, CA",earthquake,0.17,0.31,0.064,14,reviewed,nc,nc
 2022-09-08T11:44:56.410Z,47.83683333333333,-122.76283333333333,23.81,1.54,ml,32,38,0.1025,0.25,uw,uw61869672,2022-09-08T20:58:03.835Z,"Puget Sound region, Washington",earthquake,0.46,0.73,0.15046586490484193,16,reviewed,uw,uw
 2022-09-08T11:43:32.370Z,47.95133333333333,-122.84333333333333,16.71,1.28,ml,16,97,0.07269,0.29,uw,uw61869667,2022-09-08T18:07:36.660Z,"10 km SSW of Port Hadlock-Irondale, Washington",earthquake,0.62,1.11,0.13200968138404168,10,reviewed,uw,uw
-2022-09-08T11:37:59.840Z,38.8301659,-122.8061676,0.18,0.85,md,10,163,0.007418,0.05,nc,nc73776885,2022-09-08T12:05:13.327Z,"7km W of Cobb, CA",earthquake,0.51,0.75,,1,automatic,nc,nc
