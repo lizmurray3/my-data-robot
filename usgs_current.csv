@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-09-10T11:33:55.570Z,19.1763324737549,-155.461669921875,32.0699996948242,2.1500001,md,34,118,,0.119999997,hv,hv73136277,2022-09-10T11:37:12.680Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.6,0.850000024,0.790000021,16,automatic,hv,hv
+2022-09-10T11:15:18.846Z,-2.2415,138.1606,10,4.8,mb,39,77,5.944,0.76,us,us6000iinv,2022-09-10T11:47:18.040Z,"259 km ESE of Biak, Indonesia",earthquake,5.6,1.899,0.082,46,reviewed,us,us
 2022-09-10T11:14:32.811Z,-58.7811,-25.2732,10,5.4,mww,77,70,7.661,0.58,us,us6000iinw,2022-09-10T11:41:50.288Z,"South Sandwich Islands region",earthquake,10.18,1.851,0.093,11,reviewed,us,us
 2022-09-10T11:08:07.700Z,38.7873344,-122.7566681,2.6,0.46,md,11,92,0.01611,0.02,nc,nc73780046,2022-09-10T11:32:12.599Z,"1km N of The Geysers, CA",earthquake,0.39,0.85,0.41,2,automatic,nc,nc
 2022-09-10T11:04:23.830Z,38.8195,-122.7928314,2.6,1.17,md,28,47,0.01135,0.02,nc,nc73780041,2022-09-10T11:37:10.629Z,"6km NW of The Geysers, CA",earthquake,0.21,0.39,0.07,5,automatic,nc,nc
@@ -95,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T23:53:26.680Z,39.2671661,-123.2241669,0.27,1.74,md,11,78,0.08562,0.23,nc,nc73779911,2022-09-10T01:27:10.845Z,"2km W of Redwood Valley, CA",earthquake,0.66,3.72,0.07,10,automatic,nc,nc
 2022-09-09T23:45:53.200Z,38.7825012,-122.7568359,1.59,0.87,md,13,67,0.01367,0.03,nc,nc73779906,2022-09-09T23:58:10.331Z,"1km N of The Geysers, CA",earthquake,0.23,0.45,0.13,4,automatic,nc,nc
 2022-09-09T23:44:10.070Z,-2.2397,138.1999,19.115,5.9,mww,102,30,5.983,0.73,us,us6000iikc,2022-09-10T01:47:40.864Z,"263 km ESE of Biak, Indonesia",earthquake,8.15,3.855,0.06,27,reviewed,us,us
+2022-09-09T23:34:18.990Z,51.8491666666667,-177.063333333333,10.49,0.61,ml,4,281,,0.28,av,av91678211,2022-09-10T11:45:21.950Z,"29 km W of Adak, Alaska",earthquake,3.79,2.42,0.601945125268014,4,reviewed,av,av
 2022-09-09T23:31:47.383Z,-2.2457,138.2009,18,6.2,mww,128,27,5.984,0.64,us,us6000iika,2022-09-10T01:45:46.397Z,"263 km ESE of Biak, Indonesia",earthquake,7.7,1.739,0.047,43,reviewed,us,us
 2022-09-09T23:31:32.014Z,39.3513,-118.4477,10.8,1.4,ml,8,137.84,0.405,0.2358,nn,nn00846707,2022-09-09T23:35:01.737Z,"Nevada",earthquake,,2,0.38,4,automatic,nn,nn
 2022-09-09T23:17:58.940Z,33.5348333,-116.9368333,9.11,1.02,ml,23,92,0.057,0.13,ci,ci40098415,2022-09-09T23:45:12.429Z,"12km NNW of Aguanga, CA",earthquake,0.2,0.77,0.212,15,reviewed,ci,ci
