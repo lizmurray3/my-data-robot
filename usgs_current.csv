@@ -1,15 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-11T23:14:11.150Z,35.0396667,-117.6645,0.29,1.84,ml,19,79,0.1082,0.21,ci,ci40099063,2022-09-11T23:18:00.116Z,"5km NNW of Boron, CA",quarry blast,0.48,31.61,0.16,29,automatic,ci,ci
+2022-09-11T23:12:52.858Z,36.4556,-115.1099,0,1.3,ml,12,295.76,0.062,0.2426,nn,nn00846823,2022-09-11T23:16:26.946Z,"23 km NNW of Nellis Air Force Base, Nevada",earthquake,,1.2,0.64,7,automatic,nn,nn
 2022-09-11T22:53:18.200Z,19.2446670532227,-155.400833129883,34.1500015258789,2.07999992,md,38,137,,0.119999997,hv,hv73137582,2022-09-11T22:56:39.750Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.839999974,0.850000024,11,automatic,hv,hv
 2022-09-11T22:41:24.940Z,19.1469993591309,-155.485336303711,31.9200000762939,2.11,ml,38,158,,0.119999997,hv,hv73137567,2022-09-11T22:46:56.570Z,"6 km S of Pāhala, Hawaii",earthquake,0.54,1.02999997,5.2,3,automatic,hv,hv
 2022-09-11T21:55:05.120Z,36.5475006,-121.0954971,2.7,2.46,md,24,106,0.05463,0.12,nc,nc73780546,2022-09-11T22:24:35.692Z,"5km ENE of Pinnacles, CA",earthquake,0.29,0.95,0.18,26,automatic,nc,nc
 2022-09-11T21:41:44.020Z,37.6570015,-118.94767,-0.47,1.12,md,9,169,0.04708,0.23,nc,nc73780541,2022-09-11T22:17:14.071Z,"4km NE of Mammoth Lakes, CA",earthquake,2.02,8.3,0.1,8,automatic,nc,nc
 2022-09-11T21:41:24.100Z,37.5466652,-118.9231644,9.29,1.6,md,15,147,0.06563,0.07,nc,nc73780536,2022-09-11T22:05:12.904Z,"11km SSE of Mammoth Lakes, CA",earthquake,0.74,1.24,0.12,14,automatic,nc,nc
-2022-09-11T21:40:31.680Z,37.5653343,-118.925499,8.91,2.2,md,22,102,0.04739,0.04,nc,nc73780531,2022-09-11T21:54:11.673Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.36,0.85,0.16,24,automatic,nc,nc
-2022-09-11T21:37:02.400Z,37.5638351,-118.9261703,9.08,1.56,md,18,157,0.04896,0.02,nc,nc73780526,2022-09-11T21:54:10.673Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.43,0.93,0.13,15,automatic,nc,nc
+2022-09-11T21:40:31.680Z,37.5653343,-118.925499,8.91,2.2,md,22,102,0.04739,0.04,nc,nc73780531,2022-09-11T23:22:11.244Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.36,0.85,0.16,24,automatic,nc,nc
+2022-09-11T21:37:02.400Z,37.5638351,-118.9261703,9.08,1.56,md,18,157,0.04896,0.02,nc,nc73780526,2022-09-11T23:07:15.155Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.43,0.93,0.13,15,automatic,nc,nc
 2022-09-11T21:33:20.920Z,37.5653343,-118.9264984,9.14,2.92,md,30,95,0.04754,0.03,nc,nc73780521,2022-09-11T22:38:11.087Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.26,0.58,0.18,41,automatic,nc,nc
 2022-09-11T21:30:35.420Z,17.8911666666667,-66.862,15.45,2.09,md,4,307,,0.1,pr,pr71371223,2022-09-11T21:40:39.930Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,1.15,1.25,0.0281629051180246,3,reviewed,pr,pr
 2022-09-11T21:21:53.788Z,41.2018,140.1481,166.315,5,mb,101,51,0.807,0.58,us,us7000i78n,2022-09-11T21:40:22.040Z,"46 km NNW of Shimokizukuri, Japan",earthquake,7.78,5.66,0.021,738,reviewed,us,us
-2022-09-11T21:18:34.391Z,31.59519859,-103.9848764,7.905419922,2.8,ml,19,53,0.1255905204,0.2,tx,tx2022rvwl,2022-09-11T22:31:59.432Z,"36 km NNW of Toyah, Texas",earthquake,1.017403012,1.870651399,0.2,22,reviewed,tx,tx
+2022-09-11T21:18:34.391Z,31.59519859,-103.9848764,7.905419922,2.8,ml,19,53,0.1255905204,0.2,tx,tx2022rvwl,2022-09-11T23:08:10.040Z,"36 km NNW of Toyah, Texas",earthquake,1.017403012,1.870651399,0.2,22,reviewed,tx,tx
 2022-09-11T21:16:41.940Z,38.7878342,-122.7073364,2.27,0.93,md,12,126,0.02061,0.03,nc,nc73780516,2022-09-11T21:18:19.183Z,"2km NW of Anderson Springs, CA",earthquake,0.63,1.52,0.09,4,automatic,nc,nc
 2022-09-11T21:15:47.960Z,36.5666656,-121.1166687,8.45,2.52,md,39,66,0.05556,0.1,nc,nc73780511,2022-09-11T22:25:10.875Z,"5km NNE of Pinnacles, CA",earthquake,0.22,0.48,0.18,39,automatic,nc,nc
 2022-09-11T21:14:24.600Z,38.7961655,-122.7491684,0.81,0.86,md,12,95,0.009365,0.03,nc,nc73780506,2022-09-11T22:10:09.773Z,"2km NNE of The Geysers, CA",earthquake,0.24,0.5,0.01,4,automatic,nc,nc
@@ -120,6 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-11T04:16:32.732Z,-11.0759,110.8536,17.136,5.4,mb,62,52,3.16,0.63,us,us7000i74s,2022-09-11T06:19:31.383Z,"south of Java, Indonesia",earthquake,7.16,4.027,0.06,99,reviewed,us,us
 2022-09-11T04:14:06.840Z,38.8363342,-122.8030014,2.09,0.85,md,9,60,0.0101,0.01,nc,nc73780321,2022-09-11T04:30:11.522Z,"7km WNW of Cobb, CA",earthquake,0.49,1.74,,1,automatic,nc,nc
 2022-09-11T04:13:34.320Z,37.488,-118.854,10.11,0.45,md,12,237,0.1038,0.04,nc,nc73780326,2022-09-11T16:46:11.117Z,"17km WSW of Toms Place, CA",earthquake,0.57,1.66,0.226,10,reviewed,nc,nc
+2022-09-11T03:43:11.740Z,43.7545,-121.313,-0.19,-0.09,ml,8,250,0.002259,0.09,uw,uw61879361,2022-09-11T23:19:24.520Z,"14 km ESE of Three Rivers, Oregon",earthquake,0.5,0.39,0.3284860405074713,4,reviewed,uw,uw
 2022-09-11T03:39:06.430Z,38.8356667,-122.8098297,2.71,0.85,md,13,55,0.01226,0.02,nc,nc73780316,2022-09-11T03:50:10.296Z,"8km WNW of Cobb, CA",earthquake,0.32,1.01,,1,automatic,nc,nc
 2022-09-11T03:37:26.220Z,38.8348351,-122.8079987,1.36,0.36,md,8,106,0.01154,0.02,nc,nc73780311,2022-09-11T04:02:12.365Z,"8km W of Cobb, CA",earthquake,0.42,1.09,,1,automatic,nc,nc
 2022-09-11T03:34:41.456Z,36.9945,-116.3795,2.9,-0.1,ml,11,98.82,0.025,0.091,nn,nn00846768,2022-09-11T03:37:13.760Z,"35 km ENE of Beatty, Nevada",earthquake,,0.6,1.67,5,automatic,nn,nn
@@ -165,9 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T23:35:03.886Z,59.0042,-152.7739,72.1,1.9,ml,,,,0.16,ak,ak022bmsva7o,2022-09-10T23:36:55.476Z,"62 km SW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-10T23:28:06.720Z,17.9341666666667,-66.8445,11.35,1.95,md,4,314,,0.12,pr,pr71371093,2022-09-11T00:05:11.960Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.96,0.89,0.248222830146899,3,reviewed,pr,pr
 2022-09-10T23:24:00.731Z,-1.2028,98.6188,10,5.7,mb,114,43,2.7,1.07,us,us6000iisl,2022-09-11T01:27:04.949Z,"179 km WSW of Pariaman, Indonesia",earthquake,7.09,1.823,0.042,198,reviewed,us,us
-2022-09-10T23:18:20.929Z,64.3292,-147.4632,9.4,1.3,ml,,,,0.24,ak,ak022bmsrocs,2022-09-10T23:21:15.152Z,"34 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-10T23:16:52.240Z,19.2045001983643,-155.388000488281,30.9599990844727,1.86000001,md,43,159,,0.129999995,hv,hv73136742,2022-09-10T23:20:05.560Z,"9 km E of Pāhala, Hawaii",earthquake,0.59,0.930000007,0.600000024,16,automatic,hv,hv
-2022-09-10T23:15:43.910Z,36.7898331,-121.5268326,7.34,2.29,md,40,68,0.03424,0.17,nc,nc73780176,2022-09-11T00:24:11.133Z,"6km S of San Juan Bautista, CA",earthquake,0.32,0.62,0.17,34,automatic,nc,nc
-2022-09-10T23:10:44.391Z,-1.1241,98.6239,20,6,mww,110,34,2.63,0.95,us,us6000iisb,2022-09-11T09:14:30.401Z,"175 km WSW of Pariaman, Indonesia",earthquake,6.82,1.818,0.089,12,reviewed,us,us
-2022-09-10T23:06:04.060Z,33.2576667,-115.6568333,2.8,1.66,ml,41,41,0.06864,0.23,ci,ci40098655,2022-09-11T20:01:52.441Z,"12km SE of Bombay Beach, CA",earthquake,0.2,0.39,0.153,34,reviewed,ci,ci
-2022-09-10T23:01:26.390Z,33.3256667,-116.3516667,10.79,1.06,ml,49,33,0.013,0.21,ci,ci40098647,2022-09-11T18:57:45.564Z,"8km NNE of Borrego Springs, CA",earthquake,0.2,0.35,0.11,30,reviewed,ci,ci
