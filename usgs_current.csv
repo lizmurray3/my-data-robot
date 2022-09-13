@@ -1,12 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-13T22:48:30.700Z,33.4111671,-116.6378326,9.79,0.97,ml,31,57,0.08723,0.12,ci,ci40099959,2022-09-13T22:50:35.964Z,"14km N of Warner Springs, CA",earthquake,0.27,0.87,0.182,9,automatic,ci,ci
-2022-09-13T22:44:25.850Z,37.4663315,-118.8138351,9.08,3.05,ml,28,74,0.1241,0.05,nc,nc73781266,2022-09-13T22:51:10.615Z,"16km SW of Toms Place, CA",earthquake,0.3,1.34,0.33,24,automatic,nc,nc
-2022-09-13T22:36:57.802Z,38.1858,-117.8422,0,1.6,ml,13,138.41,0.103,0.2546,nn,nn00847079,2022-09-13T22:40:34.197Z,"32 km SE of Mina, Nevada",earthquake,,3.6,0.59,9,automatic,nn,nn
+2022-09-13T23:00:22.570Z,19.1518325805664,-155.599838256836,1.74000000953674,2.31,ml,33,113,,0.219999999,hv,hv73139232,2022-09-13T23:05:53.650Z,"9 km N of Wai‘ōhinu, Hawaii",earthquake,0.38,0.800000012,4.27,10,automatic,hv,hv
+2022-09-13T22:56:03.940Z,19.2089996337891,-155.38916015625,31.9099998474121,2.31999993,md,41,158,,0.119999997,hv,hv73139227,2022-09-13T22:59:07.120Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,0.800000012,1.27999997,23,automatic,hv,hv
+2022-09-13T22:48:30.710Z,33.412,-116.6371667,9.97,0.91,ml,29,41,0.08739,0.14,ci,ci40099959,2022-09-13T23:00:46.082Z,"14km N of Warner Springs, CA",earthquake,0.21,0.55,0.19,26,automatic,ci,ci
+2022-09-13T22:44:25.850Z,37.4663315,-118.8138351,9.08,3.05,ml,28,74,0.1241,0.05,nc,nc73781266,2022-09-13T23:00:03.338Z,"16km SW of Toms Place, CA",earthquake,0.3,1.34,0.33,24,automatic,nc,nc
+2022-09-13T22:36:58.234Z,38.1614,-117.8444,0.6,1.6,ml,11,135.06,0.093,0.1573,nn,nn00847079,2022-09-13T23:04:30.248Z,"34 km SE of Mina, Nevada",earthquake,,1.7,0.16,7,reviewed,nn,nn
 2022-09-13T22:28:12.226Z,38.4729,-118.1358,10.2,1.3,ml,8,136.95,0.34,0.1201,nn,nn00847075,2022-09-13T22:45:44.137Z,"9 km NNW of Mina, Nevada",earthquake,,2.6,0.38,8,reviewed,nn,nn
 2022-09-13T22:18:32.560Z,19.1308326721191,-155.427505493164,32.3600006103516,1.75999999,md,33,227,,0.129999995,hv,hv73139212,2022-09-13T22:21:33.730Z,"9 km SE of Pāhala, Hawaii",earthquake,0.76,1.08000004,1.11000001,7,automatic,hv,hv
 2022-09-13T21:52:24.432Z,62.3615,-149.1865,0,1.5,ml,,,,0.85,ak,ak022brqe58r,2022-09-13T21:54:05.494Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-13T21:52:15.840Z,33.4196667,-116.6085,6.6,0.59,ml,24,40,0.07502,0.22,ci,ci40099943,2022-09-13T21:55:58.238Z,"16km N of Warner Springs, CA",earthquake,0.36,0.8,0.132,17,automatic,ci,ci
 2022-09-13T21:51:15.110Z,19.2423,-64.6238,62,3.7,md,16,294,0.95,0.26,pr,pr2022256001,2022-09-13T22:24:44.311Z,"102 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.53,7.13,0.1,13,reviewed,pr,pr
+2022-09-13T21:42:32.476Z,55.7859,-159.4132,98.433,3.1,ml,13,131,0.746,0.14,us,us7000i7s7,2022-09-13T23:04:41.040Z,"13 km SSE of Ivanof Bay, Alaska",earthquake,5.63,7.804,0.06,36,reviewed,us,us
 2022-09-13T21:39:31.220Z,38.7939987,-122.7450027,2.18,0.37,md,6,211,0.01254,0.01,nc,nc73781251,2022-09-13T22:04:13.502Z,"2km NNE of The Geysers, CA",earthquake,0.86,1.51,,1,automatic,nc,nc
 2022-09-13T21:35:36.140Z,44.7443333,-111.1058333,10.69,0.31,md,9,84,0.05183,0.17,uu,uu60514872,2022-09-13T22:06:37.660Z,"7 km ESE of Hebgen Lake Estates, Montana",earthquake,0.67,1.33,0.392,6,reviewed,uu,uu
 2022-09-13T21:35:13.933Z,26.6575,96.1333,10,4.5,mb,30,121,5.92,0.61,us,us7000i7sb,2022-09-13T22:49:15.040Z,"68 km SE of Khonsa, India",earthquake,5.2,1.932,0.115,22,reviewed,us,us
@@ -71,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-13T16:01:08.608Z,-22.8801,-65.8608,348.211,4.3,mb,15,203,2.138,0.88,us,us7000i7p9,2022-09-13T20:39:57.040Z,"24 km SW of Abra Pampa, Argentina",earthquake,16.98,10.068,0.217,6,reviewed,us,us
 2022-09-13T16:00:50.970Z,38.8165016,-122.854332,1.47,1.09,md,16,93,0.0112,0.02,nc,nc73781166,2022-09-13T16:17:21.195Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.45,0.28,4,automatic,nc,nc
 2022-09-13T15:59:10.150Z,38.3191667,-122.7445,-0.27,1.13,md,10,112,0.07452,0.09,nc,nc73781171,2022-09-13T18:57:38.425Z,"3km WSW of Cotati, CA",quarry blast,0.46,31.61,0.285,10,reviewed,nc,nc
-2022-09-13T15:56:25.313Z,16.5884,121.6246,10,4.5,mb,34,209,6.218,0.48,us,us7000i7p7,2022-09-13T20:26:49.040Z,"5 km WSW of Pangal Sur, Philippines",earthquake,14.31,1.967,0.14,18,reviewed,us,us
+2022-09-13T15:56:25.313Z,16.5884,121.6246,10,4.5,mb,34,209,6.218,0.48,us,us7000i7p7,2022-09-13T23:05:40.606Z,"5 km WSW of Pangal Sur, Philippines",earthquake,14.31,1.967,0.14,18,reviewed,us,us
 2022-09-13T15:55:17.749Z,16.7162,121.4797,10,4.5,mb,26,97,6.082,0.65,us,us7000i7pa,2022-09-13T20:15:51.040Z,"3 km SSW of Cabulay, Philippines",earthquake,8.94,1.883,0.145,16,reviewed,us,us
 2022-09-13T15:46:17.459Z,60.1369,-152.9556,110.9,1.5,ml,,,,0.29,ak,ak022brms8iq,2022-09-13T16:39:28.083Z,"71 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-09-13T15:38:26.400Z,46.1975,-122.18833333333333,0.49,0.36,ml,12,77,0.002876,0.08,uw,uw61879876,2022-09-13T21:54:37.040Z,"37 km NNE of Amboy, Washington",earthquake,0.4,0.27,0.205205841197735,7,reviewed,uw,uw
@@ -273,8 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-12T23:15:24.060Z,34.054,-117.5283333,8.59,0.83,ml,33,57,0.0292,0.15,ci,ci40099471,2022-09-13T14:05:54.858Z,"6km NW of Glen Avon, CA",earthquake,0.26,0.4,0.035,8,reviewed,ci,ci
 2022-09-12T23:14:39.435Z,67.485,-158.2505,0,2.3,ml,,,,0.98,ak,ak022bq3tjwn,2022-09-12T23:17:25.996Z,"47 km NNW of Ambler, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-12T23:14:34.460Z,19.5160007476807,-155.459167480469,-0.389999985694885,1.77999997,md,15,110,,0.189999998,hv,hv73138397,2022-09-12T23:17:41.960Z,"24 km WNW of Volcano, Hawaii",earthquake,0.46,1.04999995,0.889999986,4,automatic,hv,hv
-2022-09-12T23:00:14.490Z,37.4526667,-121.8345,3.16,1.29,md,20,82,0.00362,0.06,nc,nc73780931,2022-09-13T08:44:12.363Z,"7km ENE of Milpitas, CA",earthquake,0.31,0.21,0.176,18,reviewed,nc,nc
-2022-09-12T22:58:53.580Z,38.8183327,-122.7588348,1.92,0.97,md,10,122,0.01489,0.03,nc,nc73780926,2022-09-12T23:00:28.321Z,"3km W of Cobb, CA",earthquake,0.51,0.93,0.28,2,automatic,nc,nc
-2022-09-12T22:58:38.980Z,38.4333,-117.9684,2.2,1.2,ml,11,198.49,0.146,0.1538,nn,nn00846949,2022-09-12T23:02:21.929Z,"Nevada",earthquake,,1.3,0.34,7,automatic,nn,nn
-2022-09-12T22:58:06.460Z,38.8170013,-122.7621689,1.58,1.23,md,22,115,0.01475,0.04,nc,nc73780921,2022-09-13T01:42:10.892Z,"3km W of Cobb, CA",earthquake,0.26,0.36,0.13,5,automatic,nc,nc
-2022-09-12T22:56:13.810Z,19.1949996948242,-155.483169555664,33.8699989318848,1.80999994,md,24,140,,0.129999995,hv,hv73138377,2022-09-12T22:59:27.520Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.72,1.07000005,0.769999981,3,automatic,hv,hv
