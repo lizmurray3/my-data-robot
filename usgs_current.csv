@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-15T22:50:16.480Z,38.8341675,-122.8191681,2.06,0.85,md,11,81,0.01289,0.01,nc,nc73782156,2022-09-15T22:51:50.232Z,"8km NW of The Geysers, CA",earthquake,0.35,0.97,,1,automatic,nc,nc
 2022-09-15T22:34:02.949Z,61.5983,-151.158,61.1,1.6,ml,,,,0.58,ak,ak022bv1ydae,2022-09-15T22:36:36.298Z,"34 km W of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-15T22:33:46.100Z,38.8086662,-122.8183365,3.26,0.84,md,10,107,0.008473,0.02,nc,nc73782146,2022-09-15T22:35:20.168Z,"6km WNW of The Geysers, CA",earthquake,0.41,1.25,,1,automatic,nc,nc
 2022-09-15T22:24:41.640Z,34.185,-117.4498333,10.2,1.35,ml,36,47,0.02005,0.21,ci,ci40100799,2022-09-15T22:35:33.060Z,"6km SW of Devore, CA",earthquake,0.3,0.54,0.178,29,automatic,ci,ci
@@ -238,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-14T23:02:36.691Z,31.67526136,-104.3908712,6.028735352,2,ml,17,56,0.09392656255,0.2,tx,tx2022sbml,2022-09-15T03:36:49.510Z,"55 km S of Whites City, New Mexico",earthquake,1.460217168,1.700266422,0.2,13,reviewed,tx,tx
 2022-09-14T22:56:32.760Z,17.9086666666667,-66.854,17.03,2.26,md,10,229,,0.08,pr,pr71371848,2022-09-14T23:06:54.160Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.6,0.156892378603861,7,reviewed,pr,pr
 2022-09-14T22:53:59.551Z,61.48,-149.9138,33.4,1.8,ml,,,,0.4,ak,ak022btej7rn,2022-09-14T22:55:36.794Z,"5 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-14T22:52:08.620Z,34.018,-116.7166667,15.51,0.93,ml,21,87,0.06063,0.1,ci,ci40100415,2022-09-14T23:58:30.521Z,"13km WSW of Morongo Valley, CA",earthquake,0.21,0.59,0.14,18,reviewed,ci,ci
-2022-09-14T22:45:32.570Z,35.04183333,-97.52716667,5.3,1.95,ml,96,38,0.03149381984,0.33,ok,ok2022sblv,2022-09-15T14:37:35.811Z,"4 km WSW of Washington, Oklahoma",earthquake,,0.5,0.17,6,reviewed,ok,ok
-2022-09-14T22:44:48.850Z,46.9855,-122.18983333333334,-0.54,1.41,ml,19,126,0.01606,0.18,uw,uw61880381,2022-09-14T23:35:56.090Z,"Washington",explosion,0.55,31.61,0.08565197401454738,14,reviewed,uw,uw
