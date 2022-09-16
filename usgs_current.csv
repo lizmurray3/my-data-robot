@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-16T14:34:24.050Z,19.2059993743896,-155.374160766602,33.7099990844727,3,md,45,160,,0.129999995,hv,hv73141517,2022-09-16T14:37:36.300Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.810000002,1.64999998,42,automatic,hv,hv
+2022-09-16T14:06:56.650Z,37.3721657,-121.7095032,5.57,1.75,md,24,108,0.0473,0.1,nc,nc73782401,2022-09-16T14:24:10.994Z,"10km E of Alum Rock, CA",earthquake,0.33,0.51,0.22,16,automatic,nc,nc
+2022-09-16T13:59:01.870Z,18.3888333333333,-64.7416666666667,22.37,2.81,md,4,305,,0.08,pr,pr71372023,2022-09-16T14:15:29.010Z,"8 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,3.41,0.82,0.114022231168643,4,reviewed,pr,pr
 2022-09-16T13:56:18.290Z,33.2426667,-116.3536667,9.52,0.88,ml,25,85,0.05898,0.23,ci,ci40101063,2022-09-16T13:59:55.709Z,"2km SE of Borrego Springs, CA",earthquake,0.35,0.72,0.105,20,automatic,ci,ci
 2022-09-16T13:54:20.600Z,35.6836667,-117.5618333,10.92,1.11,ml,9,133,0.1349,0.15,ci,ci40101055,2022-09-16T13:57:52.092Z,"12km NE of Ridgecrest, CA",earthquake,0.51,1.09,0.252,11,automatic,ci,ci
 2022-09-16T13:46:05.520Z,38.1638,-117.8675,12.7,0.2,ml,10,164.74,0.076,0.1609,nn,nn00847295,2022-09-16T13:49:41.020Z,"32 km SE of Mina, Nevada",earthquake,,0.9,0.57,4,automatic,nn,nn
@@ -43,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T08:31:12.520Z,35.7381667,-117.538,1,0.97,ml,12,93,0.09129,0.18,ci,ci40100927,2022-09-16T08:34:53.128Z,"12km WSW of Searles Valley, CA",earthquake,0.35,0.78,0.075,10,automatic,ci,ci
 2022-09-16T08:20:52.852Z,58.3837,-154.7228,1.1,2.3,ml,,,,0.45,ak,ak022bwh2r51,2022-09-16T08:51:08.040Z,"92 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-16T08:20:30.430Z,36.425,-120.8241667,10.31,2.1,md,53,127,0.05204,0.13,nc,nc73782341,2022-09-16T09:07:13.240Z,"14km W of New Idria, CA",earthquake,0.22,0.23,0.239,44,reviewed,nc,nc
-2022-09-16T08:17:53.296Z,61.089,-147.415,31.3,1.2,ml,,,,0.88,ak,ak022bwh240x,2022-09-16T08:19:35.534Z,"47 km WNW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-09-16T08:17:53.296Z,61.089,-147.415,31.3,1.2,ml,,,,0.88,ak,ak022bwh240x,2022-09-16T08:19:35.534Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-16T08:17:02.498Z,-0.0155,124.4543,66.828,4.5,mb,38,42,1.967,1.04,us,us7000i8hm,2022-09-16T08:43:07.040Z,"152 km SSW of Tomohon, Indonesia",earthquake,7.71,5.49,0.111,24,reviewed,us,us
 2022-09-16T08:05:04.910Z,17.9556666666667,-66.8565,18.17,1.87,md,3,322,,0.02,pr,pr71371983,2022-09-16T08:18:58.180Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,3.52,0.71,0.1468333255395,3,reviewed,pr,pr
 2022-09-16T08:01:49.060Z,36.7005,-97.67083333,5.91,1.12,ml,49,60,0.218657092,0.32,ok,ok2022sdzq,2022-09-16T13:01:14.106Z,"10 km W of Lamont, Oklahoma",earthquake,,0.9,0.22,20,reviewed,ok,ok
@@ -142,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-15T20:07:05.390Z,36.9443333,-121.0358333,6.42,3.25,ml,85,48,0.0849,0.15,nc,nc73782086,2022-09-16T11:39:45.413Z,"21km SW of Los Banos, CA",earthquake,0.17,0.69,0.128,82,reviewed,nc,nc
 2022-09-15T19:57:55.550Z,60.2379,-150.804,69.9,1.5,ml,,,,0.27,ak,ak022bv0b403,2022-09-15T19:59:43.790Z,"28 km ESE of Kasilof, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-15T19:49:45.730Z,44.7776667,-110.8096667,5.76,0.97,md,14,92,0.03097,0.15,uu,uu60515157,2022-09-15T19:58:12.720Z,"Wyoming",earthquake,0.35,0.9,0.164,7,reviewed,uu,uu
-2022-09-15T19:43:31.570Z,43.73683333333334,-123.10183333333333,-0.34,1.02,ml,7,147,0.1833,0.27,uw,uw61880576,2022-09-15T20:16:11.810Z,"7 km SSW of Cottage Grove, Oregon",explosion,1.13,31.61,0.21792498002259553,3,reviewed,uw,uw
+2022-09-15T19:43:31.570Z,43.73683333333334,-123.10183333333333,-0.34,1.02,ml,7,147,0.1833,0.27,uw,uw61880576,2022-09-15T20:16:11.810Z,"Oregon",explosion,1.13,31.61,0.21792498002259553,3,reviewed,uw,uw
 2022-09-15T19:38:42.500Z,35.0621667,-118.341,-0.91,1.29,ml,22,45,0.2049,0.16,ci,ci40100711,2022-09-15T20:51:05.723Z,"12km SE of Tehachapi, CA",quarry blast,0.32,31.61,0.163,15,reviewed,ci,ci
 2022-09-15T19:36:37.050Z,36.9355,-121.039,-0.19,1.63,md,32,79,0.09168,0.08,nc,nc73782081,2022-09-16T04:51:14.720Z,"22km SW of Los Banos, CA",earthquake,0.17,0.43,0.196,27,reviewed,nc,nc
 2022-09-15T19:33:41.499Z,62.9646,-151.0021,80.6,1.2,ml,,,,0.64,ak,ak022bv05xqd,2022-09-15T19:36:07.634Z,"53 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -195,9 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-15T14:49:25.880Z,38.8251648,-122.7945023,2.7,0.63,md,14,50,0.01229,0.01,nc,nc73781971,2022-09-15T14:51:02.521Z,"6km W of Cobb, CA",earthquake,0.27,0.6,0.11,2,automatic,nc,nc
 2022-09-15T14:49:18.350Z,43.73683333333334,-121.378,3.88,-0.22,ml,4,267,0.0504,0.02,uw,uw61880491,2022-09-15T20:06:02.300Z,"Oregon",earthquake,0.74,1.45,0.04035869481922738,2,reviewed,uw,uw
 2022-09-15T14:48:30.537Z,39.5395,23.5885,10,4.5,mb,26,43,1.017,0.96,us,us7000i89v,2022-09-15T15:23:48.040Z,"Aegean Sea",earthquake,5.62,1.919,0.221,6,reviewed,us,us
-2022-09-15T14:31:28.685Z,61.0507,-148.4684,0.1,1.5,ml,,,,0.62,ak,ak022bux6bac,2022-09-15T14:33:24.912Z,"32 km NNE of Whittier, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-09-15T14:29:26.360Z,38.8230019,-122.8113327,2.4,0.35,md,10,73,0.001059,0.02,nc,nc73781966,2022-09-15T14:31:02.200Z,"7km NW of The Geysers, CA",earthquake,0.41,1.18,,1,automatic,nc,nc
-2022-09-15T14:28:15.170Z,38.824501,-122.8099976,3.1,1.17,md,11,90,0.001106,0.01,nc,nc73781961,2022-09-15T15:00:10.730Z,"7km NW of The Geysers, CA",earthquake,0.43,1.1,,1,automatic,nc,nc
-2022-09-15T14:25:09.150Z,58.2425,-155.105166666667,29.85,-0.22,ml,12,86,,0.13,av,av91071313,2022-09-16T02:07:12.450Z,"Alaska Peninsula",earthquake,0.57,0.83,0.192276525173997,11,reviewed,av,av
-2022-09-15T14:20:13.702Z,37.1428,-116.6035,7.6,-0.3,ml,4,138.52,0.094,0.0257,nn,nn00847259,2022-09-15T23:00:56.218Z,"29 km NNE of Beatty, Nevada",earthquake,,16.1,0.25,3,reviewed,nn,nn
-2022-09-15T14:19:44.118Z,61.0011,-148.481,0,1.5,ml,,,,1.27,ak,ak022bux3rvv,2022-09-15T14:40:49.265Z,"27 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
