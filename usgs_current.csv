@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-04T11:57:17.157Z,59.895,-151.6139,50.5,3.2,ml,,,,0.22,ak,ak022cqar5kz,2022-10-04T11:58:29.894Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-10-04T11:55:22.767Z,58.3437,-133.2803,0,2,ml,,,,1.08,ak,ak022cqaqqn5,2022-10-04T11:57:47.037Z,"66 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-10-04T11:55:08.030Z,34.0375,-117.254,14.76,1.58,ml,57,27,0.08807,0.23,ci,ci40355424,2022-10-04T11:58:50.883Z,"1km SSE of Loma Linda, CA",earthquake,0.25,0.52,0.133,26,automatic,ci,ci
 2022-10-04T11:33:11.776Z,58.2344,-155.203,0,1.2,ml,,,,0.41,ak,ak022cqalzzd,2022-10-04T11:43:31.470Z,"86 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-04T11:20:50.760Z,35.3055,-118.6235,3.45,1.4,ml,24,54,0.09148,0.17,ci,ci40355416,2022-10-04T11:24:28.765Z,"22km ENE of Arvin, CA",earthquake,0.25,1.18,0.121,22,automatic,ci,ci
 2022-10-04T11:06:09.410Z,18.0068333333333,-66.77,12.49,2.77,md,16,137,,0.14,pr,pr71374718,2022-10-04T11:20:00.220Z,"Puerto Rico region",earthquake,0.33,0.41,0.22211426525866,15,reviewed,pr,pr
@@ -269,4 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T12:19:00.780Z,47.533166666666666,-121.779,19.72,1.31,ml,31,60,0.04526,0.14,uw,uw61876522,2022-10-03T22:20:21.330Z,"3 km E of Snoqualmie, Washington",earthquake,0.35,0.31,0.1549667947918637,24,reviewed,uw,uw
 2022-10-03T12:11:50.080Z,44.7828333,-110.807,3.22,0.32,md,8,205,0.03146,0.16,uu,uu60519037,2022-10-03T13:44:02.540Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.95,1.38,0.158,5,reviewed,uu,uu
 2022-10-03T12:01:18.970Z,38.5658333,-122.2921667,-0.3,1.91,md,45,75,0.0319,0.26,nc,nc73788866,2022-10-03T18:34:12.014Z,"14km E of Angwin, CA",earthquake,0.22,1.01,0.158,45,reviewed,nc,nc
-2022-10-03T11:51:15.410Z,44.7691667,-110.8035,3.95,0.04,md,5,181,0.03857,0.15,uu,uu60519032,2022-10-03T20:56:37.920Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.9,1.98,0.078,3,reviewed,uu,uu
