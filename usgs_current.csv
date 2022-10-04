@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-04T09:48:13.580Z,35.0658333,-117.4365,2.62,1.34,ml,22,92,0.1252,0.17,ci,ci40355400,2022-10-04T09:51:51.240Z,"21km ENE of Boron, CA",earthquake,0.27,1.31,0.151,29,automatic,ci,ci
+2022-10-04T09:38:57.823Z,61.9953,-149.8841,31.8,1.4,ml,,,,0.48,ak,ak022cq9gawz,2022-10-04T09:41:15.222Z,"18 km S of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-10-04T09:35:07.367Z,35.96763992,-97.88591766,3.258092642,1.75,ml,13,82.78659058,0.08402141184,0.4376876332,ok,ok2022tkzv,2022-10-04T09:45:15.031Z,"2 km SE of Dover, Oklahoma",earthquake,3.629998639,2.938655129,,11,automatic,ok,ok
+2022-10-04T09:26:10.230Z,17.9373333333333,-67.0743333333333,12.84,2,md,4,256,,0.02,pr,pr71374658,2022-10-04T09:50:55.000Z,"5 km SW of La Parguera, Puerto Rico",earthquake,0.92,0.53,0.037049778867027,4,reviewed,pr,pr
 2022-10-04T09:19:01.000Z,38.8460007,-122.8154984,1.02,0.37,md,7,173,0.01684,0.01,nc,nc73789261,2022-10-04T09:20:38.475Z,"8km WNW of Cobb, CA",earthquake,0.63,1.71,,1,automatic,nc,nc
 2022-10-04T09:18:13.590Z,38.8371658,-122.8095016,1.53,0.85,md,8,113,0.01376,0.01,nc,nc73789256,2022-10-04T09:19:48.270Z,"8km WNW of Cobb, CA",earthquake,0.5,1.04,,1,automatic,nc,nc
 2022-10-04T09:03:21.643Z,60.9581,-150.193,40.5,1.2,ml,,,,0.19,ak,ak022cq98q1w,2022-10-04T09:04:38.781Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -270,8 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T09:59:54.910Z,17.92,-66.9345,11.7,2.57,md,9,230,,0.13,pr,pr71374428,2022-10-03T22:30:48.938Z,"6 km SSW of Guánica, Puerto Rico",earthquake,0.71,0.49,0.189830432219351,5,reviewed,pr,pr
 2022-10-03T09:55:44.277Z,-22.9867,-112.0767,10,4.9,mb,66,87,16.593,0.44,us,us6000iqdu,2022-10-03T11:05:48.961Z,"Easter Island region",earthquake,12.4,1.874,0.045,154,reviewed,us,us
 2022-10-03T09:52:03.750Z,57.9984,-153.6009,62.6,1.9,ml,,,,0.31,ak,ak022colzu9j,2022-10-03T09:54:38.519Z,"41 km W of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-10-03T09:45:45.260Z,39.2581667,-123.2985,4.67,1.08,md,11,106,0.05238,0.05,nc,nc73788811,2022-10-03T18:54:56.393Z,"8km W of Redwood Valley, CA",earthquake,0.25,0.73,0.213,10,reviewed,nc,nc
-2022-10-03T09:44:52.210Z,33.6001667,-116.7291667,12.39,0.68,ml,23,67,0.02986,0.09,ci,ci40354960,2022-10-03T21:49:37.720Z,"7km NW of Anza, CA",earthquake,0.21,0.28,0.103,16,reviewed,ci,ci
-2022-10-03T09:44:15.900Z,38.6378333,-122.4906667,5.85,1.66,md,68,49,0.07046,0.13,nc,nc73788801,2022-10-03T18:20:10.386Z,"8km NNW of Angwin, CA",earthquake,0.15,0.39,0.13,34,reviewed,nc,nc
-2022-10-03T09:34:33.570Z,33.9815,-116.9853333,14.3,0.49,ml,26,51,0.07706,0.13,ci,ci40354952,2022-10-03T14:50:56.185Z,"6km N of Beaumont, CA",earthquake,0.2,0.47,0.178,10,reviewed,ci,ci
-2022-10-03T09:34:12.099Z,39.4144,-119.8962,6.8,0.2,ml,6,123.67,0.105,0.1182,nn,nn00848480,2022-10-04T02:39:56.536Z,"10 km ENE of Floriston, California",earthquake,,3.6,0.48,3,reviewed,nn,nn
