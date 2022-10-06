@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-06T07:31:49.370Z,35.6806667,-117.4815,6.71,1.6,ml,19,109,0.1645,0.16,ci,ci40356488,2022-10-06T07:35:16.120Z,"12km SW of Searles Valley, CA",earthquake,0.32,1.13,0.198,23,automatic,ci,ci
+2022-10-06T07:30:05.570Z,33.1988333,-115.5401667,4.74,2,ml,30,94,0.06678,0.19,ci,ci40356480,2022-10-06T07:33:43.106Z,"5km SSW of Niland, CA",earthquake,0.33,0.86,0.199,28,automatic,ci,ci
+2022-10-06T07:28:10.470Z,33.202,-115.5403333,4.27,2.02,ml,28,112,0.06772,0.18,ci,ci40356472,2022-10-06T07:31:39.043Z,"5km SSW of Niland, CA",earthquake,0.35,0.98,0.186,27,automatic,ci,ci
 2022-10-06T06:54:54.280Z,33.651,-116.7561667,12.29,0.62,ml,22,60,0.05754,0.15,ci,ci40356464,2022-10-06T06:58:23.499Z,"10km SSW of Idyllwild, CA",earthquake,0.32,0.46,0.111,15,automatic,ci,ci
 2022-10-06T06:54:36.498Z,37.9155,-117.4184,6.9,2.7,ml,37,139.45,0.28,0.3366,nn,nn00848686,2022-10-06T06:59:15.997Z,"23 km SW of Tonopah, Nevada",earthquake,,0.5,0.82,24,automatic,nn,nn
 2022-10-06T06:48:08.660Z,33.2046667,-115.5453333,4.2,1.18,ml,14,135,0.06489,0.14,ci,ci40356456,2022-10-06T06:51:35.813Z,"5km SSW of Niland, CA",earthquake,0.36,1.26,0.232,20,automatic,ci,ci
@@ -251,9 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-05T07:47:05.010Z,38.8463326,-122.8150024,1.67,0.98,md,19,95,0.01634,0.02,nc,nc73789606,2022-10-05T07:48:40.454Z,"8km WNW of Cobb, CA",earthquake,0.24,0.58,0.1,4,automatic,nc,nc
 2022-10-05T07:44:24.220Z,38.8438333,-122.815,1.52,1.66,md,40,76,0.01683,0.04,nc,nc73789601,2022-10-05T16:49:12.516Z,"8km WNW of Cobb, CA",earthquake,0.14,0.22,0.035,9,reviewed,nc,nc
 2022-10-05T07:41:35.070Z,35.7118333,-117.5555,10.27,1.2,ml,16,143,0.1092,0.19,ci,ci40355872,2022-10-05T12:45:56.620Z,"15km NE of Ridgecrest, CA",earthquake,0.5,0.93,0.124,13,reviewed,ci,ci
-2022-10-05T07:33:34.501Z,38.3206,-118.7836,7.2,1.5,ml,24,78.09,0.138,0.124,nn,nn00848580,2022-10-05T16:31:47.077Z,"26 km SSW of Hawthorne, Nevada",earthquake,,1.5,0.2,13,reviewed,nn,nn
-2022-10-05T07:27:41.020Z,58.2545,-155.073666666667,4.36,-0.34,ml,5,115,,0.33,av,av91073708,2022-10-05T21:45:01.320Z,"84 km NNW of Karluk, Alaska",earthquake,0.88,1.58,0.236842968055217,5,reviewed,av,av
-2022-10-05T07:22:16.910Z,35.32233333,-97.8845,6.19,2.12,ml,95,26,0.07288569734,0.28,ok,ok2022tmqx,2022-10-06T00:12:41.369Z,"5 km E of Minco, Oklahoma",earthquake,,0.5,0.18,14,reviewed,ok,ok
-2022-10-05T07:21:23.560Z,38.786335,-122.7728348,1.47,0.55,md,15,94,0.01363,0.03,nc,nc73789596,2022-10-05T07:23:01.313Z,"2km NW of The Geysers, CA",earthquake,0.26,0.46,0.3,3,automatic,nc,nc
-2022-10-05T07:17:47.564Z,38.1407,-118.0037,5.7,0.5,ml,14,141.92,0.035,0.1528,nn,nn00848579,2022-10-05T20:02:45.360Z,"California-Nevada border region",earthquake,,1.6,0.43,5,reviewed,nn,nn
-2022-10-05T07:09:36.450Z,61.7146,-151.9302,107.7,1.3,ml,,,,0.16,ak,ak022crvmirx,2022-10-05T07:11:18.309Z,"41 km SW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
