@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-15T10:48:07.030Z,19.1458339691162,-155.488327026367,1.85000002384186,2.82,ml,39,159,,0.230000004,hv,hv73180097,2022-10-15T10:53:39.060Z,"6 km S of Pāhala, Hawaii",earthquake,0.5,0.769999981,3.47,29,automatic,hv,hv
+2022-10-15T10:33:12.290Z,17.9635,-67.0003333333333,9.21,2.05,md,5,195,,0.15,pr,pr71377198,2022-10-15T10:54:28.230Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.77,1.21,0.120989607083154,5,reviewed,pr,pr
 2022-10-15T10:32:23.220Z,19.1283340454102,-155.501327514648,33.1500015258789,2.0999999,md,35,168,,0.150000006,hv,hv73180092,2022-10-15T10:35:34.270Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.71,0.910000026,1.13999999,12,automatic,hv,hv
-2022-10-15T10:31:53.150Z,38.8263321,-122.8001633,2.96,0.35,md,7,88,0.008278,0.01,nc,nc73793841,2022-10-15T10:33:29.696Z,"7km NW of The Geysers, CA",earthquake,0.59,1.51,,1,automatic,nc,nc
+2022-10-15T10:31:53.150Z,38.8263321,-122.8001633,2.96,0.35,md,7,88,0.008278,0.01,nc,nc73793841,2022-10-15T10:56:15.844Z,"7km NW of The Geysers, CA",earthquake,0.59,1.51,,1,automatic,nc,nc
 2022-10-15T10:29:39.490Z,19.1359996795654,-155.488006591797,10.960000038147,2.04999995,md,35,162,,0.239999995,hv,hv73180087,2022-10-15T10:32:52.250Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.75,1.19000006,14,automatic,hv,hv
 2022-10-15T10:10:34.822Z,62.8133,-150.6055,85.8,2.1,ml,,,,0.24,ak,ak022d8gsi4a,2022-10-15T10:21:36.040Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-15T10:03:19.690Z,38.841835,-122.8771667,2.89,1.12,md,17,89,0.006092,0.02,nc,nc73793836,2022-10-15T10:36:11.271Z,"13km NW of The Geysers, CA",earthquake,0.32,0.54,0.1,4,automatic,nc,nc
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-15T08:01:52.620Z,38.8214989,-122.7628326,2.19,0.96,md,15,122,0.01053,0.02,nc,nc73793801,2022-10-15T08:38:15.957Z,"3km W of Cobb, CA",earthquake,0.33,0.55,0.2,3,automatic,nc,nc
 2022-10-15T07:59:32.060Z,37.3805,-122.477,12.57,0.99,md,19,205,0.08016,0.1,nc,nc73793806,2022-10-15T10:36:11.448Z,"10km SSW of Half Moon Bay, CA",earthquake,0.46,0.71,0.221,15,reviewed,nc,nc
 2022-10-15T07:44:11.550Z,35.7736667,-117.5793333,7.12,0.56,ml,9,163,0.04451,0.16,ci,ci40361408,2022-10-15T07:47:46.377Z,"16km W of Searles Valley, CA",earthquake,0.55,1.02,0.27,7,automatic,ci,ci
-2022-10-15T07:39:52.720Z,-2.212,-79.9247,67.742,4.7,mb,97,132,1.273,0.74,us,us6000itwi,2022-10-15T10:39:41.820Z,"near the coast of Ecuador",earthquake,7.92,7.065,0.06,83,reviewed,us,us
+2022-10-15T07:39:52.720Z,-2.212,-79.9247,67.742,4.7,mb,97,132,1.273,0.74,us,us6000itwi,2022-10-15T10:51:41.265Z,"near the coast of Ecuador",earthquake,7.92,7.065,0.06,83,reviewed,us,us
 2022-10-15T07:37:06.560Z,19.1464996337891,-155.513336181641,12.8100004196167,2.24000001,md,33,143,,0.239999995,hv,hv73179892,2022-10-15T07:40:19.610Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.69,0.479999989,0.319999993,13,automatic,hv,hv
 2022-10-15T07:33:58.761Z,36.5768,-116.2205,3.6,-0.4,ml,8,271.8,0.116,0.0417,nn,nn00849330,2022-10-15T07:36:05.441Z,"46 km NNW of Pahrump, Nevada",earthquake,,0,0,1,automatic,nn,nn
 2022-10-15T07:32:57.050Z,38.8364983,-122.8096695,2.16,0.85,md,15,53,0.01309,0.02,nc,nc73793796,2022-10-15T08:27:18.887Z,"8km WNW of Cobb, CA",earthquake,0.26,0.61,,1,automatic,nc,nc
@@ -295,5 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-14T11:15:08.930Z,60.4321666666667,-152.760333333333,10.81,-0.58,ml,6,180,,0.11,av,av91074683,2022-10-14T21:25:45.590Z,"73 km NW of Ninilchik, Alaska",earthquake,0.91,0.62,0.218754159470949,6,reviewed,av,av
 2022-10-14T11:05:04.635Z,36.593,-116.2262,7.5,0.5,ml,20,142.8,0.103,0.1483,nn,nn00849241,2022-10-14T11:07:24.240Z,"47 km NNW of Pahrump, Nevada",earthquake,,1,0.78,10,automatic,nn,nn
 2022-10-14T11:04:48.630Z,37.5443333,-118.8746667,4.7,0.54,md,6,198,0.05823,0.08,nc,nc73793366,2022-10-14T16:06:08.819Z,"14km SE of Mammoth Lakes, CA",earthquake,0.81,2.08,0.226,6,reviewed,nc,nc
-2022-10-14T10:57:14.820Z,38.753,-122.7186667,1.54,0.45,md,10,61,0.009853,0.01,nc,nc73793361,2022-10-14T23:53:23.876Z,"3km SW of Anderson Springs, CA",earthquake,0.41,0.68,0.482,3,reviewed,nc,nc
-2022-10-14T10:49:35.759Z,38.5234,-119.5124,3.8,1.4,ml,19,170.27,0.061,0.2096,nn,nn00849237,2022-10-14T10:52:35.273Z,"3 km WNW of Walker, California",earthquake,,0.5,0.15,14,automatic,nn,nn
