@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-19T21:24:22.549Z,31.5996,-104.2801,10.449,2.7,ml,34,63,0.2,0.41,us,us6000iuyk,2022-10-19T21:33:35.040Z,"56 km NW of Toyah, Texas",earthquake,1.44,8.304,0.06,58,reviewed,us,us
+2022-10-19T21:50:04.188Z,61.3171,-150.4179,35.1,2.5,ml,,,,0.4,ak,ak022df9q60n,2022-10-19T21:51:41.115Z,"24 km WSW of Point MacKenzie, Alaska",earthquake,,5.2,,,automatic,ak,ak
+2022-10-19T21:24:22.660Z,31.60955928,-104.2722054,7.288427734,2.9,ml,14,79,0.06245764559,0.1,tx,tx2022unhu,2022-10-19T21:43:26.556Z,"56 km NW of Toyah, Texas",earthquake,1.233605564,1.8559254030000003,0.2,11,reviewed,tx,tx
 2022-10-19T21:20:38.561Z,63.9906,-150.4732,16.4,1.8,ml,,,,0.67,ak,ak022df9jt74,2022-10-19T21:22:27.208Z,"66 km W of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-10-19T21:18:37.910Z,38.8294983,-122.8141632,1.91,1.12,md,24,47,0.006881,0.02,nc,nc73795891,2022-10-19T21:30:11.668Z,"8km NW of The Geysers, CA",earthquake,0.18,0.34,0.14,5,automatic,nc,nc
+2022-10-19T21:18:37.910Z,38.8294983,-122.8141632,1.91,1.12,md,24,47,0.006881,0.02,nc,nc73795891,2022-10-19T21:51:10.799Z,"8km NW of The Geysers, CA",earthquake,0.18,0.34,0.14,5,automatic,nc,nc
 2022-10-19T21:15:38.980Z,38.8219986,-122.8143311,3.05,0.85,md,8,78,0.01621,0.02,nc,nc73795886,2022-10-19T21:17:11.155Z,"7km NW of The Geysers, CA",earthquake,0.42,1.64,,1,automatic,nc,nc
 2022-10-19T21:14:51.915Z,61.3948,-149.795,32.2,1.7,ml,,,,0.18,ak,ak022df9ijxj,2022-10-19T21:16:13.446Z,"7 km SSW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-19T21:08:36.362Z,63.9795,-150.4688,12.5,1.5,ml,,,,0.47,ak,ak022df9h8fo,2022-10-19T21:10:56.804Z,"66 km W of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -229,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-18T22:12:45.760Z,35.7345,-120.0106667,17.49,1.71,md,19,195,0.04835,0.12,nc,nc73795406,2022-10-19T03:57:17.653Z,"26km E of Cholame, CA",earthquake,1.12,0.84,0.211,15,reviewed,nc,nc
 2022-10-18T22:06:10.940Z,37.5561667,-112.2931667,4.86,1.13,md,8,116,0.113,0.18,uu,uu60521052,2022-10-19T15:27:11.400Z,"Utah",earthquake,1.12,4.94,0.208,6,reviewed,uu,uu
 2022-10-18T22:04:36.150Z,19.2150001525879,-155.390167236328,31.3199996948242,2.24,ml,39,156,,0.140000001,hv,hv73185032,2022-10-18T22:10:06.460Z,"9 km E of Pāhala, Hawaii",earthquake,0.64,0.930000007,0.65,4,automatic,hv,hv
-2022-10-18T21:52:27.690Z,34.3398333,-116.868,2.16,1.92,ml,61,42,0.03452,0.14,ci,ci40363240,2022-10-19T14:41:47.570Z,"9km NNW of Big Bear City, CA",earthquake,0.1,0.18,0.114,65,reviewed,ci,ci
-2022-10-18T21:49:42.290Z,41.7315,-112.227,9.37,1.92,ml,28,56,0.1404,0.17,uu,uu60521047,2022-10-18T22:41:53.560Z,"5 km W of Garland, Utah",earthquake,0.32,0.76,0.127,5,reviewed,uu,uu
-2022-10-18T21:41:15.029Z,35.9405,-97.89,6.42,2.59,ml,100,33,0,0.17,ok,ok2022ulmv,2022-10-19T14:11:58.883Z,"4 km SSE of Dover, Oklahoma",earthquake,,0.3,0.24,41,reviewed,ok,ok
