@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-21T08:28:02.030Z,35.8218346,-121.4603348,0.18,2.37,md,44,189,0.2701,0.29,nc,nc73797231,2022-10-21T08:34:10.731Z,"24km SSE of Lopez Point, CA",earthquake,0.81,7.58,0.16,33,automatic,nc,nc
-2022-10-21T08:26:31.420Z,38.822834,-122.8089981,1.29,0.84,md,11,91,0.00101,0.01,nc,nc73797226,2022-10-21T08:28:07.567Z,"7km NW of The Geysers, CA",earthquake,0.31,0.65,,1,automatic,nc,nc
+2022-10-21T08:53:10.210Z,33.5135,-116.5026667,13.12,0.87,ml,33,52,0.04986,0.2,ci,ci40364144,2022-10-21T08:56:50.297Z,"16km ESE of Anza, CA",earthquake,0.27,0.47,0.162,24,automatic,ci,ci
+2022-10-21T08:28:02.030Z,35.8218346,-121.4603348,0.18,2.37,md,44,189,0.2701,0.29,nc,nc73797231,2022-10-21T08:49:10.817Z,"24km SSE of Lopez Point, CA",earthquake,0.81,7.58,0.16,33,automatic,nc,nc
+2022-10-21T08:26:31.420Z,38.822834,-122.8089981,1.29,0.84,md,11,91,0.00101,0.01,nc,nc73797226,2022-10-21T08:43:12.781Z,"7km NW of The Geysers, CA",earthquake,0.31,0.65,,1,automatic,nc,nc
 2022-10-21T08:19:24.571Z,7.6926,-82.3682,10,4.6,mb,28,152,1.139,0.73,us,us6000ivgg,2022-10-21T08:36:14.040Z,"60 km SSW of Boca Chica, Panama",earthquake,7.2,1.944,0.207,7,reviewed,us,us
 2022-10-21T07:39:54.029Z,-21.5495,-176.0501,207.251,4.6,mb,20,137,0.875,0.46,us,us6000ivgd,2022-10-21T08:00:40.040Z,"97 km WSW of Haveluloto, Tonga",earthquake,14.17,8.985,0.151,13,reviewed,us,us
 2022-10-21T07:37:54.670Z,35.5648346,-120.7976685,6.13,1.83,md,26,63,0.09218,0.08,nc,nc73797221,2022-10-21T08:10:10.608Z,"8km WNW of Templeton, CA",earthquake,0.23,0.99,0.13,17,automatic,nc,nc
@@ -28,17 +29,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-21T05:28:17.380Z,33.4918333,-116.5008333,10.8,0.6,ml,19,72,0.07017,0.15,ci,ci40364088,2022-10-21T05:31:50.164Z,"18km ESE of Anza, CA",earthquake,0.29,0.65,0.135,14,automatic,ci,ci
 2022-10-21T05:23:08.670Z,17.9545,-67.0198333333333,10.27,2.44,md,7,221,0.02756,0.06,pr,pr71378743,2022-10-21T05:36:40.960Z,"Puerto Rico region",earthquake,0.42,0.57,0.079544614871951,5,reviewed,pr,pr
 2022-10-21T05:15:45.520Z,33.4895,-116.497,9.58,0.75,ml,25,59,0.0685,0.18,ci,ci40364080,2022-10-21T05:19:23.868Z,"18km ESE of Anza, CA",earthquake,0.28,0.61,0.135,26,automatic,ci,ci
-2022-10-21T05:06:21.750Z,38.8058319,-122.7798309,2.52,1.21,md,7,91,0.01228,0.01,nc,nc73797201,2022-10-21T05:47:15.840Z,"4km NNW of The Geysers, CA",earthquake,0.61,1.54,0.37,2,automatic,nc,nc
+2022-10-21T05:06:21.750Z,38.8058319,-122.7798309,2.52,1.21,md,7,91,0.01228,0.01,nc,nc73797201,2022-10-21T08:43:12.918Z,"4km NNW of The Geysers, CA",earthquake,0.61,1.54,0.37,2,automatic,nc,nc
 2022-10-21T05:04:12.630Z,38.8058319,-122.7798309,2.13,0.35,md,8,91,0.007446,0.01,nc,nc73797196,2022-10-21T05:34:15.752Z,"4km NNW of The Geysers, CA",earthquake,0.48,1.16,,1,automatic,nc,nc
 2022-10-21T05:01:16.510Z,36.8791656,-121.2348328,3.46,1.32,md,8,204,0.1701,0.27,nc,nc73797191,2022-10-21T08:16:14.637Z,"12km NE of Tres Pinos, CA",earthquake,1.75,7.79,0.24,5,automatic,nc,nc
 2022-10-21T04:25:04.030Z,32.9923333,-116.387,8.45,1.29,ml,41,59,0.07973,0.2,ci,ci40364072,2022-10-21T04:36:01.630Z,"22km ESE of Julian, CA",earthquake,0.25,0.88,0.161,24,automatic,ci,ci
 2022-10-21T04:20:05.190Z,40.534832,-123.5486679,-0.9,1.67,md,5,209,0.2123,0.02,nc,nc73797176,2022-10-21T06:56:13.171Z,"31km W of Hayfork, CA",earthquake,0.79,1.57,0.03,4,automatic,nc,nc
 2022-10-21T04:19:00.040Z,35.506,-118.3991667,6.8,1,ml,16,77,0.1679,0.11,ci,ci40364064,2022-10-21T04:22:31.787Z,"12km SE of Bodfish, CA",earthquake,0.25,0.8,0.117,12,automatic,ci,ci
 2022-10-21T04:16:54.680Z,18.0295,-67.0708333333333,16.35,2.47,md,18,83,0.005954,0.1,pr,pr71378733,2022-10-21T05:34:35.470Z,"1 km SSE of Palmarejo, Puerto Rico",earthquake,0.3,0.35,0.176014258043721,6,reviewed,pr,pr
-2022-10-21T04:13:52.862Z,36.7937,-115.8244,6.9,0.3,ml,18,266.17,0.095,0.1782,nn,nn00849721,2022-10-21T04:16:16.364Z,"Nevada",earthquake,,0.7,0.25,8,automatic,nn,nn
+2022-10-21T04:13:52.862Z,36.7937,-115.8244,6.9,0.3,ml,18,266.17,0.095,0.1782,nn,nn00849721,2022-10-21T04:16:16.364Z,"28 km NNW of Indian Springs, Nevada",earthquake,,0.7,0.25,8,automatic,nn,nn
 2022-10-21T04:09:48.632Z,61.3583,-149.8632,34,1.3,ml,,,,0.25,ak,ak022diafssv,2022-10-21T04:11:50.016Z,"6 km E of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-21T04:06:24.260Z,19.1353340148926,-155.47917175293,11.25,2.68,ml,41,165,,0.189999998,hv,hv73188727,2022-10-21T04:21:32.040Z,"7 km S of Pāhala, Hawaii",earthquake,0.52,0.469999999,3.94,13,automatic,hv,hv
-2022-10-21T04:02:05.010Z,19.1771659851074,-155.390838623047,29.9599990844727,2.30999994,md,16,232,,0.159999996,hv,hv73188712,2022-10-21T04:05:19.890Z,"Hawaii region, Hawaii",earthquake,1.11,1.26999998,0.980000019,3,automatic,hv,hv
+2022-10-21T04:02:05.010Z,19.1771659851074,-155.390838623047,29.9599990844727,2.30999994,md,16,232,,0.159999996,hv,hv73188712,2022-10-21T04:05:19.890Z,"9 km ESE of Pāhala, Hawaii",earthquake,1.11,1.26999998,0.980000019,3,automatic,hv,hv
 2022-10-21T03:56:35.136Z,-19.0123,-172.7939,10,4.9,mb,31,124,1.198,0.95,us,us6000ivf4,2022-10-21T04:17:02.040Z,"131 km ESE of Neiafu, Tonga",earthquake,5.16,1.894,0.056,102,reviewed,us,us
 2022-10-21T03:49:59.462Z,38.2052,-117.7362,5.5,2.2,ml,36,137.09,0.188,0.2686,nn,nn00849716,2022-10-21T03:53:21.698Z,"Nevada",earthquake,,0.6,0.32,19,automatic,nn,nn
 2022-10-21T03:35:50.245Z,-10.4441,161.3933,65.909,4.6,mb,28,78,1.74,0.93,us,us6000ivf1,2022-10-21T03:55:13.040Z,"57 km W of Kirakira, Solomon Islands",earthquake,10,7.384,0.112,24,reviewed,us,us
@@ -84,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-20T23:43:05.560Z,38.8235016,-122.8539963,2.49,0.86,md,9,132,0.004621,0.02,nc,nc73797111,2022-10-21T00:00:14.531Z,"10km WNW of The Geysers, CA",earthquake,0.36,0.91,,1,automatic,nc,nc
 2022-10-20T23:28:22.230Z,39.5113335,-121.7231674,33.64,1.9,md,4,160,0.1657,0,nc,nc73797106,2022-10-21T02:16:14.426Z,"11km N of Biggs, CA",earthquake,2.35,4.66,0.23,3,automatic,nc,nc
 2022-10-20T23:22:45.480Z,18.0118333333333,-66.7458333333333,13.81,2.24,md,12,178,0.048,0.08,pr,pr71378698,2022-10-20T23:41:52.830Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.65,0.36,0.25559050731331,8,reviewed,pr,pr
-2022-10-20T23:12:59.500Z,45.3085,-121.65833333333333,7.85,0.4,ml,8,174,0.01472,0.13,uw,uw61888996,2022-10-21T04:06:26.720Z,"Washington-Oregon border region",earthquake,0.52,0.57,0.11208815547905948,4,reviewed,uw,uw
+2022-10-20T23:12:59.500Z,45.3085,-121.65833333333333,7.85,0.4,ml,8,174,0.01472,0.13,uw,uw61888996,2022-10-21T04:06:26.720Z,"7 km NE of Wapanitia, Oregon",earthquake,0.52,0.57,0.11208815547905948,4,reviewed,uw,uw
 2022-10-20T23:09:25.945Z,64.9366,-147.2895,0,1.6,ml,,,,1.17,ak,ak022dgy7n1u,2022-10-20T23:11:59.840Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-20T23:06:44.722Z,62.6287,-151.2905,5.4,1.9,ml,,,,0.62,ak,ak022dgy71ch,2022-10-20T23:18:01.548Z,"30 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-20T22:59:35.350Z,45.31,-121.65716666666667,7.76,0.26,ml,7,173,0.01303,0.13,uw,uw61888986,2022-10-21T04:12:44.080Z,"7 km E of Government Camp, Oregon",earthquake,0.67,0.52,0.01820994332967235,3,reviewed,uw,uw
@@ -297,5 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-20T09:28:16.269Z,60.0533,-152.8197,116.1,1.8,ml,,,,0.34,ak,ak022dgpzmfu,2022-10-20T09:30:28.464Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-20T09:10:37.985Z,-31.7876,57.7918,10,4.9,mb,30,162,10.88,0.73,us,us6000iv5v,2022-10-20T10:15:11.040Z,"Southwest Indian Ridge",earthquake,7.52,1.913,0.14,16,reviewed,us,us
 2022-10-20T09:10:13.040Z,38.0638333,-118.8616667,9.92,2.43,md,31,75,0.173,0.09,nc,nc73796801,2022-10-20T23:34:15.393Z,"21km SE of Bodie, CA",earthquake,0.24,0.89,0.286,42,reviewed,nc,nc
-2022-10-20T08:49:45.550Z,44.7991667,-110.81,6.81,0.11,md,9,209,0.03081,0.09,uu,uu60521247,2022-10-20T15:52:18.950Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.66,1.01,0.144,5,reviewed,uu,uu
-2022-10-20T08:42:35.210Z,18.2776666666667,-67.062,18.15,2.47,md,9,150,0.2409,0.1,pr,pr71378558,2022-10-20T09:23:09.250Z,"6 km E of Espino, Puerto Rico",earthquake,0.37,0.68,0.0365146352070722,7,reviewed,pr,pr
