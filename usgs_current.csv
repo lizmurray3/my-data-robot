@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-21T12:08:30.800Z,38.828167,-122.8150024,2.23,0.82,md,21,43,0.006126,0.02,nc,nc73797291,2022-10-21T14:30:16.030Z,"8km NW of The Geysers, CA",earthquake,0.22,0.44,0.28,3,automatic,nc,nc
 2022-10-21T12:02:50.750Z,44.793,-110.812,5.87,0.48,ml,9,206,0.02781,0.09,uu,uu60521442,2022-10-21T16:07:56.080Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.74,0.99,0.388,2,reviewed,uu,uu
 2022-10-21T11:59:03.150Z,32.5541667,-115.2808333,18.69,1.64,ml,18,82,0.1584,0.22,ci,ci40364200,2022-10-21T22:14:05.105Z,"7km E of Puebla, B.C., MX",earthquake,0.61,1.08,0.248,11,reviewed,ci,ci
-2022-10-21T11:58:41.820Z,32.5378333,-115.278,20.27,1.88,ml,18,142,0.169,0.19,ci,ci40364192,2022-10-21T22:08:28.054Z,"8km ESE of Puebla, B.C., MX",earthquake,0.52,0.67,0.308,17,reviewed,ci,ci
