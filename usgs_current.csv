@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-26T19:46:31.760Z,37.5304985,-121.8288345,3.09,1.23,md,9,100,0.03136,0.05,nc,nc73799561,2022-10-26T19:48:07.045Z,"10km SE of Sunol, CA",earthquake,0.37,0.76,0.08,7,automatic,nc,nc
 2022-10-26T19:36:21.242Z,63.0183,-149.7074,78.9,1.9,ml,,,,0.39,ak,ak022dqt7rkc,2022-10-26T19:38:10.448Z,"56 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-26T19:30:37.920Z,33.8583333,-117.5066667,2.58,1.26,ml,30,53,0.06556,0.26,ci,ci40366432,2022-10-26T19:34:16.121Z,"3km SSE of Home Gardens, CA",quarry blast,0.41,0.69,0.239,34,automatic,ci,ci
 2022-10-26T19:07:34.681Z,64.983,-147.4774,0,1.4,ml,,,,0.85,ak,ak022dqt1ku8,2022-10-26T19:10:01.841Z,"7 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-26T18:04:59.840Z,38.8251648,-122.8040009,2.47,0.84,md,13,66,0.005062,0.01,nc,nc73799501,2022-10-26T18:38:25.057Z,"7km NW of The Geysers, CA",earthquake,0.39,1.03,,1,automatic,nc,nc
 2022-10-26T17:46:09.380Z,44.7976667,-110.8073333,7.99,1.29,ml,16,113,0.03212,0.18,uu,uu60522022,2022-10-26T18:48:22.210Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.78,0.57,0.206,4,reviewed,uu,uu
 2022-10-26T17:40:10.460Z,19.2106666564941,-155.434829711914,33.1800003051758,1.75,md,31,136,,0.119999997,hv,hv73196487,2022-10-26T18:22:23.868Z,"4 km E of Pāhala, Hawaii",earthquake,0.66,1,0.870000005,3,automatic,hv,hv
-2022-10-26T17:06:26.510Z,34.0433333,-117.5541667,10.17,1.34,ml,35,49,0.04672,0.19,ci,ci40366344,2022-10-26T17:09:59.132Z,"7km NNW of Mira Loma, CA",earthquake,0.33,0.68,0.195,30,automatic,ci,ci
+2022-10-26T17:06:26.380Z,34.0455,-117.5491667,11.99,1.31,ml,33,63,0.0776,0.12,ci,ci40366344,2022-10-26T19:49:01.590Z,"7km NNW of Mira Loma, CA",earthquake,0.2,0.43,0.144,21,reviewed,ci,ci
 2022-10-26T17:01:00.010Z,33.6823333,-116.6996667,15.09,0.79,ml,21,114,0.02539,0.08,ci,ci40366336,2022-10-26T19:39:37.193Z,"7km SSE of Idyllwild, CA",earthquake,0.22,0.3,0.197,14,reviewed,ci,ci
 2022-10-26T16:49:25.510Z,38.8338318,-122.7971649,1.99,1.01,md,12,74,0.007019,0.01,nc,nc73799481,2022-10-26T17:40:13.685Z,"6km WNW of Cobb, CA",earthquake,0.33,0.55,0.14,2,automatic,nc,nc
 2022-10-26T16:47:28.158Z,62.1199,-149.6744,51.5,2,ml,,,,0.6,ak,ak022dqrhu5r,2022-10-26T16:49:40.980Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -237,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-25T19:53:55.850Z,34.0171667,-116.6503333,10.55,1.15,ml,49,31,0.02139,0.14,ci,ci40365736,2022-10-25T20:18:09.040Z,"7km WSW of Morongo Valley, CA",earthquake,0.13,0.3,0.137,25,reviewed,ci,ci
 2022-10-25T19:53:15.876Z,59.8469,-152.2071,57.1,1.7,ml,,,,0.67,ak,ak022dp5s1tv,2022-10-25T19:54:42.589Z,"22 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-25T19:51:48.680Z,37.3095,-121.6765,6.19,1.13,md,26,39,0.04196,0.08,nc,nc73799141,2022-10-26T06:46:12.947Z,"15km E of Seven Trees, CA",earthquake,0.21,0.43,0.166,24,reviewed,nc,nc
-2022-10-25T19:49:26.550Z,38.8214989,-122.8443298,2.07,1.11,md,14,105,0.007442,0.02,nc,nc73799136,2022-10-25T22:53:13.128Z,"9km WNW of The Geysers, CA",earthquake,0.31,0.48,0.48,3,automatic,nc,nc
-2022-10-25T19:45:04.913Z,62.5642,-148.9774,44.1,1.8,ml,,,,0.47,ak,ak022dp5qb97,2022-10-25T19:46:44.129Z,"59 km ENE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-10-25T19:41:54.160Z,37.3051667,-121.6733333,6.52,1.52,md,35,40,0.0439,0.06,nc,nc73799131,2022-10-26T19:01:39.396Z,"15km E of Seven Trees, CA",earthquake,0.14,0.33,0.234,37,reviewed,nc,nc
