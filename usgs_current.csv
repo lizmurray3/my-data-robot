@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-27T08:34:25.643Z,57.7314,-153.9068,54.1,2.4,ml,,,,0.23,ak,ak022dsa6xb8,2022-10-27T08:36:07.495Z,"21 km NNE of Larsen Bay, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2022-10-27T08:46:33.090Z,33.9636667,-116.741,16.25,1.15,ml,33,68,0.09034,0.16,ci,ci40366608,2022-10-27T08:50:03.697Z,"7km NE of Cabazon, CA",earthquake,0.22,0.59,0.211,26,automatic,ci,ci
+2022-10-27T08:34:26.232Z,57.8005,-153.8483,45.2,3.2,ml,,,,0.51,ak,ak022dsa6xb8,2022-10-27T08:53:38.040Z,"30 km NNE of Larsen Bay, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-10-27T08:10:43.150Z,33.2176667,-116.7425,11.86,0.97,ml,39,23,0.02279,0.19,ci,ci40366600,2022-10-27T08:21:33.150Z,"3km SE of Lake Henshaw, CA",earthquake,0.24,0.52,0.136,26,automatic,ci,ci
 2022-10-27T08:10:26.652Z,60.2676,-151.3098,60.9,2,ml,,,,0.45,ak,ak022dsa1s7d,2022-10-27T08:12:25.631Z,"6 km NE of Clam Gulch, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-10-27T08:05:40.560Z,38.8198318,-122.7850037,1.85,0.84,md,10,104,0.00738,0.02,nc,nc73799696,2022-10-27T08:23:16.446Z,"5km NNW of The Geysers, CA",earthquake,0.4,1.05,,1,automatic,nc,nc
