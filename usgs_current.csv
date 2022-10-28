@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-28T11:33:12.330Z,36.9481659,-121.3223343,8.03,1.11,md,9,98,0.06609,0.06,nc,nc73800256,2022-10-28T11:34:45.615Z,"13km NNE of Hollister, CA",earthquake,0.51,1.4,0.11,6,automatic,nc,nc
+2022-10-28T11:33:12.330Z,36.9481659,-121.3223343,8.03,1.11,md,9,98,0.06609,0.06,nc,nc73800256,2022-10-28T11:50:12.639Z,"13km NNE of Hollister, CA",earthquake,0.51,1.4,0.11,6,automatic,nc,nc
 2022-10-28T11:27:45.330Z,34.0583333,-117.2763333,14.88,1.23,ml,45,60,0.09462,0.2,ci,ci40126095,2022-10-28T11:38:29.560Z,"2km NW of Loma Linda, CA",earthquake,0.25,0.56,0.145,31,automatic,ci,ci
+2022-10-28T11:26:42.228Z,55.5005,158.3825,322.293,4.3,mb,55,71,2.487,0.4,us,us7000ikwt,2022-10-28T11:46:40.040Z,"51 km SSW of Esso, Russia",earthquake,11.02,9.457,0.047,127,reviewed,us,us
 2022-10-28T11:15:14.515Z,64.886,-148.7059,1.1,1.7,ml,,,,0.73,ak,ak022dtzeh5n,2022-10-28T11:17:53.891Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-28T11:13:31.150Z,36.9376678,-121.3399963,1.11,1.44,md,15,84,0.08203,0.07,nc,nc73800251,2022-10-28T11:39:12.568Z,"11km NNE of Hollister, CA",earthquake,0.23,3.02,0.2,9,automatic,nc,nc
 2022-10-28T10:56:47.353Z,-14.5375,-76.3637,20.445,4.5,mb,39,157,2.577,0.51,us,us7000ikwq,2022-10-28T11:22:41.040Z,"74 km S of Paracas, Peru",earthquake,9.6,6.436,0.118,21,reviewed,us,us
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T12:16:02.539Z,31.67301549,-104.4180364,7.802587891,1.9,ml,14,59,0.07067015548,0.2,tx,tx2022vbfs,2022-10-28T00:37:29.290Z,"western Texas",earthquake,1.211718867,1.409968057,0.1,7,reviewed,tx,tx
 2022-10-27T12:04:36.920Z,58.1668333333333,-155.348666666667,-1.67,0.21,ml,7,185,,0.12,av,av91703921,2022-10-28T00:14:29.080Z,"85 km NW of Karluk, Alaska",earthquake,0.35,3.38,0.238210548071662,7,reviewed,av,av
 2022-10-27T12:01:01.620Z,35.6548333,-117.4845,2.06,2.62,ml,31,88,0.1446,0.13,ci,ci40366648,2022-10-28T04:45:20.958Z,"14km SSW of Searles Valley, CA",earthquake,0.19,0.38,0.182,78,reviewed,ci,ci
-2022-10-27T11:42:43.750Z,46.19533333333333,-122.18183333333333,0.38,0.5700000000000001,ml,7,161,0.005494,0.08,uw,uw61890261,2022-10-27T15:49:30.160Z,"37 km NNE of Amboy, Washington",earthquake,0.78,1.09,0.4344048207737988,5,reviewed,uw,uw
