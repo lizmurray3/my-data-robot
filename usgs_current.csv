@@ -228,7 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T07:51:53.785Z,59.6412,-152.2491,69.9,2.2,ml,,,,0.43,ak,ak022ds9p6r2,2022-10-27T17:00:27.935Z,"27 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-10-27T07:48:51.270Z,40.4141655,-124.3970032,20.3,1.83,md,5,312,0.1261,0.06,nc,nc73799691,2022-10-27T09:47:11.095Z,"14km NW of Petrolia, CA",earthquake,2.82,0.76,0.11,4,automatic,nc,nc
 2022-10-27T07:44:35.090Z,61.4183333333333,-152.3225,2.22,0.88,ml,8,175,,0.18,av,av91703816,2022-10-27T23:34:47.680Z,"73 km WNW of Beluga, Alaska",earthquake,0.47,0.76,0.166363059500884,8,reviewed,av,av
-2022-10-27T07:33:43.950Z,33.546,-116.5796667,12.45,0.31,ml,19,91,0.02837,0.12,ci,ci40366592,2022-10-27T15:56:44.436Z,"9km E of Anza, CA",earthquake,0.26,0.4,0.146,4,reviewed,ci,ci
-2022-10-27T07:30:46.010Z,33.371,-116.4036667,11.46,0.93,ml,52,51,0.0537,0.2,ci,ci40366584,2022-10-27T14:36:25.800Z,"13km NNW of Borrego Springs, CA",earthquake,0.2,0.33,0.142,25,reviewed,ci,ci
-2022-10-27T07:30:23.110Z,38.9755,-111.2928333,-3.45,1.83,ml,13,87,0.05598,0.14,uu,uu60522082,2022-10-27T15:52:40.490Z,"6 km NNW of Emery, Utah",earthquake,0.36,0.71,0.269,4,reviewed,uu,uu
-2022-10-27T07:25:18.758Z,37.0168,-116.1246,2,0.8,ml,23,74.95,0.046,0.1199,nn,nn00850135,2022-10-27T18:07:51.599Z,"Nevada",earthquake,,3.8,0.22,15,reviewed,nn,nn
