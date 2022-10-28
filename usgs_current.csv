@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-28T21:35:34.667Z,61.2966,-152.5257,6.5,2,ml,,,,0.24,ak,ak022du5h52y,2022-10-28T21:37:07.220Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-28T21:14:29.001Z,59.718,-152.6659,229.2,2.5,ml,,,,0.79,ak,ak022du5cmlw,2022-10-28T21:17:16.073Z,"Southern Alaska",earthquake,,20.6,,,automatic,ak,ak
+2022-10-28T21:08:55.067Z,32.4525,-101.6924,5,3.2,mb_lg,30,62,0.482,0.76,us,us7000il1v,2022-10-28T21:34:31.040Z,"western Texas",earthquake,2.66,2.006,0.056,84,reviewed,us,us
 2022-10-28T21:04:10.446Z,59.996,-152.4565,44.9,2.2,ml,,,,0.59,ak,ak022du5ag0q,2022-10-28T21:08:05.696Z,"40 km W of Happy Valley, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2022-10-28T20:59:53.351Z,39.7045,-118.5794,12.8,1.1,ml,8,239.63,0.62,0.1235,nn,nn00850217,2022-10-28T21:04:03.673Z,"30 km NNE of Fallon, Nevada",earthquake,,1.1,0.4,4,automatic,nn,nn
 2022-10-28T20:50:53.596Z,38.1622,-117.8916,4.3,0.9,ml,10,168.34,0.058,0.0967,nn,nn00850216,2022-10-28T20:54:33.027Z,"31 km SE of Mina, Nevada",earthquake,,1.6,0.28,6,automatic,nn,nn
@@ -13,10 +15,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T19:59:19.700Z,33.8623333,-117.5066667,2.44,1.43,ml,33,55,0.06811,0.21,ci,ci40126463,2022-10-28T20:02:59.756Z,"2km SE of Home Gardens, CA",quarry blast,0.3,0.5,0.236,32,automatic,ci,ci
 2022-10-28T19:57:05.631Z,62.6096,-150.4489,65.1,2,ml,,,,0.72,ak,ak022du4exdv,2022-10-28T19:59:24.456Z,"20 km NE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-28T19:50:45.227Z,61.3392,-141.1404,11.1,1.6,ml,,,,0.13,ak,ak022du4dife,2022-10-28T19:52:34.177Z,"95 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-10-28T19:50:05.470Z,33.1543333,-116.5811667,7.49,1.02,ml,33,82,0.07121,0.23,ci,ci40126447,2022-10-28T19:53:39.003Z,"9km NNE of Julian, CA",earthquake,0.41,0.86,0.188,26,automatic,ci,ci
+2022-10-28T19:50:05.400Z,33.1578333,-116.593,8.33,0.96,ml,35,78,0.06139,0.17,ci,ci40126447,2022-10-28T21:44:09.758Z,"9km N of Julian, CA",earthquake,0.26,0.46,0.125,23,reviewed,ci,ci
 2022-10-28T19:47:40.247Z,57.9466,-157.0667,8.6,1.6,ml,,,,0.72,ak,ak022du4cusq,2022-10-28T19:50:21.001Z,"35 km SSE of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-28T19:37:43.790Z,34.7635,-118.9453333,14.62,1.69,ml,16,73,0.02295,0.23,ci,ci40126439,2022-10-28T21:08:45.493Z,"7km S of Frazier Park, CA",earthquake,0.62,0.92,0.199,2,reviewed,ci,ci
-2022-10-28T19:37:25.300Z,34.7916667,-118.9433333,11.38,2.36,ml,45,33,0.027,0.29,ci,ci40126431,2022-10-28T19:48:12.950Z,"4km S of Frazier Park, CA",earthquake,0.42,0.84,0.19,25,automatic,ci,ci
+2022-10-28T19:37:43.760Z,34.7738333,-118.9518333,14.76,1.88,ml,18,96,0.01448,0.13,ci,ci40126439,2022-10-28T21:39:52.739Z,"6km S of Frazier Park, CA",earthquake,0.32,0.49,0.117,9,reviewed,ci,ci
+2022-10-28T19:37:25.120Z,34.7885,-118.9491667,12.97,2.37,ml,60,25,0.02127,0.25,ci,ci40126431,2022-10-28T21:36:47.660Z,"4km S of Frazier Park, CA",earthquake,0.26,0.45,0.188,24,reviewed,ci,ci
 2022-10-28T19:33:29.930Z,36.0876667,-117.9356667,4.61,1.53,ml,28,74,0.07193,0.11,ci,ci40126423,2022-10-28T21:28:36.190Z,"5km NNE of Coso Junction, CA",earthquake,0.15,0.6,0.292,20,reviewed,ci,ci
 2022-10-28T19:22:10.425Z,61.343,-141.1099,7,2.1,ml,,,,0.34,ak,ak022du47foy,2022-10-28T19:23:44.671Z,"97 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-28T19:16:14.497Z,-14.7653,-76.5539,10,4.5,mb,31,162,2.775,0.95,us,us7000il11,2022-10-28T21:21:58.040Z,"104 km SSW of Paracas, Peru",earthquake,9.91,1.958,0.128,23,reviewed,us,us
@@ -181,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T01:19:10.710Z,37.6450005,-118.8963318,4.1,1.22,md,14,99,0.01238,0.03,nc,nc73800016,2022-10-28T03:57:10.705Z,"7km E of Mammoth Lakes, CA",earthquake,0.4,0.59,0.12,15,automatic,nc,nc
 2022-10-28T01:19:01.010Z,37.6438332,-118.8961639,3.93,0.81,md,8,97,0.0007728,0.01,nc,nc73800011,2022-10-28T01:40:12.840Z,"7km E of Mammoth Lakes, CA",earthquake,1.01,2.12,0.15,7,automatic,nc,nc
 2022-10-28T01:05:54.360Z,19.1620006561279,-155.488006591797,31.6800003051758,1.82000005,md,26,119,,0.150000006,hv,hv73197687,2022-10-28T01:09:06.400Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.9,1.10000002,1.57000005,6,automatic,hv,hv
+2022-10-28T01:01:05.820Z,58.1655,-155.371666666667,2.47,0.66,ml,12,74,,0.09,av,av91704256,2022-10-28T21:37:26.240Z,"85 km NW of Karluk, Alaska",earthquake,0.18,0.3,0.275074421768658,12,reviewed,av,av
 2022-10-28T00:50:57.718Z,38.2057,-117.7932,2,1.3,ml,12,142.49,0.145,0.0918,nn,nn00850187,2022-10-28T00:53:57.835Z,"34 km SE of Mina, Nevada",earthquake,,2.1,0.15,7,automatic,nn,nn
 2022-10-28T00:47:36.946Z,64.948,-147.4869,0,1.3,ml,,,,0.74,ak,ak022dtt1m5b,2022-10-28T00:49:46.524Z,"6 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-28T00:44:02.870Z,19.117000579834,-155.411163330078,32.0800018310547,1.94000006,md,41,184,,0.119999997,hv,hv73197672,2022-10-28T00:47:12.570Z,"11 km SE of Pāhala, Hawaii",earthquake,0.75,1.33000004,0.819999993,12,automatic,hv,hv
@@ -210,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T22:06:17.030Z,35.6491667,-117.4476667,7.98,1.2,ml,22,119,0.06364,0.12,ci,ci40125807,2022-10-27T23:14:14.780Z,"14km SSW of Searles Valley, CA",earthquake,0.2,0.57,0.199,14,reviewed,ci,ci
 2022-10-27T22:03:24.039Z,60.0006,-152.4959,94,1.7,ml,,,,0.34,ak,ak022dsiccgj,2022-10-27T22:06:30.116Z,"43 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-27T21:56:42.900Z,60.234,-152.8205,12.6,0.69,ml,9,192,,0.12,av,av91704196,2022-10-28T06:46:15.610Z,"67 km WNW of Ninilchik, Alaska",earthquake,0.88,1.11,0.166666689547763,9,reviewed,av,av
-2022-10-27T21:39:53.820Z,37.6101667,-118.859,2.55,0,md,8,143,0.009353,0.02,nc,nc73799911,2022-10-28T18:20:11.372Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.57,1.27,0.088,5,reviewed,nc,nc
-2022-10-27T21:30:12.428Z,-10.8076,119.3472,10,4.5,mb,33,104,2.504,0.5,us,us7000iktg,2022-10-27T22:20:51.040Z,"162 km SW of Waingapu, Indonesia",earthquake,4.13,1.892,0.125,19,reviewed,us,us
