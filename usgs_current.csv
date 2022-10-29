@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-29T17:06:57.650Z,38.8341675,-122.8199997,2.32,0.81,md,13,80,0.01288,0.01,nc,nc73800836,2022-10-29T17:17:11.095Z,"8km NW of The Geysers, CA",earthquake,0.4,1.08,0.23,2,automatic,nc,nc
 2022-10-29T16:41:08.920Z,19.1840000152588,-155.454330444336,32.2000007629395,2.38,ml,47,124,,0.119999997,hv,hv73199962,2022-10-29T16:54:48.952Z,"3 km SE of Pāhala, Hawaii",earthquake,0.48,0.689999998,4.01,16,automatic,hv,hv
 2022-10-29T16:28:26.270Z,33.8558333,-116.7543333,16.52,0.97,ml,33,38,0.04213,0.17,ci,ci40126879,2022-10-29T16:31:55.788Z,"8km SSE of Cabazon, CA",earthquake,0.27,0.6,0.176,28,automatic,ci,ci
+2022-10-29T16:16:37.234Z,-0.3693,129.6386,10,4.5,mb,25,107,2.539,0.86,us,us7000il6n,2022-10-29T17:20:16.040Z,"189 km WNW of Sorong, Indonesia",earthquake,9.65,1.904,0.118,21,reviewed,us,us
 2022-10-29T15:53:45.720Z,37.2976685,-121.6689987,5.87,1.59,md,20,50,0.03875,0.06,nc,nc73800811,2022-10-29T16:24:12.735Z,"15km E of Seven Trees, CA",earthquake,0.21,0.43,0.17,16,automatic,nc,nc
 2022-10-29T15:50:52.430Z,37.3351669,-122.2003326,8.58,1.8,md,16,76,0.04109,0.09,nc,nc73800806,2022-10-29T16:13:11.670Z,"6km SSE of Portola Valley, CA",earthquake,0.34,0.71,0.08,15,automatic,nc,nc
 2022-10-29T15:46:09.960Z,37.2978325,-121.6689987,6.22,1.5,md,17,50,0.03892,0.04,nc,nc73800796,2022-10-29T16:03:12.606Z,"15km E of Seven Trees, CA",earthquake,0.22,0.56,0.13,12,automatic,nc,nc
@@ -183,6 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T17:32:09.201Z,59.7095,-151.0996,38.6,1.8,ml,,,,0.16,ak,ak022du32pjs,2022-10-28T17:33:26.048Z,"11 km ESE of Fritz Creek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-28T17:22:31.091Z,62.3706,-151.9627,0,2.7,ml,,,,0.82,ak,ak022du30m3l,2022-10-28T18:48:25.040Z,"51 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-28T17:21:08.940Z,51.861,-177.996333333333,4.67,1.55,ml,4,145,,0.08,av,av91704776,2022-10-29T01:12:24.280Z,"93 km W of Adak, Alaska",earthquake,0.59,1.14,0.145098412668522,4,reviewed,av,av
-2022-10-28T17:16:09.350Z,33.161,-116.5928333,9.15,0.67,ml,13,76,0.05943,0.12,ci,ci37461572,2022-10-28T21:06:08.483Z,"9km N of Julian, CA",earthquake,0.33,0.6,0.154,6,reviewed,ci,ci
-2022-10-28T17:15:56.680Z,33.1583333,-116.5906667,8.36,1.06,ml,41,47,0.06253,0.15,ci,ci40126367,2022-10-28T21:01:07.030Z,"9km N of Julian, CA",earthquake,0.19,0.47,0.167,25,reviewed,ci,ci
-2022-10-28T17:10:03.234Z,58.0217,-154.016,58.4,2,ml,,,,0.39,ak,ak022du2xzc3,2022-10-28T18:03:06.040Z,"53 km N of Larsen Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
