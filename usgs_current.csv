@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-29T14:25:36.320Z,38.7910004,-122.841835,1.06,0.45,md,7,111,0.005808,0.01,nc,nc73800766,2022-10-29T14:27:13.284Z,"8km WNW of The Geysers, CA",earthquake,0.32,0.86,0.11,2,automatic,nc,nc
-2022-10-29T14:25:27.590Z,37.6124992,-118.8584976,2.2,0.74,md,8,136,0.007384,0,nc,nc73800761,2022-10-29T14:27:02.994Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.51,1.05,0.07,7,automatic,nc,nc
+2022-10-29T14:31:42.989Z,58.8311,-153.66,6,2,ml,,,,0.44,ak,ak022dvotm4a,2022-10-29T14:33:44.719Z,"93 km SE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-10-29T14:28:55.700Z,36.0801659,-120.6263351,6.03,1.94,md,19,86,0.02693,0.07,nc,nc73800771,2022-10-29T14:30:33.248Z,"25km WSW of Coalinga, CA",earthquake,0.31,0.56,0.16,15,automatic,nc,nc
+2022-10-29T14:25:36.320Z,38.7910004,-122.841835,1.06,0.45,md,7,111,0.005808,0.01,nc,nc73800766,2022-10-29T14:39:10.153Z,"8km WNW of The Geysers, CA",earthquake,0.32,0.86,0.11,2,automatic,nc,nc
+2022-10-29T14:25:27.590Z,37.6124992,-118.8584976,2.2,0.74,md,8,136,0.007384,0,nc,nc73800761,2022-10-29T14:34:11.121Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.51,1.05,0.07,7,automatic,nc,nc
 2022-10-29T14:24:12.460Z,33.2896667,-116.506,0.98,0.99,ml,18,204,0.2198,0.2,ci,ci40126847,2022-10-29T14:27:49.413Z,"12km E of Warner Springs, CA",earthquake,0.81,3.24,0.234,22,automatic,ci,ci
 2022-10-29T14:22:30.531Z,60.7123,-150.3649,29.3,1.9,ml,,,,0.51,ak,ak022dvornpp,2022-10-29T14:23:53.047Z,"29 km NE of Sterling, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-29T14:13:43.824Z,63.2908,-150.5904,134.8,2.3,ml,,,,0.27,ak,ak022dvopram,2022-10-29T14:16:21.002Z,"63 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -203,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T14:52:38.960Z,58.248,-155.087166666667,4.63,0.6,ml,10,108,,0.17,av,av91704646,2022-10-29T00:36:49.710Z,"84 km NNW of Karluk, Alaska",earthquake,0.35,0.55,0.259248570865991,10,reviewed,av,av
 2022-10-28T14:50:29.240Z,19.2218341827393,-155.38166809082,32.3800010681152,1.99000001,md,39,154,,0.109999999,hv,hv73198422,2022-10-28T23:41:33.046Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.75,1.05999994,0.349999994,9,automatic,hv,hv
 2022-10-28T14:48:41.097Z,58.6805,-153.338,9.3,2.1,ml,,,,0.59,ak,ak022du1dwnh,2022-10-28T14:51:29.810Z,"73 km NNW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-28T14:34:26.470Z,19.1798324584961,-155.500335693359,38.1599998474121,1.70000005,md,38,146,,0.100000001,hv,hv73198412,2022-10-28T14:37:39.240Z,"3 km SW of Pāhala, Hawaii",earthquake,0.77,1.36000001,0.970000029,3,automatic,hv,hv
-2022-10-28T14:30:38.030Z,35.41066667,-97.8905,4.98,2.37,ml,100,44,0.02879434957,0.28,ok,ok2022vdfq,2022-10-29T06:20:00.040Z,"5 km ENE of Union City, Oklahoma",earthquake,,0.4,0.25,15,reviewed,ok,ok
