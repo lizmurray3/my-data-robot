@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-29T07:40:14.350Z,37.3375015,-122.2031631,8.34,2.09,md,29,71,0.04411,0.13,nc,nc73800651,2022-10-29T07:41:50.376Z,"6km SSE of Portola Valley, CA",earthquake,0.26,0.56,0.2,29,automatic,nc,nc
+2022-10-29T07:47:12.380Z,19.4375,-155.645004272461,-2.44000005722046,1.9,ml,23,177,,0.289999992,hv,hv73199457,2022-10-29T07:52:42.210Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.82,0.670000017,0.12,3,automatic,hv,hv
+2022-10-29T07:40:14.350Z,37.3375015,-122.2031631,8.34,2.09,md,29,71,0.04411,0.13,nc,nc73800651,2022-10-29T07:47:43.808Z,"6km SSE of Portola Valley, CA",earthquake,0.26,0.56,0.2,29,automatic,nc,nc
 2022-10-29T07:34:43.680Z,34.457,-117.9708333,10.73,0.53,ml,13,62,0.01507,0.25,ci,ci40126695,2022-10-29T07:38:24.176Z,"7km S of Littlerock, CA",earthquake,0.66,0.93,0.196,8,automatic,ci,ci
-2022-10-29T07:33:43.320Z,38.8251648,-122.8054962,1.39,1.37,md,26,35,0.003989,0.02,nc,nc73800646,2022-10-29T07:35:20.205Z,"7km NW of The Geysers, CA",earthquake,0.18,0.32,0.04,5,automatic,nc,nc
+2022-10-29T07:33:43.320Z,38.8251648,-122.8054962,1.39,1.37,md,26,35,0.003989,0.02,nc,nc73800646,2022-10-29T07:44:09.662Z,"7km NW of The Geysers, CA",earthquake,0.18,0.32,0.04,5,automatic,nc,nc
+2022-10-29T07:31:49.162Z,-14.7829,-76.5122,10,4.6,mb,38,166,2.797,0.77,us,us7000il4y,2022-10-29T07:49:22.040Z,"104 km SSW of Paracas, Peru",earthquake,9.15,1.938,0.136,16,reviewed,us,us
 2022-10-29T07:21:01.770Z,19.2361660003662,-155.382659912109,31.6100006103516,1.94000006,md,43,146,,0.119999997,hv,hv73199442,2022-10-29T07:24:07.190Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.55,0.689999998,1.05999994,14,automatic,hv,hv
 2022-10-29T07:06:07.290Z,19.1096668243408,-155.493499755859,12.7700004577637,2.41,ml,42,237,,0.189999998,hv,hv73199427,2022-10-29T07:42:53.040Z,"10 km ENE of Naalehu, Hawaii",earthquake,0.62,0.349999994,4.05,12,automatic,hv,hv
 2022-10-29T07:05:33.170Z,19.2398338317871,-155.495330810547,27.7000007629395,2.29,ml,13,207,,0.119999997,hv,hv73199422,2022-10-29T07:11:05.120Z,"4 km NNW of Pāhala, Hawaii",earthquake,1.4,1.75,3.85,14,automatic,hv,hv
@@ -214,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T08:12:26.510Z,35.41066667,-97.89933333,5.61,1.74,ml,32,67,0.02429523245,0.29,ok,ok2022vcte,2022-10-28T16:34:16.213Z,"4 km ENE of Union City, Oklahoma",earthquake,,0.7,0.41,4,reviewed,ok,ok
 2022-10-28T08:05:27.130Z,37.6121674,-118.8588333,2.51,1.07,md,11,137,0.007558,0.01,nc,nc73800191,2022-10-28T09:56:09.929Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.4,0.76,0.09,12,automatic,nc,nc
 2022-10-28T07:57:22.100Z,19.5003333333333,-155.579666666667,-1.48,2.7,ml,22,61,,0.16,hv,hv73198062,2022-10-28T19:12:42.170Z,"30 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.21,0.32,0.204026213761291,6,reviewed,hv,hv
-2022-10-28T07:53:19.350Z,35.9778333,-117.6795,2.57,1,ml,19,91,0.105,0.1,ci,ci40126071,2022-10-28T18:36:03.848Z,"21km ENE of Little Lake, CA",earthquake,0.19,0.33,0.143,10,reviewed,ci,ci
-2022-10-28T07:51:06.790Z,34.5375,-97.371,4.91,2.36,ml,89,54,0.008998234239,0.3,ok,ok2022vcsl,2022-10-28T14:21:03.220Z,"4 km SSW of Katie, Oklahoma",earthquake,,0.4,0.23,18,reviewed,ok,ok
