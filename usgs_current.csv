@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-29T20:51:00.840Z,33.648,-116.7285,13.92,1.02,ml,34,78,0.06178,0.15,ci,ci40126951,2022-10-29T20:54:29.056Z,"10km S of Idyllwild, CA",earthquake,0.23,0.35,0.16,27,automatic,ci,ci
+2022-10-29T20:34:54.314Z,-16.2786,166.7589,10,5.5,mww,98,26,4.854,0.61,us,us7000il7n,2022-10-29T20:57:45.935Z,"Vanuatu",earthquake,5.76,1.844,0.098,10,reviewed,us,us
 2022-10-29T20:33:42.170Z,33.6558333,-116.7421667,13.44,1.51,ml,52,41,0.05992,0.18,ci,ci40126943,2022-10-29T20:44:30.700Z,"10km SSW of Idyllwild, CA",earthquake,0.19,0.34,0.159,26,automatic,ci,ci
-2022-10-29T20:33:12.710Z,38.5148315,-122.5888367,2.03,1.33,md,11,154,0.1429,0.05,nc,nc73800881,2022-10-29T20:44:10.310Z,"7km S of Calistoga, CA",earthquake,0.45,6.81,0.17,4,automatic,nc,nc
+2022-10-29T20:33:12.710Z,38.5148315,-122.5888367,2.03,1.33,md,11,154,0.1429,0.05,nc,nc73800881,2022-10-29T20:50:14.347Z,"7km S of Calistoga, CA",earthquake,0.45,6.81,0.17,4,automatic,nc,nc
 2022-10-29T20:30:15.584Z,60.6625,-152.7043,11.7,1.6,ml,,,,0.32,ak,ak022dvsdxx2,2022-10-29T20:32:16.520Z,"75 km W of Salamatof, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-29T20:20:40.486Z,61.9403,-150.1768,23.8,1.7,ml,,,,0.33,ak,ak022dvsbuog,2022-10-29T20:22:21.455Z,"22 km NNW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-29T19:44:49.291Z,61.2114,-154.7365,71.9,3.5,ml,,,,1,ak,ak022dvrvkxt,2022-10-29T19:59:36.858Z,"Southern Alaska",earthquake,,4.8,,,automatic,ak,ak
@@ -175,6 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T21:08:53.951Z,32.49481201,-101.6776629,4.377400716,3.2,ml,12,85,0.1412319024,0.1,tx,tx2022vdsr,2022-10-28T21:55:59.053Z,"5 km SE of Ackerly, Texas",earthquake,1.529262492,2.785595623,0.3,11,reviewed,tx,tx
 2022-10-28T21:04:10.446Z,59.996,-152.4565,44.9,2.2,ml,,,,0.59,ak,ak022du5ag0q,2022-10-28T21:08:05.696Z,"Southern Alaska",earthquake,,3.3,,,automatic,ak,ak
 2022-10-28T20:59:53.351Z,39.7045,-118.5794,12.8,1.1,ml,8,239.63,0.62,0.1235,nn,nn00850217,2022-10-28T21:04:03.673Z,"30 km NNE of Fallon, Nevada",earthquake,,1.1,0.4,4,automatic,nn,nn
-2022-10-28T20:56:27.527Z,37.3744,141.8657,49.821,4.7,mb,73,134,3.044,0.77,us,us7000il1t,2022-10-28T21:59:54.040Z,"77 km E of Namie, Japan",earthquake,7.85,2.581,0.082,54,reviewed,us,us
-2022-10-28T20:50:53.596Z,38.1622,-117.8916,4.3,0.9,ml,10,168.34,0.058,0.0967,nn,nn00850216,2022-10-28T20:54:33.027Z,"31 km SE of Mina, Nevada",earthquake,,1.6,0.28,6,automatic,nn,nn
-2022-10-28T20:50:19.570Z,19.439,-155.616166666667,-0.34,1.85,ml,16,137,,0.12,hv,hv73198722,2022-10-28T21:18:16.470Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.35,0.38,0.05978968316447,6,reviewed,hv,hv
