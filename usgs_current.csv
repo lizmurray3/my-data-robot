@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-09T09:38:41.000Z,-26.037,178.579,652.9,6.7,Mi,35,53.999995680000346,,,pt,pt22313001,2022-11-09T09:45:52.523Z,"south of the Fiji Islands",earthquake,,,,21,reviewed,pt,pt
 2022-11-09T09:13:57.094Z,59.8795,-152.448,86.5,2.5,ml,,,,0.26,ak,ak022edsnfq5,2022-11-09T09:15:23.824Z,"36 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-09T08:45:37.580Z,38.1133347,-121.9456635,19.15,1.64,md,11,103,0.1026,0.06,nc,nc73802970,2022-11-09T09:01:13.890Z,"10km N of Bay Point, CA",earthquake,0.44,0.55,0.15,8,automatic,nc,nc
-2022-11-09T08:40:12.132Z,36.1738,140.033,56.045,5,mb,78,100,1.517,0.94,us,us7000ingc,2022-11-09T09:28:52.886Z,"6 km WSW of Tsukuba, Japan",earthquake,6.93,5.907,0.037,228,reviewed,us,us
+2022-11-09T08:40:12.132Z,36.1738,140.033,56.045,5,mb,78,100,1.517,0.94,us,us7000ingc,2022-11-09T09:34:05.020Z,"6 km WSW of Tsukuba, Japan",earthquake,6.93,5.907,0.037,228,reviewed,us,us
 2022-11-09T08:20:20.250Z,38.8348351,-122.8079987,2.1,1.06,md,17,50,0.01424,0.02,nc,nc73802965,2022-11-09T08:41:16.772Z,"8km W of Cobb, CA",earthquake,0.26,0.66,0.36,3,automatic,nc,nc
 2022-11-09T08:03:26.510Z,38.1128349,-121.944664,20.08,2.08,md,17,94,0.1026,0.1,nc,nc73802960,2022-11-09T09:29:11.069Z,"9km N of Bay Point, CA",earthquake,0.42,0.33,0.1,10,automatic,nc,nc
 2022-11-09T07:53:39.939Z,38.1697,-117.9337,1.3,1.7,ml,13,126.04,0.037,0.3366,nn,nn00850865,2022-11-09T07:57:02.677Z,"28 km SSE of Mina, Nevada",earthquake,,0.8,0.9,8,automatic,nn,nn
@@ -175,6 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-08T10:07:56.120Z,37.5478333,-118.8551667,6.84,1.61,md,20,114,0.04693,0.02,nc,nc73802705,2022-11-08T19:49:09.909Z,"15km SE of Mammoth Lakes, CA",earthquake,0.33,0.63,0.116,15,reviewed,nc,nc
 2022-11-08T10:00:28.303Z,40.154,-119.1607,3.6,1.4,ml,4,200.43,0.437,0.0983,nn,nn00850832,2022-11-09T02:41:21.596Z,"39 km NNE of Nixon, Nevada",earthquake,,9.5,0.16,2,reviewed,nn,nn
 2022-11-08T09:47:44.440Z,19.2291660308838,-155.389495849609,31.7199993133545,1.84000003,md,38,153,,0.129999995,hv,hv73212812,2022-11-08T09:50:45.740Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.62,0.810000002,0.569999993,12,automatic,hv,hv
-2022-11-08T09:43:52.690Z,44.4405,-110.2315,6.63,0.83,md,8,182,0.06195,0.06,uu,uu60524117,2022-11-08T14:22:05.260Z,"65 km SSW of Silver Gate, Montana",earthquake,0.61,0.95,0.116,4,reviewed,uu,uu
-2022-11-08T09:39:59.030Z,40.1656,-119.1423,13.4,1.8,ml,6,203.01,0.451,0.1015,nn,nn00850831,2022-11-09T02:41:20.149Z,"41 km NNE of Nixon, Nevada",earthquake,,2.1,0.05,2,reviewed,nn,nn
-2022-11-08T09:39:41.640Z,34.297,-118.5353333,9.18,1.54,ml,31,40,0.02822,0.2,ci,ci40130135,2022-11-08T18:20:14.745Z,"4km NW of Granada Hills, CA",earthquake,0.28,0.51,0.133,22,reviewed,ci,ci
