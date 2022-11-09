@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-09T10:41:22.390Z,37.654335,-122.5096664,8.64,1.36,md,12,204,0.03252,0.02,nc,nc73803000,2022-11-09T10:42:59.812Z,"5km NNW of Pacifica, CA",earthquake,0.69,0.44,0.13,9,automatic,nc,nc
+2022-11-09T10:57:08.003Z,60.4592,-147.378,14.8,2,ml,,,,0.59,ak,ak022edti71s,2022-11-09T10:59:12.460Z,"56 km NE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-09T10:52:02.549Z,60.0677,-152.4867,82.8,2.7,ml,,,,0.44,ak,ak022edth41q,2022-11-09T10:55:02.667Z,"44 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-11-09T10:51:08.978Z,60.6087,-152.0278,67.7,1.4,ml,,,,0.53,ak,ak022edtgwtt,2022-11-09T10:53:17.255Z,"38 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-11-09T10:41:22.390Z,37.654335,-122.5096664,8.64,1.36,md,12,204,0.03252,0.02,nc,nc73803000,2022-11-09T10:57:14.577Z,"5km NNW of Pacifica, CA",earthquake,0.69,0.44,0.13,9,automatic,nc,nc
 2022-11-09T10:31:50.120Z,19.4103336334229,-155.292495727539,1.39999997615814,2.01999998,md,12,135,,0.119999997,hv,hv73214037,2022-11-09T10:34:56.340Z,"7 km WSW of Volcano, Hawaii",earthquake,0.26,0.330000013,0.970000029,11,automatic,hv,hv
 2022-11-09T10:30:54.140Z,33.8746667,-116.8445,15.19,1.56,ml,52,23,0.05672,0.16,ci,ci40130391,2022-11-09T10:41:51.560Z,"6km SSE of Banning, CA",earthquake,0.18,0.47,0.168,27,automatic,ci,ci
 2022-11-09T10:27:57.664Z,58.9826,-156.1319,250,2.6,ml,,,,1.23,ak,ak022edtbvee,2022-11-09T10:30:54.122Z,"40 km SSW of Igiugig, Alaska",earthquake,,5.1,,,automatic,ak,ak
@@ -178,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-08T11:06:26.834Z,60.8053,-151.0923,72.7,1.6,ml,,,,0.25,ak,ak022ec69e3f,2022-11-08T11:08:36.275Z,"16 km NE of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-11-08T11:06:10.370Z,33.2193333,-116.7475,11.28,0.71,ml,29,49,0.0191,0.14,ci,ci40130151,2022-11-08T21:42:57.638Z,"3km SSE of Lake Henshaw, CA",earthquake,0.21,0.47,0.206,16,reviewed,ci,ci
 2022-11-08T11:04:28.090Z,17.9691666666667,-66.9355,6.78,2.34,md,16,188,0.02574,0.3,pr,pr71381288,2022-11-08T11:25:15.990Z,"2 km SW of Fuig, Puerto Rico",earthquake,0.89,0.37,0.210047916886162,7,reviewed,pr,pr
-2022-11-08T10:56:29.406Z,61.1383,-147.4403,0.6,1.8,ml,,,,0.86,ak,ak022ec5yoho,2022-11-08T10:58:41.645Z,"51 km NW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
