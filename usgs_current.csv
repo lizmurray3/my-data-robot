@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-12T13:52:36.740Z,38.5083351,-119.5205002,4.11,2.4,md,5,127,0.0647,0.01,nc,nc73804300,2022-11-12T13:55:20.480Z,"4km W of Walker, CA",earthquake,0.65,1.57,0.44,3,automatic,nc,nc
+2022-11-12T13:45:58.805Z,62.684,-152.2477,3.7,1.9,ml,,,,0.69,ak,ak022eitu2o8,2022-11-12T13:48:27.935Z,"78 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-12T13:45:44.440Z,37.4985008,-121.6090012,6.23,1.08,md,14,83,0.04076,0.06,nc,nc73804295,2022-11-12T13:47:21.875Z,"24km NE of Alum Rock, CA",earthquake,0.26,0.72,0.14,11,automatic,nc,nc
+2022-11-12T13:45:07.400Z,41.5105019,-112.1813354,5.8,3.6,ml,69,79,0.09511,0.24,uu,uu60524772,2022-11-12T13:56:41.628Z,"7 km SW of Corinne, Utah",earthquake,0.29,0.48,0.23,36,automatic,uu,uu
 2022-11-12T13:21:50.470Z,38.8383331,-122.8081665,2.21,0.36,md,9,116,0.01392,0.01,nc,nc73804290,2022-11-12T13:39:16.086Z,"8km WNW of Cobb, CA",earthquake,0.4,0.92,,1,automatic,nc,nc
 2022-11-12T13:18:47.733Z,-8.0276,107.4458,57.583,5.2,mb,82,54,0.597,0.6,us,us7000ipau,2022-11-12T13:43:41.609Z,"Java, Indonesia",earthquake,7.19,6.075,0.055,107,reviewed,us,us
 2022-11-12T13:16:17.404Z,37.2234,-117.2464,14.7,0.4,ml,10,148.16,0.078,0.3288,nn,nn00851175,2022-11-12T13:18:57.561Z,"53 km S of Goldfield, Nevada",earthquake,,1,0.62,3,automatic,nn,nn
@@ -25,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-12T10:49:43.902Z,35.28121567,-97.98812866,4.053238869,2.04,ml,39,35.62171936,0.09544084221,0.5829157128,ok,ok2022weix,2022-11-12T10:53:27.603Z,"5 km SW of Minco, Oklahoma",earthquake,1.940643487,1.538506374,,31,automatic,ok,ok
 2022-11-12T10:47:59.857Z,2.2182,129.268,10,5,mb,54,91,2.383,0.48,us,us7000ipa1,2022-11-12T11:04:14.040Z,"Halmahera, Indonesia",earthquake,8.51,1.883,0.079,51,reviewed,us,us
 2022-11-12T10:36:56.565Z,-20.0732,-178.2122,570.282,4.4,mb,41,60,3.022,0.79,us,us7000ip9y,2022-11-12T11:27:42.040Z,"Fiji region",earthquake,14.34,8.472,0.091,35,reviewed,us,us
-2022-11-12T09:58:48.186Z,43.8328,-109.2494,10.289,3.5,ml,68,35,1.006,0.61,us,us7000ip9u,2022-11-12T10:43:36.128Z,"Wyoming",earthquake,2.89,8.476,0.051,50,reviewed,us,us
+2022-11-12T09:58:48.186Z,43.8328,-109.2494,10.289,3.5,ml,68,35,1.006,0.61,us,us7000ip9u,2022-11-12T12:01:22.682Z,"Wyoming",earthquake,2.89,8.476,0.051,50,reviewed,us,us
 2022-11-12T09:52:21.900Z,19.1809997558594,-155.497329711914,30.4899997711182,2.33,ml,41,92,,0.170000002,hv,hv73218107,2022-11-12T09:57:53.490Z,"3 km SW of Pāhala, Hawaii",earthquake,0.56,0.879999995,4.36,6,automatic,hv,hv
 2022-11-12T09:44:20.250Z,36.2285,-118.0333333,-0.65,1.31,ml,14,98,0.182,0.27,ci,ci40131407,2022-11-12T09:48:03.491Z,"6km SSW of Olancha, CA",earthquake,0.61,31.61,0.18,11,automatic,ci,ci
 2022-11-12T09:41:32.170Z,38.8336678,-122.817337,1.82,0.85,md,12,64,0.01172,0.01,nc,nc73804210,2022-11-12T12:10:13.549Z,"8km NW of The Geysers, CA",earthquake,0.28,0.83,,1,automatic,nc,nc
