@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-13T11:26:00.903Z,35.27738953,-98.00017548,5,2.44,ml,64,26.73834229,0.08561512083,0.6992528456,ok,ok2022wgfp,2022-11-13T11:29:42.269Z,"Oklahoma",earthquake,1.448068622,,,49,automatic,ok,ok
 2022-11-13T11:22:41.670Z,38.8359985,-122.7931671,0.9,0.85,md,7,125,0.003264,0.01,nc,nc73804625,2022-11-13T11:24:16.867Z,"6km WNW of Cobb, CA",earthquake,0.41,1.11,,1,automatic,nc,nc
-2022-11-13T11:21:31.280Z,38.8366661,-122.7945023,0.71,0.91,md,14,67,0.003684,0.02,nc,nc73804620,2022-11-13T11:23:06.983Z,"6km WNW of Cobb, CA",earthquake,0.21,0.42,0.3,2,automatic,nc,nc
+2022-11-13T11:21:31.280Z,38.8366661,-122.7945023,0.71,0.91,md,14,67,0.003684,0.02,nc,nc73804620,2022-11-13T11:33:11.060Z,"6km WNW of Cobb, CA",earthquake,0.21,0.42,0.3,2,automatic,nc,nc
 2022-11-13T10:46:55.500Z,19.3286666870117,-155.209335327148,-1,1.84000003,md,8,197,,0.25999999,hv,hv73219712,2022-11-13T10:49:59.460Z,"12 km SSE of Volcano, Hawaii",earthquake,1.65,0.49000001,2.22000003,4,automatic,hv,hv
 2022-11-13T10:39:23.158Z,61.4235,-150.0392,33.6,1.8,ml,,,,0.42,ak,ak022ekfjraz,2022-11-13T10:41:50.870Z,"7 km NNW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-13T10:34:32.920Z,33.6656667,-116.6863333,14.72,0.32,ml,11,128,0.05097,0.13,ci,ci40131887,2022-11-13T10:38:14.817Z,"9km SSE of Idyllwild, CA",earthquake,0.57,0.56,0.069,8,automatic,ci,ci
