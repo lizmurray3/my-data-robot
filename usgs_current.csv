@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-19T04:59:19.360Z,33.2191667,-116.7461667,10.42,1.11,ml,39,34,0.01981,0.17,ci,ci40377832,2022-11-19T05:02:52.465Z,"3km SSE of Lake Henshaw, CA",earthquake,0.22,0.42,0.15,27,automatic,ci,ci
+2022-11-19T04:57:56.746Z,65.8555,-156.3704,2.4,1.9,ml,,,,0.64,ak,ak022eu9b64j,2022-11-19T05:06:02.071Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-19T04:49:53.956Z,64.405,-147.4244,3.8,1.6,ml,,,,0.41,ak,ak022eu99g6b,2022-11-19T04:51:40.928Z,"28 km WSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-19T04:26:23.950Z,33.2181667,-116.7396667,11.92,0.63,ml,22,55,0.02391,0.15,ci,ci40377824,2022-11-19T04:29:54.608Z,"3km SE of Lake Henshaw, CA",earthquake,0.29,0.57,0.205,10,automatic,ci,ci
 2022-11-19T04:25:27.680Z,38.8206673,-122.7881699,1.57,1.02,md,9,124,0.01385,0.01,nc,nc73809076,2022-11-19T04:40:11.229Z,"6km NNW of The Geysers, CA",earthquake,0.42,1.08,,1,automatic,nc,nc
@@ -44,9 +46,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T23:31:20.408Z,64.4039,-147.3942,6,0.9,ml,,,,0.23,ak,ak022eswxep4,2022-11-18T23:32:47.080Z,"27 km WSW of Salcha, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-11-18T23:31:16.010Z,38.8326683,-122.8180008,1.9,1.18,md,11,83,0.01114,0.01,nc,nc73809011,2022-11-19T00:46:13.831Z,"8km NW of The Geysers, CA",earthquake,0.31,0.85,,1,automatic,nc,nc
 2022-11-18T23:26:16.230Z,17.8496666666667,-66.7513333333333,30.08,2.35,md,6,294,0.1743,0.1,pr,pr71383018,2022-11-19T00:08:39.370Z,"16 km SSW of Tallaboa, Puerto Rico",earthquake,0.92,1.24,0.156047967430409,3,reviewed,pr,pr
+2022-11-18T23:24:07.810Z,53.3933333333333,-168.2235,-0.98,0.05,ml,5,269,,0.16,av,av91718196,2022-11-19T05:04:39.470Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.7,0.65,0.372804611012767,5,reviewed,av,av
 2022-11-18T23:22:02.059Z,37.1953,-116.8883,9.8,0.6,ml,7,306.98,0.143,0.1265,nn,nn00851604,2022-11-19T02:43:04.221Z,"33 km NNW of Beatty, Nevada",earthquake,,3.2,1.42,6,reviewed,nn,nn
 2022-11-18T23:17:52.474Z,61.0623,-148.4195,1.5,0.8,ml,,,,0.16,ak,ak022eswuh5b,2022-11-18T23:21:43.128Z,"35 km NNE of Whittier, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-11-18T23:14:12.430Z,37.4376667,-118.6146667,12.75,1.24,md,17,61,0.09376,0.04,nc,nc73809006,2022-11-19T04:32:10.183Z,"3km NNW of Round Valley, CA",earthquake,0.36,1.26,0.199,14,reviewed,nc,nc
+2022-11-18T23:14:12.430Z,37.4376667,-118.6146667,12.75,1.24,md,17,61,0.09376,0.04,nc,nc73809006,2022-11-19T05:06:11.392Z,"3km NNW of Round Valley, CA",earthquake,0.36,1.26,0.199,14,reviewed,nc,nc
 2022-11-18T23:07:37.630Z,56.257,-149.3554,16.424,3,ml,11,281,2.336,0.81,us,us7000iqvg,2022-11-18T23:30:42.040Z,"Gulf of Alaska",earthquake,10.4,9.575,0.064,32,reviewed,us,us
 2022-11-18T23:03:50.406Z,64.3841,-147.4103,1.4,1.2,ml,,,,0.24,ak,ak022eswrgyo,2022-11-18T23:05:37.731Z,"29 km WSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-18T23:02:43.690Z,17.985,-66.8326666666667,16.87,2.54,md,21,183,0.04433,0.1,pr,pr71383003,2022-11-18T23:23:53.660Z,"1 km SW of Indios, Puerto Rico",earthquake,0.4,0.25,0.177524131774299,14,reviewed,pr,pr
@@ -284,6 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T05:11:38.420Z,38.8291664,-122.8048325,1.41,0.86,md,16,80,0.007069,0.02,nc,nc73808721,2022-11-18T05:48:13.978Z,"7km W of Cobb, CA",earthquake,0.26,0.5,0.03,3,automatic,nc,nc
 2022-11-18T05:10:30.450Z,38.8286667,-122.8041687,1.42,1.05,md,26,37,0.006999,0.03,nc,nc73808716,2022-11-18T05:37:13.922Z,"7km NW of The Geysers, CA",earthquake,0.19,0.33,0.14,5,automatic,nc,nc
 2022-11-18T05:09:58.950Z,35.513,-118.3961667,4.48,1.47,ml,29,38,0.1624,0.11,ci,ci40377336,2022-11-18T13:53:38.452Z,"12km SE of Bodfish, CA",earthquake,0.17,0.74,0.238,22,reviewed,ci,ci
-2022-11-18T05:06:53.820Z,58.2571666666667,-155.0825,4.87,-0.2,ml,5,123,,0.23,av,av91076928,2022-11-19T01:42:29.760Z,"Alaska Peninsula",earthquake,0.58,0.97,0.280333656737256,5,reviewed,av,av
-2022-11-18T05:06:15.490Z,58.2545,-155.073833333333,3.88,0.11,ml,7,107,,0.21,av,av91076923,2022-11-19T01:38:37.670Z,"84 km NNW of Karluk, Alaska",earthquake,0.4,0.95,0.218291246434387,7,reviewed,av,av
-2022-11-18T04:54:05.160Z,37.645,-118.8608333,4.71,0.34,md,10,174,0.02102,0.02,nc,nc73808706,2022-11-18T10:18:11.546Z,"10km E of Mammoth Lakes, CA",earthquake,0.67,1.08,0.178,9,reviewed,nc,nc
