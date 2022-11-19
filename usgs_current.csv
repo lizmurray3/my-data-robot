@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-19T04:15:41.780Z,34.196167,-116.9509964,8.59,2.64,ml,123,18,0.07057,0.19,ci,ci40377816,2022-11-19T04:18:00.545Z,"6km SW of Big Bear Lake, CA",earthquake,0.15,0.44,0.274,23,automatic,ci,ci
+2022-11-19T04:08:57.610Z,40.9339981,-121.7603302,7.61,1.99,md,15,90,0.1315,0.07,nc,nc73809066,2022-11-19T04:16:11.075Z,"10km NW of Burney, CA",earthquake,0.34,1.85,0.2,9,automatic,nc,nc
+2022-11-19T04:03:19.901Z,60.8259,-148.0811,12.2,1.7,ml,,,,0.88,ak,ak022eu8zily,2022-11-19T04:05:52.760Z,"33 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-19T03:55:28.720Z,19.4375,-155.609497070312,-0.810000002384186,1.90999997,md,11,101,,0.129999995,hv,hv73227882,2022-11-19T03:58:32.700Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.35,0.430000007,1.25999999,8,automatic,hv,hv
 2022-11-19T03:43:26.409Z,64.3915,-147.4262,3.3,1.5,ml,,,,0.46,ak,ak022eu8mo5c,2022-11-19T03:45:11.049Z,"29 km WSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-19T03:39:46.994Z,64.3854,-147.3778,0,0.8,ml,,,,0.59,ak,ak022eu8luvf,2022-11-19T03:41:48.508Z,"27 km SW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-19T03:36:10.217Z,62.9546,-149.8312,75.8,1.6,ml,,,,0.47,ak,ak022eu8l4vx,2022-11-19T03:38:11.913Z,"58 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -110,6 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T16:27:25.370Z,37.2756667,-121.645,8.89,1.36,md,32,42,0.02794,0.06,nc,nc73808901,2022-11-19T00:26:13.715Z,"16km N of Morgan Hill, CA",earthquake,0.17,0.36,0.134,29,reviewed,nc,nc
 2022-11-18T16:26:38.260Z,37.2758333,-121.6416667,9.05,0.96,md,19,59,0.03021,0.06,nc,nc73808906,2022-11-18T23:22:15.365Z,"16km N of Morgan Hill, CA",earthquake,0.25,0.4,0.127,17,reviewed,nc,nc
 2022-11-18T16:25:27.140Z,33.2193333,-116.7473333,11.61,0.83,ml,32,36,0.01917,0.14,ci,ci40377608,2022-11-19T01:07:55.316Z,"3km SSE of Lake Henshaw, CA",earthquake,0.22,0.53,0.132,14,reviewed,ci,ci
+2022-11-18T16:14:51.710Z,51.8593333333333,-177.999,3.21,1.26,ml,4,138,,0.19,av,av91077003,2022-11-19T03:56:47.700Z,"94 km W of Adak, Alaska",earthquake,0.52,1.48,0.216823058104351,4,reviewed,av,av
 2022-11-18T16:04:57.120Z,51.8503333333333,-177.816833333333,1.55,0.85,ml,4,241,,0.12,av,av91718016,2022-11-19T03:53:55.820Z,"81 km W of Adak, Alaska",earthquake,0.68,1.66,0.208413967988592,4,reviewed,av,av
 2022-11-18T16:02:22.780Z,38.8461685,-122.8150024,1.44,0.37,md,10,133,0.01069,0.03,nc,nc73808896,2022-11-18T16:49:10.878Z,"8km WNW of Cobb, CA",earthquake,0.4,0.92,,1,automatic,nc,nc
 2022-11-18T15:58:09.490Z,38.840332,-122.8330002,1.79,0.65,md,17,109,0.002608,0.03,nc,nc73808881,2022-11-18T18:41:16.658Z,"10km NW of The Geysers, CA",earthquake,0.26,0.39,,4,automatic,nc,nc
@@ -281,8 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T04:37:47.520Z,33.797,-117.6578333,3.15,0.78,ml,11,87,0.04065,0.16,ci,ci40377328,2022-11-18T23:52:02.866Z,"12km SW of Corona, CA",earthquake,0.42,0.47,0.095,7,reviewed,ci,ci
 2022-11-18T04:29:05.140Z,37.1395,-121.5625,11.08,0.81,md,11,92,0.05642,0.05,nc,nc73808701,2022-11-18T11:00:11.785Z,"7km NE of San Martin, CA",earthquake,0.31,0.68,0.276,15,reviewed,nc,nc
 2022-11-18T04:28:23.960Z,58.2486666666667,-155.7035,14.37,-0.14,ml,6,273,,0.09,av,av91076918,2022-11-19T01:33:04.820Z,"74 km SE of King Salmon, Alaska",earthquake,1.51,1.01,0.156269756763496,6,reviewed,av,av
-2022-11-18T04:05:49.339Z,59.9965,-140.2993,0.1,1.3,ml,,,,1.39,ak,ak022eslgnth,2022-11-18T04:07:30.374Z,"59 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-18T04:03:03.904Z,-6.5879,104.3815,37.8,4.4,mb,24,79,2.629,1.05,us,us7000iqll,2022-11-18T04:21:06.040Z,"160 km SW of Bandar Lampung, Indonesia",earthquake,8.97,6.846,0.135,18,reviewed,us,us
-2022-11-18T04:01:29.080Z,44.801,-110.8173333,5.71,0.43,md,8,210,0.0268,0.1,uu,uu60525662,2022-11-18T17:33:21.620Z,"Yellowstone National Park, Wyoming",earthquake,0.66,0.59,0.209,6,reviewed,uu,uu
-2022-11-18T03:59:57.125Z,-11.4669,166.3267,77.867,4.5,mb,30,62,4.047,0.76,us,us7000iqlk,2022-11-18T04:16:16.040Z,"100 km SE of Lata, Solomon Islands",earthquake,11.01,7.615,0.11,27,reviewed,us,us
-2022-11-18T03:55:52.971Z,38.5049,-119.515,6.2,0.8,ml,7,129.49,0.06,0.1249,nn,nn00851568,2022-11-18T21:51:27.698Z,"3 km WSW of Walker, California",earthquake,,2.1,0.09,2,reviewed,nn,nn
