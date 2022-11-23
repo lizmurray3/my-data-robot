@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-23T22:27:56.060Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
-2022-11-23T22:16:49.750Z,34.8936667,-118.7995,9.82,1.43,ml,19,48,0.1026,0.22,ci,ci40380040,2022-11-23T22:20:19.899Z,"8km NE of Lebec, CA",earthquake,0.36,1.02,0.296,28,automatic,ci,ci
+2022-11-23T22:34:30.240Z,37.3218346,-121.6640015,5.53,1.87,md,7,232,0.06316,0.02,nc,nc73810746,2022-11-23T22:37:15.965Z,"15km ESE of Alum Rock, CA",earthquake,1.81,1.03,0.2,5,automatic,nc,nc
+2022-11-23T22:34:02.280Z,37.2901649,-121.6640015,5.52,2.97,md,70,40,0.03196,0.06,nc,nc73810741,2022-11-23T22:38:13.199Z,"16km E of Seven Trees, CA",earthquake,0.12,0.26,0.12,67,automatic,nc,nc
+2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-23T22:40:32.040Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
+2022-11-23T22:16:49.750Z,34.8936667,-118.7995,9.82,1.43,ml,19,48,0.1026,0.22,ci,ci40380040,2022-11-23T22:33:52.173Z,"8km NE of Lebec, CA",earthquake,0.36,1.02,0.296,28,automatic,ci,ci
 2022-11-23T22:10:07.030Z,38.7941666,-122.7464981,2.48,0.37,md,11,93,0.01217,0.02,nc,nc73810736,2022-11-23T22:27:11.563Z,"2km NNE of The Geysers, CA",earthquake,0.45,0.94,,1,automatic,nc,nc
 2022-11-23T22:00:17.512Z,71.3739,-3.8139,10,4.7,mb,86,47,6.005,0.83,us,us7000irx8,2022-11-23T22:20:02.040Z,"183 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.85,1.874,0.063,76,reviewed,us,us
 2022-11-23T21:58:49.260Z,33.5268333,-116.695,13.15,0.6,ml,22,51,0.05223,0.15,ci,ci40380032,2022-11-23T22:02:23.369Z,"4km SSW of Anza, CA",earthquake,0.28,0.59,0.113,16,automatic,ci,ci
@@ -39,6 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T17:04:28.653Z,72.5067,3.2396,10,5.1,mww,111,64,6.58,0.62,us,us7000irv9,2022-11-23T17:43:26.040Z,"Norwegian Sea",earthquake,8.44,1.81,0.05,39,reviewed,us,us
 2022-11-23T16:52:23.583Z,33.7269,141.3903,12.881,5.2,mww,100,100,1.453,0.68,us,us7000irv5,2022-11-23T17:34:38.531Z,"185 km SSE of Katsuura, Japan",earthquake,7.96,4.306,0.086,13,reviewed,us,us
 2022-11-23T16:51:54.000Z,32.88,-115.5068333,4.84,1.38,ml,14,142,0.05013,0.12,ci,ci40379968,2022-11-23T18:04:19.385Z,"7km ENE of Imperial, CA",earthquake,0.36,0.27,0.192,12,reviewed,ci,ci
+2022-11-23T16:44:49.269Z,45.3497,150.0995,65.321,4.5,mb,32,96,5.347,0.55,us,us7000irv8,2022-11-23T22:32:43.040Z,"Kuril Islands",earthquake,12.92,8.007,0.128,18,reviewed,us,us
 2022-11-23T16:34:09.790Z,33.31,-116.2328333,11.6,0.89,ml,36,95,0.08281,0.17,ci,ci40379960,2022-11-23T18:00:44.364Z,"14km ENE of Borrego Springs, CA",earthquake,0.24,0.39,0.173,13,reviewed,ci,ci
 2022-11-23T16:29:49.940Z,38.8361664,-122.7900009,1.9,0.36,md,7,80,0.002255,0.01,nc,nc73810681,2022-11-23T18:19:12.971Z,"6km WNW of Cobb, CA",earthquake,0.5,1.35,,1,automatic,nc,nc
 2022-11-23T16:26:55.764Z,44.2758,140.1562,246.646,4.8,mb,86,40,1.76,0.36,us,us7000iru6,2022-11-23T16:48:53.040Z,"124 km WNW of Rumoi, Japan",earthquake,7.04,5.97,0.028,379,reviewed,us,us
@@ -232,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T22:56:11.030Z,19.4720001220703,-155.586837768555,-1.87000000476837,1.87,ml,11,74,,0.189999998,hv,hv73232127,2022-11-22T23:01:44.670Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,0.219999999,0.29,4,automatic,hv,hv
 2022-11-22T22:42:01.090Z,36.2541667,-120.8258333,6.71,1.75,md,54,75,0.04304,0.1,nc,nc73810456,2022-11-23T21:48:13.325Z,"22km NE of San Lucas, CA",earthquake,0.18,0.26,0.285,38,reviewed,nc,nc
 2022-11-22T22:41:44.005Z,38.1305,-118.0271,8.7,1.5,ml,16,126.67,0.054,0.1404,nn,nn00851862,2022-11-22T23:13:15.841Z,"29 km SSE of Mina, Nevada",earthquake,,1.4,0.11,4,reviewed,nn,nn
-2022-11-22T22:37:32.622Z,31.61543446,-103.9806647,7.494091797,2.5,ml,25,55,0.01114609983,0.1,tx,tx2022wxnh,2022-11-23T17:29:42.902Z,"western Texas",earthquake,0.5563605344,0.7478512946,0.2,19,reviewed,tx,tx
-2022-11-22T22:33:46.338Z,62.7945,-150.6877,40.1,1.5,ml,,,,1.16,ak,ak022ezihui1,2022-11-22T22:35:52.622Z,"33 km N of Petersville, Alaska",earthquake,,2.7,,,automatic,ak,ak
