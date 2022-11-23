@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-23T23:34:48.430Z,38.8358345,-122.807663,2.31,0.36,md,9,69,0.01256,0.01,nc,nc73810786,2022-11-23T23:36:21.728Z,"8km WNW of Cobb, CA",earthquake,0.52,1.3,,1,automatic,nc,nc
-2022-11-23T23:20:29.160Z,37.7125015,-121.9768295,9.99,1.76,md,11,161,0.07426,0.07,nc,nc73810776,2022-11-23T23:33:10.944Z,"4km WNW of Dublin, CA",earthquake,0.6,0.68,0.04,6,automatic,nc,nc
+2022-11-23T23:20:29.160Z,37.7125015,-121.9768295,9.99,1.76,md,11,161,0.07426,0.07,nc,nc73810776,2022-11-23T23:46:13.018Z,"4km WNW of Dublin, CA",earthquake,0.6,0.68,0.04,6,automatic,nc,nc
 2022-11-23T23:18:49.120Z,36.1183319,-120.7870026,9.24,2.11,md,33,62,0.03298,0.06,nc,nc73810766,2022-11-23T23:35:16.958Z,"15km NE of San Ardo, CA",earthquake,0.22,0.41,0.21,26,automatic,nc,nc
 2022-11-23T23:09:44.680Z,38.8161659,-122.8116684,2.95,0.84,md,8,112,0.007325,0.02,nc,nc73810761,2022-11-23T23:35:15.958Z,"6km NW of The Geysers, CA",earthquake,0.61,1.19,,1,automatic,nc,nc
 2022-11-23T23:02:33.426Z,62.9177,-150.4456,124.4,1.3,ml,,,,0.7,ak,ak022f16fyem,2022-11-23T23:04:38.653Z,"49 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -11,11 +11,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T22:34:02.280Z,37.2901649,-121.6640015,5.52,2.97,md,70,40,0.03196,0.06,nc,nc73810741,2022-11-23T23:42:34.419Z,"16km E of Seven Trees, CA",earthquake,0.12,0.26,0.12,67,automatic,nc,nc
 2022-11-23T22:32:56.997Z,46.2948,151.3916,101.565,4.9,mb,61,133,5.982,1,us,us7000irxs,2022-11-23T22:52:50.040Z,"297 km ENE of Kuril’sk, Russia",earthquake,9.65,5.769,0.065,75,reviewed,us,us
 2022-11-23T22:26:23.695Z,60.0543,-152.6438,100.8,1.7,ml,,,,0.27,ak,ak022f15znfo,2022-11-23T23:00:25.258Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-23T23:39:27.363Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
+2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-23T23:44:38.572Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
 2022-11-23T22:16:49.750Z,34.8936667,-118.7995,9.82,1.43,ml,19,48,0.1026,0.22,ci,ci40380040,2022-11-23T22:33:52.173Z,"8km NE of Lebec, CA",earthquake,0.36,1.02,0.296,28,automatic,ci,ci
 2022-11-23T22:10:07.030Z,38.7941666,-122.7464981,2.48,0.37,md,11,93,0.01217,0.02,nc,nc73810736,2022-11-23T22:52:13.699Z,"2km NNE of The Geysers, CA",earthquake,0.45,0.94,,1,automatic,nc,nc
 2022-11-23T22:00:17.512Z,71.3739,-3.8139,10,4.7,mb,86,47,6.005,0.83,us,us7000irx8,2022-11-23T22:20:02.040Z,"183 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.85,1.874,0.063,76,reviewed,us,us
 2022-11-23T21:58:49.260Z,33.5268333,-116.695,13.15,0.6,ml,22,51,0.05223,0.15,ci,ci40380032,2022-11-23T22:02:23.369Z,"4km SSW of Anza, CA",earthquake,0.28,0.59,0.113,16,automatic,ci,ci
+2022-11-23T21:56:00.980Z,47.54333333333334,-122.7805,-0.19,1.6600000000000001,ml,10,207,0.006419,0.27,uw,uw61887042,2022-11-23T23:47:11.780Z,"6 km WNW of Gorst, Washington",explosion,1.07,31.61,0.1831376149732714,5,reviewed,uw,uw
 2022-11-23T21:52:19.043Z,61.5785,-151.4057,15.3,0.8,ml,,,,0.31,ak,ak022f15jrdw,2022-11-23T23:05:57.547Z,"45 km S of Skwentna, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2022-11-23T21:35:12.306Z,59.6678,-150.7654,35.3,2,ml,,,,0.73,ak,ak022f15g472,2022-11-23T21:38:36.634Z,"23 km SSE of Fox River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-23T21:22:43.766Z,-30.2919,-177.7657,35,5.1,mb,25,151,1.035,0.44,us,us7000irx0,2022-11-23T22:01:15.040Z,"Kermadec Islands, New Zealand",earthquake,6.16,1.942,0.139,17,reviewed,us,us
@@ -111,6 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T12:17:13.954Z,38.1715,-117.7929,11.3,2.3,ml,19,89.04,0.116,0.1318,nn,nn00851923,2022-11-23T18:16:35.600Z,"36 km SE of Mina, Nevada",earthquake,,1.1,0.2,6,reviewed,nn,nn
 2022-11-23T12:02:24.450Z,33.2195,-116.7435,11.6,1.32,ml,42,34,0.02083,0.16,ci,ci40379848,2022-11-23T14:05:28.080Z,"3km SE of Lake Henshaw, CA",earthquake,0.19,0.46,0.159,25,reviewed,ci,ci
 2022-11-23T12:01:39.965Z,31.61217528,-104.5393279,8.342456055,2.3,ml,23,75,0.06539097981,0.1,tx,tx2022wynu,2022-11-23T20:22:42.660Z,"64 km SSW of Whites City, New Mexico",earthquake,1.218599545,0.8400231838999999,0.1,12,reviewed,tx,tx
+2022-11-23T12:00:13.062Z,39.0058,-119.6499,10.7,0.2,ml,6,107.66,0.092,0.1332,nn,nn00851964,2022-11-23T23:47:14.495Z,"5 km N of Fish Springs, Nevada",earthquake,,3.8,0.37,2,reviewed,nn,nn
 2022-11-23T12:00:10.336Z,61.7378,-149.6141,38.1,2,ml,,,,0.21,ak,ak022f0zvpjd,2022-11-23T12:01:31.849Z,"12 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-23T11:53:15.152Z,61.259,-151.595,67.1,1.3,ml,,,,0.27,ak,ak022f0zln97,2022-11-23T11:54:44.797Z,"30 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-23T11:46:29.661Z,63.3223,-151.285,7.9,2.6,ml,,,,0.66,ak,ak022f0zk6ck,2022-11-23T12:11:33.040Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -235,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T00:09:54.680Z,35.0321667,-117.6811667,-0.82,1.82,ml,38,58,0.09834,0.17,ci,ci40379632,2022-11-23T15:08:48.329Z,"5km NW of Boron, CA",quarry blast,0.31,31.61,0.173,45,reviewed,ci,ci
 2022-11-23T00:06:08.093Z,64.9863,-147.3936,6.2,1.7,ml,,,,0.44,ak,ak022f0srseh,2022-11-23T00:08:02.174Z,"11 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-22T23:52:36.753Z,60.4789,-143.1314,5.2,1.1,ml,,,,0.43,ak,ak022ezj7byz,2022-11-22T23:54:22.285Z,"106 km S of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-11-22T23:50:13.050Z,19.4694995880127,-155.595840454102,-1.75,1.70000005,md,10,86,,0.189999998,hv,hv73232177,2022-11-22T23:53:16.400Z,"Island of Hawaii, Hawaii",earthquake,0.41,0.209999993,1.14999998,7,automatic,hv,hv
