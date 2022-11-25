@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-25T07:29:32.552Z,61.652,-150.3372,25,1.7,ml,,,,0.67,ak,ak022f485hzb,2022-11-25T07:32:15.114Z,"15 km NE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-11-25T07:25:07.802Z,36.4245,-116.1143,4.1,1.1,ml,23,158.33,0.138,0.2028,nn,nn00852021,2022-11-25T07:27:41.654Z,"26 km NNW of Pahrump, Nevada",earthquake,,0.9,0.81,16,automatic,nn,nn
 2022-11-25T07:17:03.218Z,61.4746,-149.9158,33.1,1.7,ml,,,,0.83,ak,ak022f482v4h,2022-11-25T07:18:57.204Z,"5 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-25T07:04:30.357Z,34.349,137.4444,320.49,4.4,mb,104,59,0.692,0.67,us,us7000is9w,2022-11-25T07:31:10.040Z,"38 km SSE of Tahara, Japan",earthquake,8.33,6.617,0.061,78,reviewed,us,us
 2022-11-25T06:43:22.518Z,60.4279,-151.0993,19.7,1.9,ml,,,,0.37,ak,ak022f47n1g0,2022-11-25T06:46:32.369Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-25T06:38:30.837Z,60.4077,-143.4861,3.9,1.6,ml,,,,1.01,ak,ak022f47lzor,2022-11-25T06:40:24.667Z,"118 km SSW of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-25T06:16:38.941Z,61.7103,-149.5689,39.9,1.6,ml,,,,0.42,ak,ak022f47hak6,2022-11-25T06:18:54.650Z,"9 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
