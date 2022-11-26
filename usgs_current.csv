@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-26T22:27:23.920Z,19.1870002746582,-155.381332397461,31.0499992370605,1.82000005,md,39,166,,0.129999995,hv,hv73237282,2022-11-26T22:30:51.970Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.970000029,0.50999999,16,automatic,hv,hv
 2022-11-26T22:19:29.140Z,19.2434997558594,-155.398666381836,30.7299995422363,2.43,ml,45,135,,0.140000001,hv,hv73237272,2022-11-26T22:25:00.130Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.600000024,3.37,7,automatic,hv,hv
-2022-11-26T22:16:36.450Z,36.7733345,-121.5025024,8.24,2.43,md,48,47,0.02159,0.15,nc,nc73811886,2022-11-26T22:24:12.578Z,"9km SSE of San Juan Bautista, CA",earthquake,0.28,0.52,0.11,38,automatic,nc,nc
+2022-11-26T22:16:36.450Z,36.7733345,-121.5025024,8.24,2.43,md,48,47,0.02159,0.15,nc,nc73811886,2022-11-26T22:39:10.664Z,"9km SSE of San Juan Bautista, CA",earthquake,0.28,0.52,0.11,38,automatic,nc,nc
 2022-11-26T22:06:19.409Z,59.4814,-155.9307,2.6,2.2,ml,,,,0.55,ak,ak022f64he2c,2022-11-26T22:08:06.802Z,"17 km N of Igiugig, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-26T22:05:11.600Z,62.263,-150.919,66.2,2,ml,,,,0.53,ak,ak022f64h5qw,2022-11-26T22:07:32.932Z,"27 km SSW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-26T21:34:31.930Z,36.7709999,-121.5031662,8,1.79,md,20,98,0.01972,0.13,nc,nc73811881,2022-11-26T22:21:11.564Z,"9km SSE of San Juan Bautista, CA",earthquake,0.4,0.55,0.28,12,automatic,nc,nc
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T16:26:23.391Z,63.5614,-147.4163,8.5,1.5,ml,,,,0.55,ak,ak022f61132b,2022-11-26T16:28:21.683Z,"76 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-26T16:22:43.700Z,33.2048333,-116.358,10.86,0.9,ml,19,81,0.08032,0.19,ci,ci40381264,2022-11-26T16:48:30.138Z,"6km SSE of Borrego Springs, CA",earthquake,0.31,0.6,0.098,14,reviewed,ci,ci
 2022-11-26T16:17:14.920Z,38.4299,-118.3393,8.7,0.6,ml,10,71.25,0.006,0.152,nn,nn00852078,2022-11-26T16:20:46.420Z,"20 km WNW of Mina, Nevada",earthquake,,0.5,0.46,3,automatic,nn,nn
-2022-11-26T16:12:08.850Z,19.2788333892822,-155.41633605957,30.2900009155273,2,md,45,111,,0.170000002,hv,hv73236912,2022-11-26T16:15:15.010Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.74000001,1.42999995,19,automatic,hv,hv
+2022-11-26T16:12:08.850Z,19.2788333892822,-155.41633605957,30.2900009155273,2,md,45,111,,0.170000002,hv,hv73236912,2022-11-26T16:15:15.010Z,"10 km NE of Pāhala, Hawaii",earthquake,0.54,0.74000001,1.42999995,19,automatic,hv,hv
 2022-11-26T16:07:26.064Z,31.68803839,-104.4049837,6.080151367,3,ml,29,44,0.03935489728,0.2,tx,tx2022xeij,2022-11-26T16:36:51.040Z,"54 km S of Whites City, New Mexico",earthquake,0.7620549099,0.6724354489,0.1,18,reviewed,tx,tx
 2022-11-26T16:05:20.960Z,19.1458339691162,-155.44416809082,31.1000003814697,1.99000001,md,40,236,,0.140000001,hv,hv73236907,2022-11-26T16:08:39.500Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.72,1.12,0.270000011,5,automatic,hv,hv
 2022-11-26T15:51:38.850Z,38.831665,-122.8148346,0.75,0.36,md,9,60,0.009057,0.04,nc,nc73811791,2022-11-26T17:37:14.842Z,"8km NW of The Geysers, CA",earthquake,0.37,2.15,,1,automatic,nc,nc
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T23:23:10.140Z,19.382,-155.293666666667,3.98,2.23,md,12,79,,0.13,hv,hv73235882,2022-11-26T04:14:53.420Z,"9 km SW of Volcano, Hawaii",earthquake,0.43,0.59,0.186335851289027,2,reviewed,hv,hv
 2022-11-25T23:12:16.570Z,19.4174995422363,-155.259338378906,1.35000002384186,1.78999996,md,10,112,,0.100000001,hv,hv73235862,2022-11-25T23:15:10.890Z,"3 km SW of Volcano, Hawaii",earthquake,0.25,0.289999992,0.949999988,7,automatic,hv,hv
 2022-11-25T23:09:38.604Z,-55.9598,-27.7237,11.456,5,mb,67,67,5.303,0.55,us,us7000isg7,2022-11-26T00:35:10.040Z,"South Sandwich Islands region",earthquake,9.8,3.786,0.067,72,reviewed,us,us
-2022-11-25T22:37:55.780Z,38.8398323,-122.824501,1.5,0.86,md,11,92,0.008669,0.01,nc,nc73811496,2022-11-25T23:37:14.473Z,"9km WNW of Cobb, CA",earthquake,0.35,0.83,,1,automatic,nc,nc
