@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-27T14:47:54.310Z,38.8376656,-122.8083344,2.1,0.36,md,7,112,0.01407,0,nc,nc73812046,2022-11-27T15:01:10.460Z,"8km WNW of Cobb, CA",earthquake,0.57,1.2,,1,automatic,nc,nc
-2022-11-27T14:45:10.070Z,38.8376656,-122.8081665,2.03,0.85,md,9,81,0.01394,0,nc,nc73812041,2022-11-27T15:03:14.483Z,"8km WNW of Cobb, CA",earthquake,0.32,0.75,,1,automatic,nc,nc
+2022-11-27T15:10:33.234Z,60.447,-152.0309,88.9,1.5,ml,,,,0.15,ak,ak022f7nvl97,2022-11-27T15:11:55.657Z,"40 km WNW of Cohoe, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-11-27T14:47:54.310Z,38.8376656,-122.8083344,2.1,0.36,md,7,112,0.01407,0,nc,nc73812046,2022-11-27T15:14:12.556Z,"8km WNW of Cobb, CA",earthquake,0.57,1.2,,1,automatic,nc,nc
+2022-11-27T14:45:10.070Z,38.8376656,-122.8081665,2.03,0.85,md,9,81,0.01394,0,nc,nc73812041,2022-11-27T15:19:15.584Z,"8km WNW of Cobb, CA",earthquake,0.32,0.75,,1,automatic,nc,nc
 2022-11-27T14:40:23.030Z,65.6973,-154.9286,0,1.9,ml,,,,1.26,ak,ak022f7ngkcp,2022-11-27T14:51:07.221Z,"49 km SW of Hughes, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-27T14:19:43.710Z,19.1685009002686,-155.474670410156,31.3600006103516,1.87,md,28,87,,0.119999997,hv,hv73238537,2022-11-27T14:22:46.060Z,"Hawaii region, Hawaii",earthquake,0.72,1.17999995,0.970000029,7,automatic,hv,hv
 2022-11-27T14:11:02.120Z,33.1585,-116.0166667,3.22,1.56,ml,41,39,0.03591,0.22,ci,ci40381544,2022-11-27T14:14:40.272Z,"11km E of Ocotillo Wells, CA",earthquake,0.3,0.65,0.085,26,automatic,ci,ci
@@ -174,6 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T15:51:38.850Z,38.831665,-122.8148346,0.75,0.36,md,9,60,0.009057,0.04,nc,nc73811791,2022-11-26T17:37:14.842Z,"8km NW of The Geysers, CA",earthquake,0.37,2.15,,1,automatic,nc,nc
 2022-11-26T15:30:15.727Z,38.3765,-115.7718,7,2.3,ml,12,127.59,0.733,0.2081,nn,nn00852075,2022-11-26T23:26:25.854Z,"81 km N of Rachel, Nevada",earthquake,,3.2,0.21,4,reviewed,nn,nn
 2022-11-26T15:28:34.390Z,38.8328323,-122.8166656,2.04,0.36,md,6,89,0.01074,0.02,nc,nc73811781,2022-11-26T17:10:13.674Z,"8km NW of The Geysers, CA",earthquake,0.52,2.18,,1,automatic,nc,nc
-2022-11-26T15:17:36.034Z,31.1923,138.8676,305.443,4.5,mb,76,100,2.079,0.65,us,us7000iski,2022-11-26T17:37:12.040Z,"Izu Islands, Japan region",earthquake,9.18,6.42,0.043,157,reviewed,us,us
-2022-11-26T15:11:25.509Z,-24.6522,-68.9269,126.066,4.1,mb,19,150,0.788,0.71,us,us7000iskg,2022-11-26T17:22:55.040Z,"178 km ENE of Taltal, Chile",earthquake,9.1,7.147,0.522,1,reviewed,us,us
-2022-11-26T15:11:18.450Z,17.9405,-66.9513333333333,10.16,2.14,md,12,217,0.07673,0.07,pr,pr71384098,2022-11-26T15:39:16.060Z,"Puerto Rico",earthquake,0.46,0.67,0.0906292962904218,7,reviewed,pr,pr
