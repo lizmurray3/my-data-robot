@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-28T19:32:54.780Z,19.5028324127197,-155.543167114258,-2.21000003814697,2.54,ml,35,72,,0.230000004,hv,hv73242567,2022-11-28T19:38:25.880Z,"33 km WNW of Volcano, Hawaii",earthquake,0.35,0.50999999,0.1,3,automatic,hv,hv
-2022-11-28T19:29:26.690Z,19.517,-155.547,-0.17,2.58,md,18,90,,0.13,hv,hv73242562,2022-11-28T19:47:34.960Z,"33 km WNW of Volcano, Hawaii",earthquake,0.28,0.68,0.17699963319453,7,reviewed,hv,hv
+2022-11-28T19:47:13.690Z,33.2188333,-116.744,11.27,1.04,ml,34,42,0.02111,0.16,ci,ci40382024,2022-11-28T19:50:45.248Z,"3km SE of Lake Henshaw, CA",earthquake,0.23,0.65,0.1,27,automatic,ci,ci
+2022-11-28T19:32:54.900Z,19.5165,-155.546833333333,0.03,2.8,ml,13,105,,0.12,hv,hv73242567,2022-11-28T19:57:44.350Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.65,0.238460914041742,4,reviewed,hv,hv
+2022-11-28T19:29:26.690Z,19.517,-155.547,-0.17,2.89,ml,18,90,,0.13,hv,hv73242562,2022-11-28T19:50:01.690Z,"33 km WNW of Volcano, Hawaii",earthquake,0.28,0.68,0.0222696477345146,3,reviewed,hv,hv
 2022-11-28T19:27:27.450Z,19.469165802002,-155.512329101562,1.86000001430511,2.0999999,md,15,105,,0.330000013,hv,hv73242557,2022-11-28T19:33:08.840Z,"Island of Hawaii, Hawaii",earthquake,0.74,1.63,0.689999998,3,automatic,hv,hv
 2022-11-28T19:21:54.910Z,19.4956666666667,-155.480166666667,-0.05,2.15,ml,13,118,,0.13,hv,hv73242537,2022-11-28T19:37:36.630Z,"26 km WNW of Volcano, Hawaii",earthquake,0.34,0.92,0.115539180235638,6,reviewed,hv,hv
 2022-11-28T19:21:51.250Z,33.2188333,-116.7485,9.49,1.48,ml,42,34,0.01914,0.2,ci,ci40382016,2022-11-28T19:25:35.120Z,"3km SSE of Lake Henshaw, CA",earthquake,0.25,0.61,0.147,26,automatic,ci,ci
@@ -305,7 +306,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T20:19:54.770Z,19.0645,-65.4598,44,3.62,md,16,286,0.7775,0.17,pr,pr2022331002,2022-11-27T20:53:03.365Z,"Puerto Rico region",earthquake,1.49,4.86,0.09,4,reviewed,pr,pr
 2022-11-27T20:05:40.470Z,46.19983333333333,-122.20083333333334,1.62,0.55,ml,12,99,0.006929,0.28,uw,uw61896326,2022-11-28T19:43:23.960Z,"Washington",earthquake,0.57,0.38,0.21791763133162245,7,reviewed,uw,uw
 2022-11-27T19:58:42.492Z,39.5316,74.3448,10,4.9,mb,52,43,1.808,1.07,us,us7000issn,2022-11-27T20:28:27.102Z,"141 km W of Kashgar, China",earthquake,5.5,1.865,0.066,73,reviewed,us,us
-2022-11-27T19:56:33.941Z,64.7815,-147.8496,25.8,2.7,ml,,,,0.82,ak,ak022f7qj6no,2022-11-28T08:37:32.605Z,"4 km SW of South Van Horn, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2022-11-27T19:56:33.456Z,60.0582,-151.2337,39.9,1.8,ml,,,,0.55,ak,ak022f7qj6mp,2022-11-27T19:58:15.269Z,"21 km SSE of Clam Gulch, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-11-27T19:55:01.163Z,51.5244,-175.6184,56.966,4.8,mb,22,148,0.632,0.8,us,us7000issm,2022-11-27T21:59:29.324Z,"80 km ESE of Adak, Alaska",earthquake,6.39,8.538,0.121,21,reviewed,us,us
-2022-11-27T19:48:15.765Z,59.8738,-151.9463,41.3,1.6,ml,,,,0.15,ak,ak022f7qhfjc,2022-11-27T19:49:24.365Z,"12 km NNW of Anchor Point, Alaska",earthquake,,5.1,,,automatic,ak,ak
