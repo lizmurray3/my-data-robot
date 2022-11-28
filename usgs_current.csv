@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-28T07:15:32.684Z,61.3233,-151.3365,64.6,2.5,ml,,,,0.34,ak,ak022f96ojg4,2022-11-28T07:17:01.156Z,"24 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-11-28T07:14:23.700Z,19.2573337554932,-155.398330688477,31.7600002288818,2.42,ml,46,128,,0.129999995,hv,hv73240667,2022-11-28T07:19:54.610Z,"10 km NE of Pāhala, Hawaii",earthquake,0.49,0.639999986,3.64,20,automatic,hv,hv
 2022-11-28T06:49:27.250Z,35.7138333,-117.5798333,7.07,1.06,ml,13,144,0.1027,0.14,ci,ci40381808,2022-11-28T06:52:58.924Z,"14km NE of Ridgecrest, CA",earthquake,0.47,0.83,0.074,10,automatic,ci,ci
 2022-11-28T06:45:27.080Z,60.0356,-139.3581,7.8,2.1,ml,,,,1.05,ak,ak022f969iwb,2022-11-28T06:48:05.140Z,"Southern Yukon Territory, Canada",earthquake,,0.3,,,automatic,ak,ak
 2022-11-28T06:35:10.700Z,34.0751667,-117.2708333,14.82,0.94,ml,31,48,0.1191,0.19,ci,ci40381800,2022-11-28T06:38:47.339Z,"3km NNW of Loma Linda, CA",earthquake,0.26,0.6,0.14,27,automatic,ci,ci
@@ -145,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T12:07:56.180Z,36.7731667,-121.354332,5.03,1.99,md,18,176,0.06588,0.09,nc,nc73812016,2022-11-27T12:40:12.613Z,"4km WSW of Tres Pinos, CA",earthquake,0.53,1.02,0.21,20,automatic,nc,nc
 2022-11-27T11:53:55.504Z,62.047,-150.7051,12.8,1.6,ml,,,,0.08,ak,ak022f7lr4ce,2022-11-27T11:55:11.046Z,"36 km E of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-27T11:50:27.260Z,33.686,-116.7235,15.33,1.87,ml,22,67,0.02628,0.12,ci,ci40381496,2022-11-27T17:12:36.259Z,"6km S of Idyllwild, CA",earthquake,0.29,0.43,0.095,4,reviewed,ci,ci
-2022-11-27T11:49:45.080Z,33.1623333,-116.0223333,2.37,2.63,ml,59,30,0.03902,0.23,ci,ci40381488,2022-11-28T00:30:32.346Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.25,0.65,0.081,25,automatic,ci,ci
+2022-11-27T11:49:45.080Z,33.1623333,-116.0223333,2.37,2.63,ml,59,30,0.03902,0.23,ci,ci40381488,2022-11-28T07:09:36.095Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.25,0.65,0.081,25,automatic,ci,ci
 2022-11-27T11:37:25.383Z,-1.7041,99.9436,28.318,4.5,mb,27,152,2.295,0.38,us,us7000isqv,2022-11-27T11:59:34.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,7.25,6.451,0.156,12,reviewed,us,us
 2022-11-27T11:32:06.828Z,35.28939056,-98.0100708,3.182593107,1.54,ml,11,71.17156982,0.08926987648,0.6807143796,ok,ok2022xfuv,2022-11-27T14:07:37.256Z,"6 km WSW of Minco, Oklahoma",earthquake,3.959782926,2.714268222,,7,automatic,ok,ok
 2022-11-27T11:24:39.391Z,61.7298,-149.7224,29.5,2,ml,,,,0.52,ak,ak022f7lkvc3,2022-11-27T11:26:50.787Z,"12 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
