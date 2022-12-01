@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-01T23:50:46.070Z,38.8181648,-122.7659988,1.72,0.76,md,11,106,0.01248,0.02,nc,nc73813606,2022-12-01T23:52:23.818Z,"4km W of Cobb, CA",earthquake,0.32,0.6,0.13,12,automatic,nc,nc
+2022-12-01T23:49:10.420Z,36.9676666,-121.6125031,4.93,1.02,md,4,168,0.05396,0,nc,nc73813601,2022-12-01T23:50:43.512Z,"6km SW of Gilroy, CA",earthquake,0.6,3.16,0.18,4,automatic,nc,nc
+2022-12-01T23:47:26.995Z,62.6421,-151.6658,96,1.7,ml,,,,0.34,ak,ak022fef0d2z,2022-12-01T23:49:51.607Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-01T23:40:54.210Z,17.954,-66.9463333333333,9.24,2.21,md,5,209,0.06719,0.07,pr,pr71384983,2022-12-01T23:47:25.550Z,"Puerto Rico",earthquake,0.6,0.74,0.0179220826587154,4,reviewed,pr,pr
 2022-12-01T23:38:36.779Z,61.6708,-149.9934,33.6,1.7,ml,,,,0.53,ak,ak022feeyge5,2022-12-01T23:40:36.569Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-01T23:30:49.730Z,32.713,-116.6555,17.4,1.11,ml,22,67,0.03573,0.21,ci,ci40383408,2022-12-01T23:34:26.296Z,"16km N of Tecate, B.C., MX",earthquake,0.46,0.68,0.189,18,automatic,ci,ci
+2022-12-01T23:29:33.084Z,26.8771,55.1587,10,4.2,mb,48,64,2.142,0.87,us,us6000j66u,2022-12-01T23:50:52.040Z,"southern Iran",earthquake,3.87,1.927,0.086,38,reviewed,us,us
 2022-12-01T22:54:58.040Z,17.9311666666667,-66.9318333333333,8.03,2.39,md,4,242,0.06641,0.1,pr,pr71384978,2022-12-01T23:15:16.510Z,"Puerto Rico region",earthquake,0.77,1.67,0.126846852029239,4,reviewed,pr,pr
 2022-12-01T22:31:27.435Z,60.0443,-151.7159,38.6,2.1,ml,,,,0.61,ak,ak022feebi1z,2022-12-01T22:33:15.590Z,"2 km WSW of Ninilchik, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2022-12-01T22:27:26.380Z,38.8330002,-122.8105011,1.65,0.95,md,23,44,0.009597,0.01,nc,nc73813591,2022-12-01T22:45:11.764Z,"8km W of Cobb, CA",earthquake,0.19,0.41,0.15,24,automatic,nc,nc
@@ -263,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T00:21:14.970Z,58.1806666666667,-155.288333333333,1.75,-0.56,ml,4,155,,0.07,av,av91078163,2022-12-01T22:03:21.030Z,"84 km NW of Karluk, Alaska",earthquake,0.34,1.01,0.227228644912362,4,reviewed,av,av
 2022-12-01T00:09:03.300Z,33.6056667,-116.8048333,7.02,0.58,ml,27,45,0.03603,0.2,ci,ci40382912,2022-12-01T16:19:14.201Z,"13km WNW of Anza, CA",earthquake,0.26,0.54,0.152,9,reviewed,ci,ci
 2022-12-01T00:07:16.960Z,19.1651668548584,-155.49299621582,35.2599983215332,2.25,md,32,114,,0.109999999,hv,hv73248067,2022-12-01T00:10:39.990Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.61,1.03999996,0.75999999,16,automatic,hv,hv
-2022-11-30T23:56:49.560Z,38.8355,-122.7885,2.18,0.3,md,5,119,0.003242,0.01,nc,nc73813271,2022-12-01T01:40:14.459Z,"6km WNW of Cobb, CA",earthquake,0.88,0.95,0.269,2,reviewed,nc,nc
-2022-11-30T23:56:30.980Z,60.9531,-147.0017,21.4,0.8,ml,,,,0.46,ak,ak022fcriwxh,2022-12-01T01:53:39.642Z,"20 km WNW of Tatitlek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
