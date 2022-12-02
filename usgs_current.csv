@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T10:27:30.552Z,61.5341,-141.6422,0.9,1.9,ml,,,,0.41,ak,ak022ffuosnz,2022-12-02T10:29:18.683Z,"69 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-02T10:04:36.000Z,60.1701,-152.7057,97.5,1.7,ml,,,,0.58,ak,ak022ffujvm8,2022-12-02T10:06:15.031Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-02T10:00:11.730Z,19.0268325805664,-155.413162231445,32.4799995422363,1.89999998,md,24,209,,0.140000001,hv,hv73251797,2022-12-02T10:03:28.470Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.74,1.22000003,0.629999995,3,automatic,hv,hv
 2022-12-02T09:56:35.620Z,19.3953342437744,-155.276672363281,1.53999996185303,2.21,ml,20,45,,0.150000006,hv,hv73251792,2022-12-02T10:02:05.720Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.219999999,0.3,8,automatic,hv,hv
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T08:55:15.079Z,-0.0254,123.2367,155.166,5,mb,91,44,1.112,0.62,us,us6000j696,2022-12-02T09:11:50.040Z,"Sulawesi, Indonesia",earthquake,7.87,6.74,0.073,60,reviewed,us,us
 2022-12-02T08:49:33.336Z,12.8988,-88.8052,57.762,4.2,mb,41,119,0.736,0.87,us,us6000j694,2022-12-02T09:07:56.040Z,"50 km SSW of Puerto El Triunfo, El Salvador",earthquake,6.43,5.819,0.113,22,reviewed,us,us
 2022-12-02T08:46:33.653Z,2.5542,-79.9364,10,4.5,mb,29,138,2.82,1.04,us,us6000j695,2022-12-02T09:04:24.040Z,"152 km WNW of Tumaco, Colombia",earthquake,3.61,1.942,0.172,10,reviewed,us,us
-2022-12-02T08:40:50.290Z,38.8344994,-122.8119965,1.97,0.76,md,15,54,0.01119,0.02,nc,nc73813756,2022-12-02T08:58:12.425Z,"8km W of Cobb, CA",earthquake,0.25,0.63,0.27,17,automatic,nc,nc
+2022-12-02T08:40:50.290Z,38.8344994,-122.8119965,1.97,0.76,md,15,54,0.01119,0.02,nc,nc73813756,2022-12-02T10:19:10.874Z,"8km W of Cobb, CA",earthquake,0.25,0.63,0.27,17,automatic,nc,nc
 2022-12-02T08:34:43.190Z,33.7356667,-116.1123333,3,1.04,ml,33,87,0.08967,0.18,ci,ci40383560,2022-12-02T08:38:14.301Z,"8km NE of Coachella, CA",earthquake,0.23,0.63,0.176,27,automatic,ci,ci
 2022-12-02T08:17:27.033Z,63.56,-150.8899,0,1.8,ml,,,,0.85,ak,ak022fftfs0p,2022-12-02T08:20:28.225Z,"41 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-02T08:16:16.490Z,36.5838318,-121.2231674,-0.12,1.47,md,7,124,0.03272,0.09,nc,nc73813751,2022-12-02T09:52:10.720Z,"9km NW of Pinnacles, CA",earthquake,0.43,1.14,0.23,6,automatic,nc,nc
@@ -267,7 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T10:37:01.120Z,17.9511666666667,-66.8908333333333,13.15,2.59,md,16,207,0.02619,0.27,pr,pr71384878,2022-12-01T11:11:38.420Z,"2 km SE of Guánica, Puerto Rico",earthquake,0.92,0.48,0.0800660085726448,8,reviewed,pr,pr
 2022-12-01T10:34:32.060Z,19.4508333333333,-155.602333333333,-0.95,1.22,md,8,93,,0.09,hv,hv73249157,2022-12-02T05:23:51.860Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.28,0.139961044861606,4,reviewed,hv,hv
 2022-12-01T10:32:47.284Z,37.0726,-115.7643,5.8,0,ml,5,302.18,0.156,0.0234,nn,nn00852387,2022-12-01T19:17:35.342Z,"56 km N of Indian Springs, Nevada",earthquake,,34.7,0.18,2,reviewed,nn,nn
-2022-12-01T10:27:13.220Z,19.1176662445068,-155.391006469727,30.1700000762939,1.94000006,md,45,187,,0.119999997,hv,hv73249132,2022-12-01T10:30:28.830Z,"13 km SE of Pāhala, Hawaii",earthquake,0.58,1.09000003,1.34000003,16,automatic,hv,hv
-2022-12-01T10:26:27.290Z,38.8058333,-122.8063333,1.54,1.09,md,35,50,0.008878,0.04,nc,nc73813396,2022-12-01T18:40:12.552Z,"5km NW of The Geysers, CA",earthquake,0.12,0.22,0.179,7,reviewed,nc,nc
-2022-12-01T10:19:30.002Z,62.4942,-151.4569,91.5,2.2,ml,,,,0.61,ak,ak022fe73qeg,2022-12-01T10:21:50.160Z,"35 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-01T10:12:50.940Z,19.24049949646,-155.393325805664,30.7999992370605,2,md,40,139,,0.170000002,hv,hv73249117,2022-12-01T10:16:05.750Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.75,0.910000026,0.119999997,9,automatic,hv,hv
