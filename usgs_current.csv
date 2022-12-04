@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-04T15:29:56.060Z,19.0611667633057,-155.392837524414,33.2999992370605,1.94000006,md,43,202,,0.109999999,hv,hv73258507,2022-12-04T15:33:15.260Z,"18 km SSE of Pāhala, Hawaii",earthquake,0.76,1.22000003,0.959999979,8,automatic,hv,hv
+2022-12-04T15:28:36.102Z,64.5968,-148.745,22.7,1.2,ml,,,,0.32,ak,ak022fj8qvtm,2022-12-04T15:30:06.259Z,"17 km ENE of Nenana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-04T15:02:49.778Z,-6.0729,112.7375,598.779,4.9,mb,83,31,2.48,0.86,us,us6000j6uw,2022-12-04T15:20:27.040Z,"97 km NNE of Paciran, Indonesia",earthquake,9.83,7.013,0.053,113,reviewed,us,us
 2022-12-04T14:52:53.150Z,39.1044998,-123.0058365,6.05,1.88,md,12,94,,0.03,nc,nc73814476,2022-12-04T15:25:13.234Z,"9km WNW of North Lakeport, CA",earthquake,0.26,0.75,0.09,11,automatic,nc,nc
 2022-12-04T14:52:50.587Z,38.5158,-119.5376,3.2,1.4,ml,10,127.99,0.071,0.2431,nn,nn00852552,2022-12-04T14:57:43.626Z,"5 km W of Walker, California",earthquake,,0.7,0.35,6,automatic,nn,nn
@@ -46,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T09:53:11.789Z,-1.0366,10.2177,3.623,5.5,mww,110,21,4.784,0.63,us,us6000j6u0,2022-12-04T13:30:47.977Z,"37 km S of Lambaréné, Gabon",earthquake,8.55,0.693,0.071,19,reviewed,us,us
 2022-12-04T09:47:05.790Z,19.2425003051758,-155.390838623047,28.6800003051758,1.78999996,md,38,146,,0.119999997,hv,hv73257797,2022-12-04T09:50:20.860Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.55,0.829999983,1.22000003,6,automatic,hv,hv
 2022-12-04T09:41:38.020Z,35.041,-119.0001667,9.83,2.2,ml,41,48,0.1637,0.26,ci,ci40141887,2022-12-04T09:52:44.590Z,"13km NNW of Grapevine, CA",earthquake,0.36,0.98,0.158,27,automatic,ci,ci
-2022-12-04T09:29:38.660Z,19.3858337402344,-155.283996582031,0.740000009536743,1.7,ml,16,68,,0.200000003,hv,hv73257762,2022-12-04T09:35:09.630Z,"Hawaii region, Hawaii",earthquake,0.27,0.209999993,0.14,7,automatic,hv,hv
+2022-12-04T09:29:38.660Z,19.3858337402344,-155.283996582031,0.740000009536743,1.7,ml,16,68,,0.200000003,hv,hv73257762,2022-12-04T09:35:09.630Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.209999993,0.14,7,automatic,hv,hv
 2022-12-04T09:25:07.437Z,62.9063,-150.9414,106.6,1.9,ml,,,,0.41,ak,ak022fj55krh,2022-12-04T09:26:34.860Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-12-04T08:56:42.175Z,64.6609,-149.0743,18.9,1.1,ml,,,,0.7,ak,ak022fj4qv48,2022-12-04T09:00:51.092Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-04T08:40:22.210Z,19.4710006713867,-155.598831176758,-1.26999998092651,1.73000002,md,10,96,,0.219999999,hv,hv73257662,2022-12-04T08:43:11.310Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.61,0.360000014,0.49000001,8,automatic,hv,hv
@@ -184,6 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T15:52:18.970Z,38.774334,-122.7125015,2.03,0.95,md,4,214,0.01203,0,nc,nc73814216,2022-12-03T16:24:13.883Z,"2km W of Anderson Springs, CA",earthquake,1.47,2.88,0.21,5,automatic,nc,nc
 2022-12-03T15:51:28.815Z,60.4594,-147.342,16.8,1.5,ml,,,,0.74,ak,ak022fhlcg8h,2022-12-03T15:53:37.911Z,"57 km NE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-03T15:49:26.270Z,19.1480007171631,-155.369338989258,27.4699993133545,2.16000009,md,47,182,,0.119999997,hv,hv73255507,2022-12-03T15:52:45.200Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.56,0.930000007,0.970000029,16,automatic,hv,hv
-2022-12-03T15:38:49.150Z,19.4776666666667,-155.582333333333,-0.92,1.96,md,8,127,,0.08,hv,hv73255482,2022-12-04T03:06:13.450Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.23,0.148641696339993,5,reviewed,hv,hv
-2022-12-03T15:37:53.738Z,61.2339,-147.3702,4.1,1.2,ml,,,,1.51,ak,ak022fhl9i4t,2022-12-03T15:40:28.501Z,"55 km NW of Tatitlek, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-12-03T15:31:21.240Z,17.9956666666667,-66.6321666666667,19.13,2.24,md,23,173,0.05298,0.09,pr,pr71385358,2022-12-03T15:56:25.230Z,"Puerto Rico",earthquake,0.32,0.19,0.304230899807488,10,reviewed,pr,pr
