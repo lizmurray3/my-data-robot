@@ -205,6 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T12:16:14.580Z,19.45,-155.594,-1.06,1.27,md,7,94,,0.12,hv,hv73258112,2022-12-04T13:39:23.170Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.3,0.38,0.267602320724611,5,reviewed,hv,hv
 2022-12-04T12:08:15.840Z,19.5805,-155.503166666667,-3.07,1.94,md,13,98,,0.17,hv,hv73258097,2022-12-04T13:43:03.230Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.27,0.164887811271194,2,reviewed,hv,hv
 2022-12-04T11:51:41.185Z,59.8847,-152.0923,90.6,1.7,ml,,,,0.61,ak,ak022fj6i39i,2022-12-04T11:53:57.137Z,"18 km NW of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
-2022-12-04T11:41:27.158Z,38.5355,-119.5276,6.4,1.4,ml,17,73.9,0.051,0.1572,nn,nn00852544,2022-12-04T21:46:01.275Z,"California-Nevada border region",earthquake,,0.9,0.15,4,reviewed,nn,nn
-2022-12-04T11:38:55.454Z,61.1262,-147.379,11.9,1.1,ml,,,,0.45,ak,ak022fj6fbf5,2022-12-04T20:46:42.742Z,"47 km NW of Tatitlek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2022-12-04T11:38:27.310Z,19.4556666666667,-155.599,-1.01,1.68,md,10,77,,0.13,hv,hv73258042,2022-12-04T13:51:07.820Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.28,0.189975223920028,5,reviewed,hv,hv
