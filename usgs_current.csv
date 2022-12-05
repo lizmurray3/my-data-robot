@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T03:44:33.255Z,61.6481,-149.8807,35,2.1,ml,,,,0.29,ak,ak022fkp8gal,2022-12-05T03:45:50.640Z,"3 km WNW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-05T03:29:03.460Z,19.1841659545898,-155.496337890625,33.810001373291,2.22,ml,46,88,,0.129999995,hv,hv73259502,2022-12-05T03:36:15.040Z,"2 km SW of Pāhala, Hawaii",earthquake,0.57,0.790000021,3.29,7,automatic,hv,hv
 2022-12-05T03:27:06.440Z,38.8160019,-122.795166,2.51,0.85,md,18,50,0.008023,0.02,nc,nc73814641,2022-12-05T03:44:11.841Z,"6km NW of The Geysers, CA",earthquake,0.26,0.53,0.16,17,automatic,nc,nc
-2022-12-05T03:20:59.390Z,37.4749985,-118.6080017,10.09,2.71,md,20,86,0.1267,0.04,nc,nc73814636,2022-12-05T04:43:10.200Z,"7km N of Round Valley, CA",earthquake,0.43,1.92,0.17,25,automatic,nc,nc
+2022-12-05T03:20:59.510Z,37.4771667,-118.6121667,8.43,2.63,md,30,55,0.1298,0.06,nc,nc73814636,2022-12-05T05:25:31.220Z,"7km N of Round Valley, CA",earthquake,0.3,1.19,0.187,44,reviewed,nc,nc
 2022-12-05T03:19:01.340Z,35.0175,-118.3845,6.46,1.1,ml,18,67,0.0443,0.21,ci,ci40142095,2022-12-05T03:22:38.523Z,"14km SSE of Tehachapi, CA",earthquake,0.43,0.76,0.176,20,automatic,ci,ci
 2022-12-05T03:15:32.170Z,33.983,-117.1473333,15.97,1.63,ml,56,42,0.1297,0.21,ci,ci40142087,2022-12-05T03:25:47.310Z,"9km SSE of Redlands, CA",earthquake,0.25,0.6,0.179,25,automatic,ci,ci
 2022-12-05T03:15:23.832Z,62.3799,-143.2247,151.6,1.9,ml,,,,0.8,ak,ak022fkp27sv,2022-12-05T03:27:50.094Z,"10 km W of Nabesna, Alaska",earthquake,,6.8,,,automatic,ak,ak
@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T05:55:09.350Z,17.9598333333333,-66.9453333333333,7.96,2.47,md,5,200,0.06469,0.2,pr,pr71385473,2022-12-04T06:53:45.680Z,"Puerto Rico region",earthquake,0.99,2.06,0.0390387099296898,3,reviewed,pr,pr
 2022-12-04T05:48:53.870Z,33.5095,-116.4478333,5.96,0.6,ml,25,56,0.08436,0.2,ci,ci40141711,2022-12-04T05:52:28.393Z,"21km SW of La Quinta, CA",earthquake,0.35,1.03,0.151,13,automatic,ci,ci
 2022-12-04T05:35:17.030Z,19.4671666666667,-155.6095,-1.1,2.06,ml,12,88,,0.15,hv,hv73257257,2022-12-05T02:47:04.290Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.41,0.166610972680401,3,reviewed,hv,hv
-2022-12-04T05:28:48.350Z,18.141,-67.2855,16.77,3.08,md,20,197,0.1413,0.15,pr,pr71385468,2022-12-04T06:43:02.890Z,"Mona Passage",earthquake,0.45,0.38,0.133675747476991,8,reviewed,pr,pr
-2022-12-04T05:27:22.796Z,63.4949,-146.3504,13.3,1.1,ml,,,,0.47,ak,ak022fj2sb13,2022-12-04T05:29:29.107Z,"58 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
