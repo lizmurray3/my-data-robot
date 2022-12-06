@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T23:28:50.690Z,37.3564987,-121.7166672,8.2,1.47,md,18,56,0.04469,0.06,nc,nc73814946,2022-12-06T01:53:18.694Z,"10km E of Alum Rock, CA",earthquake,0.25,0.85,0.17,12,automatic,nc,nc
 2022-12-05T23:25:41.580Z,17.9105,-66.8556666666667,16.7,2.38,md,15,229,0.06802,0.11,pr,pr71385693,2022-12-05T23:43:38.240Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.48,0.42,0.190385367524052,10,reviewed,pr,pr
 2022-12-05T23:18:00.306Z,60.1315,-153.1349,125.6,1.9,ml,,,,0.41,ak,ak022fl0zh8e,2022-12-05T23:20:28.225Z,"66 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-05T23:13:16.670Z,37.3246651,-121.6886673,6.9,3.59,mw,80,38,,0.06,nc,nc73814941,2022-12-06T04:34:29.410Z,"13km ESE of Alum Rock, CA",earthquake,0.13,0.28,,3,reviewed,nc,nc
+2022-12-05T23:13:16.670Z,37.3246651,-121.6886673,6.9,3.59,mw,80,38,,0.06,nc,nc73814941,2022-12-06T04:45:22.690Z,"13km ESE of Alum Rock, CA",earthquake,0.13,0.28,,3,reviewed,nc,nc
 2022-12-05T23:10:23.150Z,39.4441666666667,-92.2526666666667,1.37,2.59,md,11,118,0.1798,0.23,nm,nm60500173,2022-12-06T03:03:17.014Z,"4 km SW of Madison, Missouri",earthquake,0.54,2.03,0.141610184938956,5,reviewed,nm,nm
 2022-12-05T23:06:09.350Z,19.4236660003662,-155.276000976562,0.259999990463257,1.90999997,md,13,91,,0.140000001,hv,hv73260862,2022-12-05T23:08:57.220Z,"Hawaii region, Hawaii",earthquake,0.24,0.289999992,1.40999997,10,automatic,hv,hv
 2022-12-05T23:05:01.920Z,33.4803333,-116.5828333,7.37,0.48,ml,16,89,0.02162,0.16,ci,ci40142415,2022-12-06T02:30:32.527Z,"12km SE of Anza, CA",earthquake,0.41,0.47,0.212,13,automatic,ci,ci
@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T05:04:32.354Z,40.0799,-119.6685,12.5,0.1,ml,3,177.76,0.103,0.0197,nn,nn00852669,2022-12-05T23:50:01.468Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,6.6,0.11,2,reviewed,nn,nn
 2022-12-05T05:02:51.356Z,61.6794,-149.8279,27.8,2.2,ml,,,,0.54,ak,ak022fkq6ctr,2022-12-05T05:04:32.638Z,"5 km N of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-05T05:01:12.080Z,35.5011667,-119.4556667,27.15,1.38,ml,29,76,0.1256,0.21,ci,ci40142143,2022-12-05T18:25:02.230Z,"11km N of Buttonwillow, CA",earthquake,0.38,0.52,0.209,14,reviewed,ci,ci
-2022-12-05T04:44:43.670Z,38.7943344,-122.75383,1.38,1.09,md,12,89,0.007783,0.02,nc,nc73814671,2022-12-05T05:08:13.349Z,"2km N of The Geysers, CA",earthquake,0.28,0.53,0.13,15,automatic,nc,nc
