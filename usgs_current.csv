@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T06:03:03.220Z,32.8348333,-116.0415,10.3,2.57,ml,64,43,0.06353,0.25,ci,ci40143903,2022-12-10T01:00:14.020Z,"12km NNW of Ocotillo, CA",earthquake,0.23,0.54,0.156,26,reviewed,ci,ci
 2022-12-09T06:02:24.350Z,51.8975,-178.404333333333,16.82,1.99,ml,10,191,,0.17,av,av91079158,2022-12-10T00:04:10.870Z,"121 km W of Adak, Alaska",earthquake,1.11,1.47,0.140330156458314,10,reviewed,av,av
 2022-12-09T05:57:08.199Z,38.3713,-118.3406,7.7,0.6,ml,8,160.11,0.053,0.0805,nn,nn00853067,2022-12-10T02:41:24.908Z,"20 km W of Mina, Nevada",earthquake,,2.8,0,1,reviewed,nn,nn
-2022-12-09T05:46:06.519Z,62.2318,-153.1355,10.8,1.4,ml,,,,0.49,ak,ak022frcl2z9,2022-12-09T06:34:14.388Z,"94 km WNW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
