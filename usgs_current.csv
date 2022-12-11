@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-11T21:08:33.049Z,38.1575,-117.8696,9.6,2.3,ml,18,128.15,0.073,0.355,nn,nn00853171,2022-12-11T21:11:58.744Z,"33 km SE of Mina, Nevada",earthquake,,0.3,0.3,10,automatic,nn,nn
 2022-12-11T21:06:15.250Z,33.6746667,-116.725,14.65,0.76,ml,21,80,0.03751,0.16,ci,ci40144639,2022-12-11T21:09:48.581Z,"7km S of Idyllwild, CA",earthquake,0.43,0.51,0.245,15,automatic,ci,ci
 2022-12-11T20:59:30.030Z,34.0441667,-116.698,10.22,1.26,ml,32,47,0.04194,0.19,ci,ci40144631,2022-12-11T21:02:59.195Z,"11km W of Morongo Valley, CA",earthquake,0.24,0.62,0.229,28,automatic,ci,ci
 2022-12-11T20:58:56.850Z,34.0468333,-116.7038333,10.67,1.64,ml,55,37,0.04714,0.22,ci,ci40144623,2022-12-11T21:09:50.090Z,"11km W of Morongo Valley, CA",earthquake,0.23,0.44,0.162,27,automatic,ci,ci
-2022-12-11T20:56:41.855Z,64.977,-164.4183,1,3.9,ml,,,,0.94,ak,ak022fuwnhsp,2022-12-11T21:08:31.133Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-11T20:56:41.855Z,64.977,-164.4183,1,3.9,ml,,,,0.94,ak,ak022fuwnhsp,2022-12-11T21:22:49.040Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-11T20:49:15.670Z,38.7879982,-122.7496643,0.01,1.43,md,14,136,0.02135,0.05,nc,nc73817431,2022-12-11T21:00:10.431Z,"1km NNE of The Geysers, CA",earthquake,0.27,0.81,0.19,14,automatic,nc,nc
 2022-12-11T20:34:59.530Z,38.7869987,-122.7513351,0.1,1.72,md,15,126,0.01202,0.03,nc,nc73817416,2022-12-11T21:08:10.482Z,"1km NNE of The Geysers, CA",earthquake,0.22,0.43,0.2,17,automatic,nc,nc
 2022-12-11T20:20:48.800Z,38.7885017,-122.7661667,2.11,1.07,md,19,81,0.01311,0.03,nc,nc73817401,2022-12-11T20:38:12.443Z,"2km NW of The Geysers, CA",earthquake,0.29,0.52,0.2,18,automatic,nc,nc
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T17:41:01.840Z,38.7851677,-122.732666,2.02,1.07,md,12,155,0.003712,0.02,nc,nc73817371,2022-12-11T19:01:11.721Z,"2km ENE of The Geysers, CA",earthquake,0.45,0.69,0.17,11,automatic,nc,nc
 2022-12-11T17:31:52.290Z,38.8168335,-122.7973328,2.47,0.28,md,8,160,0.008993,0.01,nc,nc73817366,2022-12-11T18:09:11.361Z,"6km NW of The Geysers, CA",earthquake,0.63,1.21,0.08,9,automatic,nc,nc
 2022-12-11T17:28:07.940Z,38.802166,-122.7741699,1.07,0.72,md,7,91,0.0114,0.02,nc,nc73817361,2022-12-11T17:57:12.291Z,"3km NNW of The Geysers, CA",earthquake,0.45,0.83,0.03,8,automatic,nc,nc
-2022-12-11T17:23:13.100Z,19.3361663818359,-155.119338989258,2.40000009536743,2.09,ml,39,120,,0.270000011,hv,hv73266532,2022-12-11T17:28:44.590Z,"14 km S of Fern Forest, Hawaii",earthquake,0.49,0.790000021,3.06,9,automatic,hv,hv
+2022-12-11T17:23:13.170Z,19.3353333333333,-155.122833333333,3,2.41,md,40,116,,0.23,hv,hv73266532,2022-12-11T21:12:39.110Z,"Island of Hawaii, Hawaii",earthquake,0.45,0.96,0.138592092670052,13,reviewed,hv,hv
 2022-12-11T17:19:43.445Z,44.1828,-129.2644,10,4,mb,36,215,3.79,0.41,us,us6000j8mi,2022-12-11T20:40:14.226Z,"off the coast of Oregon",earthquake,9.01,2.003,0.102,27,reviewed,us,us
 2022-12-11T17:16:10.290Z,38.7998352,-122.7713318,1.21,1.33,md,25,82,0.009114,0.02,nc,nc73817351,2022-12-11T18:09:12.361Z,"3km NNW of The Geysers, CA",earthquake,0.2,0.3,0.17,24,automatic,nc,nc
 2022-12-11T17:15:39.777Z,-60.2867,-27.0641,35,4.9,mb,22,194,7.886,0.67,us,us6000j8mk,2022-12-11T17:43:52.040Z,"South Sandwich Islands region",earthquake,15.24,1.987,0.106,30,reviewed,us,us
