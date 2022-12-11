@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-11T13:59:52.980Z,38.7876663,-122.7468338,1.52,1.2,md,14,139,0.009054,0.02,nc,nc73817281,2022-12-11T14:17:18.938Z,"1km NE of The Geysers, CA",earthquake,0.29,0.47,0.15,13,automatic,nc,nc
+2022-12-11T14:24:44.369Z,60.0896,-152.539,98.7,1.8,ml,,,,0.36,ak,ak022fusw1g4,2022-12-11T14:26:52.241Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
+2022-12-11T14:12:43.600Z,31.0219,141.8004,10,4.9,mb,50,122,2.683,0.68,us,us6000j8lk,2022-12-11T14:32:58.040Z,"Izu Islands, Japan region",earthquake,10.74,1.886,0.059,92,reviewed,us,us
+2022-12-11T13:59:52.980Z,38.7876663,-122.7468338,1.52,1.2,md,14,139,0.009054,0.02,nc,nc73817281,2022-12-11T14:35:19.042Z,"1km NE of The Geysers, CA",earthquake,0.29,0.47,0.15,13,automatic,nc,nc
 2022-12-11T13:54:30.700Z,61.2474,-149.9259,34.1,1.5,ml,,,,0.65,ak,ak022fush08a,2022-12-11T14:23:16.566Z,"3 km NNW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-11T13:38:31.480Z,38.7858315,-122.7494965,0.2,1.06,md,9,123,0.01031,0.02,nc,nc73817276,2022-12-11T14:10:13.898Z,"1km NNE of The Geysers, CA",earthquake,0.29,0.54,0.06,9,automatic,nc,nc
-2022-12-11T13:37:37.920Z,18.0076666666667,-66.7691666666667,11.97,2.53,md,23,160,0.005137,0.2,pr,pr71386638,2022-12-11T14:16:09.290Z,"1 km S of Magas Arriba, Puerto Rico",earthquake,0.41,0.36,0.241379979752392,12,reviewed,pr,pr
+2022-12-11T13:37:37.920Z,18.0076666666667,-66.7691666666667,11.97,2.53,md,23,160,0.005137,0.2,pr,pr71386638,2022-12-11T14:30:56.725Z,"1 km S of Magas Arriba, Puerto Rico",earthquake,0.41,0.36,0.241379979752392,12,reviewed,pr,pr
 2022-12-11T13:20:58.768Z,59.9016,-152.9326,117.8,2,ml,,,,0.67,ak,ak022fus9s38,2022-12-11T13:23:50.718Z,"63 km WNW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-11T13:13:32.405Z,62.1829,-150.0824,6.8,1.8,ml,,,,0.55,ak,ak022fus881k,2022-12-11T13:15:30.755Z,"12 km W of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-11T13:05:48.370Z,61.8882,-152.051,112.8,2.1,ml,,,,0.57,ak,ak022fus6jew,2022-12-11T14:07:13.040Z,"36 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -177,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T14:59:24.783Z,64.4835,-152.588,10.6,2,ml,,,,0.92,ak,ak022ft5k5v2,2022-12-10T19:10:56.723Z,"68 km NNW of Lake Minchumina, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-12-10T14:43:48.830Z,60.5291666666667,-152.863833333333,28.45,0,ml,6,150,,0.13,av,av91728956,2022-12-11T03:34:04.760Z,"Southern Alaska",earthquake,1.52,0.77,0.255868042679118,6,reviewed,av,av
 2022-12-10T14:43:03.732Z,48.7028,-125.4838,31.597,2.4,ml,12,222,0.225,0.29,us,us6000j8fk,2022-12-11T13:04:00.260Z,"26 km S of Ucluelet, Canada",earthquake,6.76,10.1,0.115,10,reviewed,us,us
-2022-12-10T14:26:32.560Z,19.5711666666667,-66.339,35.19,3.43,md,18,283,1.219,0.48,pr,pr71386488,2022-12-10T15:02:13.220Z,"122 km N of Brenas, Puerto Rico",earthquake,3.23,26.75,0.0632926957574451,8,reviewed,pr,pr
