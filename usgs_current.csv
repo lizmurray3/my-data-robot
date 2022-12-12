@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-12T20:52:49.835Z,64.6418,-147.5981,6.1,1.5,ml,,,,0.28,ak,ak022fwk601j,2022-12-12T20:54:45.032Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-12T20:43:18.560Z,38.8241653,-122.8274994,2.12,0.81,md,17,51,0.005975,0.02,nc,nc73817706,2022-12-12T20:44:55.480Z,"8km NW of The Geysers, CA",earthquake,0.23,0.49,0.21,19,automatic,nc,nc
 2022-12-12T20:42:13.881Z,61.741,-149.8649,35.8,2,ml,,,,0.61,ak,ak022fwk3s3w,2022-12-12T20:44:20.524Z,"9 km E of Willow, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2022-12-12T20:39:29.474Z,62.1468,-151.2037,79,2.1,ml,,,,0.21,ak,ak022fwk365v,2022-12-12T20:40:57.843Z,"20 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -180,5 +181,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T21:06:15.250Z,33.6746667,-116.725,14.65,0.76,ml,21,80,0.03751,0.16,ci,ci40144639,2022-12-11T21:26:35.115Z,"7km S of Idyllwild, CA",earthquake,0.43,0.51,0.245,15,reviewed,ci,ci
 2022-12-11T20:59:29.910Z,34.0461667,-116.6996667,11.31,1.19,ml,45,38,0.04362,0.14,ci,ci40144631,2022-12-12T19:32:57.113Z,"11km W of Morongo Valley, CA",earthquake,0.15,0.38,0.209,18,reviewed,ci,ci
 2022-12-11T20:58:56.800Z,34.047,-116.7003333,11.19,1.69,ml,67,31,0.04431,0.16,ci,ci40144623,2022-12-12T18:47:45.510Z,"11km W of Morongo Valley, CA",earthquake,0.14,0.4,0.147,49,reviewed,ci,ci
-2022-12-11T20:56:42.028Z,64.9778,-164.423,13.1,3.8,ml,,,,0.66,ak,ak022fuwnhsp,2022-12-12T01:26:34.033Z,"46 km N of Solomon, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2022-12-11T20:49:15.670Z,38.7879982,-122.7496643,0.01,1.43,md,14,136,0.02135,0.05,nc,nc73817431,2022-12-11T22:27:13.970Z,"1km NNE of The Geysers, CA",earthquake,0.27,0.81,0.19,14,automatic,nc,nc
+2022-12-11T20:56:42.028Z,64.9778,-164.423,13.1,3.8,ml,,,,0.66,ak,ak022fuwnhsp,2022-12-12T01:30:00.177Z,"46 km N of Solomon, Alaska",earthquake,,0.8,,,reviewed,ak,ak
