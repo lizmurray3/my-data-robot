@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-14T05:37:55.866Z,61.7326,-150.9965,66.4,1.6,ml,,,,0.51,ak,ak022fzm7zoi,2022-12-14T05:40:07.568Z,"33 km NW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-14T05:34:29.850Z,63.8722,-148.9128,2.4,1.8,ml,,,,0.61,ak,ak022fzm7aix,2022-12-14T05:36:34.565Z,"3 km ENE of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-14T05:33:13.250Z,38.8230019,-122.8571701,2.22,0.37,md,7,143,0.004542,0.01,nc,nc73818481,2022-12-14T05:34:46.992Z,"10km WNW of The Geysers, CA",earthquake,0.42,1.22,0.24,9,automatic,nc,nc
+2022-12-14T05:33:13.250Z,38.8230019,-122.8571701,2.22,0.37,md,7,143,0.004542,0.01,nc,nc73818481,2022-12-14T05:50:10.974Z,"10km WNW of The Geysers, CA",earthquake,0.42,1.22,0.24,9,automatic,nc,nc
 2022-12-14T05:14:32.010Z,17.9511666666667,-66.8421666666667,13.98,2.27,md,11,209,0.04255,0.12,pr,pr71387078,2022-12-14T05:30:22.610Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.6,0.54,0.144774642611421,11,reviewed,pr,pr
 2022-12-14T05:11:46.730Z,17.9591666666667,-66.8411666666667,14.59,2.17,md,10,205,0.03955,0.13,pr,pr71387068,2022-12-14T05:22:47.800Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.74,0.59,0.217783418352361,8,reviewed,pr,pr
 2022-12-14T04:30:10.160Z,33.9863333,-116.9806667,15.73,1.14,ml,42,40,0.06478,0.19,ci,ci40145367,2022-12-14T04:33:44.335Z,"6km N of Beaumont, CA",earthquake,0.24,0.59,0.188,27,automatic,ci,ci
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T06:16:23.234Z,60.5348,-159.4176,13.5,3,ml,,,,0.68,ak,ak022fxz5i8j,2022-12-13T06:25:57.040Z,"105 km SE of Tuluksak, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-13T06:14:54.196Z,38.7361,-119.3757,10.5,1.7,ml,26,62.27,0.136,0.1223,nn,nn00853231,2022-12-13T22:43:40.183Z,"6 km SSW of Smith Valley, Nevada",earthquake,,1.1,0.5,6,reviewed,nn,nn
 2022-12-13T06:00:12.656Z,56.828,-155.2852,35,2,ml,,,,0.28,ak,ak022fxz22hn,2022-12-13T06:02:27.449Z,"69 km WSW of Akhiok, Alaska",earthquake,,4.1,,,automatic,ak,ak
-2022-12-13T05:57:08.803Z,60.8105,-150.7396,21.7,1.7,ml,,,,0.52,ak,ak022fxystvk,2022-12-13T05:59:06.651Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-12-13T05:52:01.460Z,38.788166,-122.7330017,1.91,1.2,md,9,161,0.005718,0.02,nc,nc73818056,2022-12-13T07:03:14.697Z,"2km ENE of The Geysers, CA",earthquake,0.48,0.88,0.14,11,automatic,nc,nc
