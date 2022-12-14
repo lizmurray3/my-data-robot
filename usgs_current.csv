@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T14:00:04.590Z,51.8413333333333,-178.038666666667,-1.16,1.06,ml,5,105,,0.23,av,av91079678,2022-12-14T04:35:41.060Z,"96 km W of Adak, Alaska",earthquake,0.7,2.18,0.181888358850358,5,reviewed,av,av
 2022-12-13T13:51:47.250Z,18.0076666666667,-67.1068333333333,4.4,1.68,md,3,168,0.002919,0.07,pr,pr71386988,2022-12-13T14:15:57.560Z,"4 km SW of Palmarejo, Puerto Rico",earthquake,0.55,0.85,0.11154781789084,2,reviewed,pr,pr
 2022-12-13T13:49:49.099Z,62.3429,-151.1731,74.7,1.9,ml,,,,0.61,ak,ak022fy3io3h,2022-12-13T13:52:10.051Z,"27 km SW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-12-13T13:41:39.480Z,38.0393333,-118.7841667,5.08,1.75,md,21,104,0.3054,0.07,nc,nc73818146,2022-12-13T21:47:21.200Z,"28km SE of Bodie, CA",earthquake,0.4,31.61,0.108,16,reviewed,nc,nc
