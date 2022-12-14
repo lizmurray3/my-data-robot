@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-14T07:34:19.050Z,33.8645,-116.9695,12.8,0.65,ml,20,110,0.05749,0.17,ci,ci40145383,2022-12-14T07:37:55.983Z,"7km S of Beaumont, CA",earthquake,0.38,0.88,0.087,17,automatic,ci,ci
 2022-12-14T07:31:09.772Z,59.03,-153.1447,75.4,2,ml,,,,0.56,ak,ak022fzndh1d,2022-12-14T07:33:48.532Z,"78 km WSW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-14T07:29:15.120Z,38.7675018,-122.9466629,4.6,1.12,md,10,163,0.05335,0.03,nc,nc73818511,2022-12-14T07:30:51.021Z,"7km SE of Cloverdale, CA",earthquake,0.6,2.36,0.28,11,automatic,nc,nc
+2022-12-14T07:29:15.120Z,38.7675018,-122.9466629,4.6,1.12,md,10,163,0.05335,0.03,nc,nc73818511,2022-12-14T07:41:10.594Z,"7km SE of Cloverdale, CA",earthquake,0.6,2.36,0.28,11,automatic,nc,nc
 2022-12-14T07:21:51.622Z,59.5308,-153.1157,196.1,1.8,ml,,,,0.77,ak,ak022fznbf3u,2022-12-14T07:24:29.469Z,"62 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-14T07:19:21.900Z,36.7705002,-121.2806702,9.05,2.11,md,36,73,0.06743,0.1,nc,nc73818501,2022-12-14T07:34:13.657Z,"4km ESE of Tres Pinos, CA",earthquake,0.25,0.47,0.16,31,automatic,nc,nc
-2022-12-14T07:02:06.650Z,36.7946663,-121.5500031,6.88,1.79,md,22,72,0.04429,0.18,nc,nc73818496,2022-12-14T07:22:14.646Z,"6km S of San Juan Bautista, CA",earthquake,0.44,0.95,0.2,17,automatic,nc,nc
+2022-12-14T07:02:06.650Z,36.7946663,-121.5500031,6.88,1.79,md,22,72,0.04429,0.18,nc,nc73818496,2022-12-14T07:36:10.562Z,"6km S of San Juan Bautista, CA",earthquake,0.44,0.95,0.2,17,automatic,nc,nc
 2022-12-14T06:54:59.528Z,38.1751,-117.8178,6.2,1.1,ml,11,184.51,0.117,0.1455,nn,nn00853323,2022-12-14T06:57:47.168Z,"34 km SE of Mina, Nevada",earthquake,,1,0.3,5,automatic,nn,nn
 2022-12-14T06:52:32.800Z,38.8264999,-122.850502,0.97,0.44,md,7,84,0.005085,0.03,nc,nc73818491,2022-12-14T07:22:14.485Z,"10km NW of The Geysers, CA",earthquake,0.34,1.71,0.3,8,automatic,nc,nc
 2022-12-14T06:36:56.487Z,6.8174,-73.0121,156.669,4.5,mb,54,43,0.922,0.77,us,us6000j95b,2022-12-14T07:12:27.040Z,"8 km NNW of Cepitá, Colombia",earthquake,7.47,7.231,0.043,158,reviewed,us,us
