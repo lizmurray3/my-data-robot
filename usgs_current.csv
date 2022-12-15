@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T09:36:29.300Z,63.0452,-150.9403,114.7,2.2,ml,,,,0.22,ak,ak022g1c4stu,2022-12-15T09:38:32.229Z,"61 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-15T09:30:52.800Z,19.2119998931885,-155.372497558594,32.6699981689453,2,md,44,159,,0.129999995,hv,hv73270137,2022-12-15T09:34:03.250Z,"11 km E of Pāhala, Hawaii",earthquake,0.55,0.620000005,2,12,automatic,hv,hv
 2022-12-15T09:15:59.150Z,17.9815,-66.8991666666667,10.56,2.23,md,13,117,0.01292,0.16,pr,pr71387253,2022-12-15T09:31:21.950Z,"1 km WNW of Maria Antonia, Puerto Rico",earthquake,0.48,0.35,0.186076775986294,5,reviewed,pr,pr
 2022-12-15T09:15:15.840Z,17.9791666666667,-66.886,9.84,2.27,md,7,147,0.00761,0.06,pr,pr71387258,2022-12-15T09:24:30.900Z,"0 km ENE of Maria Antonia, Puerto Rico",earthquake,0.4,0.43,0.0600644761462972,4,reviewed,pr,pr
@@ -202,5 +203,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T10:00:01.440Z,51.8071666666667,-177.985,7.5,1.31,ml,4,296,,0.3,av,av91079853,2022-12-15T00:21:32.700Z,"93 km W of Adak, Alaska",earthquake,2.48,1.72,0.256874430901366,4,reviewed,av,av
 2022-12-14T09:56:29.720Z,19.3386666666667,-155.146333333333,4.88,2.18,ml,41,88,,0.12,hv,hv73269162,2022-12-14T22:58:36.150Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.75,0.146541452560138,16,reviewed,hv,hv
 2022-12-14T09:52:35.390Z,35.8148333,-117.6426667,7.89,0.79,ml,17,78,0.03671,0.12,ci,ci40145399,2022-12-14T17:37:37.039Z,"22km N of Ridgecrest, CA",earthquake,0.24,0.42,0.123,5,reviewed,ci,ci
-2022-12-14T09:49:20.590Z,58.2645,-155.130333333333,6.09,-0.33,ml,5,188,,0.16,av,av91079848,2022-12-15T00:17:23.860Z,"87 km NNW of Karluk, Alaska",earthquake,2.92,0.9,0.103893308474756,5,reviewed,av,av
-2022-12-14T09:37:43.186Z,38.3908,-118.8995,11.7,1.2,ml,15,150.4,0.34,0.1621,nn,nn00853326,2022-12-15T02:41:19.669Z,"28 km WSW of Hawthorne, Nevada",earthquake,,2.9,0.1,5,reviewed,nn,nn
+2022-12-14T09:49:20.590Z,58.2645,-155.130333333333,6.09,-0.33,ml,5,188,,0.16,av,av91079848,2022-12-15T00:17:23.860Z,"Alaska Peninsula",earthquake,2.92,0.9,0.103893308474756,5,reviewed,av,av
