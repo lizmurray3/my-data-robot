@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T10:48:08.360Z,38.833168,-122.8093338,2.65,0.27,md,9,62,0.009776,0.01,nc,nc73818936,2022-12-15T10:49:42.244Z,"8km W of Cobb, CA",earthquake,0.49,1.94,0.17,10,automatic,nc,nc
+2022-12-15T10:44:05.950Z,33.911,-116.6196667,10.94,0.77,ml,22,66,0.04271,0.15,ci,ci40145703,2022-12-15T10:47:38.980Z,"7km W of Garnet, CA",earthquake,0.3,0.69,0.137,21,automatic,ci,ci
 2022-12-15T10:22:00.217Z,62.0781,-151.0391,60.9,1.5,ml,,,,0.2,ak,ak022g1cn65t,2022-12-15T10:24:28.888Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-15T10:15:45.326Z,61.8127,-150.6312,47.8,2.1,ml,,,,0.29,ak,ak022g1clrn0,2022-12-15T10:17:03.978Z,"30 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-15T10:15:37.420Z,59.925,-152.3936,91.8,1.7,ml,,,,0.49,ak,ak022g1clr0u,2022-12-15T10:16:55.612Z,"35 km WNW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -79,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T00:04:28.700Z,17.9638333333333,-66.8451666666667,13.68,2.77,md,17,195,0.03431,0.14,pr,pr71387203,2022-12-15T00:19:30.850Z,"4 km SW of Indios, Puerto Rico",earthquake,0.54,0.24,0.135232493893414,6,reviewed,pr,pr
 2022-12-15T00:00:00.770Z,48.51433333333333,-123.50483333333334,-0.24,0.02,md,4,154,0.14,0.18,uw,uw61898566,2022-12-15T01:42:26.380Z,"7 km NNW of Six Mile, Canada",explosion,0.8,31.61,0.20406110407852052,3,reviewed,uw,uw
 2022-12-14T23:58:23.660Z,38.8283348,-122.8134995,1.58,0.76,md,14,73,0.005612,0.05,nc,nc73818741,2022-12-15T00:43:12.809Z,"8km NW of The Geysers, CA",earthquake,0.27,0.64,0.17,15,automatic,nc,nc
-2022-12-14T23:55:51.279Z,64.8508,-147.5278,8.8,0.2,ml,,,,0.36,ak,ak022fzx1lcx,2022-12-15T00:13:45.141Z,"Central Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2022-12-14T23:55:51.279Z,64.8508,-147.5278,8.8,0.2,ml,,,,0.36,ak,ak022fzx1lcx,2022-12-15T00:13:45.141Z,"5 km N of Badger, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-12-14T23:55:28.720Z,34.557,-116.5265,3.92,2.26,ml,50,46,0.1184,0.12,ci,ci40145615,2022-12-15T00:49:19.690Z,"38km WSW of Ludlow, CA",earthquake,0.14,0.57,0.12,26,reviewed,ci,ci
 2022-12-14T23:53:29.270Z,17.9788333333333,-66.818,14.4,1.91,md,7,200,0.05843,0.06,pr,pr71387198,2022-12-15T00:04:16.080Z,"1 km S of Indios, Puerto Rico",earthquake,0.4,0.41,0.0697276691667581,5,reviewed,pr,pr
 2022-12-14T23:52:54.050Z,56.879,-158.179166666667,4.3,0.27,ml,5,110,,0.07,av,av91079943,2022-12-15T03:21:42.510Z,"28 km ESE of Port Heiden, Alaska",earthquake,0.36,0.72,0.302395832714192,5,reviewed,av,av
@@ -201,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T11:28:12.951Z,58.216,-155.0773,1.1,1.2,ml,,,,0.41,ak,ak022fzpqkjz,2022-12-15T00:39:33.960Z,"80 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2022-12-14T11:21:20.210Z,46.71383333333333,-120.75866666666667,9.21,1.68,ml,23,98,0.04941,0.18,uw,uw61898436,2022-12-14T16:26:39.250Z,"1 km N of Tieton, Washington",earthquake,0.35,0.66,0.13114448483854346,19,reviewed,uw,uw
 2022-12-14T10:59:16.164Z,38.1624,-117.9002,10.1,1.3,ml,14,129.55,0.052,0.1244,nn,nn00853327,2022-12-15T02:41:30.840Z,"31 km SE of Mina, Nevada",earthquake,,1.4,0.42,3,reviewed,nn,nn
-2022-12-14T10:47:20.710Z,35.7465,-117.575,2.88,1.5,ml,27,84,0.07147,0.14,ci,ci40145407,2022-12-14T17:43:30.133Z,"16km W of Searles Valley, CA",earthquake,0.21,0.39,0.126,23,reviewed,ci,ci
-2022-12-14T10:44:11.363Z,61.9223,-150.3347,8.7,1.7,ml,,,,0.38,ak,ak022fzp8ka8,2022-12-14T10:46:32.886Z,"25 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
