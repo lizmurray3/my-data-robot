@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-16T13:27:30.070Z,40.527668,-123.6073303,26.27,2.09,md,16,66,0.05541,0.07,nc,nc73819356,2022-12-16T13:34:11.332Z,"36km W of Hayfork, CA",earthquake,0.54,0.93,0.11,5,automatic,nc,nc
+2022-12-16T13:25:22.352Z,60.6722,-150.2936,43.8,1.6,ml,,,,0.6,ak,ak022g31zibv,2022-12-16T13:27:38.957Z,"29 km ENE of Sterling, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-16T13:22:44.141Z,58.2605,-155.1679,0.1,0.6,ml,,,,0.25,ak,ak022g31ywv2,2022-12-16T13:24:00.118Z,"87 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-16T12:44:36.151Z,62.8494,-150.4221,76.6,2,ml,,,,0.37,ak,ak022g31i6e7,2022-12-16T12:46:51.771Z,"43 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-16T12:36:34.980Z,19.2194995880127,-155.404830932617,30.1200008392334,1.73000002,md,37,161,,0.109999999,hv,hv73271737,2022-12-16T12:39:46.780Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.61,0.720000029,1.75,4,automatic,hv,hv
