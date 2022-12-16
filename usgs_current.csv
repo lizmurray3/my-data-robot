@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T16:02:20.050Z,19.1651666666667,-64.7883333333333,10.51,3.15,md,4,323,0.824,0.09,pr,pr71387303,2022-12-15T16:49:37.480Z,"92 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.97,8.32,0.218556379817748,3,reviewed,pr,pr
 2022-12-15T16:00:40.210Z,33.6811667,-116.6845,16.14,0.8,ml,31,65,0.01514,0.12,ci,ci40145759,2022-12-15T18:10:20.486Z,"7km SSE of Idyllwild, CA",earthquake,0.17,0.27,0.12,6,reviewed,ci,ci
 2022-12-15T15:56:27.093Z,64.9885,-147.3763,6.6,1.7,ml,,,,0.29,ak,ak022g1ftogh,2022-12-15T15:58:49.487Z,"11 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-15T15:49:40.680Z,51.8733333333333,-178.041,-1.8,1.35,ml,6,103,,0.17,av,av91731321,2022-12-16T08:12:18.650Z,"96 km W of Adak, Alaska",earthquake,0.27,1.01,0.166797177103607,6,reviewed,av,av
