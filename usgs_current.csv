@@ -245,6 +245,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T08:01:27.760Z,56.8581666666667,-158.278833333333,5.89,-0.25,ml,4,291,,0.33,av,av91080023,2022-12-16T03:26:08.570Z,"23 km ESE of Port Heiden, Alaska",earthquake,1.7,2,0.449893702018015,4,reviewed,av,av
 2022-12-15T08:01:14.976Z,61.3289,-150.66,57.4,1.6,ml,,,,0.61,ak,ak022g1bbu21,2022-12-15T08:03:44.210Z,"25 km SSW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-15T07:55:41.168Z,36.447,-116.2276,0.5,0.1,ml,6,254.78,0.044,0.0998,nn,nn00853480,2022-12-16T02:41:56.419Z,"34 km NW of Pahrump, Nevada",earthquake,,17.6,0.93,5,reviewed,nn,nn
-2022-12-15T07:50:12.690Z,38.8251667,-122.7856667,1.46,0.27,md,12,74,0.01251,0.03,nc,nc73818891,2022-12-16T06:48:14.302Z,"5km W of Cobb, CA",earthquake,0.31,0.68,0.236,2,reviewed,nc,nc
-2022-12-15T07:40:51.530Z,38.7958336,-122.7545013,1.84,1.05,md,13,90,0.006282,0.02,nc,nc73818881,2022-12-15T08:13:14.474Z,"2km N of The Geysers, CA",earthquake,0.29,0.52,0.21,12,automatic,nc,nc
-2022-12-15T07:39:37.570Z,37.2788333,-121.6463333,9.1,0.94,md,24,45,0.02914,0.08,nc,nc73818886,2022-12-15T17:52:42.897Z,"16km N of Morgan Hill, CA",earthquake,0.22,0.45,0.078,19,reviewed,nc,nc
+2022-12-15T07:50:12.690Z,38.8251667,-122.7856667,1.46,0.27,md,12,74,0.01251,0.03,nc,nc73818891,2022-12-16T07:47:17.188Z,"5km W of Cobb, CA",earthquake,0.31,0.68,0.236,2,reviewed,nc,nc
