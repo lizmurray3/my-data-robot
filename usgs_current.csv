@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T13:39:01.740Z,38.8006668,-122.7685013,0.99,0.94,md,10,79,0.006868,0.01,nc,nc73819776,2022-12-17T14:36:11.716Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.73,0.2,11,automatic,nc,nc
 2022-12-17T13:33:04.190Z,32.6725,-115.8225,5.78,1.81,ml,24,85,0.08431,0.26,ci,ci40391504,2022-12-17T13:44:07.050Z,"17km ESE of Ocotillo, CA",earthquake,0.53,1.91,0.243,28,automatic,ci,ci
 2022-12-17T13:31:57.500Z,35.9936667,-120.1971667,8.58,1.04,md,22,174,0.08159,0.05,nc,nc73819766,2022-12-17T22:31:12.485Z,"6km W of Avenal, CA",earthquake,0.32,0.42,0.154,12,reviewed,nc,nc
-2022-12-17T13:24:19.640Z,39.8931667,-120.4416667,1.7,2.17,md,16,89,0.0685,0.03,nc,nc73819761,2022-12-17T23:47:16.949Z,"4km NE of Lake Davis, CA",earthquake,0.18,0.59,0.205,35,reviewed,nc,nc
