@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T20:57:07.882Z,60.2614,-152.2168,78.3,2.3,ml,,,,0.41,ak,ak022g4tvpus,2022-12-17T23:02:56.040Z,"38 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-17T20:37:00.850Z,18.2725,-68.9286,136,4.08,md,20,189,1.0498,0.33,pr,pr2022351001,2022-12-17T22:58:12.040Z,"17 km SSE of La Romana, Dominican Republic",earthquake,4.48,2.25,0.07,6,reviewed,pr,pr
 2022-12-17T20:28:05.476Z,36.7217,-116.2596,6.8,-0.3,ml,8,158.87,0.02,0.0769,nn,nn00853614,2022-12-17T23:55:48.011Z,"49 km ESE of Beatty, Nevada",earthquake,,2.4,0,1,reviewed,nn,nn
-2022-12-17T20:08:03.090Z,38.8271675,-122.8221664,1.53,0.75,md,9,88,0.01017,0.01,nc,nc73819931,2022-12-17T20:53:16.880Z,"8km NW of The Geysers, CA",earthquake,0.37,0.8,0.17,10,automatic,nc,nc
-2022-12-17T20:06:57.809Z,64.7258,-146.7511,4.6,1.8,ml,,,,0.76,ak,ak022g4tkw6s,2022-12-17T20:08:36.404Z,"16 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
