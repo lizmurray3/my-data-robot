@@ -17,11 +17,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T08:57:49.660Z,38.8301659,-122.8008347,1.73,0.7,md,6,111,0.009889,0.01,nc,nc73820611,2022-12-19T09:12:11.946Z,"7km W of Cobb, CA",earthquake,0.51,1.65,0.09,8,automatic,nc,nc
 2022-12-19T08:55:50.474Z,56.5923,-158.0961,124.4,2.1,ml,,,,1.06,ak,ak022g7xsvfr,2022-12-19T09:34:33.040Z,"38 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-19T08:53:30.400Z,33.3828333,-116.8658333,7.95,0.52,ml,19,71,0.1717,0.18,ci,ci40392144,2022-12-19T08:57:09.911Z,"3km N of Palomar Observatory, CA",earthquake,0.34,2.75,0.074,11,automatic,ci,ci
-2022-12-19T08:35:34.700Z,38.7913322,-122.7594986,3.11,1.78,md,33,59,,0.05,nc,nc73820606,2022-12-19T09:53:11.190Z,"2km N of The Geysers, CA",earthquake,0.24,0.4,0.18,34,automatic,nc,nc
+2022-12-19T08:35:34.700Z,38.7913322,-122.7594986,3.11,1.78,md,33,59,,0.05,nc,nc73820606,2022-12-19T10:33:12.449Z,"2km N of The Geysers, CA",earthquake,0.24,0.4,0.18,34,automatic,nc,nc
 2022-12-19T08:32:14.086Z,-8.6091,161.1872,10,4.5,mb,19,174,1.476,0.27,us,us6000jaa7,2022-12-19T10:08:44.040Z,"56 km ENE of Auki, Solomon Islands",earthquake,9.62,1.952,0.135,16,reviewed,us,us
 2022-12-19T08:30:26.377Z,58.2308,-155.2111,0,0.6,ml,,,,0.47,ak,ak022g7xngod,2022-12-19T08:32:47.525Z,"Alaska Peninsula",earthquake,,131.9,,,automatic,ak,ak
 2022-12-19T08:21:23.300Z,38.8209991,-122.7888336,1.38,0.94,md,14,46,0.01001,0.01,nc,nc73820601,2022-12-19T08:38:12.735Z,"6km NNW of The Geysers, CA",earthquake,0.25,0.41,0.16,15,automatic,nc,nc
-2022-12-19T08:14:00.422Z,62.8403,-150.2779,70,1.9,ml,,,,0.75,ak,ak022g7xjz7u,2022-12-19T08:16:05.050Z,"44 km NNW of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-12-19T08:14:00.422Z,62.8403,-150.2779,70,1.9,ml,,,,0.75,ak,ak022g7xjz7u,2022-12-19T08:16:05.050Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-19T07:58:48.116Z,58.2403,-155.0808,1.3,0.5,ml,,,,0.21,ak,ak022g7x82sr,2022-12-19T08:00:25.678Z,"83 km NNW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-12-19T07:51:16.030Z,33.585,-116.642,8.34,0.31,ml,9,134,0.02063,0.28,ci,ci40392136,2022-12-19T07:54:54.758Z,"4km NE of Anza, CA",earthquake,1.36,1.56,0.203,3,automatic,ci,ci
 2022-12-19T07:50:40.850Z,33.946,-117.0025,0.2,0.3,ml,10,170,0.2953,0.36,ci,ci40392128,2022-12-19T07:54:16.837Z,"3km NW of Beaumont, CA",earthquake,1.76,31.61,0.098,3,automatic,ci,ci
@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T10:52:58.560Z,19.2369995117188,-155.436492919922,34.1699981689453,2.43,ml,48,117,,0.140000001,hv,hv73274887,2022-12-18T10:58:28.820Z,"5 km NE of Pāhala, Hawaii",earthquake,0.49,0.699999988,3.15,22,automatic,hv,hv
 2022-12-18T10:48:26.920Z,34.0471667,-117.2638333,12.02,1.23,ml,51,50,0.06335,0.19,ci,ci40391744,2022-12-18T10:58:59.120Z,"0km WSW of Loma Linda, CA",earthquake,0.22,0.53,0.164,27,automatic,ci,ci
 2022-12-18T10:44:42.600Z,36.6461678,-121.2655029,4.99,1.65,md,22,133,0.05297,0.09,nc,nc73820201,2022-12-18T11:21:12.117Z,"17km SSE of Tres Pinos, CA",earthquake,0.37,0.95,0.16,20,automatic,nc,nc
-2022-12-18T10:34:07.370Z,33.719,-116.8211667,16.69,0.7,ml,24,95,0.08953,0.15,ci,ci40391736,2022-12-18T14:58:35.622Z,"7km ESE of Valle Vista, CA",earthquake,0.32,0.51,0.248,17,reviewed,ci,ci
