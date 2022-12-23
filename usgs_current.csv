@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T07:14:22.810Z,19.4060001373291,-155.293167114258,1.62000000476837,1.96000004,md,10,101,,0.0700000003,hv,hv73279007,2022-12-23T07:17:27.780Z,"7 km WSW of Volcano, Hawaii",earthquake,0.29,0.409999996,0.330000013,8,automatic,hv,hv
 2022-12-23T07:04:36.736Z,59.8273,-153.6225,132.1,2.1,ml,,,,0.37,ak,ak022gej1v89,2022-12-23T07:06:29.721Z,"27 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-23T06:52:19.880Z,38.7921677,-122.8010025,3.05,0.81,md,15,71,0.004162,0.02,nc,nc73823526,2022-12-23T06:53:53.801Z,"4km WNW of The Geysers, CA",earthquake,0.3,0.78,0.25,17,automatic,nc,nc
+2022-12-23T07:02:07.125Z,46.6195,-122.4249,16.909,2.8,ml,34,23,0.306,0.73,us,us6000jb91,2022-12-23T07:17:20.602Z,"Washington",earthquake,1.47,7.872,0.035,105,reviewed,us,us
+2022-12-23T06:52:19.880Z,38.7921677,-122.8010025,3.05,0.81,md,15,71,0.004162,0.02,nc,nc73823526,2022-12-23T07:10:13.042Z,"4km WNW of The Geysers, CA",earthquake,0.3,0.78,0.25,17,automatic,nc,nc
 2022-12-23T06:32:46.970Z,38.7915001,-122.8003311,3.03,0.76,md,19,57,0.003825,0.02,nc,nc73823511,2022-12-23T06:49:13.908Z,"4km WNW of The Geysers, CA",earthquake,0.3,0.55,0.12,19,automatic,nc,nc
 2022-12-23T06:09:21.310Z,38.7820015,-122.7235031,1.57,0.72,md,7,127,0.01041,0.01,nc,nc73823506,2022-12-23T06:25:13.753Z,"3km WNW of Anderson Springs, CA",earthquake,0.46,1.1,0.08,7,automatic,nc,nc
 2022-12-23T05:49:36.327Z,-6.8562,127.1516,395.889,4.2,mb,22,77,4.055,0.63,us,us6000jb8w,2022-12-23T06:24:14.040Z,"Banda Sea",earthquake,11.19,7.763,0.167,10,reviewed,us,us
