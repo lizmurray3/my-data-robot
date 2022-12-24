@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-24T03:08:30.460Z,38.840332,-122.8759995,2.48,0.78,md,16,87,0.005771,0.02,nc,nc73823956,2022-12-24T03:10:07.630Z,"12km NW of The Geysers, CA",earthquake,0.34,0.51,0.17,15,automatic,nc,nc
+2022-12-24T03:18:12.980Z,19.4074993133545,-155.272506713867,8.72999954223633,1.75,ml,30,38,,0.239999995,hv,hv73280107,2022-12-24T03:23:45.520Z,"5 km SW of Volcano, Hawaii",earthquake,0.52,0.460000008,0.13,3,automatic,hv,hv
+2022-12-24T03:08:30.460Z,38.840332,-122.8759995,2.48,0.78,md,16,87,0.005771,0.02,nc,nc73823956,2022-12-24T03:25:11.527Z,"12km NW of The Geysers, CA",earthquake,0.34,0.51,0.17,15,automatic,nc,nc
 2022-12-24T03:01:59.090Z,61.1591,-149.5068,29.8,1.9,ml,,,,0.48,ak,ak022gg46vvp,2022-12-24T03:03:38.283Z,"12 km SSE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-24T02:54:25.153Z,61.9337,-150.4779,48.1,2,ml,,,,0.57,ak,ak022gg3wqlv,2022-12-24T02:57:11.723Z,"31 km NW of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-24T02:44:54.835Z,58.2506,-155.0521,3.4,0.8,ml,,,,0.21,ak,ak022gg3unqj,2022-12-24T02:47:00.503Z,"83 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -217,7 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T03:45:05.083Z,63.0569,-150.9616,117.2,3.7,ml,,,,0.63,ak,ak022gegwuon,2022-12-23T04:11:52.731Z,"63 km N of Petersville, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-12-23T03:37:35.658Z,38.3658,-118.8917,12.1,0.6,ml,9,291.3,0.325,0.0962,nn,nn00854092,2022-12-24T02:43:39.060Z,"29 km SW of Hawthorne, Nevada",earthquake,,2.2,0,1,reviewed,nn,nn
 2022-12-23T03:36:16.310Z,35.6601667,-117.4428333,5.67,1.63,ml,19,125,0.07518,0.21,ci,ci40149039,2022-12-23T18:07:57.840Z,"12km SSW of Searles Valley, CA",earthquake,0.47,1.51,0.123,22,reviewed,ci,ci
-2022-12-23T03:28:33.350Z,34.4043333,-119.8253333,0.8,2.03,ml,30,180,0.01676,0.18,ci,ci40149031,2022-12-23T18:52:19.784Z,"3km ESE of Isla Vista, CA",earthquake,0.37,0.46,0.181,25,reviewed,ci,ci
-2022-12-23T03:25:30.450Z,38.8168335,-122.7949982,2.37,0.7,md,9,91,0.008856,0.01,nc,nc73823476,2022-12-23T04:19:15.023Z,"6km NW of The Geysers, CA",earthquake,0.59,0.64,0.29,11,automatic,nc,nc
-2022-12-23T03:25:22.190Z,36.2060013,-120.7724991,1.07,1.29,md,7,175,0.02527,0.02,nc,nc73823471,2022-12-23T04:09:14.962Z,"24km ENE of San Lucas, CA",earthquake,0.61,0.8,0.29,4,automatic,nc,nc
-2022-12-23T03:19:28.610Z,38.7815018,-122.7631683,0.44,1.25,md,14,83,0.03454,0.04,nc,nc73823456,2022-12-23T03:36:14.755Z,"1km NW of The Geysers, CA",earthquake,0.23,0.71,0.22,13,automatic,nc,nc
