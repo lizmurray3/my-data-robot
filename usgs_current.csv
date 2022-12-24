@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-24T17:35:39.280Z,38.7861671,-122.7336655,1.75,1.07,md,14,84,0.003779,0.02,nc,nc73824201,2022-12-24T17:37:13.247Z,"2km ENE of The Geysers, CA",earthquake,0.25,0.53,0.08,13,automatic,nc,nc
-2022-12-24T17:35:27.000Z,38.7871666,-122.7328339,1.88,1.32,md,14,86,0.004964,0.02,nc,nc73824196,2022-12-24T17:37:03.294Z,"2km ENE of The Geysers, CA",earthquake,0.31,0.62,0.07,14,automatic,nc,nc
+2022-12-24T17:35:27.000Z,38.7871666,-122.7328339,1.88,1.32,md,14,86,0.004964,0.02,nc,nc73824196,2022-12-24T17:52:11.501Z,"2km ENE of The Geysers, CA",earthquake,0.31,0.62,0.07,14,automatic,nc,nc
 2022-12-24T17:21:33.900Z,37.6576653,-122.0666656,4.29,1.78,md,18,84,0.07842,0.11,nc,nc73824191,2022-12-24T17:38:14.404Z,"2km NNE of Hayward, CA",earthquake,0.28,0.91,0.2,15,automatic,nc,nc
 2022-12-24T17:20:49.378Z,58.913,-154.4314,116.3,2,ml,,,,0.42,ak,ak022ggcn07d,2022-12-24T17:23:19.681Z,"61 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-24T17:17:40.690Z,33.0585,-116.5303333,12.7,0.74,ml,16,65,0.06073,0.21,ci,ci40149431,2022-12-24T17:21:09.677Z,"7km ESE of Julian, CA",earthquake,0.46,0.98,0.204,9,automatic,ci,ci
