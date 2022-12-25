@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-25T16:53:57.260Z,38.840332,-122.8371658,1.41,1.1,md,21,85,0.002179,0.03,nc,nc73824761,2022-12-25T16:55:33.674Z,"10km NW of The Geysers, CA",earthquake,0.21,0.36,0.16,23,automatic,nc,nc
-2022-12-25T16:26:34.070Z,38.8320007,-122.814003,1.71,1.83,md,30,44,,0.03,nc,nc73824756,2022-12-25T16:47:11.975Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.2,31,automatic,nc,nc
+2022-12-25T17:11:23.059Z,59.7821,-152.8503,55,2.5,ml,,,,0.85,ak,ak022gi04d81,2022-12-25T17:14:37.603Z,"57 km W of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2022-12-25T17:07:05.460Z,35.7033333,-117.5378333,9.57,0.85,ml,14,94,0.1222,0.18,ci,ci40149759,2022-12-25T17:10:38.649Z,"14km WSW of Searles Valley, CA",earthquake,0.44,1.25,0.089,8,automatic,ci,ci
+2022-12-25T16:53:57.260Z,38.840332,-122.8371658,1.41,1.1,md,21,85,0.002179,0.03,nc,nc73824761,2022-12-25T17:10:10.116Z,"10km NW of The Geysers, CA",earthquake,0.21,0.36,0.16,23,automatic,nc,nc
+2022-12-25T16:26:34.070Z,38.8320007,-122.814003,1.71,1.83,md,30,44,,0.03,nc,nc73824756,2022-12-25T17:09:13.111Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.2,31,automatic,nc,nc
 2022-12-25T16:23:20.300Z,38.7900009,-122.7316666,1.05,0.79,md,8,93,0.007826,0.09,nc,nc73824751,2022-12-25T16:58:14.045Z,"3km ENE of The Geysers, CA",earthquake,0.42,1.68,0.15,8,automatic,nc,nc
 2022-12-25T16:22:32.630Z,19.1221675872803,-155.427993774414,31.6100006103516,1.91999996,md,37,179,,0.119999997,hv,hv73282537,2022-12-25T16:32:42.010Z,"10 km SSE of Pāhala, Hawaii",earthquake,0.6,1.03999996,1,11,automatic,hv,hv
 2022-12-25T16:11:39.900Z,36.5898323,-121.0358353,5.36,1.01,md,6,133,0.01172,0.06,nc,nc73824741,2022-12-25T16:37:12.908Z,"12km NE of Pinnacles, CA",earthquake,0.79,0.59,0.11,6,automatic,nc,nc
