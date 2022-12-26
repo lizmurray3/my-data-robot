@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-26T18:57:25.590Z,38.8053322,-122.7710037,1.2,1.56,md,29,80,0.009997,0.03,nc,nc73825391,2022-12-26T18:59:00.797Z,"3km NNW of The Geysers, CA",earthquake,0.19,0.31,0.11,28,automatic,nc,nc
+2022-12-26T19:07:55.460Z,17.9498333333333,-67.0025,6.06,2.49,md,15,220,0.04424,0.06,pr,pr71389148,2022-12-26T19:22:29.510Z,"Puerto Rico region",earthquake,0.28,0.21,0.0722975663759908,6,reviewed,pr,pr
+2022-12-26T18:57:25.590Z,38.8053322,-122.7710037,1.2,1.56,md,29,80,0.009997,0.03,nc,nc73825391,2022-12-26T19:23:12.731Z,"3km NNW of The Geysers, CA",earthquake,0.19,0.31,0.11,28,automatic,nc,nc
 2022-12-26T18:50:59.600Z,38.8050003,-122.7698364,0.94,1.35,md,22,64,,0.05,nc,nc73825381,2022-12-26T19:07:10.182Z,"3km NNW of The Geysers, CA",earthquake,0.2,0.33,0.13,23,automatic,nc,nc
 2022-12-26T18:40:32.080Z,35.7773333,-117.5823333,7.32,0.51,ml,8,149,0.04026,0.18,ci,ci40150335,2022-12-26T18:44:06.832Z,"16km W of Searles Valley, CA",earthquake,0.76,1.14,0.079,7,automatic,ci,ci
 2022-12-26T18:19:40.620Z,35.783,-117.5921667,7.88,0.89,ml,13,151,0.03296,0.17,ci,ci40150319,2022-12-26T18:23:05.974Z,"17km W of Searles Valley, CA",earthquake,0.44,0.81,0.087,8,automatic,ci,ci
