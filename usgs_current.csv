@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-28T19:40:11.070Z,36.8925018,-121.6188354,0.46,1.87,md,12,71,0.02299,0.09,nc,nc73826056,2022-12-28T19:41:48.237Z,"2km ENE of Aromas, CA",earthquake,0.29,0.61,0.2,10,automatic,nc,nc
 2022-12-28T19:31:05.190Z,37.9404984,-122.0273361,10.28,1.18,md,9,122,0.08602,0.05,nc,nc73826051,2022-12-28T19:32:43.860Z,"3km ESE of Pleasant Hill, CA",earthquake,0.7,1.15,0.17,8,automatic,nc,nc
 2022-12-28T19:30:58.409Z,63.5432,-147.7295,4.3,2.1,ml,,,,0.41,ak,ak022gn01f8w,2022-12-28T19:32:54.967Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-28T19:25:51.290Z,38.7796669,-122.7258301,0.54,0.78,md,7,106,0.009231,0.02,nc,nc73826046,2022-12-28T19:27:27.116Z,"3km E of The Geysers, CA",earthquake,0.45,0.75,0.32,7,automatic,nc,nc
@@ -45,6 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T13:41:25.990Z,18.2026666666667,-67.2488333333333,23.49,2.69,md,15,167,0.1,0.13,pr,pr71389403,2022-12-28T14:25:13.470Z,"11 km SW of La Playa, Puerto Rico",earthquake,0.55,0.73,0.0280770130774644,6,reviewed,pr,pr
 2022-12-28T13:26:34.512Z,60.5517,-144.0399,4.9,1.6,ml,,,,0.56,ak,ak022gmwfwx0,2022-12-28T13:37:51.287Z,"94 km E of Cordova, Alaska",earthquake,,6,,,automatic,ak,ak
 2022-12-28T13:22:52.129Z,39.0976,-118.1503,8.1,3.4,ml,16,52.33,0.062,0.1008,nn,nn00854257,2022-12-28T18:08:07.583Z,"32 km NW of Gabbs, Nevada",earthquake,,1.4,0.36,5,reviewed,nn,nn
+2022-12-28T12:43:15.378Z,37.1518,-117.2458,12.7,0.1,ml,5,178.72,0.329,0.1504,nn,nn00854281,2022-12-28T19:35:16.238Z,"51 km WNW of Beatty, Nevada",earthquake,,8.5,0.91,3,reviewed,nn,nn
 2022-12-28T12:35:32.352Z,60.3533,-141.305,5.8,1.9,ml,,,,0.59,ak,ak022gmvweix,2022-12-28T12:37:38.096Z,"125 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-28T12:25:29.914Z,60.5311,-151.7213,63,1.6,ml,,,,0.29,ak,ak022gmvu98f,2022-12-28T12:26:39.732Z,"23 km WSW of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-28T12:24:20.786Z,38.6052,23.6935,9.037,4.8,mww,122,40,1.139,0.65,us,us7000j0m2,2022-12-28T19:20:16.169Z,"5 km NE of Psachná, Greece",earthquake,4.72,3.901,0.062,25,reviewed,us,us
@@ -170,5 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T20:15:14.129Z,78.5782,-19.4663,10,4.6,mb,173,47,6.103,0.84,us,us7000j0i2,2022-12-27T23:06:32.040Z,"eastern Greenland",earthquake,7.53,1.886,0.044,161,reviewed,us,us
 2022-12-27T19:58:01.648Z,61.9184,-149.3061,41.8,1.6,ml,,,,0.43,ak,ak022glcnyf8,2022-12-27T20:00:31.338Z,"19 km N of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-27T19:55:24.700Z,38.8310013,-122.817337,1.97,1.09,md,20,50,0.00948,0.02,nc,nc73825821,2022-12-27T20:27:15.565Z,"8km NW of The Geysers, CA",earthquake,0.22,0.49,0.16,23,automatic,nc,nc
-2022-12-27T19:38:11.424Z,28.9624,83.6209,21.158,4.1,mb,45,85,1.864,1.15,us,us7000j0hw,2022-12-27T21:33:58.193Z,"59 km N of Chitre, Nepal",earthquake,8.3,5.696,0.112,27,reviewed,us,us
-2022-12-27T19:35:31.376Z,60.4639,-152.7601,102.1,2,ml,,,,0.57,ak,ak022glcj38x,2022-12-27T19:38:03.021Z,"76 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
