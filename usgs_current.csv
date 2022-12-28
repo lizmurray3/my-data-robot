@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-28T22:59:31.510Z,38.8271675,-122.7890015,1.59,1.02,md,16,45,0.01127,0.02,nc,nc73826136,2022-12-28T23:01:07.978Z,"6km W of Cobb, CA",earthquake,0.24,0.47,0.13,16,automatic,nc,nc
+2022-12-28T22:59:31.510Z,38.8271675,-122.7890015,1.59,1.02,md,16,45,0.01127,0.02,nc,nc73826136,2022-12-28T23:23:13.651Z,"6km W of Cobb, CA",earthquake,0.24,0.47,0.13,16,automatic,nc,nc
 2022-12-28T22:57:39.261Z,61.8495,-150.4633,31.7,1.7,ml,,,,0.37,ak,ak022gn1zgxd,2022-12-28T22:59:57.393Z,"25 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-28T22:53:58.290Z,17.9925,-67.0051666666667,6.88,2.07,md,8,141,0.04368,0.1,pr,pr71389468,2022-12-28T23:05:29.220Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.38,0.25,0.0529747293552685,6,reviewed,pr,pr
 2022-12-28T22:52:06.343Z,60.3063,-150.8032,33.9,1.5,ml,,,,0.41,ak,ak022gn1ybsq,2022-12-28T22:53:49.030Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
