@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-30T14:30:13.740Z,38.8253326,-122.8044968,2.69,1.31,md,29,45,0.004767,0.02,nc,nc73826801,2022-12-30T14:44:09.988Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.16,29,automatic,nc,nc
+2022-12-30T14:30:13.740Z,38.8253326,-122.8044968,2.69,1.31,md,29,45,0.004767,0.02,nc,nc73826801,2022-12-30T14:47:19.004Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.16,29,automatic,nc,nc
 2022-12-30T14:07:36.380Z,19.1443328857422,-155.3681640625,29.7900009155273,2.11999989,md,44,182,,0.129999995,hv,hv73287772,2022-12-30T14:10:57.550Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.63,0.870000005,1.01999998,20,automatic,hv,hv
 2022-12-30T14:02:27.604Z,60.1603,-140.9006,0,2,ml,,,,1.05,ak,ak022gq7yvs8,2022-12-30T14:04:50.819Z,"94 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-30T14:01:36.890Z,38.8180008,-122.8450012,-0.34,0.31,md,5,154,0.009314,0.03,nc,nc73826796,2022-12-30T14:18:18.828Z,"9km WNW of The Geysers, CA",earthquake,0.73,4.39,0.18,7,automatic,nc,nc
+2022-12-30T14:01:36.890Z,38.8180008,-122.8450012,-0.34,0.31,md,5,154,0.009314,0.03,nc,nc73826796,2022-12-30T14:50:13.023Z,"9km WNW of The Geysers, CA",earthquake,0.73,4.39,0.18,7,automatic,nc,nc
 2022-12-30T13:57:39.895Z,59.7056,-152.7777,76.4,1.7,ml,,,,0.52,ak,ak022gq7p9id,2022-12-30T14:00:12.310Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-30T13:51:51.276Z,63.018,-148.6044,66.1,1.7,ml,,,,0.57,ak,ak022gq7o03b,2022-12-30T13:53:59.063Z,"45 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-30T13:42:38.980Z,33.012,-116.4145,3.2,0.81,ml,16,108,0.1684,0.27,ci,ci40151479,2022-12-30T13:46:17.340Z,"19km ESE of Julian, CA",earthquake,0.62,2.16,0.161,10,automatic,ci,ci
@@ -187,6 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T15:02:24.560Z,38.8390007,-122.8373337,1.14,1.95,md,33,83,,0.03,nc,nc73826406,2022-12-29T16:54:13.977Z,"10km NW of The Geysers, CA",earthquake,0.16,0.23,0.17,37,automatic,nc,nc
 2022-12-29T14:59:42.978Z,63.3087,-152.2032,4.2,1.9,ml,,,,1.48,ak,ak022gokrsah,2022-12-29T15:02:11.645Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-29T14:55:38.442Z,58.2518,-155.1471,0,0.7,ml,,,,0.19,ak,ak022gokqx2s,2022-12-29T14:57:42.050Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
-2022-12-29T14:53:10.720Z,62.7036,-151.8771,4.6,1.8,ml,,,,0.46,ak,ak022gokqfi8,2022-12-29T14:54:55.948Z,"61 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-29T14:52:22.910Z,34.0296667,-117.2228333,14.82,1.15,ml,37,71,0.09201,0.24,ci,ci40151079,2022-12-29T14:56:02.790Z,"4km ESE of Loma Linda, CA",earthquake,0.33,0.66,0.238,26,automatic,ci,ci
-2022-12-29T14:49:25.490Z,39.7568333,-110.9146667,1.84,1.41,ml,9,169,0.09549,0.25,uu,uu60528852,2022-12-29T15:03:47.160Z,"Utah",earthquake,1.49,31.61,0.252,3,reviewed,uu,uu
