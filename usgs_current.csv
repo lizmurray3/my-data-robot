@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-30T05:20:56.900Z,19.1424999237061,-155.391159057617,32.4000015258789,2.37,ml,43,179,,0.119999997,hv,hv73287232,2022-12-30T05:26:27.610Z,"11 km SE of Pāhala, Hawaii",earthquake,0.54,0.810000002,2.16,17,automatic,hv,hv
+2022-12-30T05:20:37.520Z,19.4050006866455,-155.3125,3.24000000953674,1.81,ml,12,98,,0.189999998,hv,hv73287227,2022-12-30T05:26:07.850Z,"9 km WSW of Volcano, Hawaii",earthquake,0.47,0.790000021,2.55,11,automatic,hv,hv
 2022-12-30T04:57:28.030Z,33.2615,-116.4141667,5.66,0.87,ml,19,168,0.1526,0.13,ci,ci40151359,2022-12-30T05:01:27.246Z,"4km W of Borrego Springs, CA",earthquake,0.42,1.44,0.134,21,automatic,ci,ci
-2022-12-30T04:57:20.467Z,60.6954,-44.0119,10,4.6,mb,57,69,0.83,0.61,us,us7000j103,2022-12-30T05:16:57.040Z,"western Greenland",earthquake,5.63,1.892,0.046,141,reviewed,us,us
+2022-12-30T04:57:20.467Z,60.6954,-44.0119,10,4.6,mb,57,69,0.83,0.61,us,us7000j103,2022-12-30T05:16:57.040Z,"91 km NE of Nanortalik, Greenland",earthquake,5.63,1.892,0.046,141,reviewed,us,us
 2022-12-30T04:43:12.353Z,62.115,-149.7104,35.9,2,ml,,,,0.55,ak,ak022gq29awz,2022-12-30T04:45:20.526Z,"8 km SE of Susitna North, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-12-30T04:39:03.130Z,19.2476673126221,-155.39616394043,30.6299991607666,1.75,md,35,137,,0.119999997,hv,hv73287212,2022-12-30T04:42:09.700Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.68,0.930000007,1.41999996,14,automatic,hv,hv
 2022-12-30T04:37:21.989Z,63.0859,-151.0058,126.2,2,ml,,,,0.35,ak,ak022gq281d2,2022-12-30T04:39:33.535Z,"62 km SE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-12-30T04:33:52.297Z,-7.1275,102.7874,10,5,mb,36,96,4.609,0.79,us,us7000j0zy,2022-12-30T04:52:16.040Z,"southwest of Sumatra, Indonesia",earthquake,7.37,1.639,0.107,31,reviewed,us,us
-2022-12-30T04:30:41.260Z,38.1784,-117.8933,8.3,0.7,ml,8,174.15,0.065,0.0703,nn,nn00854343,2022-12-30T04:33:54.769Z,"30 km SE of Mina, Nevada",earthquake,,1.4,0.19,3,automatic,nn,nn
+2022-12-30T04:30:41.260Z,38.1784,-117.8933,8.3,0.7,ml,8,174.15,0.065,0.0703,nn,nn00854343,2022-12-30T04:33:54.769Z,"Nevada",earthquake,,1.4,0.19,3,automatic,nn,nn
 2022-12-30T04:21:40.011Z,38.4053,-118.9014,6.1,1.4,ml,14,136.62,0.347,0.2873,nn,nn00854341,2022-12-30T04:23:55.871Z,"27 km WSW of Hawthorne, Nevada",earthquake,,2.5,0.2,9,automatic,nn,nn
 2022-12-30T04:16:56.053Z,-0.2131,97.3105,10,5,mb,52,136,1.53,0.75,us,us7000j0zu,2022-12-30T04:34:01.040Z,"271 km SW of Sibolga, Indonesia",earthquake,4.67,1.894,0.079,52,reviewed,us,us
 2022-12-30T04:14:45.580Z,33.9671667,-116.8056667,11.18,0.84,ml,20,62,0.06783,0.23,ci,ci40151343,2022-12-30T04:18:20.566Z,"6km NNW of Cabazon, CA",earthquake,0.43,0.9,0.198,25,automatic,ci,ci
