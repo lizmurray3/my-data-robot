@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-03T02:40:12.630Z,17.9578333333333,-66.845,18.44,2.61,md,11,209,0.03683,0.11,pr,pr71390618,2023-01-03T03:08:26.760Z,"4 km SW of Indios, Puerto Rico",earthquake,0.53,0.42,0.0397137263141314,6,reviewed,pr,pr
 2023-01-03T02:28:09.368Z,62.0716,-153.3858,0,1.8,ml,,,,0.92,ak,ak0234zyxgo,2023-01-03T02:30:35.535Z,"104 km W of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-03T02:20:48.920Z,38.8328323,-122.8184967,1.61,1.33,md,15,68,0.01149,0.01,nc,nc73828181,2023-01-03T02:45:12.724Z,"8km NW of The Geysers, CA",earthquake,0.26,0.64,0.15,18,automatic,nc,nc
-2023-01-03T02:13:52.120Z,38.8349991,-122.7893295,1.88,1.27,md,14,115,0.003496,0.02,nc,nc73828176,2023-01-03T02:37:12.548Z,"6km WNW of Cobb, CA",earthquake,0.26,0.41,0.23,16,automatic,nc,nc
+2023-01-03T02:13:52.120Z,38.8349991,-122.7893295,1.88,1.27,md,14,115,0.003496,0.02,nc,nc73828176,2023-01-03T03:08:10.721Z,"6km WNW of Cobb, CA",earthquake,0.26,0.41,0.23,16,automatic,nc,nc
 2023-01-03T02:10:57.410Z,35.7018333,-117.4803333,10.6,1.15,ml,12,168,0.116,0.14,ci,ci40153167,2023-01-03T02:14:36.264Z,"10km SW of Searles Valley, CA",earthquake,0.51,0.77,0.101,11,automatic,ci,ci
+2023-01-03T02:09:54.646Z,-18.2602,-70.0421,88.473,4.1,mb,23,85,0.305,0.9,us,us7000j1qq,2023-01-03T03:08:41.040Z,"35 km SE of Tacna, Peru",earthquake,5.69,5.212,0.185,8,reviewed,us,us
 2023-01-03T02:05:19.690Z,18.3698333333333,-66.343,60.2,3,md,16,196,0.0542,0.1,pr,pr71390583,2023-01-03T02:39:10.540Z,"4 km NW of Corozal, Puerto Rico",earthquake,0.75,0.61,0.0821026792467949,4,reviewed,pr,pr
 2023-01-03T01:48:22.110Z,19.2443332672119,-155.401672363281,29.5900001525879,1.88999999,md,36,133,,0.150000006,hv,hv73292552,2023-01-03T01:51:41.910Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.68,0.889999986,0.819999993,12,automatic,hv,hv
 2023-01-03T01:30:25.170Z,35.901,-117.7161667,4.39,0.79,ml,8,116,0.09551,0.16,ci,ci40153159,2023-01-03T01:34:02.483Z,"18km ESE of Little Lake, CA",earthquake,0.6,1.22,0.261,8,automatic,ci,ci
@@ -213,8 +215,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T04:00:56.290Z,64.5991,-149.2391,17.1,1.4,ml,,,,0.4,ak,ak0233dgjr1,2023-01-02T04:02:52.051Z,"5 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-02T03:58:05.210Z,37.3110008,-120.0270004,21.26,2.58,md,9,102,0.1372,0.16,nc,nc73827761,2023-01-02T15:04:47.507Z,"20km SSW of Mariposa, CA",earthquake,0.65,0.65,0.27,9,automatic,nc,nc
 2023-01-02T03:49:14.840Z,38.803833,-122.8116684,0.9,0.64,md,9,73,0.01344,0.02,nc,nc73827756,2023-01-02T04:06:13.154Z,"6km WNW of The Geysers, CA",earthquake,0.3,0.86,0.21,11,automatic,nc,nc
-2023-01-02T03:31:18.790Z,36.0016666666667,-89.8803333333333,8.24,2.15,md,30,64,0.05087,0.11,nm,nm60503971,2023-01-02T14:34:23.280Z,"6 km S of Holland, Missouri",earthquake,0.2,0.45,0.126110444333502,20,reviewed,nm,nm
+2023-01-02T03:31:18.790Z,36.0016666666667,-89.8803333333333,8.24,2.15,md,30,64,0.05087,0.11,nm,nm60503971,2023-01-03T03:08:50.094Z,"6 km S of Holland, Missouri",earthquake,0.2,0.45,0.126110444333502,20,reviewed,nm,nm
 2023-01-02T03:24:31.160Z,38.7651672,-122.7138367,2.38,1.07,md,7,173,0.009328,0.01,nc,nc73827751,2023-01-02T03:41:13.114Z,"2km WSW of Anderson Springs, CA",earthquake,0.87,1.22,0.09,6,automatic,nc,nc
 2023-01-02T03:20:18.110Z,33.3983333,-116.3901667,1.99,2.61,ml,77,23,0.1282,0.19,ci,ci40152887,2023-01-02T16:47:49.562Z,"16km N of Borrego Springs, CA",earthquake,0.17,0.62,0.166,25,automatic,ci,ci
-2023-01-02T03:07:56.070Z,38.7703323,-122.7481689,-0.85,0.76,md,10,82,0.01569,0.07,nc,nc73827741,2023-01-02T03:24:12.040Z,"1km SE of The Geysers, CA",earthquake,0.25,2.31,0.11,9,automatic,nc,nc
-2023-01-02T02:57:28.501Z,37.1536,-117.3067,12,1.4,ml,12,299.03,0.466,0.2807,nn,nn00854412,2023-01-02T02:59:58.302Z,"California-Nevada border region",earthquake,,134.7,0.93,6,automatic,nn,nn
