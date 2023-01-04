@@ -35,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T15:35:58.260Z,19.3758333333333,-155.261666666667,7.85,1.4,ml,18,106,,0.2,hv,hv73294972,2023-01-04T20:14:32.550Z,"7 km SSW of Volcano, Hawaii",earthquake,0.52,0.53,0.198742425796626,5,reviewed,hv,hv
 2023-01-04T15:30:04.070Z,38.8256683,-122.8551636,2.42,1.33,md,12,118,0.002301,0.01,nc,nc73828751,2023-01-04T16:11:13.478Z,"10km WNW of The Geysers, CA",earthquake,0.4,0.35,0.13,13,automatic,nc,nc
 2023-01-04T15:29:37.014Z,-23.0636,-68.9441,107.272,4.3,mb,29,81,0.68,0.65,us,us7000j22x,2023-01-04T15:53:33.040Z,"67 km S of Calama, Chile",earthquake,4.87,5.291,0.148,13,reviewed,us,us
+2023-01-04T15:22:04.370Z,19.1776666666667,-155.498333333333,34.65,1.71,md,32,97,,0.11,hv,hv73294952,2023-01-04T20:33:27.150Z,"3 km SW of Pāhala, Hawaii",earthquake,0.57,0.77,0.119440400795804,11,reviewed,hv,hv
 2023-01-04T15:16:13.188Z,62.0608,-145.1509,20.3,1.5,ml,,,,0.52,ak,ak0236v6ciu,2023-01-04T15:18:06.461Z,"11 km ENE of Silver Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-04T15:13:53.920Z,38.8263321,-122.8041687,4.39,1.02,md,7,80,0.005466,0.03,nc,nc73828746,2023-01-04T15:40:12.290Z,"7km NW of The Geysers, CA",earthquake,0.79,6.8,0.23,9,automatic,nc,nc
 2023-01-04T15:11:40.190Z,36.6245003,-121.2659988,6.84,1.31,md,6,102,0.08076,0.2,nc,nc73828741,2023-01-04T15:45:12.317Z,"15km NW of Pinnacles, CA",earthquake,0.78,2.88,0.16,5,automatic,nc,nc
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T21:02:04.120Z,38.7960014,-122.7648315,0.67,2.93,md,27,65,0.006109,0.04,nc,nc73828486,2023-01-03T22:59:00.123Z,"2km NNW of The Geysers, CA",earthquake,0.18,0.31,0.35,26,automatic,nc,nc
 2023-01-03T21:01:52.490Z,38.7941666,-122.7636642,0.67,2.62,md,29,65,,0.04,nc,nc73828481,2023-01-03T22:53:11.355Z,"2km NNW of The Geysers, CA",earthquake,0.18,0.3,0.15,27,automatic,nc,nc
 2023-01-03T20:49:03.462Z,36.3063,22.0519,10,4.1,mb,51,182,0.877,1.01,us,us7000j1wx,2023-01-03T22:29:57.040Z,"54 km S of Koróni, Greece",earthquake,7.05,1.956,0.088,38,reviewed,us,us
-2023-01-03T20:41:01.760Z,47.0065,-122.20183333333334,-0.54,1.47,ml,16,246,0.02069,0.2,uw,uw61901326,2023-01-03T22:05:37.620Z,"Puget Sound region, Washington",explosion,0.98,31.61,0.057116734735771724,9,reviewed,uw,uw
