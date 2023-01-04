@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-04T13:10:47.590Z,19.1259994506836,-155.36799621582,28.4599990844727,1.88999999,md,39,187,,0.140000001,hv,hv73294827,2023-01-04T13:13:56.140Z,"14 km SE of Pāhala, Hawaii",earthquake,0.62,1,1.09000003,15,automatic,hv,hv
+2023-01-04T12:50:25.510Z,18.1735,-66.8691666666667,10.02,1.91,md,5,185,0.1249,0.26,pr,pr71390893,2023-01-04T13:19:08.100Z,"11 km E of Maricao, Puerto Rico",earthquake,1.44,6.67,0.0207380709624155,4,reviewed,pr,pr
 2023-01-04T12:43:00.780Z,38.8255005,-122.8046646,1.41,1.34,md,17,78,0.00472,0.03,nc,nc73828726,2023-01-04T13:06:11.410Z,"7km NW of The Geysers, CA",earthquake,0.21,0.35,0.24,20,automatic,nc,nc
 2023-01-04T12:37:20.560Z,38.8303337,-122.7926636,1.66,1.34,md,12,101,0.008265,0.02,nc,nc73828721,2023-01-04T13:09:13.430Z,"6km W of Cobb, CA",earthquake,0.32,0.61,0.25,13,automatic,nc,nc
 2023-01-04T12:16:59.005Z,-2.5151,140.7749,25.796,5.3,mb,104,46,8.526,0.65,us,us7000j22n,2023-01-04T12:44:55.512Z,"near the north coast of Papua, Indonesia",earthquake,9.38,5.498,0.065,79,reviewed,us,us
@@ -49,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T07:33:03.650Z,38.7701683,-122.675499,2.43,1.15,md,8,148,0.0187,0.02,nc,nc73828661,2023-01-04T08:47:15.780Z,"2km ESE of Anderson Springs, CA",earthquake,0.91,0.65,0.45,7,automatic,nc,nc
 2023-01-04T07:22:05.073Z,61.5644,-147.802,33,1.2,ml,,,,0.35,ak,ak0236qg5cr,2023-01-04T07:23:47.166Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-04T07:12:56.900Z,38.5958328,-122.8040009,11.53,1.59,md,10,140,0.1485,0.03,nc,nc73828656,2023-01-04T08:21:13.635Z,"6km N of Windsor, CA",earthquake,0.41,2.19,0.1,11,automatic,nc,nc
-2023-01-04T07:10:07.220Z,17.91,-66.9318333333333,8.68,2.05,md,5,262,0.0818,0.1,pr,pr71390858,2023-01-04T08:10:54.270Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.85,1.8,0.0786051454180324,4,reviewed,pr,pr
+2023-01-04T07:10:07.220Z,17.91,-66.9318333333333,8.68,2.05,md,5,262,0.0818,0.1,pr,pr71390858,2023-01-04T08:10:54.270Z,"Puerto Rico region",earthquake,0.85,1.8,0.0786051454180324,4,reviewed,pr,pr
 2023-01-04T07:05:30.090Z,17.9438333333333,-66.918,15.06,2.37,md,8,216,0.04821,0.08,pr,pr71390848,2023-01-04T07:41:27.980Z,"Puerto Rico region",earthquake,0.55,0.65,0.0539650309079005,5,reviewed,pr,pr
 2023-01-04T07:03:36.880Z,19.1924991607666,-155.509338378906,33.8600006103516,3.08,ml,44,87,,0.129999995,hv,hv73294497,2023-01-04T09:29:20.686Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.59,0.639999986,3.51,27,automatic,hv,hv
 2023-01-04T06:56:41.940Z,38.8250008,-122.7854996,1.09,1.99,md,32,45,,0.04,nc,nc73828636,2023-01-04T07:29:17.352Z,"5km W of Cobb, CA",earthquake,0.17,0.26,0.15,32,automatic,nc,nc
@@ -112,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T00:14:20.930Z,17.8901666666667,-66.8703333333333,13.02,1.89,md,8,240,0.08485,0.1,pr,pr71390778,2023-01-04T00:26:08.160Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.7,0.43,0.100253458447158,6,reviewed,pr,pr
 2023-01-04T00:09:59.660Z,19.144832611084,-155.505493164062,29.8700008392334,2.1099999,md,20,149,,0.140000001,hv,hv73294232,2023-01-04T00:13:05.050Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.69,1.75,1.39999998,3,automatic,hv,hv
 2023-01-03T23:58:42.476Z,-57.7963,-25.0813,47.548,5,mb,42,83,7.293,0.8,us,us7000j1yq,2023-01-04T00:19:33.040Z,"South Sandwich Islands region",earthquake,12,6.871,0.098,33,reviewed,us,us
-2023-01-03T23:41:05.640Z,37.6531667,-119.0145,-1.08,1.24,md,6,112,0.005208,0.05,nc,nc73828556,2023-01-04T13:03:10.390Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.38,0.26,0.257,5,reviewed,nc,nc
+2023-01-03T23:41:05.640Z,37.6531667,-119.0145,-1.08,1.24,md,6,112,0.005208,0.05,nc,nc73828556,2023-01-04T13:17:13.481Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.38,0.26,0.257,5,reviewed,nc,nc
 2023-01-03T23:31:50.459Z,42.4188,64.4013,10.584,4.4,mb,34,111,4.551,0.67,us,us7000j1yn,2023-01-03T23:50:35.040Z,"232 km NNW of Nurota, Uzbekistan",earthquake,8.64,2.242,0.134,16,reviewed,us,us
 2023-01-03T23:10:42.784Z,40.0951,-121.0155,14.376,2.7,ml,31,41,0.539,0.26,us,us7000j1yh,2023-01-04T03:50:19.040Z,"6 km NW of Indian Falls, California",earthquake,1.61,8.021,0.046,62,reviewed,us,us
 2023-01-03T23:10:37.746Z,54.8902,160.5161,132.625,4.4,mb,49,131,2.171,0.83,us,us7000j1yk,2023-01-03T23:34:14.040Z,"97 km SE of Atlasovo, Russia",earthquake,10.55,8.512,0.085,40,reviewed,us,us
