@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-05T02:46:31.640Z,19.3994998931885,-155.283828735352,1.51999998092651,1.70000005,md,17,72,,0.170000002,hv,hv73295372,2023-01-05T02:49:43.780Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.25,0.529999971,8,automatic,hv,hv
-2023-01-05T02:42:46.110Z,38.7900009,-122.7653351,2.4,1.46,md,13,84,0.01148,0.03,nc,nc73828906,2023-01-05T02:44:19.507Z,"2km NNW of The Geysers, CA",earthquake,0.42,0.62,0.19,12,automatic,nc,nc
+2023-01-05T02:42:46.110Z,38.7900009,-122.7653351,2.4,1.46,md,13,84,0.01148,0.03,nc,nc73828906,2023-01-05T02:58:14.266Z,"2km NNW of The Geysers, CA",earthquake,0.42,0.62,0.19,12,automatic,nc,nc
 2023-01-05T02:38:38.050Z,19.1991672515869,-155.431335449219,31.4400005340576,2.13000011,md,30,147,,0.140000001,hv,hv73295357,2023-01-05T02:41:52.460Z,"4 km E of Pāhala, Hawaii",earthquake,0.81,0.889999986,0.00999999978,5,automatic,hv,hv
 2023-01-05T02:25:35.800Z,55.8523,-157.5045,1.5,2.4,ml,,,,1.11,ak,ak0238b11cc,2023-01-05T02:27:26.390Z,"74 km SE of Chignik, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-01-05T02:23:59.939Z,-18.9389,-177.0764,391.388,4.9,mb,34,66,2.72,0.56,us,us7000j272,2023-01-05T02:36:13.040Z,"Fiji region",earthquake,9.99,11.06,0.115,24,reviewed,us,us
@@ -171,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T03:27:42.428Z,36.7835,-116.0475,4.6,-0.1,ml,14,145.02,0.024,0.1106,nn,nn00854529,2023-01-05T02:44:32.059Z,"Nevada",earthquake,,1.4,0.17,6,reviewed,nn,nn
 2023-01-04T03:22:06.600Z,-1.0849,98.2954,13.744,4.6,mb,26,200,2.48,0.44,us,us7000j1zs,2023-01-04T05:21:53.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,6.1,5.263,0.146,14,reviewed,us,us
 2023-01-04T03:10:44.540Z,62.203,-148.1926,29.8,1.6,ml,,,,0.45,ak,ak0236nzxdy,2023-01-04T03:12:51.695Z,"47 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-04T02:53:31.065Z,58.1901,-155.3064,0.2,0.6,ml,,,,0.69,ak,ak0236nnoj6,2023-01-04T02:56:03.612Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
