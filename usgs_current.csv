@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-05T10:01:13.720Z,19.2593326568604,-155.413497924805,32.3199996948242,1.86000001,md,39,121,,0.119999997,hv,hv73295797,2023-01-05T10:04:26.370Z,"9 km NE of Pāhala, Hawaii",earthquake,0.58,0.829999983,1.45000005,14,automatic,hv,hv
-2023-01-05T10:00:32.940Z,33.3971667,-116.391,2.01,2.61,ml,83,25,0.1292,0.2,ci,ci40153855,2023-01-05T10:04:02.479Z,"16km N of Borrego Springs, CA",earthquake,0.17,0.61,0.189,26,automatic,ci,ci
+2023-01-05T10:00:32.940Z,33.3971667,-116.391,2.01,2.61,ml,83,25,0.1292,0.2,ci,ci40153855,2023-01-05T10:11:39.120Z,"16km N of Borrego Springs, CA",earthquake,0.17,0.61,0.189,26,automatic,ci,ci
 2023-01-05T09:59:04.300Z,33.401,-116.388,4.24,1.67,ml,45,46,0.1261,0.24,ci,ci40153847,2023-01-05T10:09:35.930Z,"16km N of Borrego Springs, CA",earthquake,0.26,0.91,0.175,27,automatic,ci,ci
 2023-01-05T09:58:22.492Z,65.8535,-145.3821,34.7,1.2,ml,,,,1.14,ak,ak0238fe5st,2023-01-05T10:08:21.056Z,"northern Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-01-05T09:55:10.560Z,19.4033336639404,-155.287826538086,1.05999994277954,1.99000001,md,19,53,,0.109999999,hv,hv73295787,2023-01-05T09:58:24.050Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.150000006,1.58000004,15,automatic,hv,hv
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T07:14:56.580Z,38.8188324,-122.80233,1.56,1.75,md,25,67,0.007573,0.02,nc,nc73828951,2023-01-05T07:49:10.920Z,"6km NW of The Geysers, CA",earthquake,0.19,0.32,0.28,25,automatic,nc,nc
 2023-01-05T07:00:46.788Z,-14.9683,166.8464,24.394,5.3,mww,96,22,0.588,0.79,us,us7000j28m,2023-01-05T07:23:18.040Z,"25 km WNW of Port-Olry, Vanuatu",earthquake,6.62,3.858,0.098,10,reviewed,us,us
 2023-01-05T06:59:31.850Z,32.8876667,-116.2791667,3.2,1.5,ml,40,68,0.1806,0.22,ci,ci40153799,2023-01-05T07:03:08.317Z,"24km ENE of Pine Valley, CA",earthquake,0.24,1.21,0.199,27,automatic,ci,ci
-2023-01-05T06:44:55.810Z,19.229,-155.393333333333,33.54,3.51,ml,53,145,,0.13,hv,hv73295577,2023-01-05T08:46:40.886Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.45,0.53,0.233307932794424,39,reviewed,hv,hv
+2023-01-05T06:44:55.810Z,19.229,-155.393333333333,33.54,3.51,ml,53,145,,0.13,hv,hv73295577,2023-01-05T10:18:14.777Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.45,0.53,0.233307932794424,39,reviewed,hv,hv
 2023-01-05T06:43:48.650Z,38.8381653,-122.8368301,1.44,1.13,md,14,117,0.001131,0.02,nc,nc73828946,2023-01-05T07:22:12.761Z,"10km NW of The Geysers, CA",earthquake,0.26,0.63,0.2,14,automatic,nc,nc
 2023-01-05T06:27:15.587Z,58.2245,-155.2045,1.1,0.6,ml,,,,0.12,ak,ak0238df5mu,2023-01-05T06:28:19.902Z,"85 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-01-05T06:25:37.700Z,35.6636667,-117.481,2.28,2.14,ml,23,72,0.1678,0.15,ci,ci40153791,2023-01-05T06:36:10.020Z,"14km SSW of Searles Valley, CA",earthquake,0.31,1.43,0.213,26,automatic,ci,ci
