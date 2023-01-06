@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-06T10:40:59.952Z,60.334,-152.2258,90.9,1.6,ml,,,,0.57,ak,ak023a3f4a3,2023-01-06T10:43:48.527Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-06T10:34:05.150Z,19.425500869751,-155.268173217773,-0.600000023841858,2.02999997,md,8,121,,0.0799999982,hv,hv73297967,2023-01-06T10:37:07.800Z,"4 km WSW of Volcano, Hawaii",earthquake,0.2,0.239999995,0.579999983,5,automatic,hv,hv
 2023-01-06T10:08:28.253Z,62.7733,-150.5148,13.9,1.8,ml,,,,0.52,ak,ak023a386x5,2023-01-06T10:10:18.125Z,"33 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-06T09:44:38.338Z,62.1747,-149.4883,52.7,1.3,ml,,,,0.65,ak,ak023a2uhvd,2023-01-06T09:46:30.953Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
