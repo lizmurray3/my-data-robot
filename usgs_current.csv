@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-06T08:37:59.166Z,57.3021,-157.3254,96.6,2,ml,,,,0.52,ak,ak023a27lo3,2023-01-06T08:40:26.916Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
+2023-01-06T08:35:29.963Z,58.1764,-155.5715,123,1.7,ml,,,,0.18,ak,ak023a2746c,2023-01-06T08:37:03.042Z,"85 km SE of King Salmon, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-01-06T08:06:45.263Z,62.0811,-148.3193,32.7,1.2,ml,,,,0.63,ak,ak023a20xla,2023-01-06T08:08:31.225Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-06T08:02:16.996Z,58.3348,-155.0219,0,0.2,ml,,,,0.74,ak,ak023a200jn,2023-01-06T08:04:09.814Z,"91 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-06T08:01:25.860Z,62.1941,-150.9179,70.5,1.7,ml,,,,0.24,ak,ak023a1ztii,2023-01-06T08:03:11.714Z,"33 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
