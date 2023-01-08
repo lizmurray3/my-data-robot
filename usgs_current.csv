@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T16:25:38.407Z,61.0249,-150.0725,42.4,1.5,ml,,,,0.76,ak,ak023dhz5hs,2023-01-08T16:28:16.850Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-08T16:23:10.245Z,61.9838,-152.7129,23.4,1.8,ml,,,,0.67,ak,ak023dhynw0,2023-01-08T16:25:22.106Z,"68 km W of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-08T16:18:39.504Z,61.8474,-152.0499,116.7,2.1,ml,,,,0.55,ak,ak023dhxnke,2023-01-08T16:21:57.579Z,"37 km WSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-08T16:15:53.189Z,35.75421906,-97.96279907,1.406093836,2.43,ml,51,40.11868286,0.200751543,0.6253943417,ok,ok2023aoas,2023-01-08T16:41:11.791Z,"3 km NNE of Okarche, Oklahoma",earthquake,1.558410307,1.489376531,,39,automatic,ok,ok
+2023-01-08T16:15:53.189Z,35.75421906,-97.96279907,1.406093836,2.43,ml,51,40.11868286,0.200751543,0.6253943417,ok,ok2023aoas,2023-01-08T16:50:14.002Z,"3 km NNE of Okarche, Oklahoma",earthquake,1.558410307,1.489376531,,39,automatic,ok,ok
 2023-01-08T16:13:37.762Z,59.9864,-153.5775,138.9,2.1,ml,,,,0.16,ak,ak023dhwkuo,2023-01-08T16:15:30.369Z,"36 km NE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-08T16:13:04.210Z,19.150333404541,-155.502502441406,34.5499992370605,1.87,md,28,160,,0.170000002,hv,hv73299232,2023-01-08T16:16:32.090Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.86,1.34000003,0.360000014,5,automatic,hv,hv
 2023-01-08T16:01:14.132Z,65.3796,-148.2379,10.5,1.3,ml,,,,0.07,ak,ak023dhtyfp,2023-01-08T16:02:40.272Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T17:02:53.418Z,61.2261,-151.3816,71.1,1.5,ml,,,,0.06,ak,ak023buwcal,2023-01-07T17:04:22.875Z,"18 km WNW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-07T17:02:33.020Z,32.9183333,-116.2538333,8.67,1.25,ml,32,122,0.05517,0.23,ci,ci40154367,2023-01-08T15:14:15.354Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.35,0.78,0.155,24,reviewed,ci,ci
 2023-01-07T17:01:28.454Z,60.3545,-151.7886,58.4,1.6,ml,,,,0.55,ak,ak023buw2nh,2023-01-07T17:03:04.962Z,"25 km WNW of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-01-07T16:58:14.521Z,61.3229,-150.7925,42.1,1.9,ml,,,,0.38,ak,ak023bumtsc,2023-01-07T17:00:00.282Z,"25 km NE of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
