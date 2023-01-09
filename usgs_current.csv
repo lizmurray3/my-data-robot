@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-09T05:35:22.290Z,38.8359985,-122.7825012,1.8,1.49,md,20,65,,0.02,nc,nc73830186,2023-01-09T05:36:59.667Z,"5km WNW of Cobb, CA",earthquake,0.24,0.38,0.23,23,automatic,nc,nc
+2023-01-09T05:51:41.557Z,60.2701,-141.4634,0,1.6,ml,,,,0.53,ak,ak023ez4b6z,2023-01-09T05:53:22.897Z,"126 km NW of Yakutat, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-01-09T05:50:59.660Z,32.9630013,-115.5550003,4.69,1.68,ml,18,97,0.06155,0.21,ci,ci40154871,2023-01-09T05:53:23.746Z,"3km SW of Brawley, CA",earthquake,0.52,1.21,0.155,7,automatic,ci,ci
+2023-01-09T05:35:22.290Z,38.8359985,-122.7825012,1.8,1.49,md,20,65,,0.02,nc,nc73830186,2023-01-09T05:52:11.989Z,"5km WNW of Cobb, CA",earthquake,0.24,0.38,0.23,23,automatic,nc,nc
 2023-01-09T05:26:59.570Z,19.1713333129883,-155.498336791992,30.4400005340576,2.55,ml,50,107,,0.129999995,hv,hv73299727,2023-01-09T05:32:29.650Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.46,0.709999979,3.69,15,automatic,hv,hv
 2023-01-09T05:23:58.409Z,60.2141,-149.039,27,2,ml,,,,0.65,ak,ak023eyycg0,2023-01-09T05:25:57.220Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-09T05:18:21.770Z,33.397,-116.3808333,8.04,0.79,ml,24,108,0.1315,0.31,ci,ci40154863,2023-01-09T05:21:50.997Z,"16km N of Borrego Springs, CA",earthquake,0.62,1.83,0.183,18,automatic,ci,ci
