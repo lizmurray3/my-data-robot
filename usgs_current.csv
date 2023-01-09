@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T00:38:31.750Z,36.5561676,-121.1173325,0.25,1.56,md,13,107,0.06645,0.22,nc,nc73830121,2023-01-09T00:59:17.450Z,"4km NE of Pinnacles, CA",earthquake,0.85,15.02,0.1,11,automatic,nc,nc
 2023-01-09T00:33:16.440Z,35.0546667,-118.3481667,3.61,1.17,ml,18,50,0.06415,0.17,ci,ci40154791,2023-01-09T00:36:53.454Z,"13km SE of Tehachapi, CA",earthquake,0.29,0.89,0.184,23,automatic,ci,ci
 2023-01-09T00:28:28.670Z,38.8224983,-122.8050003,1.62,1.17,md,20,40,0.004063,0.02,nc,nc73830116,2023-01-09T01:02:11.344Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,22,automatic,nc,nc
-2023-01-09T00:22:01.982Z,61.1005,-150.762,13.1,1.6,ml,,,,0.56,ak,ak023evyucm,2023-01-09T00:23:31.344Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-09T00:22:01.982Z,61.1005,-150.762,13.1,1.6,ml,,,,0.56,ak,ak023evyucm,2023-01-09T00:23:31.344Z,"17 km ESE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-09T00:21:24.180Z,19.1746673583984,-155.498992919922,35.689998626709,2.01999998,md,34,148,,0.119999997,hv,hv73299542,2023-01-09T00:24:41.930Z,"3 km SW of Pāhala, Hawaii",earthquake,0.7,1.21000004,0.579999983,5,automatic,hv,hv
 2023-01-09T00:20:56.490Z,38.7741661,-122.7478333,0.45,0.96,md,11,69,0.01255,0.02,nc,nc73830111,2023-01-09T00:38:13.204Z,"1km ESE of The Geysers, CA",earthquake,0.28,0.6,0.18,10,automatic,nc,nc
 2023-01-09T00:16:08.510Z,35.0453333,-117.669,0.28,1.74,ml,17,71,0.1129,0.24,ci,ci40154775,2023-01-09T00:19:59.089Z,"5km NNW of Boron, CA",quarry blast,0.68,31.61,0.186,29,automatic,ci,ci
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T19:42:21.147Z,63.2303,-145.4996,95.8,2.4,ml,,,,1.22,ak,ak023djv264,2023-01-08T19:45:30.130Z,"16 km NNE of Paxson, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-08T19:41:52.523Z,61.312,-147.2648,32.8,2,ml,,,,0.14,ak,ak023djuwus,2023-01-08T19:43:05.795Z,"53 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-08T19:39:05.300Z,32.9438333,-116.2153333,10.91,0.92,ml,17,96,0.07481,0.17,ci,ci40154735,2023-01-08T19:42:29.397Z,"24km SSW of Ocotillo Wells, CA",earthquake,0.31,0.57,0.223,12,automatic,ci,ci
-2023-01-08T19:35:55.290Z,17.8228333333333,-66.907,12.23,2.51,md,12,263,0.1537,0.15,pr,pr71391708,2023-01-08T20:18:23.440Z,"16 km S of Guánica, Puerto Rico",earthquake,0.74,0.73,0.0570219273196515,7,reviewed,pr,pr
+2023-01-08T19:35:55.290Z,17.8228333333333,-66.907,12.23,2.51,md,12,263,0.1537,0.15,pr,pr71391708,2023-01-08T20:18:23.440Z,"Puerto Rico region",earthquake,0.74,0.73,0.0570219273196515,7,reviewed,pr,pr
 2023-01-08T19:31:29.176Z,60.4553,-152.0158,82.8,2.7,ml,,,,0.55,ak,ak023djspu9,2023-01-08T20:43:05.040Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-08T19:28:46.932Z,-33.0125,-71.3504,52.528,4.3,mwr,31,86,0.25,0.3,us,us7000j30u,2023-01-09T01:04:14.988Z,"3 km NNE of Villa Alemana, Chile",earthquake,3.81,6.88,0.065,23,reviewed,us,us
 2023-01-08T19:21:14.878Z,63.0866,-150.861,24.5,1.8,ml,,,,1.17,ak,ak023djqjmn,2023-01-08T19:23:24.726Z,"65 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -170,5 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T06:58:54.540Z,32.9101667,-116.2418333,5.71,1.59,ml,46,62,0.06814,0.21,ci,ci40154591,2023-01-08T07:10:00.440Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.26,0.81,0.157,26,automatic,ci,ci
 2023-01-08T06:57:51.720Z,39.1419983,-123.1275024,7.04,2.13,md,8,105,,0.38,nc,nc73829836,2023-01-08T07:30:11.601Z,"4km ENE of Talmage, CA",earthquake,3.76,2.85,0.26,4,automatic,nc,nc
 2023-01-08T06:49:11.943Z,60.0403,-152.9504,117.7,2.2,ml,,,,0.34,ak,ak023dc5wlq,2023-01-08T07:24:31.040Z,"68 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-08T06:39:55.744Z,-32.5324,57.1292,10,4.8,mb,46,59,11.384,0.46,us,us7000j2x7,2023-01-08T07:11:13.040Z,"Southwest Indian Ridge",earthquake,11.25,1.878,0.083,45,reviewed,us,us
-2023-01-08T06:37:45.690Z,33.7618333,-116.9251667,12.97,1.51,ml,58,24,0.07457,0.18,ci,ci40154583,2023-01-08T15:05:54.860Z,"3km WNW of Valle Vista, CA",earthquake,0.17,0.46,0.181,27,reviewed,ci,ci
