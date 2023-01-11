@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-11T07:26:36.881Z,62.9665,-150.8823,116.4,1.9,ml,,,,0.33,ak,ak023ib8i4o,2023-01-11T07:28:59.890Z,"52 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-01-11T07:25:27.490Z,38.8274994,-122.8085022,1.43,1.55,md,25,39,0.004278,0.03,nc,nc73830991,2023-01-11T07:27:04.464Z,"7km NW of The Geysers, CA",earthquake,0.17,0.3,0.14,25,automatic,nc,nc
 2023-01-11T07:07:01.790Z,38.8348351,-122.8195038,1.83,0.76,md,9,84,0.01303,0.01,nc,nc73830986,2023-01-11T07:08:39.114Z,"8km NW of The Geysers, CA",earthquake,0.37,0.92,0.13,9,automatic,nc,nc
 2023-01-11T07:00:47.935Z,60.155,-141.0609,5,4.5,ml,,,,0.56,ak,ak023ib2ygy,2023-01-11T07:18:14.040Z,"100 km NW of Yakutat, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-01-11T06:59:29.977Z,55.6155,-158.9622,35.8,1.9,ml,,,,0.22,ak,ak023iau4md,2023-01-11T07:01:24.769Z,"34 km SSE of Perryville, Alaska",earthquake,,17.2,,,automatic,ak,ak
@@ -161,6 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-10T07:42:58.395Z,38.1589,74.1477,171.45,4.4,mb,34,87,2.258,0.54,us,us7000j3cu,2023-01-10T08:16:51.040Z,"Tajikistan-Xinjiang border region",earthquake,7.2,7.355,0.091,35,reviewed,us,us
 2023-01-10T07:38:31.473Z,39.455,26.2697,10,4.9,mb,68,37,1.439,0.95,us,us7000j3cr,2023-01-10T20:16:11.040Z,"near the coast of western Turkey",earthquake,5.41,1.875,0.101,31,reviewed,us,us
 2023-01-10T07:33:01.750Z,17.9695,-66.7271666666667,10.64,1.98,md,8,216,0.05928,0.1,pr,pr71392003,2023-01-10T07:54:28.900Z,"Puerto Rico region",earthquake,0.78,0.63,0.0955508111669545,4,reviewed,pr,pr
-2023-01-10T07:29:12.740Z,17.99,-66.8935,13.8,1.81,md,10,125,0.02012,0.13,pr,pr71392013,2023-01-10T08:39:13.170Z,"1 km NNW of Maria Antonia, Puerto Rico",earthquake,0.66,0.37,0.220311830364549,10,reviewed,pr,pr
-2023-01-10T07:28:39.780Z,17.9903333333333,-66.8851666666667,14.56,2.13,md,13,104,0.0162,0.17,pr,pr71391993,2023-01-10T07:44:56.230Z,"1 km NNE of Maria Antonia, Puerto Rico",earthquake,0.51,0.55,0.108737624609815,10,reviewed,pr,pr
-2023-01-10T07:27:49.500Z,39.7316667,-110.799,-3.33,1.69,md,10,100,0.04359,0.12,uu,uu60529432,2023-01-10T14:16:39.400Z,"4 km N of Kenilworth, Utah",earthquake,0.41,0.86,0.178,8,reviewed,uu,uu
