@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-11T11:41:32.700Z,36.5548325,-121.116333,0.38,1.66,md,8,106,0.06616,0.28,nc,nc73831031,2023-01-11T11:43:08.371Z,"4km NE of Pinnacles, CA",earthquake,1.12,18.99,0.09,7,automatic,nc,nc
 2023-01-11T11:08:54.478Z,61.5404,-141.1094,3.2,1.4,ml,,,,0.33,ak,ak023idif0q,2023-01-11T11:11:50.033Z,"97 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-11T11:07:18.640Z,19.171667098999,-155.365173339844,28.7399997711182,2.05999994,md,22,235,,0.109999999,hv,hv73301492,2023-01-11T11:10:43.810Z,"12 km ESE of Pāhala, Hawaii",earthquake,1.05,1.61000001,2.1500001,4,automatic,hv,hv
 2023-01-11T11:03:31.250Z,17.9578333333333,-66.9325,12.83,2.01,md,5,206,0.05349,0.06,pr,pr71392233,2023-01-11T11:30:55.080Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.88,0.260471601715469,2,reviewed,pr,pr
@@ -172,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-10T12:12:44.060Z,62.2083,-150.5657,12.1,1.3,ml,,,,0.78,ak,ak023gqlc6u,2023-01-10T12:14:27.969Z,"21 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-10T11:47:46.229Z,36.00116667,-96.78366667,6,1.37,ml,76,63,0.01709664506,0.25,ok,ok2023ariw,2023-01-10T13:27:13.113Z,"Oklahoma",earthquake,,0.4,0.2,29,reviewed,ok,ok
 2023-01-10T11:45:43.287Z,38.1578,-117.8831,9.4,1.5,ml,11,158.25,0.09,0.0958,nn,nn00854703,2023-01-11T00:42:09.262Z,"Nevada",earthquake,,2.3,1.2,4,reviewed,nn,nn
-2023-01-10T11:40:21.017Z,59.7772,-153.0187,108.8,2.3,ml,,,,0.6,ak,ak023gq5uu6,2023-01-10T11:42:47.561Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-01-10T11:40:12.970Z,19.1631660461426,-155.45866394043,32.1599998474121,1.86000001,md,28,167,,0.119999997,hv,hv73300772,2023-01-10T11:43:22.560Z,"Hawaii region, Hawaii",earthquake,0.74,1.16999996,0.790000021,3,automatic,hv,hv
