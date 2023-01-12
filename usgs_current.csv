@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-12T21:37:34.250Z,35.6793327,-117.5121689,11.15,1.04,ml,11,156,0.1012,0.11,ci,ci40402120,2023-01-12T21:39:39.359Z,"14km SW of Searles Valley, CA",earthquake,0.72,1.38,0.15,3,automatic,ci,ci
+2023-01-12T21:37:34.670Z,35.6943333,-117.5108333,5.37,0.91,ml,9,161,0.1147,0.29,ci,ci40402120,2023-01-12T21:41:05.801Z,"13km SW of Searles Valley, CA",earthquake,0.91,5.29,0.172,8,automatic,ci,ci
 2023-01-12T21:34:02.930Z,33.1609993,-117.2229996,28.14,1.39,ml,18,162,0.1354,0.32,ci,ci40402112,2023-01-12T21:36:12.212Z,"5km SSE of Vista, CA",earthquake,1.43,1.12,0.31,19,automatic,ci,ci
 2023-01-12T21:27:53.567Z,65.504,-147.9868,11.4,1.4,ml,,,,0.38,ak,ak023k7463g,2023-01-12T21:29:59.786Z,"25 km E of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-12T21:26:09.455Z,-17.5499,-178.745,563.898,4.5,mb,14,104,3.059,0.33,us,us7000j40n,2023-01-12T21:41:55.040Z,"213 km ENE of Levuka, Fiji",earthquake,16,19.797,0.191,8,reviewed,us,us
 2023-01-12T21:19:33.464Z,61.7073,-151.2839,66.8,1.7,ml,,,,0.52,ak,ak023k72ete,2023-01-12T21:22:09.584Z,"32 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-12T21:10:31.019Z,64.4654,-148.0994,19.1,1.1,ml,,,,0.64,ak,ak023k70h6l,2023-01-12T21:12:34.354Z,"41 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-12T21:08:14.380Z,38.814167,-122.7973328,2.94,1.09,md,24,38,0.00639,0.02,nc,nc73831381,2023-01-12T21:09:51.796Z,"5km NW of The Geysers, CA",earthquake,0.21,0.39,0.22,24,automatic,nc,nc
@@ -162,4 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-11T22:24:42.100Z,19.170166015625,-155.475006103516,31.3999996185303,1.78999996,md,32,129,,0.159999996,hv,hv73301782,2023-01-11T22:28:05.860Z,"3 km S of Pāhala, Hawaii",earthquake,0.73,1.28999996,1.16999996,6,automatic,hv,hv
 2023-01-11T22:11:10.428Z,60.5827,-147.4864,13.5,1.8,ml,,,,0.59,ak,ak023ik2qf6,2023-01-11T22:12:52.311Z,"54 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-11T21:51:25.830Z,38.7913322,-122.7805023,-0.88,1,md,7,111,0.006081,0.04,nc,nc73831156,2023-01-11T22:36:15.302Z,"3km NW of The Geysers, CA",earthquake,0.29,1.84,0.28,11,automatic,nc,nc
-2023-01-11T21:45:04.650Z,38.7911682,-122.7825012,0.3,1.09,md,14,85,0.004685,0.02,nc,nc73831146,2023-01-11T22:15:14.170Z,"3km NW of The Geysers, CA",earthquake,0.2,0.41,0.43,14,automatic,nc,nc
