@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-12T23:10:29.883Z,65.0105,-147.2095,0,1.3,ml,,,,0.87,ak,ak023k87caj,2023-01-12T23:12:49.589Z,"17 km NNW of Two Rivers, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-12T22:57:28.437Z,62.8496,-149.8603,70.8,1.6,ml,,,,0.54,ak,ak023k7vz8r,2023-01-12T22:59:17.104Z,"46 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-12T22:41:58.720Z,33.4855,-116.4961667,11.16,0.82,ml,28,67,0.06997,0.2,ci,ci40402136,2023-01-12T22:45:33.663Z,"18km ESE of Anza, CA",earthquake,0.34,0.69,0.148,21,automatic,ci,ci
 2023-01-12T22:37:19.156Z,61.5454,-148.0347,6.2,1.8,ml,,,,0.92,ak,ak023k7ro7f,2023-01-12T22:39:07.803Z,"35 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -115,11 +116,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T07:15:02.040Z,33.1836667,-116.2771667,10.74,1.04,ml,55,32,0.02142,0.19,ci,ci40401952,2023-01-12T16:10:44.471Z,"12km SE of Borrego Springs, CA",earthquake,0.2,0.36,0.144,30,reviewed,ci,ci
 2023-01-12T07:14:40.755Z,62.501,-151.1391,0,1.7,ml,,,,0.72,ak,ak023jypabv,2023-01-12T07:16:56.059Z,"19 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-12T07:00:12.501Z,61.4531,-151.4225,66.3,1.7,ml,,,,0.49,ak,ak023jym84i,2023-01-12T07:08:46.763Z,"39 km NNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-01-12T06:49:38.740Z,38.1804,-116.7346,9.7,1.5,ml,5,252.02,0.773,0.0484,nn,nn00854809,2023-01-12T23:10:08.621Z,"Nevada",earthquake,,10.5,0.27,3,reviewed,nn,nn
 2023-01-12T06:41:40.540Z,61.2667,-149.2896,31.3,1.6,ml,,,,0.45,ak,ak023jy9n1i,2023-01-12T06:43:15.366Z,"16 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-12T06:23:44.091Z,63.3719,-149.58,106.8,1.8,ml,,,,0.32,ak,ak023jy5sfd,2023-01-12T06:25:57.856Z,"31 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-12T06:19:11.474Z,-30.636,-71.2294,56.702,5.5,mww,93,41,0.352,0.77,us,us7000j3ty,2023-01-12T15:20:29.019Z,"Near the coast of Coquimbo, Chile",earthquake,3.28,4.548,0.051,37,reviewed,us,us
 2023-01-12T06:01:59.428Z,58.2831,-154.946,0.7,0.4,ml,,,,0.72,ak,ak023jy13uu,2023-01-12T06:12:31.273Z,"Alaska Peninsula",earthquake,,81.6,,,automatic,ak,ak
 2023-01-12T05:55:45.630Z,38.8286667,-122.8018333,1.81,0.74,md,14,78,0.008315,0.01,nc,nc73831231,2023-01-12T09:20:11.393Z,"7km W of Cobb, CA",earthquake,0.28,0.73,0.211,2,reviewed,nc,nc
+2023-01-12T05:49:43.316Z,38.1243,-116.84,0,1,ml,7,218.97,0.89,0.1691,nn,nn00854808,2023-01-12T23:03:54.211Z,"34 km E of Tonopah, Nevada",earthquake,,0,1.49,3,reviewed,nn,nn
 2023-01-12T05:38:43.491Z,-55.381,-127.0048,10,5.1,mb,51,78,37.099,0.87,us,us7000j3tv,2023-01-12T06:11:44.040Z,"Pacific-Antarctic Ridge",earthquake,14.55,1.787,0.09,40,reviewed,us,us
 2023-01-12T05:30:44.493Z,60.1683,-152.2994,101.9,2,ml,,,,0.21,ak,ak023jxluv5,2023-01-12T07:03:00.040Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-12T05:21:34.965Z,60.6586,-151.4175,59.7,1.5,ml,,,,0.51,ak,ak023jxjwoo,2023-01-12T05:23:40.690Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
