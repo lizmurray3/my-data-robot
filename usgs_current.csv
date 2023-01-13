@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-13T08:43:02.710Z,38.7233315,-122.7288361,-0.12,1.29,md,9,216,0.0256,0.31,nc,nc73831516,2023-01-13T08:44:39.092Z,"6km SSE of The Geysers, CA",earthquake,3.46,5.2,0.29,9,automatic,nc,nc
 2023-01-13T08:30:34.560Z,33.488,-116.503,12.12,0.66,ml,26,92,0.07316,0.22,ci,ci40402200,2023-01-13T08:34:08.343Z,"18km ESE of Anza, CA",earthquake,0.37,0.67,0.163,18,automatic,ci,ci
 2023-01-13T08:22:23.735Z,60.1932,-153.1984,134.8,1.6,ml,,,,0.38,ak,ak023lmvqud,2023-01-13T08:24:42.862Z,"62 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-13T08:15:50.825Z,61.4777,-146.3983,28.7,1.6,ml,,,,0.74,ak,ak023lmuax6,2023-01-13T08:17:33.685Z,"38 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T08:10:49.089Z,62.5762,-151.6767,91.5,2.5,ml,,,,0.63,ak,ak023lmt858,2023-01-13T08:12:40.800Z,"47 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-01-13T08:04:07.000Z,38.815834,-122.7976685,1.75,1.16,md,21,45,0.008069,0.02,nc,nc73831511,2023-01-13T08:18:10.715Z,"6km NW of The Geysers, CA",earthquake,0.21,0.42,0.13,23,automatic,nc,nc
+2023-01-13T08:04:07.000Z,38.815834,-122.7976685,1.75,1.16,md,21,45,0.008069,0.02,nc,nc73831511,2023-01-13T08:40:12.840Z,"6km NW of The Geysers, CA",earthquake,0.21,0.42,0.13,23,automatic,nc,nc
 2023-01-13T08:02:10.690Z,41.1276665,-123.4696655,37.38,2.81,ml,19,86,,0.13,nc,nc73831506,2023-01-13T08:28:13.767Z,"21km ESE of Weitchpec, CA",earthquake,0.41,0.59,0.317,9,automatic,nc,nc
 2023-01-13T07:59:24.519Z,60.5318,-143.8304,4.5,1.7,ml,,,,0.8,ak,ak023lmi3pj,2023-01-13T08:01:41.948Z,"105 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T07:56:06.882Z,62.9416,-150.9835,128.1,1.6,ml,,,,0.99,ak,ak023lmhka8,2023-01-13T07:58:14.858Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T06:19:03.900Z,38.8136673,-122.765831,6.73,1.06,md,8,153,0.01161,0.02,nc,nc73831476,2023-01-13T06:37:12.095Z,"4km WSW of Cobb, CA",earthquake,1.12,3.58,0.32,9,automatic,nc,nc
 2023-01-13T06:13:03.550Z,47.55566666666667,-122.38633333333334,26.33,2.21,ml,23,48,0.009913,0.52,uw,uw61902256,2023-01-13T06:48:42.270Z,"4 km NNW of White Center, Washington",earthquake,1.08,1.73,0.164061631490096,17,reviewed,uw,uw
 2023-01-13T06:11:25.550Z,19.205,-155.397333333333,30.75,3.43,ml,57,157,,0.14,hv,hv73302552,2023-01-13T08:25:35.928Z,"8 km E of Pāhala, Hawaii",earthquake,0.48,0.47,0.170278930745225,41,reviewed,hv,hv
-2023-01-13T05:53:14.131Z,62.2651,-150.1678,15.2,1.4,ml,,,,0.58,ak,ak023lla2hh,2023-01-13T05:54:59.243Z,"6 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-01-13T05:53:14.131Z,62.2651,-150.1678,15.2,1.4,ml,,,,0.58,ak,ak023lla2hh,2023-01-13T05:54:59.243Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T05:46:58.495Z,60.2661,-141.1842,5.1,1.8,ml,,,,0.68,ak,ak023ll8nw9,2023-01-13T05:48:38.687Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T05:19:09.930Z,38.8188324,-122.7618332,1.89,1.11,md,6,193,0.01322,0.01,nc,nc73831466,2023-01-13T06:04:15.895Z,"3km W of Cobb, CA",earthquake,0.74,1.07,0.26,9,automatic,nc,nc
 2023-01-13T04:59:45.690Z,38.8028336,-122.7806702,2.45,0.99,md,8,80,0.01041,0.01,nc,nc73831461,2023-01-13T05:22:11.596Z,"4km NW of The Geysers, CA",earthquake,0.61,1.15,0.29,8,automatic,nc,nc
