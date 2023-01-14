@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-14T23:36:00.980Z,38.8339996,-122.8178329,1.88,1.09,md,16,60,0.0122,0.01,nc,nc73831971,2023-01-14T23:37:37.782Z,"8km NW of The Geysers, CA",earthquake,0.25,0.58,0.16,18,automatic,nc,nc
 2023-01-14T23:24:23.932Z,61.9292,-141.1404,5.6,1.8,ml,,,,0.54,ak,ak023njd0ux,2023-01-14T23:26:01.599Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-14T23:15:34.450Z,35.3955,-118.2188333,7.33,2.02,ml,36,44,0.1547,0.16,ci,ci40402608,2023-01-14T23:19:06.951Z,"33km SE of Bodfish, CA",earthquake,0.23,1.75,0.209,26,automatic,ci,ci
 2023-01-14T23:11:00.535Z,65.5079,-147.9167,15.1,1.4,ml,,,,1.45,ak,ak023nja6qt,2023-01-14T23:16:10.642Z,"29 km E of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-14T23:06:20.892Z,62.9766,-149.2252,95.2,1.4,ml,,,,0.78,ak,ak023nj95qh,2023-01-14T23:10:31.742Z,"48 km SSW of Cantwell, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-01-14T23:04:32.470Z,36.0088348,-120.5768356,0.01,1.69,md,14,102,0.03262,0.05,nc,nc73831961,2023-01-14T23:21:13.567Z,"18km NW of Parkfield, CA",earthquake,0.24,0.93,0.12,6,automatic,nc,nc
+2023-01-14T23:04:32.470Z,36.0088348,-120.5768356,0.01,1.69,md,14,102,0.03262,0.05,nc,nc73831961,2023-01-14T23:39:10.663Z,"18km NW of Parkfield, CA",earthquake,0.24,0.93,0.12,6,automatic,nc,nc
 2023-01-14T22:58:10.379Z,58.1024,-154.7344,40.7,1.5,ml,,,,0.75,ak,ak023niyujx,2023-01-14T23:00:40.706Z,"61 km NNW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-01-14T22:57:19.468Z,58.2296,-155.1836,2,0.6,ml,,,,0.06,ak,ak023niynje,2023-01-14T22:59:11.491Z,"85 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-14T22:55:59.316Z,63.5607,-147.4306,0.8,2.2,ml,,,,0.68,ak,ak023niyb6j,2023-01-14T22:57:42.747Z,"75 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
