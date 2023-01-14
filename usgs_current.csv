@@ -166,5 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T21:00:37.687Z,-32.8413,-70.2258,114.379,3.9,mb,32,104,0.284,0.29,us,us7000j49k,2023-01-13T21:53:02.040Z,"34 km E of Los Andes, Chile",earthquake,4.56,4.462,0.363,2,reviewed,us,us
 2023-01-13T20:59:06.760Z,58.1865,-155.316,2.17,0.25,ml,7,155,,0.07,av,av91746886,2023-01-14T01:29:33.530Z,"Alaska Peninsula",earthquake,0.3,0.38,0.385503083769086,7,reviewed,av,av
 2023-01-13T20:58:35.560Z,58.1795,-155.319333333333,2.22,-0.13,ml,6,164,,0.09,av,av91084403,2023-01-14T01:31:44.370Z,"85 km NW of Karluk, Alaska",earthquake,0.29,0.58,0.29164661340632,6,reviewed,av,av
-2023-01-13T20:53:47.280Z,53.3903333333333,-168.268333333333,-1,1.18,ml,6,295,,0.3,av,av91746871,2023-01-14T01:22:27.880Z,"64 km NE of Nikolski, Alaska",earthquake,0.9,0.99,0.284760326338402,6,reviewed,av,av
-2023-01-13T20:51:23.730Z,35.072,-118.4543333,7.59,1.22,ml,26,50,0.1231,0.21,ci,ci40402320,2023-01-13T21:43:51.340Z,"7km S of Tehachapi, CA",earthquake,0.32,1.65,0.113,25,reviewed,ci,ci
