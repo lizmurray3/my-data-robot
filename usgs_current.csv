@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T04:51:00.165Z,61.3417,-144.4944,6,1.7,ml,,,,1.33,ak,ak023ovqvda,2023-01-15T04:54:18.278Z,"19 km S of Chitina, Alaska",earthquake,,17.1,,,automatic,ak,ak
 2023-01-15T04:46:43.260Z,38.8263321,-122.8111649,1.38,0.7,md,12,64,0.02025,0.02,nc,nc73832101,2023-01-15T04:48:20.804Z,"7km NW of The Geysers, CA",earthquake,0.23,1.1,0.09,13,automatic,nc,nc
+2023-01-15T04:42:14.932Z,29.9605,139.1939,396.19,5.2,mww,125,61,3.189,0.83,us,us7000j4gm,2023-01-15T05:00:05.040Z,"Izu Islands, Japan region",earthquake,8.78,6.593,0.093,11,reviewed,us,us
 2023-01-15T04:40:38.581Z,62.2477,-150.4409,19.6,1.6,ml,,,,0.44,ak,ak023ovolg2,2023-01-15T04:42:15.469Z,"13 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-15T04:32:55.560Z,-17.9034,168.4539,151.267,4.8,mb,32,70,2.721,0.59,us,us7000j4gk,2023-01-15T05:06:31.040Z,"23 km SE of Port-Vila, Vanuatu",earthquake,6.73,8.613,0.111,29,reviewed,us,us
 2023-01-15T04:27:05.780Z,38.7883339,-122.7785034,0.1,1.02,md,8,142,0.008806,0.02,nc,nc73832086,2023-01-15T04:28:38.567Z,"2km WNW of The Geysers, CA",earthquake,0.32,0.58,0.15,8,automatic,nc,nc
 2023-01-15T04:26:03.770Z,38.8018341,-122.7911682,14.32,0.7,md,8,102,0.006925,0.05,nc,nc73832081,2023-01-15T04:27:38.593Z,"4km NW of The Geysers, CA",earthquake,1.67,6.85,,1,automatic,nc,nc
 2023-01-15T04:25:59.130Z,38.7879982,-122.7798309,-0.1,0.88,md,8,96,0.008167,0.02,nc,nc73832076,2023-01-15T04:27:33.422Z,"2km WNW of The Geysers, CA",earthquake,0.27,0.71,0.11,9,automatic,nc,nc
@@ -19,8 +22,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T03:27:04.930Z,38.8006668,-122.8191681,2.69,1.07,md,12,108,0.01132,0.03,nc,nc73832021,2023-01-15T03:52:13.108Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.86,0.21,13,automatic,nc,nc
 2023-01-15T02:45:56.940Z,19.3401660919189,-155.120666503906,3.71000003814697,1.70000005,md,31,182,,0.239999995,hv,hv73303942,2023-01-15T02:51:28.740Z,"13 km S of Fern Forest, Hawaii",earthquake,0.64,1.83000004,0.839999974,11,automatic,hv,hv
 2023-01-15T02:40:03.590Z,33.5711667,-116.6468333,10.02,0.86,ml,25,63,0.01431,0.2,ci,ci40402632,2023-01-15T02:43:26.782Z,"3km NE of Anza, CA",earthquake,0.37,0.53,0.354,16,automatic,ci,ci
-2023-01-15T02:39:07.850Z,46.0405,-122.11666666666666,8.51,2.4,ml,19,103,0.06872,0.18,uw,uw61893617,2023-01-15T03:28:24.860Z,"Washington",earthquake,0.33,0.44,0.12149921723331625,11,reviewed,uw,uw
-2023-01-15T02:37:57.668Z,16.1159,-87.062,10,4.5,mb,14,183,2.057,0.64,us,us7000j4gd,2023-01-15T04:05:47.899Z,"offshore Honduras",earthquake,6.11,1.961,0.08,46,reviewed,us,us
+2023-01-15T02:39:07.850Z,46.0405,-122.11666666666666,8.51,2.4,ml,19,103,0.06872,0.18,uw,uw61893617,2023-01-15T05:06:47.088Z,"Washington",earthquake,0.33,0.44,0.12149921723331625,11,reviewed,uw,uw
+2023-01-15T02:37:57.668Z,16.1159,-87.062,10,4.5,mb,14,183,2.057,0.64,us,us7000j4gd,2023-01-15T05:01:48.830Z,"offshore Honduras",earthquake,6.11,1.961,0.08,46,reviewed,us,us
 2023-01-15T02:03:06.664Z,31.6895,-104.2974,5,2.6,ml,22,115,0.314,0.35,us,us7000j4ga,2023-01-15T02:10:04.040Z,"western Texas",earthquake,1,1.961,0.097,56,reviewed,us,us
 2023-01-15T01:49:34.739Z,65.0035,-147.497,0,0.9,ml,,,,1.85,ak,ak023oty7rt,2023-01-15T01:55:30.852Z,"northern Alaska",earthquake,,4.4,,,automatic,ak,ak
 2023-01-15T01:38:19.024Z,65.5066,-147.9905,8.2,1.6,ml,,,,0.46,ak,ak023otvtou,2023-01-15T01:40:41.201Z,"25 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -160,5 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T05:18:41.664Z,61.1774,-151.4158,68,1.4,ml,,,,0.39,ak,ak023n8lz0c,2023-01-14T05:20:59.627Z,"18 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-14T05:15:59.464Z,63.0554,-150.4738,108.2,1.5,ml,,,,0.17,ak,ak023n8ld9m,2023-01-14T05:17:49.123Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-14T05:15:00.514Z,51.4239,176.9092,35.2,3.3,ml,,,,0.55,ak,ak023n8l9ju,2023-01-14T18:54:30.589Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,1.3,,,reviewed,ak,ak
-2023-01-14T05:00:15.278Z,36.6486,-116.0836,1,0,ml,9,215.43,0.049,0.0441,nn,nn00854840,2023-01-14T21:34:06.340Z,"37 km WNW of Indian Springs, Nevada",earthquake,,10.6,0.02,3,reviewed,nn,nn
-2023-01-14T04:55:51.080Z,38.8268318,-122.8539963,2.5,0.97,md,14,95,0.002357,0.01,nc,nc73831791,2023-01-14T05:36:11.133Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.86,0.12,15,automatic,nc,nc
