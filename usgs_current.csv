@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T11:53:39.860Z,61.1706,-150.8224,60.2,1.6,ml,,,,0.77,ak,ak023ozxf36,2023-01-15T11:55:44.777Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-15T11:43:50.620Z,38.7873344,-122.7631683,0.7,1.54,md,26,68,0.01354,0.03,nc,nc73832256,2023-01-15T11:45:25.159Z,"1km NNW of The Geysers, CA",earthquake,0.2,0.38,0.14,27,automatic,nc,nc
+2023-01-15T11:37:36.448Z,25.0175,125.819,35.665,5,mww,57,112,2.611,0.71,us,us7000j4if,2023-01-15T11:56:43.040Z,"57 km ENE of Hirara, Japan",earthquake,7.74,5.162,0.089,12,reviewed,us,us
 2023-01-15T11:32:35.730Z,36.0728333,-117.8843333,4.6,2.48,ml,21,82,0.05063,0.12,ci,ci40402808,2023-01-15T11:36:11.268Z,"6km ENE of Coso Junction, CA",earthquake,0.23,0.79,0.215,25,automatic,ci,ci
 2023-01-15T11:27:15.870Z,-8.7175,-74.3836,165.819,4.5,mb,27,104,1.93,0.56,us,us7000j4ib,2023-01-15T11:42:58.040Z,"36 km E of Honoria, Peru",earthquake,8.42,9.785,0.074,53,reviewed,us,us
 2023-01-15T11:22:40.550Z,37.8359985,-121.9820023,7.46,2.05,md,24,101,0.02431,0.08,nc,nc73832241,2023-01-15T11:44:12.890Z,"2km W of Diablo, CA",earthquake,0.24,0.36,0.08,24,automatic,nc,nc
@@ -26,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T08:37:35.200Z,38.8066673,-122.8026657,1,0.86,md,9,161,0.005897,0.02,nc,nc73832171,2023-01-15T09:00:12.869Z,"5km NW of The Geysers, CA",earthquake,0.49,0.83,0.24,10,automatic,nc,nc
 2023-01-15T08:33:41.390Z,38.8036652,-122.7714996,1.56,0.27,md,8,106,0.009698,0.02,nc,nc73832166,2023-01-15T08:50:12.808Z,"3km NNW of The Geysers, CA",earthquake,0.41,0.91,0.09,8,automatic,nc,nc
 2023-01-15T08:22:51.300Z,34.0708333,-117.2733333,16.66,1.46,ml,41,70,0.1069,0.24,ci,ci40402752,2023-01-15T08:26:22.358Z,"3km NNW of Loma Linda, CA",earthquake,0.32,0.73,0.121,27,automatic,ci,ci
-2023-01-15T07:51:39.185Z,-11.347,166.4131,156.506,4.7,mb,60,58,4.147,0.55,us,us7000j4hl,2023-01-15T08:17:29.040Z,"96 km SE of Lata, Solomon Islands",earthquake,11.06,7.76,0.063,84,reviewed,us,us
+2023-01-15T07:51:39.185Z,-11.347,166.4131,156.506,4.7,mb,60,58,4.147,0.55,us,us7000j4hl,2023-01-15T08:17:29.040Z,"Santa Cruz Islands",earthquake,11.06,7.76,0.063,84,reviewed,us,us
 2023-01-15T07:48:46.100Z,19.146333694458,-155.475662231445,34.9500007629395,1.90999997,md,27,248,,0.119999997,hv,hv73304082,2023-01-15T07:52:03.760Z,"6 km S of Pāhala, Hawaii",earthquake,0.85,1.14999998,0.340000004,5,automatic,hv,hv
 2023-01-15T07:45:02.275Z,61.98,-150.7571,10,1.3,ml,,,,0.77,ak,ak023oxhw1s,2023-01-15T07:47:21.494Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-15T07:42:44.761Z,10.6798,-40.9794,10,4.7,mb,31,147,12.808,0.63,us,us7000j4hp,2023-01-15T08:36:19.040Z,"northern Mid-Atlantic Ridge",earthquake,6.81,1.923,0.083,44,reviewed,us,us
