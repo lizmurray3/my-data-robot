@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T05:48:57.250Z,32.6626663,-115.8533325,7.78,1.97,ml,35,90,0.1079,0.25,ci,ci40402656,2023-01-15T05:51:03.918Z,"15km ESE of Ocotillo, CA",earthquake,0.48,1.59,0.194,14,automatic,ci,ci
 2023-01-15T05:30:57.998Z,63.0202,-150.545,101.2,1.6,ml,,,,0.46,ak,ak023ow7xdz,2023-01-15T05:33:33.043Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-15T05:19:20.524Z,59.6097,-152.8977,94.5,1.9,ml,,,,0.26,ak,ak023ow5hmc,2023-01-15T05:21:10.617Z,"62 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-15T05:18:12.729Z,63.1082,-144.4411,3.4,1.8,ml,,,,0.62,ak,ak023ow59aw,2023-01-15T05:20:06.970Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-15T04:51:00.165Z,61.3417,-144.4944,6,1.7,ml,,,,1.33,ak,ak023ovqvda,2023-01-15T04:54:18.278Z,"19 km S of Chitina, Alaska",earthquake,,17.1,,,automatic,ak,ak
-2023-01-15T04:46:43.260Z,38.8263321,-122.8111649,1.38,0.7,md,12,64,0.02025,0.02,nc,nc73832101,2023-01-15T04:48:20.804Z,"7km NW of The Geysers, CA",earthquake,0.23,1.1,0.09,13,automatic,nc,nc
+2023-01-15T04:46:43.260Z,38.8263321,-122.8111649,1.38,0.7,md,12,64,0.02025,0.02,nc,nc73832101,2023-01-15T05:49:13.827Z,"7km NW of The Geysers, CA",earthquake,0.23,1.1,0.09,13,automatic,nc,nc
 2023-01-15T04:42:14.932Z,29.9605,139.1939,396.19,5.2,mww,125,61,3.189,0.83,us,us7000j4gm,2023-01-15T05:00:05.040Z,"Izu Islands, Japan region",earthquake,8.78,6.593,0.093,11,reviewed,us,us
 2023-01-15T04:40:38.581Z,62.2477,-150.4409,19.6,1.6,ml,,,,0.44,ak,ak023ovolg2,2023-01-15T04:42:15.469Z,"13 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-15T04:32:55.560Z,-17.9034,168.4539,151.267,4.8,mb,32,70,2.721,0.59,us,us7000j4gk,2023-01-15T05:06:31.040Z,"23 km SE of Port-Vila, Vanuatu",earthquake,6.73,8.613,0.111,29,reviewed,us,us
@@ -94,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T15:00:53.046Z,36.0302,-116.5454,1.9,1.6,ml,11,314.98,0.473,0.3031,nn,nn00854838,2023-01-14T15:02:09.723Z,"25 km WNW of Shoshone, California",earthquake,,25.7,0.97,7,automatic,nn,nn
 2023-01-14T15:00:33.990Z,35.0088333,-116.968,6.89,2.34,ml,21,56,0.1353,0.16,ci,ci40402552,2023-01-14T15:11:34.190Z,"13km NNE of Barstow, CA",earthquake,0.32,1.14,0.168,25,automatic,ci,ci
 2023-01-14T14:56:22.810Z,17.87,-66.8463333333333,15.7,2.15,md,8,245,0.1091,0.07,pr,pr71392723,2023-01-14T15:13:53.810Z,"Puerto Rico region",earthquake,1.33,0.83,0.210492519588463,4,reviewed,pr,pr
-2023-01-14T14:47:57.810Z,33.5461667,-119.2338333,1,2.49,ml,6,309,0.5791,0.23,ci,ci40402544,2023-01-14T14:51:38.831Z,"18km WNW of Santa Barbara Is., CA",earthquake,11.3,31.61,0.251,32,automatic,ci,ci
+2023-01-14T14:47:57.810Z,33.5461667,-119.2338333,1,2.49,ml,6,309,0.5791,0.23,ci,ci40402544,2023-01-15T05:45:45.357Z,"18km WNW of Santa Barbara Is., CA",earthquake,11.3,31.61,0.251,32,automatic,ci,ci
 2023-01-14T14:36:48.800Z,19.1641674041748,-155.481338500977,33.25,2.00999999,md,40,109,,0.119999997,hv,hv73303572,2023-01-14T14:40:06.300Z,"Island of Hawaii, Hawaii",earthquake,0.58,0.889999986,1.88,10,automatic,hv,hv
 2023-01-14T14:31:40.250Z,38.187,-117.8105,4.3,1.4,ml,9,195.44,0.136,0.1644,nn,nn00854837,2023-01-14T14:33:38.554Z,"34 km SE of Mina, Nevada",earthquake,,2.9,0.35,6,automatic,nn,nn
 2023-01-14T14:31:27.236Z,-15.0637,166.5451,10,5,mb,25,86,8.533,0.79,us,us7000j4e1,2023-01-14T14:51:10.040Z,"56 km W of Port-Olry, Vanuatu",earthquake,13.05,1.932,0.078,52,reviewed,us,us
