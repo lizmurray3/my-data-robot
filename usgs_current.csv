@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-16T09:46:42.820Z,34.1751667,-118.278,4.37,1.29,ml,20,85,0.05978,0.28,ci,ci40403064,2023-01-16T09:50:10.171Z,"3km W of Glendale, CA",earthquake,0.48,1.01,0.192,28,automatic,ci,ci
 2023-01-16T09:35:09.879Z,62.9836,-150.3743,98.3,2.6,ml,,,,0.68,ak,ak023qm5z4m,2023-01-16T09:37:13.014Z,"57 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-16T09:31:02.529Z,36.4607,-114.9485,1.4,1.9,ml,24,188,0.839,0.2533,nn,nn00854891,2023-01-16T09:33:08.107Z,"Nevada",earthquake,,4.4,0.7,20,automatic,nn,nn
 2023-01-16T09:16:58.151Z,64.1468,-148.7772,0,1.5,ml,,,,0.53,ak,ak023qm20af,2023-01-16T09:18:53.526Z,"22 km NE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -195,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T10:08:13.190Z,38.8349991,-122.8174973,1.26,0.67,md,7,77,0.01296,0.03,nc,nc73832226,2023-01-15T10:25:13.423Z,"8km W of Cobb, CA",earthquake,0.39,1.32,0.29,8,automatic,nc,nc
 2023-01-15T10:03:01.600Z,32.563,-115.865,10.87,1.73,ml,17,133,0.1386,0.21,ci,ci40402784,2023-01-15T10:06:35.271Z,"23km SSE of Ocotillo, CA",earthquake,0.62,0.89,0.156,23,automatic,ci,ci
 2023-01-15T09:58:54.070Z,33.4286667,-116.5995,11.55,2.22,ml,83,24,0.0659,0.21,ci,ci40402776,2023-01-15T19:03:50.070Z,"16km SSE of Anza, CA",earthquake,0.19,0.47,0.194,26,reviewed,ci,ci
-2023-01-15T09:49:41.850Z,36.6848335,-121.2218323,8.93,2.32,md,25,132,0.03618,0.11,nc,nc73832216,2023-01-15T10:14:13.359Z,"15km SE of Tres Pinos, CA",earthquake,0.31,0.58,0.16,34,automatic,nc,nc
-2023-01-15T09:44:06.260Z,19.2234992980957,-155.404006958008,32.8400001525879,1.80999994,md,37,144,,0.119999997,hv,hv73304137,2023-01-15T09:47:17.140Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.930000007,1.90999997,4,automatic,hv,hv
