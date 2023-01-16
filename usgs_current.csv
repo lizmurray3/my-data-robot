@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-16T12:10:53.950Z,38.8416672,-122.8386688,1.77,0.75,md,14,117,0.003952,0.02,nc,nc73832801,2023-01-16T12:12:30.688Z,"10km NW of The Geysers, CA",earthquake,0.29,0.49,0.51,15,automatic,nc,nc
+2023-01-16T11:44:59.521Z,35.7022,80.2482,10,4.3,mb,30,73,6.104,0.38,us,us7000j4p0,2023-01-16T12:05:21.040Z,"158 km S of Hotan, China",earthquake,7.46,1.929,0.168,10,reviewed,us,us
 2023-01-16T11:44:40.215Z,35.079319,-95.52866364,1.458860636,2.31,ml,17,115.2215424,0.1318373084,0.469130106,ok,ok2023bchu,2023-01-16T11:48:16.283Z,"13 km ESE of Crowder, Oklahoma",earthquake,3.625125581,2.360339694,,12,automatic,ok,ok
+2023-01-16T11:43:18.410Z,14.0422,-89.8553,10,4,mb,20,155,0.157,0.39,us,us7000j4ny,2023-01-16T11:55:42.040Z,"Guatemala",earthquake,2.17,1.994,0.173,9,reviewed,us,us
 2023-01-16T11:34:35.124Z,38.1861,-117.8144,7.2,1.6,ml,10,147.25,0.135,0.1201,nn,nn00854894,2023-01-16T11:37:16.237Z,"34 km SE of Mina, Nevada",earthquake,,1.4,0.48,5,automatic,nn,nn
 2023-01-16T11:31:26.810Z,19.3374996185303,-155.282669067383,1.21000003814697,1.82,ml,30,75,,0.230000004,hv,hv73304962,2023-01-16T11:36:58.830Z,"12 km SSW of Volcano, Hawaii",earthquake,0.32,0.409999996,3.87,3,automatic,hv,hv
 2023-01-16T11:29:41.803Z,35.7622,80.0515,10,4.2,mb,34,100,5.97,0.36,us,us7000j4nw,2023-01-16T11:45:41.040Z,"149 km S of Hotan, China",earthquake,3.91,1.931,0.125,18,reviewed,us,us
@@ -190,7 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T12:49:19.076Z,64.8867,-147.2825,16.5,0.9,ml,,,,0.31,ak,ak023p0hyav,2023-01-15T13:00:43.149Z,"11 km W of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-15T12:34:49.330Z,36.4678333333333,-89.5086666666667,6.33,1.86,md,28,84,0.06542,0.06,nm,nm60506651,2023-01-15T14:55:22.670Z,"southeastern Missouri",earthquake,0.57,0.95,0.0986522318161518,19,reviewed,nm,nm
 2023-01-15T12:28:15.040Z,11.4334,124.6663,10,4.8,mb,52,82,4.429,0.54,us,us7000j4it,2023-01-15T15:31:07.890Z,"Leyte, Philippines",earthquake,6.66,1.75,0.087,41,reviewed,us,us
-2023-01-15T12:09:29.860Z,38.8371658,-122.8363342,1.45,1.45,md,25,78,0.001568,0.02,nc,nc73832266,2023-01-15T13:10:11.439Z,"10km NW of The Geysers, CA",earthquake,0.18,0.33,0.15,26,automatic,nc,nc
-2023-01-15T12:08:58.420Z,19.216833114624,-155.380004882812,34.3400001525879,1.86000001,md,41,157,,0.159999996,hv,hv73304232,2023-01-15T12:12:07.610Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.850000024,,5,automatic,hv,hv
-2023-01-15T12:05:26.140Z,20.2433338165283,-155.575332641602,9.05000019073486,2.47,ml,48,193,,0.219999999,hv,hv73304227,2023-01-15T18:15:47.129Z,"13 km N of Kukuihaele, Hawaii",earthquake,2.54,3.43000007,5.14,5,automatic,hv,hv
-2023-01-15T12:04:17.421Z,-14.9531,166.8895,29.099,5.6,mww,99,25,8.722,0.69,us,us7000j4ij,2023-01-16T06:17:11.715Z,"22 km WNW of Port-Olry, Vanuatu",earthquake,8.39,2.96,0.054,33,reviewed,us,us
