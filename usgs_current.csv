@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-18T15:06:05.190Z,19.2253341674805,-155.469329833984,31.4300003051758,1.84000003,md,25,95,,0.150000006,hv,hv73306692,2023-01-18T15:09:08.080Z,"Hawaii region, Hawaii",earthquake,0.76,1,1.80999994,6,automatic,hv,hv
 2023-01-18T14:37:13.127Z,61.5473,-151.1722,68.3,2,ml,,,,0.64,ak,ak023u089v4,2023-01-18T14:39:23.731Z,"35 km W of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-18T14:25:21.043Z,61.4978,-149.7639,33.3,1.8,ml,,,,0.62,ak,ak023u05pvs,2023-01-18T14:27:37.711Z,"4 km NNW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-18T14:09:42.035Z,38.1386,-117.8667,9.8,1,ml,10,127.72,0.13,0.3239,nn,nn00854956,2023-01-18T14:11:56.896Z,"35 km SE of Mina, Nevada",earthquake,,0.9,0.28,5,automatic,nn,nn
@@ -116,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T00:42:57.280Z,33.1346667,-116.3915,-0.03,0.99,ml,13,145,0.181,0.23,ci,ci40403464,2023-01-18T00:46:46.183Z,"14km S of Borrego Springs, CA",earthquake,1.04,31.61,0.095,11,automatic,ci,ci
 2023-01-18T00:38:33.060Z,35.9781667,-118.7411667,28.04,1.44,ml,9,105,0.2229,0.12,ci,ci40403456,2023-01-18T00:41:56.313Z,"27km ESE of Porterville, CA",earthquake,0.58,0.91,0.247,10,automatic,ci,ci
 2023-01-18T00:34:44.767Z,-0.0007,123.1832,152.529,6,mww,130,18,1.113,0.95,us,us7000j511,2023-01-18T13:42:42.040Z,"Sulawesi, Indonesia",earthquake,7.61,3.612,0.049,40,reviewed,us,us
-2023-01-18T00:28:07.310Z,33.0558333,-116.5471667,12.94,1.4,ml,45,48,0.04918,0.21,ci,ci40403448,2023-01-18T00:39:23.260Z,"6km ESE of Julian, CA",earthquake,0.29,0.67,0.14,27,automatic,ci,ci
+2023-01-18T00:28:07.220Z,33.0556667,-116.5411667,12.94,1.39,ml,60,34,0.05365,0.18,ci,ci40403448,2023-01-18T15:14:15.690Z,"6km ESE of Julian, CA",earthquake,0.18,0.44,0.098,31,reviewed,ci,ci
 2023-01-18T00:25:40.010Z,33.411,-116.395,12.4,0.73,ml,11,168,0.115,0.1,ci,ci40403440,2023-01-18T00:29:15.507Z,"17km N of Borrego Springs, CA",earthquake,0.65,1.28,0.186,9,automatic,ci,ci
 2023-01-18T00:20:04.413Z,12.9545,-88.9654,61.827,4.1,mb,20,188,0.754,1.17,us,us7000j510,2023-01-18T00:39:16.040Z,"57 km SW of Jiquilisco, El Salvador",earthquake,5.41,10.041,0.185,8,reviewed,us,us
 2023-01-18T00:17:14.699Z,36.10516667,-97.8355,7.46,2.63,ml,98,36,0,0.16,ok,ok2023bfcd,2023-01-18T13:45:16.310Z,"Oklahoma",earthquake,,0.4,0.27,44,reviewed,ok,ok
@@ -143,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T21:29:02.140Z,33.1341667,-116.7013333,16.29,2.18,ml,77,20,0.0791,0.18,ci,ci40403392,2023-01-17T23:07:17.129Z,"11km WNW of Julian, CA",earthquake,0.15,0.34,0.119,29,reviewed,ci,ci
 2023-01-17T21:06:49.490Z,36.85,-97.78666667,7.98,2.12,ml,88,65,0.1439717478,0.21,ok,ok2023bevv,2023-01-17T21:44:09.091Z,"6 km NW of Medford, Oklahoma",earthquake,,0.6,0.22,16,reviewed,ok,ok
 2023-01-17T21:02:39.620Z,38.8341675,-122.8021698,2.13,1.66,md,28,34,,0.02,nc,nc73833316,2023-01-17T22:36:13.821Z,"7km W of Cobb, CA",earthquake,0.18,0.32,0.11,34,automatic,nc,nc
-2023-01-17T20:46:36.013Z,-17.7397,-171.0694,15.64,5.1,mb,32,72,1.716,1.72,us,us7000j4z6,2023-01-17T21:07:04.040Z,"Tonga region",earthquake,5.27,4.451,0.102,31,reviewed,us,us
+2023-01-17T20:46:36.968Z,-17.7445,-171.1648,14.633,5,mb,118,61,1.771,0.65,us,us7000j4z6,2023-01-18T15:09:17.040Z,"Tonga region",earthquake,5.99,2.893,0.041,192,reviewed,us,us
 2023-01-17T20:44:28.400Z,38.8361664,-122.8183365,1.67,1,md,19,68,0.01361,0.02,nc,nc73833301,2023-01-17T20:46:05.982Z,"8km W of Cobb, CA",earthquake,0.23,0.5,0.24,20,automatic,nc,nc
 2023-01-17T20:37:33.858Z,59.7945,-152.8966,20,1.2,ml,,,,0.42,ak,ak023sg9kll,2023-01-17T20:39:19.438Z,"59 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-17T20:31:03.730Z,38.8306656,-122.8180008,1.75,1.03,md,21,50,0.009542,0.03,nc,nc73833296,2023-01-17T20:32:40.758Z,"8km NW of The Geysers, CA",earthquake,0.22,0.39,0.21,21,automatic,nc,nc
