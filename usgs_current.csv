@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-20T20:33:37.250Z,33.9833333,-117.374,0.74,1.18,ml,16,127,0.1699,0.31,ci,ci40404488,2023-01-20T20:37:18.465Z,"3km ESE of Rubidoux, CA",earthquake,0.83,31.61,0.234,22,automatic,ci,ci
 2023-01-20T20:27:01.060Z,33.3471667,-116.1311667,24.58,1.26,ml,13,163,0.1501,0.31,ci,ci40404480,2023-01-20T20:30:31.775Z,"14km SSW of Oasis, CA",earthquake,1.78,3.29,0.236,24,automatic,ci,ci
 2023-01-20T20:18:16.536Z,63.2781,-148.8582,70.8,2.4,ml,,,,0.51,ak,ak023xeri36,2023-01-20T20:20:04.988Z,"13 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-20T20:01:21.660Z,18.8245,-67.2945,29.7,2.88,md,6,325,0.3954,0.07,pr,pr71393333,2023-01-20T20:22:28.760Z,"42 km NNW of San Antonio, Puerto Rico",earthquake,0.96,2.09,0.0213376690590907,3,reviewed,pr,pr
@@ -96,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T07:15:17.926Z,61.7254,-148.0866,3.2,1.8,ml,,,,0.79,ak,ak023x7088g,2023-01-20T07:17:12.110Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-20T07:10:58.210Z,37.4456673,-122.2529984,13.64,2.59,md,8,177,0.04339,0.37,nc,nc73834396,2023-01-20T20:09:22.854Z,"2km N of Woodside, CA",earthquake,2.6,3.24,0.11,8,automatic,nc,nc
 2023-01-20T07:10:40.630Z,38.8120003,-122.7978363,2.18,0.73,md,13,99,0.004487,0.02,nc,nc73834391,2023-01-20T07:12:14.167Z,"5km NW of The Geysers, CA",earthquake,0.3,0.71,0.13,13,automatic,nc,nc
-2023-01-20T07:09:07.850Z,37.376667,-122.2256699,6.76,2.91,md,53,57,,0.08,nc,nc73834386,2023-01-20T20:33:23.878Z,"1km SE of Portola Valley, CA",earthquake,0.14,0.37,0.12,67,automatic,nc,nc
+2023-01-20T07:09:07.850Z,37.376667,-122.2256699,6.76,2.91,md,53,57,,0.08,nc,nc73834386,2023-01-20T20:38:29.517Z,"1km SE of Portola Valley, CA",earthquake,0.14,0.37,0.12,67,automatic,nc,nc
 2023-01-20T06:59:53.010Z,34.2111667,-116.8343333,7.41,1.46,ml,50,47,0.08791,0.13,ci,ci40404328,2023-01-20T19:16:45.370Z,"6km S of Big Bear City, CA",earthquake,0.16,0.5,0.165,23,reviewed,ci,ci
 2023-01-20T06:54:50.247Z,58.3854,-153.5737,75.5,2,ml,,,,1.02,ak,ak023x6n81s,2023-01-20T06:57:52.122Z,"53 km NW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-20T06:47:59.800Z,38.828167,-122.8108368,0.71,1.08,md,13,64,0.004802,0.05,nc,nc73834381,2023-01-20T06:49:34.401Z,"7km NW of The Geysers, CA",earthquake,0.23,0.65,0.3,13,automatic,nc,nc
