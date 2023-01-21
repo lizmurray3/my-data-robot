@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-21T13:41:28.464Z,60.2456,-152.1258,90.4,3.2,ml,,,,0.38,ak,ak023yy9rs2,2023-01-21T13:43:04.274Z,"33 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-21T13:35:36.410Z,38.7986679,-122.8088303,1.47,1,md,22,69,0.01127,0.03,nc,nc73835331,2023-01-21T13:37:12.826Z,"5km WNW of The Geysers, CA",earthquake,0.2,0.37,0.31,22,automatic,nc,nc
 2023-01-21T13:32:22.100Z,38.8323326,-122.8154984,1.36,1.28,md,24,52,0.009879,0.02,nc,nc73835326,2023-01-21T13:33:57.692Z,"8km NW of The Geysers, CA",earthquake,0.17,0.36,0.16,25,automatic,nc,nc
+2023-01-21T13:26:03.339Z,18.3,145.9099,152.773,4.8,mb,68,53,4.79,1.05,us,us7000j62k,2023-01-21T13:46:29.040Z,"Pagan region, Northern Mariana Islands",earthquake,8.59,7.287,0.038,212,reviewed,us,us
 2023-01-21T13:09:47.290Z,19.174165725708,-155.497329711914,34.1500015258789,2.03999996,md,39,153,,0.129999995,hv,hv73309232,2023-01-21T13:12:58.910Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.72,0.860000014,0.790000021,12,automatic,hv,hv
 2023-01-21T12:47:19.789Z,60.847,-152.3511,105.7,2.6,ml,,,,0.43,ak,ak023yxplwu,2023-01-21T12:50:16.949Z,"60 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-21T12:47:14.954Z,60.4838,-141.4008,15.1,2.8,ml,,,,0.8,ak,ak023yxplfr,2023-01-21T13:03:28.040Z,"134 km SE of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
