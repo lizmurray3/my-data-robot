@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-22T11:11:37.275Z,60.7717,-150.8716,44.9,2.1,ml,,,,0.21,ak,ak02310kfu9r,2023-01-22T11:13:07.741Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-22T11:04:28.537Z,61.7452,-149.6034,29,1.7,ml,,,,0.66,ak,ak02310kebl1,2023-01-22T11:06:10.931Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-22T10:57:25.445Z,64.8565,-148.7196,14.9,2,ml,,,,0.56,ak,ak02310k48ow,2023-01-22T10:59:09.857Z,"33 km W of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-22T10:46:59.590Z,34.1398333,-118.4431667,8.91,1.08,ml,19,90,0.03499,0.32,ci,ci40404872,2023-01-22T10:50:33.931Z,"1km SSE of Sherman Oaks, CA",earthquake,0.67,1.24,0.156,23,automatic,ci,ci
@@ -185,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T11:39:38.176Z,62.6127,-152.1539,0.1,2.6,ml,,,,0.81,ak,ak023yx2hw9,2023-01-21T12:42:28.040Z,"72 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-21T11:29:00.265Z,61.7673,-149.7299,41.3,1.9,ml,,,,0.21,ak,ak023yx09t6,2023-01-21T11:31:03.934Z,"15 km NNE of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-21T11:26:56.360Z,38.6020012,-122.8069992,8.11,1.62,md,15,89,0.1153,0.04,nc,nc73835281,2023-01-21T12:53:18.622Z,"6km E of Healdsburg, CA",earthquake,0.3,1.15,0.16,15,automatic,nc,nc
-2023-01-21T11:14:43.110Z,34.6173333,-116.5745,8.7,1.33,ml,16,52,0.0489,0.16,ci,ci40404624,2023-01-21T11:18:16.135Z,"40km WSW of Ludlow, CA",earthquake,0.33,1.09,0.159,24,automatic,ci,ci
-2023-01-21T11:14:30.644Z,37.2122,141.5403,50.582,4.3,mb,38,162,2.754,0.55,us,us7000j623,2023-01-21T12:10:52.040Z,"56 km ESE of Namie, Japan",earthquake,2.41,9.491,0.109,27,reviewed,us,us
