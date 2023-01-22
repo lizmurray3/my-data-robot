@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T10:29:55.030Z,38.8351669,-122.810997,1.99,0.23,md,8,101,0.01178,0.01,nc,nc73835731,2023-01-22T10:31:29.492Z,"8km W of Cobb, CA",earthquake,0.4,0.99,0.12,9,automatic,nc,nc
 2023-01-22T10:25:55.585Z,60.7137,-150.6706,39.3,1.8,ml,,,,0.54,ak,ak02310jxg2l,2023-01-22T10:28:36.742Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-22T10:25:07.190Z,35.989666,-120.9623337,5.02,1.11,md,11,106,0.06887,0.06,nc,nc73835726,2023-01-22T10:26:44.303Z,"6km WSW of San Ardo, CA",earthquake,0.46,0.62,0.2,4,automatic,nc,nc
-2023-01-22T10:21:42.230Z,37.0638351,-121.1875,2.35,1.35,md,8,157,0.09256,0.11,nc,nc73835721,2023-01-22T10:23:19.186Z,"27km SW of Gustine, CA",earthquake,0.79,11.79,0.03,5,automatic,nc,nc
+2023-01-22T10:21:42.230Z,37.0638351,-121.1875,2.35,1.35,md,8,157,0.09256,0.11,nc,nc73835721,2023-01-22T10:40:13.304Z,"27km SW of Gustine, CA",earthquake,0.79,11.79,0.03,5,automatic,nc,nc
 2023-01-22T10:04:27.982Z,63.2897,-148.5093,8.2,1.9,ml,,,,0.74,ak,ak02310jsvxq,2023-01-22T10:07:27.899Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-22T10:04:17.370Z,19.1671657562256,-155.502334594727,31.2800006866455,1.74000001,md,37,113,,0.129999995,hv,hv73310067,2023-01-22T10:07:28.950Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.71,1.09000003,0.870000005,3,automatic,hv,hv
 2023-01-22T10:03:16.890Z,18.139,-67.0801666666667,21.54,2.34,md,18,61,0.04503,0.16,pr,pr71393848,2023-01-22T10:23:07.480Z,"4 km E of Hormigueros, Puerto Rico",earthquake,0.3,0.51,0.0493074135480995,6,reviewed,pr,pr
