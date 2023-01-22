@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-22T23:42:36.130Z,33.6663333,-116.6971667,16.22,0.82,ml,22,103,0.04691,0.08,ci,ci40404952,2023-01-22T23:46:10.091Z,"8km SSE of Idyllwild, CA",earthquake,0.22,0.32,0.274,16,automatic,ci,ci
 2023-01-22T23:31:14.890Z,38.8398323,-122.8376694,1.81,0.65,md,7,125,0.002109,0.01,nc,nc73836066,2023-01-22T23:32:51.640Z,"10km NW of The Geysers, CA",earthquake,0.37,0.75,0.28,8,automatic,nc,nc
 2023-01-22T23:13:08.480Z,17.9585,-66.9893333333333,8.18,2.57,md,5,201,0.05337,0.06,pr,pr71394018,2023-01-22T23:26:51.790Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.59,0.95,0.0346171608121923,4,reviewed,pr,pr
 2023-01-22T23:05:09.340Z,19.2478332519531,-155.401840209961,31.2800006866455,1.95,ml,40,131,,0.140000001,hv,hv73310437,2023-01-22T23:10:42.130Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.939999998,3.57,3,automatic,hv,hv
