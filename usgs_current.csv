@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-23T06:35:27.460Z,19.1216659545898,-155.435836791992,33.1399993896484,2.05999994,md,15,185,,0.219999999,hv,hv73310627,2023-01-23T06:38:44.660Z,"10 km SSE of Pāhala, Hawaii",earthquake,1.21,2.9000001,0.689999998,3,automatic,hv,hv
 2023-01-23T06:22:29.175Z,62.6626,-149.6765,8.3,1.8,ml,,,,0.39,ak,ak0231252czp,2023-01-23T06:25:01.136Z,"32 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-23T06:13:17.443Z,62.0318,-149.2468,46.2,1.5,ml,,,,1.01,ak,ak0231250en4,2023-01-23T06:16:01.740Z,"Central Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-01-23T06:12:28.890Z,38.8084984,-122.8001633,3.3,0.81,md,8,91,0.003834,0.01,nc,nc73836166,2023-01-23T06:14:02.710Z,"5km NW of The Geysers, CA",earthquake,0.69,1.44,0.11,9,automatic,nc,nc
+2023-01-23T06:12:28.890Z,38.8084984,-122.8001633,3.3,0.81,md,8,91,0.003834,0.01,nc,nc73836166,2023-01-23T06:30:13.370Z,"5km NW of The Geysers, CA",earthquake,0.69,1.44,0.11,9,automatic,nc,nc
 2023-01-23T06:05:23.228Z,60.1837,-151.6617,32.4,2,ml,,,,0.47,ak,ak023124yk9x,2023-01-23T06:07:24.702Z,"14 km N of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-23T05:40:18.704Z,61.8716,-149.9312,31,2,ml,,,,0.62,ak,ak023124krgu,2023-01-23T05:42:24.996Z,"14 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-23T05:25:34.340Z,33.4006667,-116.3771667,3.82,0.88,ml,23,128,0.1363,0.19,ci,ci40405008,2023-01-23T05:29:08.914Z,"16km N of Borrego Springs, CA",earthquake,0.34,0.97,0.168,22,automatic,ci,ci
@@ -21,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T02:44:36.190Z,57.4307,-154.9686,51.1,2.9,ml,,,,0.24,ak,ak023122tcv7,2023-01-23T03:05:49.040Z,"34 km WSW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-01-23T02:42:57.559Z,2.8162,127.2403,49.437,4.6,mb,35,131,2.035,0.47,us,us7000j6aq,2023-01-23T02:58:18.040Z,"147 km NW of Tobelo, Indonesia",earthquake,8.11,6.21,0.116,22,reviewed,us,us
 2023-01-23T02:40:17.980Z,34.057,-117.2481667,14.41,1.05,ml,23,76,0.09111,0.18,ci,ci40404976,2023-01-23T02:43:54.935Z,"2km NE of Loma Linda, CA",earthquake,0.28,0.71,0.17,27,automatic,ci,ci
+2023-01-23T02:11:53.620Z,46.846666666666664,-121.91266666666667,9.54,1.16,ml,26,68,0.02533,0.12,uw,uw61894427,2023-01-23T06:35:17.250Z,"Washington",earthquake,0.32,0.43,0.1919663274989234,18,reviewed,uw,uw
 2023-01-23T02:11:49.860Z,37.7446671,-122.1548309,4.41,1.68,md,18,95,0.03483,0.08,nc,nc73836111,2023-01-23T02:59:13.121Z,"2km N of San Leandro, CA",earthquake,0.24,0.49,0.15,12,automatic,nc,nc
 2023-01-23T02:09:21.350Z,33.9776667,-116.89,18.72,1.31,ml,38,54,0.08918,0.18,ci,ci40404968,2023-01-23T02:20:21.730Z,"6km NNW of Banning, CA",earthquake,0.22,0.49,0.167,27,automatic,ci,ci
 2023-01-23T01:40:30.619Z,63.3237,-145.297,6.9,1.3,ml,,,,0.35,ak,ak02312271yt,2023-01-23T01:42:27.643Z,"30 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T22:25:06.580Z,17.9575,-66.8778333333333,18.13,2.53,md,14,198,0.01751,0.12,pr,pr71394003,2023-01-22T22:48:30.490Z,"Puerto Rico",earthquake,0.4,0.35,0.189196332353396,7,reviewed,pr,pr
 2023-01-22T22:15:26.093Z,-38.0325,176.3596,208.954,4.3,mb,24,69,0.742,0.76,us,us7000j6a6,2023-01-23T04:19:35.040Z,"15 km NE of Rotorua, New Zealand",earthquake,5.8,6.234,0.178,9,reviewed,us,us
 2023-01-22T22:13:26.830Z,37.4711685,-121.8011703,9.69,1.58,md,12,96,0.03425,0.06,nc,nc73836041,2023-01-22T23:05:13.738Z,"10km ENE of Milpitas, CA",earthquake,0.53,0.89,0.13,8,automatic,nc,nc
-2023-01-22T22:08:56.488Z,14.0872,-91.3552,69.093,4.6,mb,20,189,0.941,0.4,us,us7000j6a4,2023-01-23T04:15:52.040Z,"Guatemala",earthquake,7.79,11.07,0.244,5,reviewed,us,us
+2023-01-22T22:08:56.488Z,14.0872,-91.3552,69.093,4.6,mb,20,189,0.941,0.4,us,us7000j6a4,2023-01-23T04:15:52.040Z,"13 km SSW of Nueva Concepción, Guatemala",earthquake,7.79,11.07,0.244,5,reviewed,us,us
 2023-01-22T22:08:27.516Z,38.5957,99.0242,11.667,4.1,mb,22,101,10.681,0.51,us,us7000j6a5,2023-01-23T04:14:09.040Z,"129 km WSW of Zhangye, China",earthquake,11.21,4.362,0.14,14,reviewed,us,us
 2023-01-22T21:57:44.700Z,37.6248322,-122.4834976,7.58,1.81,md,13,159,0.01413,0.03,nc,nc73836036,2023-01-22T22:39:10.579Z,"1km NNE of Pacifica, CA",earthquake,0.55,0.54,0.24,9,automatic,nc,nc
 2023-01-22T21:49:17.630Z,40.527668,-124.4148331,16.8,3.27,ml,20,251,0.07866,0.07,nc,nc73836031,2023-01-23T05:28:57.668Z,"14km WSW of Ferndale, CA",earthquake,1.26,0.31,0.308,10,automatic,nc,nc
