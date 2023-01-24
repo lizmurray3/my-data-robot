@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T10:15:45.748Z,62.6091,-152.2367,35.3,1.4,ml,,,,1.39,ak,ak02313uxz74,2023-01-24T10:27:53.657Z,"Central Alaska",earthquake,,28.8,,,automatic,ak,ak
 2023-01-24T09:58:51.620Z,19.0348339080811,-155.414505004883,35.2900009155273,3.15,ml,50,208,,0.129999995,hv,hv73311482,2023-01-24T10:11:02.000Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.57,0.930000007,3.4,30,automatic,hv,hv
 2023-01-24T09:52:54.610Z,19.0543327331543,-155.40966796875,34.7400016784668,2.68,ml,46,202,,0.140000001,hv,hv73311477,2023-01-24T10:07:18.199Z,"17 km E of Naalehu, Hawaii",earthquake,0.62,1.00999999,2.26,11,automatic,hv,hv
 2023-01-24T09:19:26.799Z,65.3803,-144.8278,3.6,1.8,ml,,,,0.72,ak,ak02313udcyv,2023-01-24T09:23:00.612Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -173,6 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T12:01:32.370Z,18.857,-65.001,14.35,3,md,5,288,0.5037,0.25,pr,pr71394128,2023-01-23T12:52:09.740Z,"57 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.68,2.79,0.0561726225232628,3,reviewed,pr,pr
 2023-01-23T11:56:31.690Z,31.60879737,-103.9722967,9.319360352,2.4,ml,20,57,0.003511090459,0.1,tx,tx2023bpct,2023-01-23T22:30:32.238Z,"western Texas",earthquake,0.5547342565,0.568623565,0.1,16,reviewed,tx,tx
 2023-01-23T11:12:52.920Z,38.757,-122.7291641,2.1,1.11,md,11,111,0.005688,0.03,nc,nc73836241,2023-01-23T11:47:17.161Z,"3km SE of The Geysers, CA",earthquake,0.42,0.28,0.09,9,automatic,nc,nc
+2023-01-23T11:02:00.750Z,37.6393333,-122.4903333,8.76,1.1,md,20,148,0.0125,0.08,nc,nc73836236,2023-01-24T10:30:30.439Z,"3km N of Pacifica, CA",earthquake,0.26,0.25,0.325,13,reviewed,nc,nc
 2023-01-23T10:51:56.890Z,38.8154984,-122.795166,2.36,0.51,md,7,107,0.00752,0.01,nc,nc73836231,2023-01-23T11:12:12.968Z,"5km NW of The Geysers, CA",earthquake,0.48,1.23,0.27,7,automatic,nc,nc
 2023-01-23T10:45:14.100Z,38.8344994,-122.8136673,1.28,0.89,md,11,63,0.01144,0.04,nc,nc73836226,2023-01-23T11:02:14.906Z,"8km W of Cobb, CA",earthquake,0.36,0.75,0.36,11,automatic,nc,nc
 2023-01-23T10:37:52.930Z,35.0331,14.1929,10,5.1,mww,101,46,5.117,1.15,us,us7000j6bz,2023-01-24T08:23:08.493Z,"92 km SSW of Qrendi, Malta",earthquake,2.44,1.834,0.045,48,reviewed,us,us
