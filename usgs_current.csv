@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-26T08:42:39.460Z,35.3598333,-117.9366667,1.49,0.86,ml,11,71,0.1184,0.17,ci,ci40162071,2023-01-26T08:46:19.503Z,"26km N of California City, CA",earthquake,0.38,0.85,0.11,9,automatic,ci,ci
 2023-01-26T08:24:55.760Z,36.4583321,-121.0345001,7.5,1.08,md,9,155,0.01917,0.13,nc,nc73837621,2023-01-26T08:39:11.242Z,"13km SE of Pinnacles, CA",earthquake,0.64,1.19,0.14,7,automatic,nc,nc
 2023-01-26T07:58:47.910Z,32.9688339,-116.2935028,11.57,1.45,ml,26,124,0.01645,0.14,ci,ci40162063,2023-01-26T08:02:23.264Z,"25km SW of Ocotillo Wells, CA",earthquake,0.36,0.62,0.249,14,automatic,ci,ci
 2023-01-26T07:58:05.460Z,32.9595,-116.3028333,10.01,2.51,ml,64,33,0.004908,0.23,ci,ci40162055,2023-01-26T08:09:20.980Z,"26km SW of Ocotillo Wells, CA",earthquake,0.22,0.61,0.163,26,automatic,ci,ci
@@ -185,7 +186,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T10:09:09.290Z,35.9618333,-117.9138333,8.71,0.84,ml,10,139,0.07899,0.07,ci,ci40161391,2023-01-25T14:35:27.546Z,"3km NNW of Little Lake, CA",earthquake,0.28,0.6,0.214,10,reviewed,ci,ci
 2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-26T07:49:45.776Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
 2023-01-25T10:01:41.890Z,35.8515,-97.19116667,7.98,3.53,ml,84,46,0,0.12,ok,ok2023bspx,2023-01-26T05:29:33.596Z,"Oklahoma",earthquake,,0.3,0.26,43,reviewed,ok,ok
-2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T08:42:27.138Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
+2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T08:47:34.961Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
 2023-01-25T09:59:08.048Z,61.4313,-146.363,29.2,1.8,ml,,,,0.84,ak,ak02315i58no,2023-01-25T10:01:20.233Z,"33 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-25T09:54:20.360Z,38.8813324,-122.7841644,10.97,0.25,md,6,230,0.03915,0.05,nc,nc73836986,2023-01-25T12:24:12.264Z,"8km NW of Cobb, CA",earthquake,4.32,2.42,0.07,4,automatic,nc,nc
 2023-01-25T09:49:26.635Z,37.2144,-117.3541,1.7,1,ml,12,168.89,0.219,0.1891,nn,nn00855246,2023-01-25T22:22:07.306Z,"55 km S of Goldfield, Nevada",earthquake,,4,0.51,8,reviewed,nn,nn
@@ -197,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T09:18:29.840Z,46.25416666666667,-122.07916666666667,5.47,0.76,ml,15,154,0.04202,0.12,uw,uw61903641,2023-01-25T18:52:56.600Z,"37 km SSE of Morton, Washington",earthquake,0.43,0.96,0.14905780666972956,14,reviewed,uw,uw
 2023-01-25T09:11:39.331Z,-3.4826,-80.7592,34.065,4.4,mb,41,159,0.694,0.63,us,us6000jj3z,2023-01-25T10:16:21.040Z,"23 km NNW of Zorritos, Peru",earthquake,5.18,6.692,0.109,24,reviewed,us,us
 2023-01-25T08:58:07.940Z,51.8661666666667,-177.935666666667,6.64,0.7,ml,5,167,,0.15,av,av91085678,2023-01-26T01:01:37.860Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.6,1.4,0.312422504607571,5,reviewed,av,av
-2023-01-25T08:49:52.100Z,18.046,-66.8115,14.59,2.26,md,6,141,0.09559,0.08,pr,pr71394403,2023-01-25T09:00:22.830Z,"3 km NW of Guayanilla, Puerto Rico",earthquake,0.45,0.94,0.069323191927753,4,reviewed,pr,pr
-2023-01-25T08:46:19.839Z,31.67876155,-104.3825579,6.362939453,2,ml,41,45,0.0478510274,0.2,tx,tx2023bsnl,2023-01-26T07:24:31.296Z,"55 km S of Whites City, New Mexico",earthquake,0.6332891659,0.6465583247999999,0,7,reviewed,tx,tx
-2023-01-25T08:46:14.890Z,19.1730003356934,-155.486831665039,35.189998626709,1.72000003,md,37,96,,0.100000001,hv,hv73312437,2023-01-25T08:49:35.410Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.56,0.930000007,0.569999993,8,automatic,hv,hv
