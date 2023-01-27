@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-27T06:46:07.350Z,38.8153343,-122.7874985,1.18,0.74,md,12,62,0.005712,0.04,nc,nc73838171,2023-01-27T06:47:43.801Z,"5km NNW of The Geysers, CA",earthquake,0.27,0.47,0.16,12,automatic,nc,nc
+2023-01-27T06:45:33.380Z,33.4665,-116.5666667,8.66,0.5,ml,19,108,0.0409,0.13,ci,ci40162519,2023-01-27T06:49:11.251Z,"14km SE of Anza, CA",earthquake,0.3,0.46,0.154,12,automatic,ci,ci
 2023-01-27T06:38:45.290Z,19.1040000915527,-155.419494628906,30.1599998474121,1.83000004,md,35,186,,0.129999995,hv,hv73313722,2023-01-27T06:41:55.610Z,"12 km SSE of Pāhala, Hawaii",earthquake,0.58,0.910000026,1.14999998,8,automatic,hv,hv
 2023-01-27T06:35:27.880Z,33.4661667,-116.565,9.28,0.31,ml,14,110,0.04215,0.18,ci,ci40162511,2023-01-27T06:39:05.120Z,"14km SE of Anza, CA",earthquake,0.48,0.69,0.22,6,automatic,ci,ci
 2023-01-27T06:14:29.190Z,38.8328323,-122.8143311,1.4,0.31,md,7,130,0.009993,0.02,nc,nc73838166,2023-01-27T06:39:11.202Z,"8km NW of The Geysers, CA",earthquake,0.42,1.68,0.19,8,automatic,nc,nc
@@ -236,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T07:07:15.640Z,38.8059998,-122.8081665,1.51,0.74,md,8,112,0.01024,0.01,nc,nc73837556,2023-01-26T07:25:11.796Z,"6km NW of The Geysers, CA",earthquake,0.34,0.9,0.11,9,automatic,nc,nc
 2023-01-26T07:06:08.370Z,38.8051682,-122.8065033,0.65,2.42,md,41,48,,0.07,nc,nc73837551,2023-01-26T09:55:11.712Z,"5km NW of The Geysers, CA",earthquake,0.15,0.26,0.17,45,automatic,nc,nc
 2023-01-26T07:06:03.930Z,38.8055,-122.8088303,1.28,2.51,md,12,75,0.01085,0.02,nc,nc73837546,2023-01-26T15:09:38.849Z,"6km NW of The Geysers, CA",earthquake,0.28,0.6,0.16,12,automatic,nc,nc
-2023-01-26T06:48:17.590Z,37.144165,-121.5285034,8.35,1.23,md,15,62,0.07018,0.11,nc,nc73837541,2023-01-26T09:25:11.529Z,"10km NE of San Martin, CA",earthquake,0.35,1.03,0.12,10,automatic,nc,nc
