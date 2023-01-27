@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T16:55:57.770Z,38.8219986,-122.8375015,2.91,1.13,md,9,205,0.01464,0.03,nc,nc73837766,2023-01-26T19:01:12.045Z,"9km NW of The Geysers, CA",earthquake,1.57,0.92,0.33,9,automatic,nc,nc
 2023-01-26T16:54:38.160Z,19.1889991760254,-155.382659912109,31.0599994659424,2.08999991,md,42,165,,0.129999995,hv,hv73313372,2023-01-26T16:57:50.000Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.939999998,0.99000001,16,automatic,hv,hv
 2023-01-26T16:49:54.580Z,38.8320007,-122.8161697,1.43,0.77,md,13,54,0.009824,0.02,nc,nc73837761,2023-01-26T18:36:14.749Z,"8km NW of The Geysers, CA",earthquake,0.29,0.6,0.15,14,automatic,nc,nc
-2023-01-26T16:41:36.589Z,50.6613,-172.6081,10,5.1,mww,104,136,2.596,0.88,us,us6000jjid,2023-01-26T22:51:44.161Z,"203 km SSE of Atka, Alaska",earthquake,6.83,1.668,0.069,20,reviewed,us,us
+2023-01-26T16:41:36.589Z,50.6613,-172.6081,10,5.1,mww,104,136,2.596,0.88,us,us6000jjid,2023-01-27T04:51:51.586Z,"203 km SSE of Atka, Alaska",earthquake,6.83,1.668,0.069,20,reviewed,us,us
 2023-01-26T16:40:59.200Z,51.868,-177.9585,6.3,0.81,ml,4,149,,0.17,av,av91085778,2023-01-26T22:36:27.230Z,"91 km W of Adak, Alaska",earthquake,0.71,1.66,0.106541303670509,4,reviewed,av,av
 2023-01-26T16:16:41.490Z,41.4981667,-112.1791667,5.5,0.91,md,13,71,0.1066,0.08,uu,uu60530372,2023-01-26T18:22:02.810Z,"Utah",earthquake,0.28,1.78,0.194,8,reviewed,uu,uu
 2023-01-26T16:15:15.300Z,38.8131676,-122.8131638,3.37,1.27,md,17,49,0.01049,0.02,nc,nc73837751,2023-01-26T17:43:13.437Z,"6km NW of The Geysers, CA",earthquake,0.3,0.71,0.23,20,automatic,nc,nc
@@ -226,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T05:21:23.000Z,53.9116666666667,-166.411,6.6,-0.2,ml,5,290,,0.04,av,av91085758,2023-01-26T21:45:04.510Z,"8 km ENE of Dutch Harbor, Alaska",earthquake,0.7,0.69,0.463921583691834,5,reviewed,av,av
 2023-01-26T05:21:19.080Z,33.4836667,-116.4091667,9.45,0.84,ml,35,89,0.1256,0.17,ci,ci40161943,2023-01-26T17:15:46.906Z,"22km SSW of La Quinta, CA",earthquake,0.21,0.59,0.078,16,reviewed,ci,ci
 2023-01-26T04:56:36.558Z,61.8635,-149.3468,19.8,1.5,ml,,,,0.55,ak,ak023172ou6f,2023-01-26T04:58:46.865Z,"14 km NNW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-26T04:54:04.120Z,34.5138333,-118.5991667,10.28,1.36,ml,42,51,0.02228,0.19,ci,ci40161935,2023-01-26T17:05:13.602Z,"4km NE of Castaic, CA",earthquake,0.2,0.44,0.121,27,reviewed,ci,ci
-2023-01-26T04:51:29.010Z,33.8943333,-118.6975,14.07,1.87,ml,31,167,0.1426,0.2,ci,ci40161927,2023-01-26T20:53:34.146Z,"15km S of Malibu Beach, CA",earthquake,0.36,0.76,0.18,38,reviewed,ci,ci
