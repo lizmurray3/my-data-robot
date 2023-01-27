@@ -214,6 +214,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T10:47:42.549Z,32.75115967,-100.6594179,6.284871419,2.6,ml,19,70,0.08173564011,0.2,tx,tx2023bumz,2023-01-26T14:09:46.489Z,"15 km NE of Hermleigh, Texas",earthquake,0.9354768342,1.148396198,0,10,reviewed,tx,tx
 2023-01-26T10:45:53.633Z,-30.254,-178.6685,135.699,6,mww,70,34,1.184,1.08,us,us6000jjcy,2023-01-26T13:34:56.040Z,"Kermadec Islands, New Zealand",earthquake,10.36,4.873,0.055,32,reviewed,us,us
 2023-01-26T10:40:53.423Z,61.7151,-149.9118,17,1.4,ml,,,,0.3,ak,ak02317661ni,2023-01-26T10:43:01.413Z,"7 km ESE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-01-26T10:37:25.900Z,37.5965,-118.8028333,6.34,0.78,md,17,129,0.02185,0.04,nc,nc73837661,2023-01-27T07:57:49.888Z,"12km WNW of Toms Place, CA",earthquake,0.43,0.65,0.177,14,reviewed,nc,nc
 2023-01-26T10:37:15.390Z,37.6035,-118.8133333,4.91,0.25,md,13,225,0.01838,0.05,nc,nc73837666,2023-01-27T07:40:10.542Z,"13km WNW of Toms Place, CA",earthquake,0.57,0.7,0.272,12,reviewed,nc,nc
 2023-01-26T10:35:02.200Z,37.5953333,-118.8075,5.91,1.53,md,22,93,0.01796,0.04,nc,nc73837656,2023-01-27T07:40:10.427Z,"12km WNW of Toms Place, CA",earthquake,0.35,0.33,0.283,21,reviewed,nc,nc
 2023-01-26T10:33:13.370Z,37.5963333,-118.8036667,6.49,1.22,md,17,134,0.02117,0.04,nc,nc73837651,2023-01-27T07:37:11.409Z,"12km WNW of Toms Place, CA",earthquake,0.8,0.78,0.122,17,reviewed,nc,nc
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T08:33:38.550Z,38.8375,-122.8011667,2.59,-0.13,md,7,109,0.008501,0.02,nc,nc73837626,2023-01-26T21:39:20.442Z,"7km WNW of Cobb, CA",earthquake,0.57,0.9,,1,reviewed,nc,nc
 2023-01-26T08:24:55.760Z,36.4583321,-121.0345001,7.5,1.08,md,9,155,0.01917,0.13,nc,nc73837621,2023-01-26T09:14:13.463Z,"13km SE of Pinnacles, CA",earthquake,0.64,1.19,0.14,7,automatic,nc,nc
 2023-01-26T07:58:47.960Z,32.966,-116.2966667,10.95,1.7,ml,26,54,0.01269,0.17,ci,ci40162063,2023-01-26T14:29:56.140Z,"25km SW of Ocotillo Wells, CA",earthquake,0.29,0.52,0.138,9,reviewed,ci,ci
-2023-01-26T07:58:05.400Z,32.9615,-116.3011667,10.43,2.5,ml,89,38,0.007128,0.2,ci,ci40162055,2023-01-27T05:39:41.258Z,"26km SW of Ocotillo Wells, CA",earthquake,0.12,0.32,0.145,97,reviewed,ci,ci
