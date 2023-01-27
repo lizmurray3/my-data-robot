@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-27T03:34:21.930Z,36.8353348,-121.5988312,2.07,0.92,md,8,120,0.04934,0.26,nc,nc73838096,2023-01-27T03:35:58.050Z,"6km WSW of San Juan Bautista, CA",earthquake,0.78,3.27,0.33,9,automatic,nc,nc
+2023-01-27T03:34:21.930Z,36.8353348,-121.5988312,2.07,0.92,md,8,120,0.04934,0.26,nc,nc73838096,2023-01-27T03:47:12.031Z,"6km WSW of San Juan Bautista, CA",earthquake,0.78,3.27,0.33,9,automatic,nc,nc
 2023-01-27T03:22:50.380Z,38.8361664,-122.8075027,2.08,1.07,md,20,51,0.01291,0.01,nc,nc73838091,2023-01-27T03:36:11.962Z,"8km WNW of Cobb, CA",earthquake,0.22,0.44,0.27,22,automatic,nc,nc
 2023-01-27T03:21:52.782Z,60.7982,-150.4954,50.4,1.5,ml,,,,0.51,ak,ak02318pfa95,2023-01-27T03:24:24.639Z,"17 km SE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-27T03:21:13.798Z,44.4722,-115.1837,10,2.2,ml,14,55,0.673,0.83,us,us6000jjlb,2023-01-27T03:29:49.040Z,"34 km NW of Stanley, Idaho",earthquake,1.97,2.011,0.064,32,reviewed,us,us
@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T04:16:05.490Z,16.6078,-25.6214,10,5.3,mb,76,43,9.079,0.59,us,us6000jjbh,2023-01-27T00:56:34.017Z,"74 km SW of Porto Novo, Cabo Verde",earthquake,10.04,1.833,0.026,502,reviewed,us,us
 2023-01-26T04:07:54.913Z,-30.4621,-178.5405,35,4.5,mb,13,155,1.312,0.52,us,us6000jjbd,2023-01-26T22:48:32.040Z,"Kermadec Islands, New Zealand",earthquake,11.74,1.973,0.191,12,reviewed,us,us
 2023-01-26T04:01:41.250Z,38.8371658,-122.8013306,2.24,0.78,md,9,67,0.00867,0.01,nc,nc73837501,2023-01-26T04:21:13.652Z,"7km WNW of Cobb, CA",earthquake,0.44,1.29,0.35,9,automatic,nc,nc
-2023-01-26T03:43:15.465Z,61.8364,-150.8749,32,1.6,ml,,,,0.75,ak,ak0231720kmy,2023-01-26T03:45:19.850Z,"32 km ESE of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
