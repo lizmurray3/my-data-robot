@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-28T23:38:29.755Z,57.4463,-154.9881,37.9,2,ml,,,,0.58,ak,ak0231aoyw8v,2023-01-28T23:41:09.025Z,"34 km WSW of Karluk, Alaska",earthquake,,9.8,,,automatic,ak,ak
 2023-01-28T23:30:53.329Z,62.0557,-147.9359,28.9,1.2,ml,,,,0.81,ak,ak0231aox8c4,2023-01-28T23:32:47.159Z,"31 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-28T23:23:55.580Z,38.8040009,-122.8193359,2.85,0.78,md,14,75,0.009097,0.02,nc,nc73838961,2023-01-28T23:25:32.866Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.69,0.13,15,automatic,nc,nc
 2023-01-28T23:21:04.550Z,32.8761667,-115.5231667,3.81,1.33,ml,11,103,0.04043,0.23,ci,ci40163479,2023-01-28T23:24:42.859Z,"5km NE of Imperial, CA",earthquake,0.85,0.65,0.241,16,automatic,ci,ci
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T20:41:17.570Z,38.7956657,-122.7383347,0.75,1.66,md,30,52,0.01247,0.05,nc,nc73838921,2023-01-28T21:58:12.334Z,"3km NE of The Geysers, CA",earthquake,0.22,0.35,0.19,30,automatic,nc,nc
 2023-01-28T20:40:54.330Z,35.6751667,-117.534,9.58,1.47,ml,22,94,0.1061,0.17,ci,ci40163447,2023-01-28T20:51:36.950Z,"14km ENE of Ridgecrest, CA",earthquake,0.3,0.9,0.094,22,automatic,ci,ci
 2023-01-28T20:39:00.240Z,38.7958336,-122.7378311,0.99,1.55,md,26,52,0.01261,0.04,nc,nc73838906,2023-01-28T21:36:16.230Z,"3km NE of The Geysers, CA",earthquake,0.2,0.34,0.16,27,automatic,nc,nc
-2023-01-28T20:38:01.090Z,38.7953339,-122.7423325,1.04,2.07,md,34,50,0.01285,0.05,nc,nc73838896,2023-01-28T21:14:13.119Z,"2km NNE of The Geysers, CA",earthquake,0.18,0.29,0.15,39,automatic,nc,nc
+2023-01-28T20:38:01.090Z,38.7953339,-122.7423325,1.04,2.07,md,34,50,0.01285,0.05,nc,nc73838896,2023-01-28T23:36:11.037Z,"2km NNE of The Geysers, CA",earthquake,0.18,0.29,0.15,39,automatic,nc,nc
 2023-01-28T20:26:15.189Z,64.3472,-149.6896,15.8,1.2,ml,,,,0.5,ak,ak0231an3zpq,2023-01-28T20:28:54.622Z,"24 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-28T20:24:40.040Z,38.7741661,-122.7480011,0.33,0.76,md,12,69,0.01264,0.02,nc,nc73838886,2023-01-28T20:52:12.986Z,"1km ESE of The Geysers, CA",earthquake,0.21,0.47,0.3,11,automatic,nc,nc
 2023-01-28T20:21:19.158Z,63.5264,-147.3817,21.1,1.5,ml,,,,0.32,ak,ak0231an2xfv,2023-01-28T20:23:23.030Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -197,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T00:03:31.369Z,3.129,127.084,35.104,4.6,mb,31,112,2.358,0.46,us,us6000jjvx,2023-01-28T00:23:38.040Z,"Kepulauan Talaud, Indonesia",earthquake,6.26,8.655,0.119,21,reviewed,us,us
 2023-01-28T00:03:18.540Z,51.8783333333333,-177.425333333333,24.99,1.59,ml,10,159,,0.23,av,av91752251,2023-01-28T23:30:59.000Z,"54 km W of Adak, Alaska",earthquake,1.31,1.7,0.264773149127193,10,reviewed,av,av
 2023-01-28T00:00:13.363Z,60.3372,-143.1923,12.9,1.4,ml,,,,0.86,ak,ak0231ab1quw,2023-01-28T00:01:54.004Z,"123 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-27T23:42:38.530Z,38.8268333,-122.8531667,2.27,0.66,md,17,90,0.002981,0.01,nc,nc73838551,2023-01-28T20:52:13.197Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.58,0.103,3,reviewed,nc,nc
-2023-01-27T23:41:10.610Z,19.0236663818359,-155.414337158203,32.0999984741211,2.63,ml,39,211,,0.140000001,hv,hv73314147,2023-01-28T00:27:21.040Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.63,1.09000003,4.49,3,automatic,hv,hv
-2023-01-27T23:34:38.310Z,36.219,-117.8826667,2.11,2.11,ml,22,112,0.1037,0.17,ci,ci40162895,2023-01-27T23:38:21.248Z,"13km ESE of Olancha, CA",earthquake,0.42,0.67,0.176,26,automatic,ci,ci
