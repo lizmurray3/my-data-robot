@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-31T07:19:28.520Z,38.8339996,-122.7929993,2,0.69,md,9,84,0.004867,0.01,nc,nc73840086,2023-01-31T07:21:05.835Z,"6km WNW of Cobb, CA",earthquake,0.48,1.26,0.11,10,automatic,nc,nc
+2023-01-31T07:13:43.200Z,35.5018333,-118.3953333,4.63,2.13,ml,35,32,0.1729,0.21,ci,ci40164423,2023-01-31T07:17:20.477Z,"13km SE of Bodfish, CA",earthquake,0.25,2.61,0.261,26,automatic,ci,ci
 2023-01-31T06:56:10.414Z,63.1035,-151.4346,5.3,1.6,ml,,,,0.56,ak,ak0231fdkdu9,2023-01-31T07:00:03.433Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-31T06:50:31.095Z,61.1837,-142.6301,14.8,1.6,ml,,,,0.61,ak,ak0231fdj5d5,2023-01-31T06:57:13.893Z,"31 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-31T06:37:33.320Z,38.7775002,-122.7826691,3.43,1.28,md,8,160,0.01486,0.17,nc,nc73840071,2023-01-31T06:55:10.907Z,"2km W of The Geysers, CA",earthquake,1.82,2.35,0.25,7,automatic,nc,nc
+2023-01-31T06:37:33.320Z,38.7775002,-122.7826691,3.43,1.28,md,8,160,0.01486,0.17,nc,nc73840071,2023-01-31T07:14:11.911Z,"2km W of The Geysers, CA",earthquake,1.82,2.35,0.25,7,automatic,nc,nc
 2023-01-31T06:17:52.610Z,38.8115005,-122.8123322,3.24,1.05,md,17,63,0.01201,0.02,nc,nc73840066,2023-01-31T07:03:12.835Z,"6km NW of The Geysers, CA",earthquake,0.31,0.99,0.19,18,automatic,nc,nc
 2023-01-31T06:08:08.372Z,61.0644,-152.3274,101.2,2,ml,,,,0.68,ak,ak0231fda38v,2023-01-31T06:10:35.693Z,"64 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-31T06:06:18.890Z,17.9245,-66.852,14.47,2.64,md,16,188,0.05658,0.15,pr,pr71394928,2023-01-31T06:20:58.470Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.44,0.39,0.0356054981994474,5,reviewed,pr,pr
@@ -213,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T07:45:18.610Z,37.7565,-113.0493333,1.34,1.07,md,8,183,0.04296,0.25,uu,uu60530577,2023-01-30T18:18:40.420Z,"2 km SW of Enoch, Utah",earthquake,1.52,4.98,0.277,5,reviewed,uu,uu
 2023-01-30T07:35:17.990Z,46.78516666666667,-123.4075,42.47,1.21,ml,17,56,0.05936,0.24,uw,uw61904506,2023-01-30T17:57:20.870Z,"14 km WSW of Oakville, Washington",earthquake,0.78,1.22,0.187901890654681,9,reviewed,uw,uw
 2023-01-30T07:29:06.080Z,17.9978333333333,-66.8528333333333,16.8,2.22,md,13,150,0.03385,0.1,pr,pr71394873,2023-01-30T08:08:50.740Z,"2 km SE of Palomas, Puerto Rico",earthquake,0.33,0.5,0.0512722699565158,7,reviewed,pr,pr
-2023-01-30T07:12:38.015Z,39.4431,-119.7639,4.3,0.9,ml,11,189.64,0.015,0.1638,nn,nn00855474,2023-01-30T23:41:51.863Z,"10 km S of Sparks, Nevada",earthquake,,1.4,0.22,4,reviewed,nn,nn
