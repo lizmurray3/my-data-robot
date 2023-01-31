@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-31T14:17:25.930Z,38.8050003,-122.7808304,1.77,1.25,md,21,65,0.008247,0.02,nc,nc73840136,2023-01-31T14:19:01.250Z,"4km NW of The Geysers, CA",earthquake,0.23,0.37,0.18,21,automatic,nc,nc
+2023-01-31T14:17:25.930Z,38.8050003,-122.7808304,1.77,1.25,md,21,65,0.008247,0.02,nc,nc73840136,2023-01-31T14:35:14.774Z,"4km NW of The Geysers, CA",earthquake,0.23,0.37,0.18,21,automatic,nc,nc
 2023-01-31T14:09:41.990Z,19.1793327331543,-155.503997802734,36.0900001525879,2.43,ml,45,145,,0.119999997,hv,hv73316437,2023-01-31T14:15:13.950Z,"3 km SW of Pāhala, Hawaii",earthquake,0.55,0.680000007,2.81,10,automatic,hv,hv
 2023-01-31T14:07:31.145Z,61.2,-151.4611,108.8,1.5,ml,,,,0.41,ak,ak0231fi1e6y,2023-01-31T14:09:35.483Z,"21 km WNW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-31T13:52:38.484Z,38.5086,-119.476,3.7,1.5,ml,11,154.67,0.085,0.1199,nn,nn00855487,2023-01-31T13:54:05.916Z,"0 km S of Walker, California",earthquake,,0.8,0.3,5,automatic,nn,nn
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T04:39:53.460Z,19.2038326263428,-155.417007446289,31.7399997711182,2.17000008,md,26,155,,0.129999995,hv,hv73316192,2023-01-31T04:42:58.840Z,"6 km E of Pāhala, Hawaii",earthquake,0.78,0.779999971,1.08000004,3,automatic,hv,hv
 2023-01-31T04:34:50.750Z,5.9324,126.0209,86.301,4.6,mb,57,109,1.212,0.6,us,us6000jkgx,2023-01-31T04:51:54.040Z,"38 km ESE of Mangili, Philippines",earthquake,8.69,7.382,0.085,42,reviewed,us,us
 2023-01-31T04:22:54.880Z,36.0378333,-121.5136667,8.16,1.64,md,25,173,0.08668,0.08,nc,nc73840026,2023-01-31T09:03:13.644Z,"5km ENE of Lopez Point, CA",earthquake,0.35,0.46,0.191,20,reviewed,nc,nc
-2023-01-31T03:57:50.540Z,41.4863333,-112.1823333,-2.76,2.87,ml,38,59,0.1161,0.36,uu,uu60530617,2023-01-31T14:24:02.947Z,"9 km SW of Corinne, Utah",earthquake,0.53,7.3,0.088,19,reviewed,uu,uu
+2023-01-31T03:57:50.740Z,41.4986667,-112.1866667,8.25,2.87,ml,32,73,0.1036,0.19,uu,uu60530617,2023-01-31T14:30:07.558Z,"Utah",earthquake,0.34,0.56,0.096,19,reviewed,uu,uu
 2023-01-31T03:54:21.320Z,19.195499420166,-155.38883972168,30.4599990844727,1.92999995,md,30,170,,0.119999997,hv,hv73316177,2023-01-31T03:57:26.690Z,"Island of Hawaii, Hawaii",earthquake,0.78,1.26999998,1.13,10,automatic,hv,hv
 2023-01-31T03:39:02.392Z,61.8812,-149.3167,1.1,2.1,ml,,,,0.65,ak,ak0231fbof8f,2023-01-31T03:40:54.892Z,"15 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-31T03:09:56.388Z,-48.8328,121.3351,10,4.8,mb,37,83,16.184,0.53,us,us6000jkgp,2023-01-31T03:27:32.040Z,"western Indian-Antarctic Ridge",earthquake,12.75,1.887,0.097,33,reviewed,us,us
@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T14:45:27.790Z,19.2093334197998,-155.51350402832,33.0400009155273,2.36,ml,46,135,,0.140000001,hv,hv73315782,2023-01-30T16:14:20.040Z,"3 km W of Pāhala, Hawaii",earthquake,0.57,0.670000017,3.12,8,automatic,hv,hv
 2023-01-30T14:44:14.810Z,58.195,-155.292833333333,1.99,-0.13,ml,7,142,,0.07,av,av91753106,2023-01-31T01:58:10.430Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.39,0.316255279022735,7,reviewed,av,av
 2023-01-30T14:42:54.390Z,47.75516666666667,-120.17733333333334,6.48,0.29,ml,9,67,0.09694,0.09,uw,uw61904541,2023-01-30T18:20:41.640Z,"9 km NNE of Entiat, Washington",earthquake,0.28,0.95,0.23121688906504295,9,reviewed,uw,uw
-2023-01-30T14:33:24.470Z,51.8666666666667,-178.027833333333,-1.8,0.89,ml,4,139,,0.23,av,av91086123,2023-01-31T02:02:57.930Z,"96 km W of Adak, Alaska",earthquake,0.55,1.82,0.240930255260794,4,reviewed,av,av
