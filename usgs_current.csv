@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T09:15:30.247Z,64.8142,-150.5344,10.9,1.2,ml,,,,0.36,ak,ak0231ff3xts,2023-01-31T09:17:33.701Z,"21 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-31T09:03:19.539Z,59.9178,-153.0011,111.7,1.9,ml,,,,0.48,ak,ak0231ff1cqt,2023-01-31T09:06:14.410Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-31T09:02:05.480Z,18.173,-66.979,19.04,2.61,md,9,120,0.2071,0.12,pr,pr71394938,2023-01-31T09:17:02.320Z,"0 km S of Maricao, Puerto Rico",earthquake,0.34,0.59,0.0715327355142703,7,reviewed,pr,pr
-2023-01-31T09:01:40.260Z,33.1811667,-115.6116667,1.67,1.94,ml,38,85,0.004969,0.23,ci,ci40164447,2023-01-31T09:12:46.950Z,"11km SW of Niland, CA",earthquake,0.33,0.37,0.16,26,automatic,ci,ci
+2023-01-31T09:01:40.260Z,33.1811667,-115.6116667,1.67,1.94,ml,38,85,0.004969,0.23,ci,ci40164447,2023-01-31T09:34:51.771Z,"11km SW of Niland, CA",earthquake,0.33,0.37,0.16,26,automatic,ci,ci
 2023-01-31T08:49:57.551Z,19.8499,121.3855,21.758,4.6,mb,48,68,2.967,0.56,us,us6000jkhu,2023-01-31T09:12:18.040Z,"90 km SW of Basco, Philippines",earthquake,9.25,5.459,0.088,39,reviewed,us,us
 2023-01-31T08:26:38.450Z,33.8826667,-116.5726667,10.96,1.21,ml,37,44,0.05335,0.15,ci,ci40164439,2023-01-31T08:37:34.930Z,"3km SW of Garnet, CA",earthquake,0.19,0.42,0.152,26,automatic,ci,ci
 2023-01-31T08:17:00.393Z,60.6023,-142.7618,13.1,0.9,ml,,,,0.18,ak,ak0231feivcn,2023-01-31T08:18:26.801Z,"93 km S of McCarthy, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T08:02:50.660Z,19.2068333333333,-155.388333333333,31.45,3.25,ml,52,158,,0.14,hv,hv73316297,2023-01-31T08:23:01.454Z,"9 km E of Pāhala, Hawaii",earthquake,0.46,0.56,0.149751579751209,36,reviewed,hv,hv
 2023-01-31T07:58:44.895Z,65.1008,-149.9832,9.9,1.2,ml,,,,0.67,ak,ak0231fe6bjd,2023-01-31T08:00:24.695Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-31T07:57:31.504Z,-17.7487,-178.5411,562.65,4.4,mb,30,61,3.445,0.72,us,us6000jkhq,2023-01-31T08:16:44.040Z,"229 km E of Levuka, Fiji",earthquake,11.09,10.277,0.112,24,reviewed,us,us
-2023-01-31T07:42:03.261Z,60.1192,-151.1114,58.1,1.9,ml,,,,0.69,ak,ak0231fe2suv,2023-01-31T07:44:46.980Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-01-31T07:42:03.261Z,60.1192,-151.1114,58.1,1.9,ml,,,,0.69,ak,ak0231fe2suv,2023-01-31T07:44:46.980Z,"20 km SE of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-31T07:19:39.140Z,34.4651667,-117.9643333,8.49,0.64,ml,13,55,0.01779,0.19,ci,ci40164431,2023-01-31T07:23:10.148Z,"6km SSE of Littlerock, CA",earthquake,0.45,0.73,0.286,9,automatic,ci,ci
 2023-01-31T07:19:28.520Z,38.8339996,-122.7929993,2,0.69,md,9,84,0.004867,0.01,nc,nc73840086,2023-01-31T07:57:12.203Z,"6km WNW of Cobb, CA",earthquake,0.48,1.26,0.11,10,automatic,nc,nc
 2023-01-31T07:13:43.200Z,35.5018333,-118.3953333,4.63,2.13,ml,35,32,0.1729,0.21,ci,ci40164423,2023-01-31T07:24:14.100Z,"13km SE of Bodfish, CA",earthquake,0.25,2.61,0.261,26,automatic,ci,ci
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T05:14:12.403Z,65.4461,-148.2362,10.3,1.1,ml,,,,0.22,ak,ak0231fcpybc,2023-01-31T05:16:08.838Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-31T05:07:17.231Z,62.2168,-148.4631,33.9,1.5,ml,,,,0.22,ak,ak0231fcogob,2023-01-31T05:08:29.089Z,"46 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-31T05:00:14.930Z,38.795166,-122.7659988,4.01,0.78,md,11,78,0.007338,0.01,nc,nc73840046,2023-01-31T07:46:12.265Z,"2km NNW of The Geysers, CA",earthquake,0.45,0.98,0.25,11,automatic,nc,nc
-2023-01-31T04:53:43.376Z,-17.5789,-178.3855,548.545,4.4,mb,34,85,3.262,0.56,us,us6000jkh2,2023-01-31T05:11:16.040Z,"Fiji region",earthquake,15.57,12.064,0.106,26,reviewed,us,us
+2023-01-31T04:53:43.376Z,-17.5789,-178.3855,548.545,4.4,mb,34,85,3.262,0.56,us,us6000jkh2,2023-01-31T05:11:16.040Z,"249 km ENE of Levuka, Fiji",earthquake,15.57,12.064,0.106,26,reviewed,us,us
 2023-01-31T04:49:05.610Z,24.5584,94.4094,63.852,4.6,mb,60,79,4.484,0.91,us,us6000jkh1,2023-01-31T05:06:03.823Z,"35 km E of Wāngjing, India",earthquake,9.4,7.015,0.062,78,reviewed,us,us
 2023-01-31T04:39:53.460Z,19.2038326263428,-155.417007446289,31.7399997711182,2.17000008,md,26,155,,0.129999995,hv,hv73316192,2023-01-31T04:42:58.840Z,"6 km E of Pāhala, Hawaii",earthquake,0.78,0.779999971,1.08000004,3,automatic,hv,hv
 2023-01-31T04:34:50.750Z,5.9324,126.0209,86.301,4.6,mb,57,109,1.212,0.6,us,us6000jkgx,2023-01-31T04:51:54.040Z,"38 km ESE of Mangili, Philippines",earthquake,8.69,7.382,0.085,42,reviewed,us,us
