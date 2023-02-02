@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-02T07:43:35.810Z,38.7576675,-122.7259979,2.21,1.28,md,14,69,0.02338,0.04,nc,nc73840891,2023-02-02T07:45:12.069Z,"3km SE of The Geysers, CA",earthquake,0.33,0.64,0.19,17,automatic,nc,nc
 2023-02-02T07:23:36.530Z,33.0193333,-116.446,11.35,0.51,ml,16,100,0.05594,0.17,ci,ci40165407,2023-02-02T07:39:23.531Z,"16km ESE of Julian, CA",earthquake,0.38,0.72,0.053,6,automatic,ci,ci
 2023-02-02T07:20:14.130Z,33.0156667,-116.4441667,11.26,0.61,ml,13,105,0.05203,0.12,ci,ci40165399,2023-02-02T07:23:43.496Z,"16km ESE of Julian, CA",earthquake,0.33,0.54,0.11,9,automatic,ci,ci
 2023-02-02T07:16:49.060Z,33.0118333,-116.4513333,10,1.19,ml,37,48,0.05256,0.17,ci,ci40165391,2023-02-02T07:20:22.877Z,"16km ESE of Julian, CA",earthquake,0.23,0.53,0.233,26,automatic,ci,ci
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T06:10:42.940Z,38.8100014,-122.7833328,-0.84,1.76,md,15,83,0.003855,0.24,nc,nc73840861,2023-02-02T07:18:15.531Z,"4km NNW of The Geysers, CA",earthquake,0.53,0.73,0.11,17,automatic,nc,nc
 2023-02-02T05:55:05.410Z,37.510334,-118.7818298,5.89,1.41,md,12,171,0.08798,0.03,nc,nc73840851,2023-02-02T06:58:15.427Z,"11km WSW of Toms Place, CA",earthquake,1.15,1.62,0.08,11,automatic,nc,nc
 2023-02-02T05:54:33.150Z,33.4883333,-116.4698333,13.56,0.68,ml,24,102,0.08585,0.1,ci,ci40165367,2023-02-02T05:58:15.189Z,"20km ESE of Anza, CA",earthquake,0.2,0.39,0.157,19,automatic,ci,ci
-2023-02-02T05:48:28.189Z,13.3485,-91.4286,10,4.1,mb,39,166,1.483,0.69,us,us6000jkx2,2023-02-02T06:38:25.040Z,"offshore Guatemala",earthquake,5.8,2,0.086,37,reviewed,us,us
+2023-02-02T05:48:28.189Z,13.3485,-91.4286,10,4.1,mb,39,166,1.483,0.69,us,us6000jkx2,2023-02-02T06:38:25.040Z,"90 km SSW of La Gomera, Guatemala",earthquake,5.8,2,0.086,37,reviewed,us,us
 2023-02-02T05:44:45.760Z,33.419,-116.6381667,11.13,0.17,ml,16,86,0.08127,0.25,ci,ci40165359,2023-02-02T05:55:27.492Z,"15km N of Warner Springs, CA",earthquake,0.71,1.44,0.09,3,automatic,ci,ci
 2023-02-02T05:34:48.910Z,38.7994995,-122.8079987,2,1.07,md,19,93,0.0118,0.02,nc,nc73840846,2023-02-02T06:36:14.327Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.44,0.21,21,automatic,nc,nc
 2023-02-02T05:33:09.086Z,31.6345,-104.3686,5,2.6,ml,18,113,0.371,0.28,us,us6000jkx0,2023-02-02T05:45:11.040Z,"60 km S of Whites City, New Mexico",earthquake,1.46,1.905,0.06,48,reviewed,us,us
