@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-02T04:35:29.250Z,38.8180008,-122.7841644,9.17,0.31,md,11,106,0.01327,0.07,nc,nc73840816,2023-02-02T04:37:06.126Z,"5km NNW of The Geysers, CA",earthquake,1.26,0.76,0.14,10,automatic,nc,nc
+2023-02-02T04:43:41.445Z,63.2212,-150.6356,117.3,1.2,ml,,,,0.19,ak,ak0231indhs4,2023-02-02T04:46:08.383Z,"65 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-02-02T04:35:29.250Z,38.8180008,-122.7841644,9.17,0.31,md,11,106,0.01327,0.07,nc,nc73840816,2023-02-02T04:46:10.657Z,"5km NNW of The Geysers, CA",earthquake,1.26,0.76,0.14,10,automatic,nc,nc
 2023-02-02T04:21:35.600Z,38.8160019,-122.7624969,1.8,1.02,md,8,131,0.01447,0.01,nc,nc73840811,2023-02-02T04:38:15.592Z,"4km W of Cobb, CA",earthquake,0.45,0.67,0.11,8,automatic,nc,nc
 2023-02-02T04:15:52.108Z,63.3232,-153.0882,7.8,1.8,ml,,,,1.16,ak,ak0231in7ip2,2023-02-02T04:18:59.049Z,"72 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-02T03:58:11.231Z,58.2922,-155.1811,30.1,0.4,ml,,,,0.59,ak,ak0231imv7ib,2023-02-02T03:59:55.457Z,"91 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -71,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T20:39:20.920Z,33.8923333,-116.2605,4.58,0.93,ml,25,59,0.07961,0.24,ci,ci40165143,2023-02-01T20:42:56.860Z,"14km NE of Thousand Palms, CA",earthquake,0.39,1.01,0.126,22,automatic,ci,ci
 2023-02-01T20:34:09.633Z,63.1976,-144.2421,53.8,1.6,ml,,,,1.13,ak,ak0231h9b30b,2023-02-01T20:36:38.365Z,"39 km NW of Mentasta Lake, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-02-01T20:09:47.230Z,47.788666666666664,-122.356,30.35,1.56,ml,26,52,0.04137,0.29,uw,uw61904921,2023-02-01T22:37:33.580Z,"0 km SW of Esperance, Washington",earthquake,0.55,0.9,0.15859556223251525,10,reviewed,uw,uw
-2023-02-01T20:08:05.400Z,45.10216666666667,-122.48566666666666,-0.55,1.69,ml,9,103,0.1039,0.24,uw,uw61904926,2023-02-02T00:07:46.470Z,"Washington-Oregon border region",explosion,0.56,31.61,0.1444346941236173,8,reviewed,uw,uw
+2023-02-01T20:08:05.400Z,45.10216666666667,-122.48566666666666,-0.55,1.69,ml,9,103,0.1039,0.24,uw,uw61904926,2023-02-02T00:07:46.470Z,"8 km SE of Molalla, Oregon",explosion,0.56,31.61,0.1444346941236173,8,reviewed,uw,uw
 2023-02-01T20:02:30.440Z,44.8055,-110.8203333,6.73,0.94,md,13,190,0.0275,0.17,uu,uu60529826,2023-02-01T20:34:39.120Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.69,0.79,0.362,7,reviewed,uu,uu
 2023-02-01T19:59:34.146Z,31.65882908,-104.2965331,7.57121582,2.2,ml,42,55,0.02984975473,0.2,tx,tx2023cgee,2023-02-01T20:35:07.432Z,"57 km S of Whites City, New Mexico",earthquake,0.6275545419,0.759914013,0,6,reviewed,tx,tx
 2023-02-01T19:51:04.403Z,6.7794,-73.1446,153.209,4.6,mb,58,37,0.883,0.9,us,us6000jktm,2023-02-01T21:20:17.040Z,"northern Colombia",earthquake,4.15,7.057,0.035,238,reviewed,us,us
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T05:25:59.975Z,39.1954,-119.7837,8,-0.2,ml,4,146.77,0.116,0.1181,nn,nn00855548,2023-02-01T19:15:45.483Z,"3 km NNW of Carson City, Nevada",earthquake,,8.1,0,1,reviewed,nn,nn
 2023-02-01T05:21:03.630Z,38.8474998,-122.8134995,1.28,1.09,md,22,57,0.0105,0.02,nc,nc73840406,2023-02-01T07:59:19.051Z,"8km WNW of Cobb, CA",earthquake,0.21,0.37,0.16,22,automatic,nc,nc
 2023-02-01T05:09:16.490Z,38.7980003,-122.751503,1.48,1.06,md,15,96,0.006929,0.03,nc,nc73840401,2023-02-01T05:33:18.188Z,"2km N of The Geysers, CA",earthquake,0.31,0.57,0.18,15,automatic,nc,nc
-2023-02-01T04:46:48.859Z,59.8556,-153.3146,132.4,2.1,ml,,,,0.5,ak,ak0231gzusy0,2023-02-01T04:49:33.654Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-01T04:44:27.810Z,56.8648333333333,-158.202833333333,2.23,0.81,ml,4,236,,0.18,av,av91086388,2023-02-01T19:22:56.350Z,"27 km ESE of Port Heiden, Alaska",earthquake,0.9,1.31,0.0299623639890503,3,reviewed,av,av
