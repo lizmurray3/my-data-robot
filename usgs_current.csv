@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-03T13:43:58.880Z,36.8260002,-121.6011658,6.51,1,md,5,134,0.03109,0,nc,nc73841421,2023-02-03T13:45:33.743Z,"6km WSW of San Juan Bautista, CA",earthquake,0.51,0.92,0.16,6,automatic,nc,nc
-2023-02-03T13:38:50.760Z,38.8199997,-122.7603302,1.96,0.28,md,8,123,0.01286,0.02,nc,nc73841416,2023-02-03T13:40:24.037Z,"3km W of Cobb, CA",earthquake,0.5,1,0.08,8,automatic,nc,nc
+2023-02-03T13:38:50.760Z,38.8199997,-122.7603302,1.96,0.28,md,8,123,0.01286,0.02,nc,nc73841416,2023-02-03T13:50:11.438Z,"3km W of Cobb, CA",earthquake,0.5,1,0.08,8,automatic,nc,nc
 2023-02-03T13:29:17.625Z,64.6781,-149.1479,21.1,0.8,ml,,,,0.33,ak,ak0231kg6os2,2023-02-03T13:31:25.000Z,"8 km N of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-03T13:22:38.358Z,60.6369,-151.6312,62.6,1.3,ml,,,,0.6,ak,ak0231kg58d7,2023-02-03T13:24:36.281Z,"17 km W of Salamatof, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-02-03T13:17:48.171Z,60.7201,-149.6271,30.9,2.4,ml,,,,0.37,ak,ak0231kg46jl,2023-02-03T13:37:34.040Z,"21 km SSW of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -71,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T04:27:31.416Z,57.8275,-156.3508,123.6,1.8,ml,,,,0.16,ak,ak0231katdyt,2023-02-03T04:33:14.040Z,"71 km ENE of Ugashik, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-02-03T04:22:34.887Z,65.8915,-147.1474,10.1,1.5,ml,,,,1.05,ak,ak0231kasbnk,2023-02-03T04:27:58.390Z,"53 km SSE of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-03T04:17:33.083Z,60.8071,-151.5272,81.3,1.8,ml,,,,0.33,ak,ak0231kar8xo,2023-02-03T04:20:13.712Z,"18 km NW of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-02-03T04:07:21.530Z,36.2075,-89.4675,9.7,2.02,md,35,43,0.04431,0.07,nm,nm60509261,2023-02-03T13:55:45.560Z,"southeastern Missouri",earthquake,0.13,0.27,0.162195825887531,30,reviewed,nm,nm
 2023-02-03T03:51:18.409Z,63.0721,-150.7672,117.2,2.2,ml,,,,0.47,ak,ak0231kad2jk,2023-02-03T03:53:29.693Z,"64 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-03T03:36:20.126Z,56.5731,-154.524,18.8,2.4,ml,,,,0.8,ak,ak0231ka9vdr,2023-02-03T03:39:04.000Z,"46 km SSW of Akhiok, Alaska",earthquake,,946.4,,,automatic,ak,ak
 2023-02-03T03:14:55.789Z,61.5787,-146.3943,26.2,1.8,ml,,,,0.48,ak,ak0231ka57xm,2023-02-03T03:16:31.233Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
