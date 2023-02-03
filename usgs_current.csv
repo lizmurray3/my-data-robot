@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-03T09:56:21.970Z,32.9456667,-116.3226667,7.13,0.9,ml,21,88,0.0185,0.23,ci,ci40165767,2023-02-03T10:00:17.053Z,"24km NE of Pine Valley, CA",earthquake,0.41,0.62,0.224,15,automatic,ci,ci
+2023-02-03T09:54:19.160Z,60.2983,-154.1644,121.6,2.1,ml,,,,0.93,ak,ak0231kdybdo,2023-02-03T09:56:49.690Z,"13 km NE of Port Alsworth, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-02-03T09:50:50.571Z,-18.8447,-69.6955,99.294,4.9,mb,70,94,0.642,1.44,us,us6000jl5c,2023-02-03T10:13:30.299Z,"75 km ESE of Arica, Chile",earthquake,6.42,6.734,0.054,109,reviewed,us,us
 2023-02-03T09:46:05.298Z,58.1996,-155.2632,1.2,0.4,ml,,,,0.21,ak,ak0231kdwkkx,2023-02-03T09:47:43.585Z,"85 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-02-03T09:36:39.870Z,18.273,-65.9376666666667,103.4,3.13,md,10,156,0.1433,0.22,pr,pr71395283,2023-02-03T10:12:15.150Z,"3 km E of Celada, Puerto Rico",earthquake,3.4,1.59,0.0235365502156109,6,reviewed,pr,pr
 2023-02-03T09:31:21.757Z,38.1729,-117.8233,5.7,1.4,ml,8,182.27,0.13,0.2405,nn,nn00855644,2023-02-03T09:33:07.029Z,"34 km SE of Mina, Nevada",earthquake,,0.6,1.01,5,automatic,nn,nn
 2023-02-03T09:27:58.624Z,61.1959,-147.0087,0,0.7,ml,,,,0.96,ak,ak0231kdsm3u,2023-02-03T09:40:35.120Z,"36 km W of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-03T09:21:28.770Z,63.5299,-146.0178,16.2,1.1,ml,,,,0.84,ak,ak0231kdr9hp,2023-02-03T09:23:02.701Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -217,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T10:19:43.364Z,66.3654,-154.7329,0,2.4,ml,,,,0.72,ak,ak0231iqsyao,2023-02-02T10:25:54.983Z,"41 km NNW of Hughes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-02T10:19:38.792Z,64.3891,-148.7876,17.2,1.2,ml,,,,0.81,ak,ak0231iqsxxy,2023-02-02T10:27:26.075Z,"19 km ENE of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-02T10:17:01.700Z,38.8363342,-122.7903366,1.78,0.88,md,6,114,0.01256,0.01,nc,nc73840946,2023-02-02T10:41:18.794Z,"6km WNW of Cobb, CA",earthquake,0.44,1.85,0.25,7,automatic,nc,nc
-2023-02-02T10:01:51.980Z,32.967,-116.14,11.11,0.72,ml,13,126,0.1379,0.1,ci,ci40165431,2023-02-02T14:33:10.028Z,"20km S of Ocotillo Wells, CA",earthquake,0.3,0.65,0.229,7,reviewed,ci,ci
