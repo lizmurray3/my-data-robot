@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T18:15:43.800Z,38.821167,-122.8580017,3.6,0.75,md,11,159,0.006429,0.03,nc,nc73841936,2023-02-04T18:17:22.276Z,"10km WNW of The Geysers, CA",earthquake,0.48,0.68,0.28,10,automatic,nc,nc
 2023-02-04T18:13:00.740Z,38.8269997,-122.8536682,2.83,2.37,md,40,60,0.002562,0.04,nc,nc73841921,2023-02-04T19:16:12.077Z,"10km WNW of The Geysers, CA",earthquake,0.18,0.29,0.14,44,automatic,nc,nc
 2023-02-04T18:12:43.740Z,38.8266678,-122.855835,2.72,0.97,md,20,63,0.001194,0.01,nc,nc73841916,2023-02-04T19:16:12.195Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.53,0.29,19,automatic,nc,nc
-2023-02-04T18:12:37.080Z,38.8268318,-122.8544998,2.41,1.17,md,17,61,0.001986,0.01,nc,nc73841911,2023-02-04T19:06:12.013Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.62,0.33,15,automatic,nc,nc
+2023-02-04T18:12:37.080Z,38.8268318,-122.8544998,2.41,1.17,md,17,61,0.001986,0.01,nc,nc73841911,2023-02-04T20:36:10.615Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.62,0.33,15,automatic,nc,nc
 2023-02-04T18:12:28.930Z,38.8269997,-122.8550034,2.62,2.17,md,25,94,0.001559,0.02,nc,nc73841926,2023-02-04T19:16:12.501Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.43,0.1,27,automatic,nc,nc
 2023-02-04T18:12:15.940Z,38.8271675,-122.854332,2.49,0.8,md,5,127,0.01561,0.01,nc,nc73841906,2023-02-04T18:55:12.949Z,"10km WNW of The Geysers, CA",earthquake,0.95,4.01,0.32,8,automatic,nc,nc
 2023-02-04T18:09:48.805Z,51.6516,-177.5035,71.644,4.2,mb,79,176,0.2,0.47,us,us6000jlfm,2023-02-04T20:07:49.040Z,"64 km WSW of Adak, Alaska",earthquake,7.19,4.781,0.062,78,reviewed,us,us
@@ -209,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T20:47:15.080Z,34.444,-117.9213333,9.86,1.59,ml,39,37,0.02859,0.15,ci,ci40410472,2023-02-03T22:04:19.450Z,"7km S of Pearblossom, CA",earthquake,0.17,0.31,0.187,23,reviewed,ci,ci
 2023-02-03T20:41:15.760Z,38.4931667,-122.72,5.22,1.18,md,26,35,0.1025,0.09,nc,nc73841516,2023-02-04T00:05:19.147Z,"4km SE of Larkfield-Wikiup, CA",earthquake,0.19,0.99,0.155,21,reviewed,nc,nc
 2023-02-03T20:38:03.460Z,38.7791672,-122.7565002,1.44,0.76,md,9,96,0.01111,0.01,nc,nc73841511,2023-02-03T23:24:16.900Z,"0km N of The Geysers, CA",earthquake,0.33,0.62,0.15,8,automatic,nc,nc
-2023-02-03T20:34:22.580Z,19.3365,-155.210166666667,4.99,1.56,md,29,71,,0.13,hv,hv73318697,2023-02-03T21:53:05.210Z,"12 km SSE of Volcano, Hawaii",earthquake,0.33,0.81,0.149742283031764,10,reviewed,hv,hv
-2023-02-03T20:30:41.610Z,33.8721667,-117.4955,-0.54,0.79,ml,18,72,0.06889,0.23,ci,ci40410448,2023-02-03T21:55:52.045Z,"2km ESE of Home Gardens, CA",quarry blast,0.6,31.61,0.096,8,reviewed,ci,ci
