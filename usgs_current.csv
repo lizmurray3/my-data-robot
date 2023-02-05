@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-05T12:47:17.310Z,38.8279991,-122.817337,1.03,0.72,md,5,116,0.007302,0.01,nc,nc73842246,2023-02-05T12:48:51.817Z,"8km NW of The Geysers, CA",earthquake,0.43,1.39,0.3,8,automatic,nc,nc
+2023-02-05T12:43:19.360Z,33.323,-116.367,9.2,0.72,ml,19,161,0.06893,0.16,ci,ci40411304,2023-02-05T12:46:52.672Z,"8km N of Borrego Springs, CA",earthquake,0.4,0.71,0.099,13,automatic,ci,ci
 2023-02-05T12:28:44.690Z,33.0068333,-115.7905,3.58,1,ml,20,64,0.06209,0.26,ci,ci40411296,2023-02-05T12:32:15.523Z,"16km WSW of Westmorland, CA",earthquake,0.47,0.7,0.102,12,automatic,ci,ci
 2023-02-05T12:22:31.390Z,35.6705,-117.5531667,4.27,1.48,ml,13,143,0.1493,0.15,ci,ci40411288,2023-02-05T12:26:07.559Z,"12km ENE of Ridgecrest, CA",earthquake,0.36,0.95,0.13,20,automatic,ci,ci
 2023-02-05T12:15:49.460Z,38.8126678,-122.7969971,1.63,0.71,md,8,126,0.004876,0.01,nc,nc73842241,2023-02-05T12:32:14.662Z,"5km NW of The Geysers, CA",earthquake,0.67,1.27,0.11,10,automatic,nc,nc
@@ -183,7 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T13:58:27.720Z,38.8243332,-122.8535004,2.52,1.82,md,25,83,0.00415,0.02,nc,nc73841796,2023-02-04T16:38:12.040Z,"10km WNW of The Geysers, CA",earthquake,0.2,0.43,0.18,26,automatic,nc,nc
 2023-02-04T13:58:15.220Z,38.824501,-122.8538361,2.59,1.33,md,11,112,0.003856,0.01,nc,nc73841791,2023-02-04T16:12:13.869Z,"10km WNW of The Geysers, CA",earthquake,0.41,0.57,0.15,11,automatic,nc,nc
 2023-02-04T13:22:20.803Z,44.2567,-114.7927,10,2.8,ml,13,67,0.746,0.39,us,us6000jlei,2023-02-04T16:13:26.040Z,"12 km ENE of Stanley, Idaho",earthquake,2.17,2.013,0.053,46,reviewed,us,us
-2023-02-04T12:48:55.060Z,38.8323326,-122.8174973,1.51,0.43,md,6,118,0.01064,0.01,nc,nc73841781,2023-02-04T15:18:15.448Z,"8km NW of The Geysers, CA",earthquake,0.49,1.26,0.2,8,automatic,nc,nc
-2023-02-04T12:48:41.536Z,11.7637,-88.3387,10,4.7,mb,27,179,1.763,1,us,us6000jle9,2023-02-04T13:12:06.040Z,"145 km SW of Jiquilillo, Nicaragua",earthquake,9.86,1.96,0.062,78,reviewed,us,us
-2023-02-04T12:44:02.280Z,62.0157,-150.6068,3.9,0.8,ml,,,,0.83,ak,ak0231m37oe4,2023-02-04T16:02:42.911Z,"38 km SSW of Trapper Creek, Alaska",earthquake,,1.1,,,reviewed,ak,ak
-2023-02-04T12:42:02.240Z,38.8321648,-122.8051682,1.98,0.81,md,21,66,0.009559,0.04,nc,nc73841776,2023-02-04T14:52:12.252Z,"7km W of Cobb, CA",earthquake,0.22,0.46,0.14,21,automatic,nc,nc
