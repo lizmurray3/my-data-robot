@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-07T08:18:58.724Z,60.3329,-144.5007,13.3,1.8,ml,,,,0.59,ak,ak0231qzan0w,2023-02-07T08:20:33.674Z,"73 km ESE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-07T08:13:42.200Z,34.1968333,-117.2668333,0.25,1.31,ml,28,56,0.04429,0.28,ci,ci40411760,2023-02-07T08:17:40.473Z,"5km SSE of Crestline, CA",earthquake,0.32,31.61,0.142,27,automatic,ci,ci
+2023-02-07T08:01:26.422Z,56.231,-149.284,15.058,3.3,ml,25,239,2.383,0.32,us,us6000jm6y,2023-02-07T08:37:14.040Z,"238 km SE of Chiniak, Alaska",earthquake,11.06,8.931,0.062,34,reviewed,us,us
 2023-02-07T07:32:26.230Z,38.8288345,-122.802002,1.59,0.77,md,10,79,0.008322,0.01,nc,nc73842926,2023-02-07T08:27:17.268Z,"7km W of Cobb, CA",earthquake,0.35,0.91,0.42,13,automatic,nc,nc
 2023-02-07T07:26:36.400Z,38.0354,37.6579,16.534,4.5,mb,35,113,0.932,0.62,us,us6000jm6v,2023-02-07T08:29:49.040Z,"19 km WSW of Doğanşehir, Turkey",earthquake,3.66,5.223,0.171,10,reviewed,us,us
 2023-02-07T07:25:17.090Z,38.8283348,-122.8103333,1.11,0.23,md,9,64,0.004937,0.02,nc,nc73842921,2023-02-07T08:15:15.202Z,"7km NW of The Geysers, CA",earthquake,0.34,0.85,0.12,9,automatic,nc,nc
@@ -209,6 +210,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T11:58:36.837Z,38.0358,37.5511,10,4.8,mb,58,73,0.904,0.61,us,us6000jlrb,2023-02-06T13:22:26.040Z,"Central Turkey",earthquake,3.42,1.866,0.073,58,reviewed,us,us
 2023-02-06T11:39:41.423Z,38.0562,36.5829,10,4.8,mb,54,48,0.982,0.6,us,us6000jlr7,2023-02-06T14:14:34.040Z,"8 km ENE of Göksun, Turkey",earthquake,4.99,1.868,0.08,48,reviewed,us,us
 2023-02-06T11:38:47.060Z,19.2356662750244,-155.382339477539,32.0099983215332,2,md,39,151,,0.150000006,hv,hv73320277,2023-02-06T11:42:55.160Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.6,0.74000001,0.550000012,7,automatic,hv,hv
+2023-02-06T11:35:29.956Z,37.9614,37.3495,16.888,4.5,mb,78,64,0.796,0.48,us,us6000jlr9,2023-02-07T08:44:45.040Z,"7 km W of Nurhak, Turkey",earthquake,4.43,4.422,0.079,47,reviewed,us,us
 2023-02-06T11:34:54.570Z,38.7835007,-122.7225037,1.76,0.88,md,5,130,0.01112,0.01,nc,nc73842571,2023-02-06T13:35:10.923Z,"3km WNW of Anderson Springs, CA",earthquake,1.64,3.39,0.09,5,automatic,nc,nc
 2023-02-06T11:33:27.840Z,38.8276672,-122.8523331,1.66,0.7,md,8,132,0.003548,0.02,nc,nc73842566,2023-02-06T13:57:13.049Z,"10km NW of The Geysers, CA",earthquake,0.43,0.9,0.46,8,automatic,nc,nc
 2023-02-06T11:28:19.380Z,51.8656666666667,-177.873,7.99,1.47,ml,4,208,,0.03,av,av91755916,2023-02-07T03:58:38.930Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.46,0.78,0.341646259730856,4,reviewed,av,av
@@ -224,7 +226,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T10:46:14.490Z,56.4107,-156.7716,39.5,2.8,ml,,,,0.8,ak,ak0231pd42dl,2023-02-06T11:43:12.084Z,"101 km E of Chignik, Alaska",earthquake,,7.8,,,automatic,ak,ak
 2023-02-06T10:35:58.653Z,38.0084,37.7505,10,5.8,mb,67,67,0.939,0.88,us,us6000jlqe,2023-02-06T18:15:14.717Z,"13 km SW of Doğanşehir, Turkey",earthquake,4.9,1.844,0.057,112,reviewed,us,us
 2023-02-06T10:26:48.486Z,38.0302,37.9636,20.094,6,mb,59,63,1.045,0.62,us,us6000jm1y,2023-02-06T20:32:23.351Z,"10 km SE of Doğanşehir, Turkey",earthquake,2.91,4.649,0.084,53,reviewed,us,us
-2023-02-06T10:24:49.258Z,38.0235,37.203,10,7.5,mww,135,17,0.85,0.93,us,us6000jlqa,2023-02-07T08:10:57.182Z,"4 km SSE of Ekinözü, Turkey",earthquake,4.94,1.824,0.041,58,reviewed,us,us
+2023-02-06T10:24:49.258Z,38.0235,37.203,10,7.5,mww,135,17,0.85,0.93,us,us6000jlqa,2023-02-07T08:37:12.206Z,"4 km SSE of Ekinözü, Turkey",earthquake,4.94,1.824,0.041,58,reviewed,us,us
 2023-02-06T10:15:26.254Z,38.1887,-118.1076,9.5,1.6,ml,12,67.1,0.097,0.1587,nn,nn00855744,2023-02-06T20:33:23.773Z,"22 km S of Mina, Nevada",earthquake,,1.8,0.11,7,reviewed,nn,nn
 2023-02-06T09:58:52.130Z,44.6126667,-110.969,9.35,0.4,md,8,110,0.05607,0.07,uu,uu60530171,2023-02-06T15:23:05.110Z,"12 km ESE of West Yellowstone, Montana",earthquake,0.59,1.04,0.299,5,reviewed,uu,uu
 2023-02-06T09:53:42.680Z,40.5556679,-124.4896698,20.53,2.89,md,30,230,0.1409,0.14,nc,nc73842546,2023-02-07T07:24:33.655Z,"19km W of Ferndale, CA",earthquake,1.18,0.69,0.09,23,automatic,nc,nc
