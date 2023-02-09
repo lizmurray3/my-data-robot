@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-09T04:35:28.917Z,58.1787,-155.3292,2,0.9,ml,,,,0.53,ak,ak0231u836gr,2023-02-09T04:37:20.476Z,"85 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-09T04:21:07.168Z,57.944,-157.6404,24.5,2.1,ml,,,,1.13,ak,ak0231u804rg,2023-02-09T04:22:56.726Z,"34 km SSW of Egegik, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2023-02-09T04:18:54.737Z,58.0837,-155.5667,32.8,0.9,ml,,,,0.53,ak,ak0231u7zla9,2023-02-09T04:21:02.582Z,"87 km NW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-02-09T04:15:54.570Z,34.5186667,-119.6843333,2.13,1.63,ml,14,74,0.08172,0.28,ci,ci40412480,2023-02-09T04:19:40.108Z,"10km NNW of Montecito, CA",earthquake,0.52,0.92,0.141,27,automatic,ci,ci
@@ -262,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T04:53:08.110Z,44.7986667,-110.9633333,8.42,0.35,md,11,168,0.04977,0.1,uu,uu60032649,2023-02-08T17:23:22.850Z,"18 km E of Hebgen Lake Estates, Montana",earthquake,0.44,0.74,0.356,6,reviewed,uu,uu
 2023-02-08T04:52:02.006Z,46.4364,152.8927,35,4.6,mb,47,132,7.366,0.44,us,us6000jmff,2023-02-08T05:33:29.040Z,"Kuril Islands",earthquake,10.81,1.923,0.102,29,reviewed,us,us
 2023-02-08T04:51:04.428Z,61.6455,-149.4705,29.8,1.8,ml,,,,0.48,ak,ak0231skn7je,2023-02-08T04:52:39.314Z,"3 km NW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-08T04:40:44.780Z,34.3591667,-116.448,9.32,1.35,ml,23,188,0.08656,0.13,ci,ci40412128,2023-02-08T16:31:40.823Z,"27km N of Yucca Valley, CA",earthquake,0.33,0.49,0.148,14,reviewed,ci,ci
-2023-02-08T04:40:07.160Z,44.7923333,-110.9685,8.56,0.47,md,7,232,0.04253,0.15,uu,uu60530501,2023-02-08T18:11:32.840Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,1.05,0.65,0.416,5,reviewed,uu,uu
-2023-02-08T04:37:28.472Z,64.568,-150.2435,15.4,1.1,ml,,,,0.27,ak,ak0231skk9db,2023-02-08T04:39:32.704Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
