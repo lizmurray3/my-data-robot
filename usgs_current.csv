@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-11T20:28:59.320Z,33.8838333,-116.7221667,17.82,1.35,ml,39,44,0.08017,0.24,ci,ci40413584,2023-02-11T20:32:34.432Z,"7km ESE of Cabazon, CA",earthquake,0.29,0.66,0.13,28,automatic,ci,ci
 2023-02-11T20:01:24.240Z,38.8346672,-122.8128357,1.85,0.4,md,11,69,0.01146,0.01,nc,nc73845071,2023-02-11T20:19:12.216Z,"8km W of Cobb, CA",earthquake,0.35,0.96,0.29,12,automatic,nc,nc
 2023-02-11T19:45:40.500Z,32.8888333,-116.2401667,2.84,2.44,ml,64,58,0.08443,0.24,ci,ci40413576,2023-02-11T19:56:26.480Z,"28km ENE of Pine Valley, CA",earthquake,0.24,0.8,0.204,26,automatic,ci,ci
 2023-02-11T19:38:39.960Z,38.831665,-122.8051682,2.06,0.75,md,8,97,0.009104,0.01,nc,nc73845061,2023-02-11T19:56:14.065Z,"7km W of Cobb, CA",earthquake,0.49,1,0.15,9,automatic,nc,nc
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T18:08:34.202Z,64.8114,-147.5274,15.9,0.9,ml,,,,0.41,ak,ak0231xrc5zr,2023-02-11T18:12:09.434Z,"1 km NNE of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-11T18:05:31.190Z,38.901001,-122.6435013,-0.69,2.27,md,8,127,0.04334,0.3,nc,nc73845041,2023-02-11T19:53:15.043Z,"3km WSW of Lower Lake, CA",earthquake,1.45,5.04,0.24,10,automatic,nc,nc
 2023-02-11T18:01:06.505Z,65.0133,-149.1019,0,1.1,ml,,,,0.56,ak,ak0231xralsm,2023-02-11T18:04:11.212Z,"19 km SE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-02-11T17:50:17.060Z,38.1803,38.729,5.649,4.2,mb,49,104,0.962,0.64,us,us6000jnbi,2023-02-11T20:02:19.040Z,"18 km NNE of Sincik, Turkey",earthquake,3.41,5.021,0.104,28,reviewed,us,us
+2023-02-11T17:50:17.060Z,38.1803,38.729,5.649,4.2,mb,49,104,0.962,0.64,us,us6000jnbi,2023-02-11T20:02:19.040Z,"eastern Turkey",earthquake,3.41,5.021,0.104,28,reviewed,us,us
 2023-02-11T17:45:25.447Z,58.2583,-154.9802,0.8,1.4,ml,,,,0.48,ak,ak0231xqyn7h,2023-02-11T17:47:49.861Z,"82 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-11T17:35:47.901Z,59.9646,-153.569,119.9,2.4,ml,,,,0.49,ak,ak0231xqwjs6,2023-02-11T17:38:03.806Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-11T17:23:34.945Z,61.3159,-150.4844,35,2.2,ml,,,,0.73,ak,ak0231xqty6u,2023-02-11T20:10:08.286Z,"25 km S of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-10T20:53:39.665Z,60.0349,-152.9909,115.365,2.9,ml,57,55,0.401,0.58,us,us6000jn5y,2023-02-11T17:21:57.040Z,"Southern Alaska",earthquake,4.12,4.766,0.038,92,reviewed,us,us
 2023-02-10T20:43:59.780Z,19.0383338928223,-155.425338745117,36.3699989318848,2.25999999,md,26,205,,0.239999995,hv,hv73322617,2023-02-11T17:03:27.040Z,"16 km ESE of Naalehu, Hawaii",earthquake,1.07,1.57000005,0.0500000007,9,automatic,hv,hv
 2023-02-10T20:36:55.940Z,58.1721666666667,-155.3,1.95,-0.06,ml,6,168,,0.05,av,av91758811,2023-02-11T05:37:00.850Z,"Alaska Peninsula",earthquake,0.23,0.48,0.115946740208345,6,reviewed,av,av
-2023-02-10T20:28:52.810Z,38.7798347,-122.7651672,0.98,0.98,md,15,112,0.009112,0.03,nc,nc73844671,2023-02-10T20:45:14.428Z,"1km WNW of The Geysers, CA",earthquake,0.25,0.53,0.28,15,automatic,nc,nc
