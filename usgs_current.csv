@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-10T14:23:46.430Z,44.7895,-110.9655,8.98,1.64,ml,15,114,0.04182,0.14,uu,uu60530846,2023-02-10T15:38:45.110Z,"Wyoming",earthquake,0.43,0.76,0.103,3,reviewed,uu,uu
 2023-02-10T14:20:53.523Z,61.5663,-149.7665,33.3,1.5,ml,,,,0.46,ak,ak0231w1hp60,2023-02-10T14:22:38.477Z,"7 km SSE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-10T14:16:53.970Z,58.1908333333333,-155.338666666667,1.63,0.02,ml,4,237,,0.01,av,av91758546,2023-02-11T04:49:29.280Z,"86 km NW of Karluk, Alaska",earthquake,0.85,0.54,0.180876238725083,4,reviewed,av,av
-2023-02-10T14:07:23.360Z,38.6001667,-122.4691667,-0.01,1.53,md,45,61,0.06095,0.1,nc,nc73844536,2023-02-11T12:43:13.286Z,"3km NNW of Angwin, CA",earthquake,0.18,0.83,0.153,36,reviewed,nc,nc
-2023-02-10T14:06:00.680Z,38.6083333,-122.459,3.1,1.26,md,29,56,0.05012,0.11,nc,nc73844531,2023-02-11T12:32:15.214Z,"4km NNW of Angwin, CA",earthquake,0.2,0.93,0.18,24,reviewed,nc,nc
