@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-12T20:03:18.060Z,32.5713333,-115.6798333,7.44,1.79,ml,14,167,0.08713,0.16,ci,ci40413928,2023-02-12T20:06:47.492Z,"9km W of Progreso, B.C., MX",earthquake,0.46,0.82,0.152,26,automatic,ci,ci
 2023-02-12T19:45:35.283Z,58.1696,-155.3892,0,0.9,ml,,,,0.26,ak,ak0231zfovo8,2023-02-12T19:47:01.514Z,"86 km NW of Karluk, Alaska",earthquake,,18,,,automatic,ak,ak
 2023-02-12T19:23:17.172Z,31.65205839,-104.3898571,4.511962890999999,3,ml,25,63,0.03619784144,0.2,tx,tx2023dafm,2023-02-12T19:42:07.521Z,"58 km S of Whites City, New Mexico",earthquake,1.116702536,1.110259114,0.1,15,reviewed,tx,tx
 2023-02-12T19:18:48.280Z,38.8370018,-122.7945023,1.6,0.7,md,6,87,0.003538,0.01,nc,nc73845406,2023-02-12T19:50:12.000Z,"6km WNW of Cobb, CA",earthquake,0.49,1.54,0.47,8,automatic,nc,nc
@@ -156,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T00:36:24.990Z,38.8343315,-122.8176651,1.76,1.04,md,18,60,0.01243,0.01,nc,nc73845131,2023-02-12T01:26:12.211Z,"8km NW of The Geysers, CA",earthquake,0.23,0.59,0.28,19,automatic,nc,nc
 2023-02-12T00:32:11.692Z,57.8725,-154.7187,27.6,1,ml,,,,1.18,ak,ak0231z4atpo,2023-02-12T00:34:47.463Z,"37 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-12T00:32:10.010Z,38.8186684,-122.8113327,3.42,0.39,md,12,137,0.004821,0.01,nc,nc73845121,2023-02-12T01:04:13.092Z,"7km NW of The Geysers, CA",earthquake,0.49,1.56,0.18,12,automatic,nc,nc
-2023-02-12T00:28:32.871Z,19.6252,-70.7694,21.647,4.1,ml,18,115,0.167,0.73,us,us6000jngd,2023-02-12T17:34:20.617Z,"4 km S of Río Grande, Dominican Republic",earthquake,3.99,10.696,0.06,36,reviewed,us,us
+2023-02-12T00:28:32.871Z,19.6252,-70.7694,21.647,4.1,ml,18,115,0.167,0.73,us,us6000jngd,2023-02-12T19:54:12.721Z,"4 km S of Río Grande, Dominican Republic",earthquake,3.99,10.696,0.06,36,reviewed,us,us
 2023-02-12T00:22:56.830Z,33.4696667,-116.5621667,8.34,0.69,ml,23,110,0.04175,0.12,ci,ci40413672,2023-02-12T00:26:30.149Z,"14km SE of Anza, CA",earthquake,0.27,0.39,0.149,14,automatic,ci,ci
 2023-02-12T00:19:57.898Z,37.008,-117.3672,0.6,2.2,ml,24,90.08,0.316,0.3256,nn,nn00855985,2023-02-12T00:21:33.776Z,"55 km WNW of Beatty, Nevada",earthquake,,19.7,0.9,18,automatic,nn,nn
 2023-02-12T00:16:12.559Z,64.9741,-147.3337,2,1.5,ml,,,,0.38,ak,ak0231z47dnr,2023-02-12T00:18:22.435Z,"13 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -199,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T20:26:07.618Z,32.75115967,-100.6529869,7.898885091,2.4,ml,19,57,0.07756297623,0.2,tx,tx2023cymb,2023-02-11T20:53:29.148Z,"16 km NE of Hermleigh, Texas",earthquake,0.7926198541,1.23182758,0.1,10,reviewed,tx,tx
 2023-02-11T20:24:17.390Z,46.56466666666667,-119.47683333333333,15.62,0.38,ml,15,63,0.03499,0.08,uw,uw61906161,2023-02-11T23:22:10.240Z,"25 km W of Basin City, Washington",earthquake,0.25,0.56,0.052482073539814045,9,reviewed,uw,uw
 2023-02-11T20:23:12.308Z,-21.7553,-68.677,131.954,4.4,mb,24,45,0.527,0.94,us,us6000jnbv,2023-02-11T22:06:04.040Z,"81 km NNE of Calama, Chile",earthquake,6.25,4.55,0.203,8,reviewed,us,us
-2023-02-11T20:01:24.240Z,38.8346672,-122.8128357,1.85,0.4,md,11,69,0.01146,0.01,nc,nc73845071,2023-02-11T21:59:14.998Z,"8km W of Cobb, CA",earthquake,0.35,0.96,0.29,12,automatic,nc,nc
