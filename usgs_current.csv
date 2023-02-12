@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-12T07:43:29.370Z,35.6744995,-117.5503311,7.64,1.2,ml,14,89,0.09431,0.07,ci,ci40413736,2023-02-12T07:45:37.103Z,"13km ENE of Ridgecrest, CA",earthquake,0.41,1.38,0.322,3,automatic,ci,ci
+2023-02-12T07:43:29.310Z,35.6778333,-117.5473333,10.31,1.07,ml,14,90,0.1435,0.17,ci,ci40413736,2023-02-12T07:47:03.630Z,"13km ENE of Ridgecrest, CA",earthquake,0.42,1.19,0.074,11,automatic,ci,ci
 2023-02-12T07:35:30.679Z,64.3383,-149.7231,12.6,1.4,ml,,,,0.61,ak,ak0231z8hiwb,2023-02-12T07:37:55.226Z,"25 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-12T07:30:57.810Z,38.8235016,-122.7996674,3.73,0.9,md,9,102,0.00813,0.04,nc,nc73845226,2023-02-12T07:44:11.560Z,"6km NW of The Geysers, CA",earthquake,0.6,1.47,0.35,11,automatic,nc,nc
 2023-02-12T07:21:03.810Z,38.7026672,-122.6640015,16.62,1.36,md,6,232,0.07099,0.01,nc,nc73845221,2023-02-12T07:38:13.388Z,"7km SW of Middletown, CA",earthquake,2.01,2.49,0.14,6,automatic,nc,nc
@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T01:38:19.633Z,60.7726,-151.9186,85.7,1.9,ml,,,,0.1,ak,ak0231z4xjkb,2023-02-12T01:39:37.871Z,"35 km WNW of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-02-12T01:29:31.237Z,60.1965,-153.2122,144.7,2.3,ml,,,,0.47,ak,ak0231z4vn0j,2023-02-12T01:37:45.040Z,"61 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-12T01:25:10.410Z,17.9593333333333,-66.8861666666667,16.18,2.36,md,8,202,0.01696,0.07,pr,pr71396003,2023-02-12T01:46:29.160Z,"2 km S of Maria Antonia, Puerto Rico",earthquake,0.52,0.47,0.140655654293736,5,reviewed,pr,pr
-2023-02-12T01:22:17.621Z,43.5344,-110.398,5,3.5,ml,30,79,0.169,0.55,us,us6000jnd8,2023-02-12T05:14:06.728Z,"Wyoming",earthquake,1.62,0.495,0.051,50,reviewed,us,us
+2023-02-12T01:22:17.621Z,43.5344,-110.398,5,3.5,ml,30,79,0.169,0.55,us,us6000jnd8,2023-02-12T07:53:06.048Z,"Wyoming",earthquake,1.62,0.495,0.051,50,reviewed,us,us
 2023-02-12T01:13:18.426Z,58.1089,-155.5772,21.5,1,ml,,,,0.56,ak,ak0231z4s6ki,2023-02-12T01:14:49.827Z,"89 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-02-12T01:11:54.380Z,38.7965012,-122.7396698,1.74,1.1,md,13,162,0.01344,0.03,nc,nc73845146,2023-02-12T04:52:16.378Z,"3km NE of The Geysers, CA",earthquake,0.38,0.52,0.32,14,automatic,nc,nc
 2023-02-12T01:03:43.470Z,38.8351669,-122.8164978,1.62,1.1,md,16,67,0.01278,0.01,nc,nc73845141,2023-02-12T04:26:15.238Z,"8km W of Cobb, CA",earthquake,0.25,0.64,0.15,19,automatic,nc,nc
