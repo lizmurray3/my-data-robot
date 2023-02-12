@@ -197,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T21:01:11.040Z,17.9543333333333,-66.9401666666667,9.99,2.72,md,7,205,0.06153,0.07,pr,pr71395958,2023-02-11T21:15:50.220Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.45,0.68,0.0948839724865185,4,reviewed,pr,pr
 2023-02-11T20:52:10.079Z,59.9922,-140.2754,0,2.2,ml,,,,0.73,ak,ak0231xsseu0,2023-02-11T20:54:24.119Z,"58 km NNW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-11T20:50:31.815Z,58.3219,-157.018,8,1.9,ml,,,,0.3,ak,ak0231xss13h,2023-02-11T20:52:23.810Z,"24 km ENE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-11T20:39:15.745Z,58.3276,-157.0596,7.5,2.8,ml,,,,0.43,ak,ak0231xspmza,2023-02-11T22:17:53.040Z,"22 km NE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-02-11T20:39:05.278Z,37.8159,37.9186,10,4.2,mb,33,83,0.855,0.92,us,us6000jnc0,2023-02-11T22:14:05.040Z,"2 km N of Tut, Turkey",earthquake,4.8,1.918,0.122,19,reviewed,us,us
