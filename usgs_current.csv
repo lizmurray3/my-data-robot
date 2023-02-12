@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-12T04:40:54.270Z,36.6143341,-121.2113342,1.02,1.53,md,9,130,0.04739,0.06,nc,nc73845196,2023-02-12T04:42:31.333Z,"11km NNW of Pinnacles, CA",earthquake,0.49,1.4,0.07,5,automatic,nc,nc
+2023-02-12T05:00:02.536Z,38.2551,-116.0733,8.8,1.2,ml,8,233.52,1.171,0.2193,nn,nn00855988,2023-02-12T05:02:14.132Z,"73 km NNW of Rachel, Nevada",earthquake,,1.5,1.16,5,automatic,nn,nn
+2023-02-12T04:41:44.311Z,13.1517,-91.3617,41.21,4.3,mb,30,203,1.608,1.03,us,us6000jndx,2023-02-12T05:01:35.040Z,"offshore Guatemala",earthquake,9.08,11.14,0.071,56,reviewed,us,us
+2023-02-12T04:40:54.270Z,36.6143341,-121.2113342,1.02,1.53,md,9,130,0.04739,0.06,nc,nc73845196,2023-02-12T04:58:13.411Z,"11km NNW of Pinnacles, CA",earthquake,0.49,1.4,0.07,5,automatic,nc,nc
 2023-02-12T04:29:14.956Z,37.8213,38.2487,10,4.2,mb,23,122,1.05,0.87,us,us6000jndu,2023-02-12T04:44:09.040Z,"6 km NNW of Adıyaman, Turkey",earthquake,3.04,1.95,0.236,5,reviewed,us,us
+2023-02-12T04:15:02.743Z,-18.2039,-178.2062,532.855,4.3,mb,25,117,3.59,0.82,us,us6000jndt,2023-02-12T04:55:39.040Z,"262 km E of Levuka, Fiji",earthquake,14.67,11.504,0.07,57,reviewed,us,us
 2023-02-12T03:42:11.599Z,59.9423,-149.1096,8.7,1.9,ml,,,,0.5,ak,ak0231z6590n,2023-02-12T03:44:15.807Z,"23 km SE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-12T03:17:12.750Z,58.1834,-155.272,0,1,ml,,,,0.78,ak,ak0231z5zw7f,2023-02-12T03:18:43.734Z,"83 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-12T03:11:17.650Z,36.5503349,-121.1266632,4.65,1.85,md,16,115,0.05188,0.06,nc,nc73845186,2023-02-12T03:33:16.959Z,"3km NE of Pinnacles, CA",earthquake,0.33,0.87,0.18,12,automatic,nc,nc
@@ -22,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T01:25:10.410Z,17.9593333333333,-66.8861666666667,16.18,2.36,md,8,202,0.01696,0.07,pr,pr71396003,2023-02-12T01:46:29.160Z,"2 km S of Maria Antonia, Puerto Rico",earthquake,0.52,0.47,0.140655654293736,5,reviewed,pr,pr
 2023-02-12T01:22:17.621Z,43.5344,-110.398,5,3.5,ml,30,79,0.169,0.55,us,us6000jnd8,2023-02-12T04:26:15.723Z,"Wyoming",earthquake,1.62,0.495,0.051,50,reviewed,us,us
 2023-02-12T01:13:18.426Z,58.1089,-155.5772,21.5,1,ml,,,,0.56,ak,ak0231z4s6ki,2023-02-12T01:14:49.827Z,"89 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-02-12T01:11:54.380Z,38.7965012,-122.7396698,1.74,1.1,md,13,162,0.01344,0.03,nc,nc73845146,2023-02-12T04:17:12.193Z,"3km NE of The Geysers, CA",earthquake,0.38,0.52,0.32,14,automatic,nc,nc
+2023-02-12T01:11:54.380Z,38.7965012,-122.7396698,1.74,1.1,md,13,162,0.01344,0.03,nc,nc73845146,2023-02-12T04:52:16.378Z,"3km NE of The Geysers, CA",earthquake,0.38,0.52,0.32,14,automatic,nc,nc
 2023-02-12T01:03:43.470Z,38.8351669,-122.8164978,1.62,1.1,md,16,67,0.01278,0.01,nc,nc73845141,2023-02-12T04:26:15.238Z,"8km W of Cobb, CA",earthquake,0.25,0.64,0.15,19,automatic,nc,nc
 2023-02-12T00:57:56.120Z,19.1763324737549,-155.471328735352,33.7900009155273,2.43,ml,37,86,,0.109999999,hv,hv73323092,2023-02-12T01:18:43.040Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.67,1.07000005,3.33,7,automatic,hv,hv
 2023-02-12T00:57:33.876Z,62.0801,-153.1968,8.8,1.7,ml,,,,0.31,ak,ak0231z4g7nv,2023-02-12T01:00:03.959Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -31,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T00:32:11.692Z,57.8725,-154.7187,27.6,1,ml,,,,1.18,ak,ak0231z4atpo,2023-02-12T00:34:47.463Z,"37 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-12T00:32:10.010Z,38.8186684,-122.8113327,3.42,0.39,md,12,137,0.004821,0.01,nc,nc73845121,2023-02-12T01:04:13.092Z,"7km NW of The Geysers, CA",earthquake,0.49,1.56,0.18,12,automatic,nc,nc
 2023-02-12T00:22:56.830Z,33.4696667,-116.5621667,8.34,0.69,ml,23,110,0.04175,0.12,ci,ci40413672,2023-02-12T00:26:30.149Z,"14km SE of Anza, CA",earthquake,0.27,0.39,0.149,14,automatic,ci,ci
-2023-02-12T00:19:57.898Z,37.008,-117.3672,0.6,2.2,ml,24,90.08,0.316,0.3256,nn,nn00855985,2023-02-12T00:21:33.776Z,"55 km WNW of Beatty, Nevada",earthquake,,19.7,0.9,18,automatic,nn,nn
+2023-02-12T00:19:57.898Z,37.008,-117.3672,0.6,2.2,ml,24,90.08,0.316,0.3256,nn,nn00855985,2023-02-12T00:21:33.776Z,"California-Nevada border region",earthquake,,19.7,0.9,18,automatic,nn,nn
 2023-02-12T00:16:12.559Z,64.9741,-147.3337,2,1.5,ml,,,,0.38,ak,ak0231z47dnr,2023-02-12T00:18:22.435Z,"13 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-11T23:54:05.890Z,59.1298,-153.2043,75.6,1.9,ml,,,,0.23,ak,ak0231xul4rx,2023-02-11T23:55:35.616Z,"77 km WSW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-02-11T23:44:00.220Z,17.9541666666667,-66.5141666666667,13.49,2.28,md,8,186,0.06854,0.14,pr,pr71395983,2023-02-12T00:11:09.870Z,"4 km SSW of Potala Pastillo, Puerto Rico",earthquake,0.8,0.37,0.15179584920303,4,reviewed,pr,pr
@@ -181,6 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T05:22:30.981Z,61.761,-149.5502,32.3,2.1,ml,,,,0.51,ak,ak0231xjoiwq,2023-02-11T05:24:14.847Z,"15 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-11T05:09:58.190Z,38.7630005,-122.7353363,0.87,0.65,md,7,116,0.008309,0.02,nc,nc73844846,2023-02-11T05:38:12.864Z,"2km SE of The Geysers, CA",earthquake,0.36,0.89,0.1,6,automatic,nc,nc
 2023-02-11T05:09:32.729Z,51.4457,178.6224,60.919,4.4,mb,74,197,0.431,0.81,us,us6000jn8i,2023-02-11T16:54:50.049Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.02,7.743,0.067,64,reviewed,us,us
-2023-02-11T05:05:00.363Z,62.6258,-151.7036,96.8,2.2,ml,,,,0.46,ak,ak0231xjktdg,2023-02-11T05:07:34.114Z,"50 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-02-11T04:59:15.010Z,38.8226662,-122.8089981,2.71,0.76,md,16,61,0.001112,0.02,nc,nc73844841,2023-02-11T06:58:14.205Z,"7km NW of The Geysers, CA",earthquake,0.27,0.66,0.17,18,automatic,nc,nc
-2023-02-11T04:52:56.170Z,19.2298333333333,-64.8238333333333,23.62,3.38,md,10,297,0.8818,0.25,pr,pr71395928,2023-02-11T05:40:24.650Z,"98 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.3,19.73,0.123854514501136,6,reviewed,pr,pr
