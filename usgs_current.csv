@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-12T09:07:56.630Z,38.8253326,-122.8075027,2.5,0.79,md,7,76,0.002789,0.01,nc,nc73845241,2023-02-12T09:19:11.128Z,"7km NW of The Geysers, CA",earthquake,0.57,1.79,,1,automatic,nc,nc
+2023-02-12T09:07:56.630Z,38.8253326,-122.8075027,2.5,0.79,md,7,76,0.002789,0.01,nc,nc73845241,2023-02-12T09:25:14.053Z,"7km NW of The Geysers, CA",earthquake,0.57,1.79,,1,automatic,nc,nc
 2023-02-12T09:04:04.290Z,58.3744,-154.8602,0,0.9,ml,,,,0.57,ak,ak0231z9hovh,2023-02-12T09:06:12.694Z,"92 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-12T09:01:15.648Z,63.1151,-151.6681,28.9,1.7,ml,,,,1.2,ak,ak0231z9h2ja,2023-02-12T09:11:54.222Z,"47 km S of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-12T08:41:36.090Z,38.8348351,-122.8174973,1.79,0.71,md,8,120,0.01454,0.01,nc,nc73845236,2023-02-12T08:59:19.890Z,"8km W of Cobb, CA",earthquake,0.42,1.07,0.28,11,automatic,nc,nc
