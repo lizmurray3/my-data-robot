@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-12T04:40:54.270Z,36.6143341,-121.2113342,1.02,1.53,md,9,130,0.04739,0.06,nc,nc73845196,2023-02-12T04:42:31.333Z,"11km NNW of Pinnacles, CA",earthquake,0.49,1.4,0.07,5,automatic,nc,nc
+2023-02-12T04:29:14.956Z,37.8213,38.2487,10,4.2,mb,23,122,1.05,0.87,us,us6000jndu,2023-02-12T04:44:09.040Z,"6 km NNW of Adıyaman, Turkey",earthquake,3.04,1.95,0.236,5,reviewed,us,us
 2023-02-12T03:42:11.599Z,59.9423,-149.1096,8.7,1.9,ml,,,,0.5,ak,ak0231z6590n,2023-02-12T03:44:15.807Z,"23 km SE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-12T03:17:12.750Z,58.1834,-155.272,0,1,ml,,,,0.78,ak,ak0231z5zw7f,2023-02-12T03:18:43.734Z,"83 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-12T03:11:17.650Z,36.5503349,-121.1266632,4.65,1.85,md,16,115,0.05188,0.06,nc,nc73845186,2023-02-12T03:33:16.959Z,"3km NE of Pinnacles, CA",earthquake,0.33,0.87,0.18,12,automatic,nc,nc
@@ -183,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T05:05:00.363Z,62.6258,-151.7036,96.8,2.2,ml,,,,0.46,ak,ak0231xjktdg,2023-02-11T05:07:34.114Z,"50 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-11T04:59:15.010Z,38.8226662,-122.8089981,2.71,0.76,md,16,61,0.001112,0.02,nc,nc73844841,2023-02-11T06:58:14.205Z,"7km NW of The Geysers, CA",earthquake,0.27,0.66,0.17,18,automatic,nc,nc
 2023-02-11T04:52:56.170Z,19.2298333333333,-64.8238333333333,23.62,3.38,md,10,297,0.8818,0.25,pr,pr71395928,2023-02-11T05:40:24.650Z,"98 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.3,19.73,0.123854514501136,6,reviewed,pr,pr
-2023-02-11T04:50:34.400Z,19.0485000610352,-155.399002075195,35.2900009155273,2.17000008,md,27,251,,0.129999995,hv,hv73322732,2023-02-11T04:54:01.310Z,"19 km SSE of Pāhala, Hawaii",earthquake,0.68,1.12,1.29999995,8,automatic,hv,hv
-2023-02-11T04:47:04.443Z,37.7485,36.6102,10,4.2,mb,48,75,0.747,0.54,us,us6000jn8d,2023-02-11T05:16:15.040Z,"29 km NE of Andırın, Turkey",earthquake,4.98,1.858,0.128,17,reviewed,us,us
