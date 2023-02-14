@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-14T23:50:00.430Z,19.1259994506836,-155.438507080078,25.8999996185303,2.25,ml,26,217,,0.140000001,hv,hv73324727,2023-02-14T23:55:31.030Z,"9 km SSE of Pāhala, Hawaii",earthquake,0.82,1.48000002,0.05,5,automatic,hv,hv
 2023-02-14T23:26:46.820Z,19.2516670227051,-155.396499633789,29.7800006866455,1.72000003,md,22,177,,0.119999997,hv,hv73324662,2023-02-14T23:32:19.270Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.91,0.99000001,1.80999994,4,automatic,hv,hv
 2023-02-14T23:25:40.540Z,34.1473333,-117.4318333,10.97,1.15,ml,18,91,0.08241,0.25,ci,ci40414704,2023-02-14T23:29:11.939Z,"6km NNE of Fontana, CA",earthquake,0.49,0.9,0.255,28,automatic,ci,ci
 2023-02-14T23:21:51.293Z,-16.5074,175.8088,10,4.9,mb,14,143,2.474,0.65,us,us6000jnzz,2023-02-14T23:40:52.040Z,"213 km NW of Lautoka, Fiji",earthquake,11.52,1.801,0.162,12,reviewed,us,us
-2023-02-14T23:21:37.620Z,38.840168,-122.8221664,2.1,1.16,md,22,84,0.01052,0.02,nc,nc73846491,2023-02-14T23:41:12.660Z,"9km WNW of Cobb, CA",earthquake,0.22,0.49,0.21,22,automatic,nc,nc
+2023-02-14T23:21:37.620Z,38.840168,-122.8221664,2.1,1.16,md,22,84,0.01052,0.02,nc,nc73846491,2023-02-14T23:52:14.735Z,"9km WNW of Cobb, CA",earthquake,0.22,0.49,0.21,22,automatic,nc,nc
 2023-02-14T23:18:13.440Z,19.5496666666667,-65.8353333333333,35.59,3.38,md,8,283,1.253,0.16,pr,pr71396313,2023-02-14T23:42:25.710Z,"123 km NNE of San Juan, Puerto Rico",earthquake,2.07,14.45,0.124233106492368,3,reviewed,pr,pr
 2023-02-14T23:14:01.639Z,38.5556,37.4549,2.628,4.2,mb,49,65,0.872,0.89,us,us6000jnzr,2023-02-14T23:31:58.040Z,"Central Turkey",earthquake,4.71,4.089,0.108,24,reviewed,us,us
 2023-02-14T23:13:52.200Z,64.0234,-148.7974,0,1.8,ml,,,,0.41,ak,ak02322syhh0,2023-02-14T23:15:43.989Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -85,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T13:44:03.163Z,35.3775,35.3986,10,4.4,mb,38,171,1.744,0.87,us,us6000jnr1,2023-02-14T15:25:21.040Z,"39 km WSW of Latakia, Syria",earthquake,7.65,1.918,0.138,15,reviewed,us,us
 2023-02-14T13:34:34.710Z,60.0744,-140.4921,0,2.5,ml,,,,0.87,ak,ak02322n4m3z,2023-02-14T15:14:45.040Z,"72 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-14T13:30:40.820Z,18.214,-67.067,77.6,2.69,md,11,103,0.2104,0.25,pr,pr71396293,2023-02-14T13:52:23.980Z,"7 km E of Mayagüez, Puerto Rico",earthquake,0.93,1.05,0.138855426835091,6,reviewed,pr,pr
-2023-02-14T13:16:51.072Z,45.1126,23.1781,10,5.6,mww,132,28,1.197,0.4,us,us6000jnqz,2023-02-14T23:16:54.302Z,"2 km NW of Leleşti, Romania",earthquake,4.85,1.794,0.032,95,reviewed,us,us
+2023-02-14T13:16:51.072Z,45.1126,23.1781,10,5.6,mww,132,28,1.197,0.4,us,us6000jnqz,2023-02-14T23:51:45.937Z,"2 km NW of Leleşti, Romania",earthquake,4.85,1.794,0.032,95,reviewed,us,us
 2023-02-14T12:27:58.619Z,62.168,-150.7321,49.6,1.6,ml,,,,0.52,ak,ak02322mhqc5,2023-02-14T12:30:01.912Z,"30 km WSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-14T12:27:21.390Z,38.828167,-122.7901688,1.03,1.13,md,18,111,0.01023,0.2,nc,nc73846271,2023-02-14T14:44:13.514Z,"6km W of Cobb, CA",earthquake,0.73,1.05,0.11,18,automatic,nc,nc
 2023-02-14T12:25:17.240Z,41.4996667,-112.1781667,7,1.13,md,14,71,0.1057,0.07,uu,uu60531126,2023-02-14T14:59:09.430Z,"8 km SW of Corinne, Utah",earthquake,0.36,1.59,0.148,9,reviewed,uu,uu
