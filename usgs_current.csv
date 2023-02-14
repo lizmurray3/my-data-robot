@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-14T12:27:58.619Z,62.168,-150.7321,49.6,1.6,ml,,,,0.52,ak,ak02322mhqc5,2023-02-14T12:30:01.912Z,"30 km WSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-02-14T12:27:21.390Z,38.828167,-122.7901688,1.03,1.13,md,18,111,0.01023,0.2,nc,nc73846271,2023-02-14T12:45:14.782Z,"6km W of Cobb, CA",earthquake,0.73,1.05,0.11,18,automatic,nc,nc
+2023-02-14T12:20:09.760Z,38.1539,-117.8763,3,1.4,ml,10,182.37,0.067,0.2122,nn,nn00856056,2023-02-14T12:21:45.735Z,"33 km SE of Mina, Nevada",earthquake,,0.8,0.87,6,automatic,nn,nn
+2023-02-14T12:15:26.850Z,38.8213348,-122.7645035,2.09,1.1,md,19,119,0.01005,0.02,nc,nc73846266,2023-02-14T12:33:15.706Z,"4km W of Cobb, CA",earthquake,0.28,0.49,0.14,19,automatic,nc,nc
 2023-02-14T11:55:11.440Z,38.8520012,-122.9169998,14.03,1.22,md,8,172,0.07021,0.12,nc,nc73846261,2023-02-14T12:12:16.574Z,"10km ENE of Cloverdale, CA",earthquake,3.66,4.99,0.24,6,automatic,nc,nc
 2023-02-14T11:35:24.407Z,63.5108,-147.4993,2.8,1.6,ml,,,,1.58,ak,ak02322lxxtk,2023-02-14T11:37:28.317Z,"73 km E of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-14T11:31:49.121Z,62.352,-149.0982,4.3,1.8,ml,,,,0.49,ak,ak02322lx4v4,2023-02-14T11:33:33.625Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -12,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T09:11:36.937Z,64.5042,-147.8816,2.5,1.9,ml,,,,0.58,ak,ak02322klye5,2023-02-14T09:13:19.515Z,"34 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-14T09:02:33.785Z,64.5058,-147.9414,5.1,2.2,ml,,,,0.5,ak,ak02322kk0pe,2023-02-14T09:04:23.417Z,"34 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-14T08:42:28.680Z,33.5478333,-116.863,0.18,0.72,ml,15,98,0.06316,0.28,ci,ci40414552,2023-02-14T08:46:03.820Z,"12km N of Aguanga, CA",earthquake,0.61,31.61,0.133,19,automatic,ci,ci
-2023-02-14T08:39:11.310Z,36.6464996,-121.2621689,9.09,1.69,md,19,135,0.05521,0.05,nc,nc73846221,2023-02-14T09:20:14.504Z,"17km NW of Pinnacles, CA",earthquake,0.34,0.53,0.19,19,automatic,nc,nc
+2023-02-14T08:39:11.310Z,36.6464996,-121.2621689,9.09,1.69,md,19,135,0.05521,0.05,nc,nc73846221,2023-02-14T12:16:10.599Z,"17km NW of Pinnacles, CA",earthquake,0.34,0.53,0.19,19,automatic,nc,nc
 2023-02-14T08:08:18.940Z,38.8310013,-122.8146667,2.08,0.45,md,12,65,0.0084,0.01,nc,nc73846216,2023-02-14T08:58:14.370Z,"8km NW of The Geysers, CA",earthquake,0.33,0.94,0.31,12,automatic,nc,nc
 2023-02-14T07:56:52.610Z,33.2518333,-116.0865,5.28,1.84,ml,57,31,0.1177,0.21,ci,ci40414536,2023-02-14T08:07:31.210Z,"13km NNE of Ocotillo Wells, CA",earthquake,0.22,1.25,0.132,26,automatic,ci,ci
 2023-02-14T07:45:18.059Z,61.8964,-149.3014,2.2,1.5,ml,,,,0.75,ak,ak02322jmc2l,2023-02-14T08:06:35.851Z,"17 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -159,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-13T15:13:55.450Z,33.5295,-116.7246667,4.41,0.34,ml,15,140,0.03733,0.06,ci,ci40414184,2023-02-13T18:11:51.464Z,"6km WSW of Anza, CA",earthquake,0.18,0.24,0.076,10,reviewed,ci,ci
 2023-02-13T15:08:38.290Z,36.2215,-117.8608333,2.81,1.99,ml,27,66,0.1038,0.17,ci,ci40414168,2023-02-13T19:47:16.395Z,"15km ESE of Olancha, CA",earthquake,0.23,0.85,0.186,26,reviewed,ci,ci
 2023-02-13T14:59:27.734Z,58.246,-155.1305,1.2,1.1,ml,,,,0.17,ak,ak023210c1l1,2023-02-14T02:06:20.570Z,"85 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2023-02-13T14:58:05.854Z,45.1281,23.1746,10,5,mww,114,25,1.188,0.73,us,us6000jnl6,2023-02-14T11:28:56.408Z,"0 km S of Dobrița, Romania",earthquake,4.97,1.802,0.057,30,reviewed,us,us
+2023-02-13T14:58:05.854Z,45.1281,23.1746,10,5,mww,114,25,1.188,0.73,us,us6000jnl6,2023-02-14T12:52:51.872Z,"0 km S of Dobrița, Romania",earthquake,4.97,1.802,0.057,30,reviewed,us,us
 2023-02-13T14:47:31.940Z,17.962,-66.7468333333333,10.5,2.71,md,11,163,0.07167,0.1,pr,pr71396183,2023-02-13T15:07:19.370Z,"4 km SW of Tallaboa, Puerto Rico",earthquake,0.43,0.69,0.207519915782661,8,reviewed,pr,pr
 2023-02-13T14:47:28.830Z,46.224833333333336,-119.62933333333334,16.09,0.6900000000000001,ml,9,197,0.04177,0.04,uw,uw61906296,2023-02-13T17:21:57.210Z,"10 km E of Prosser, Washington",earthquake,0.62,0.7,0.08627463985213646,7,reviewed,uw,uw
 2023-02-13T14:30:01.724Z,58.1847,-155.3805,0,1.4,ml,,,,0.84,ak,ak0232105rt8,2023-02-14T02:00:52.350Z,"87 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
