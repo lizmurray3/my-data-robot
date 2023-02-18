@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-18T06:43:12.324Z,62.9521,-150.2448,97.8,1.9,ml,,,,0.14,ak,ak0232955ukg,2023-02-18T06:44:44.896Z,"56 km N of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-18T06:40:47.968Z,61.8634,-149.0432,6.8,2,ml,,,,0.52,ak,ak0232955a64,2023-02-18T06:42:34.627Z,"16 km N of Buffalo Soapstone, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-18T06:37:47.599Z,60.2023,-153.1427,124.9,2.3,ml,,,,0.8,ak,ak0232954mzr,2023-02-18T06:40:00.352Z,"65 km E of Port Alsworth, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-02-18T06:36:52.538Z,-27.8899,-176.8968,35,4.8,mb,36,98,1.627,0.83,us,us6000jpv9,2023-02-18T07:05:15.040Z,"Kermadec Islands region",earthquake,10.3,1.919,0.107,27,reviewed,us,us
 2023-02-18T06:36:37.860Z,19.1555004119873,-155.362503051758,27.8700008392334,1.94000006,md,34,180,,0.140000001,hv,hv73326867,2023-02-18T06:39:47.420Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.69,0.939999998,1.28999996,14,automatic,hv,hv
 2023-02-18T06:28:48.220Z,38.8474998,-122.81633,1.52,0.54,md,8,106,0.009009,0.01,nc,nc73848046,2023-02-18T06:46:12.789Z,"9km WNW of Cobb, CA",earthquake,0.38,0.77,0.32,10,automatic,nc,nc
 2023-02-18T06:24:11.214Z,61.9341,-144.0535,1.7,1.9,ml,,,,0.55,ak,ak0232951rvl,2023-02-18T06:26:06.134Z,"50 km NNE of Chitina, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -236,9 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T07:28:24.881Z,63.4312,-150.1222,40.5,0.9,ml,,,,0.43,ak,ak02327i4rs3,2023-02-17T08:46:59.956Z,"58 km W of Cantwell, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-02-17T07:24:53.630Z,51.852,-177.964666666667,3.38,1.21,ml,6,127,,0.17,av,av91764001,2023-02-18T03:31:16.450Z,"91 km W of Adak, Alaska",earthquake,0.48,1.23,0.143817394293562,6,reviewed,av,av
 2023-02-17T07:20:10.220Z,51.8608333333333,-177.951833333333,0.5,1.46,ml,6,146,,0.23,av,av91763991,2023-02-18T03:25:19.650Z,"90 km W of Adak, Alaska",earthquake,0.55,7.63,0.202470879601284,6,reviewed,av,av
-2023-02-17T07:12:07.167Z,31.65129087,-104.328227,2.17253418,2.1,ml,24,60,0.05769836512,0.2,tx,tx2023dikx,2023-02-17T20:40:57.731Z,"58 km S of Whites City, New Mexico",earthquake,0.7222650168,1.061848137,0.2,19,reviewed,tx,tx
-2023-02-17T07:11:25.700Z,51.8601666666667,-177.956166666667,3.72,1.57,ml,6,141,,0.19,av,av91763971,2023-02-18T03:19:05.870Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.49,1.24,0.235325125488461,6,reviewed,av,av
-2023-02-17T07:11:10.700Z,51.856,-177.963166666667,-1.8,0.98,ml,5,131,,0.1,av,av91089218,2023-02-18T03:21:26.460Z,"91 km W of Adak, Alaska",earthquake,0.22,0.74,0.284339359536018,5,reviewed,av,av
-2023-02-17T07:07:30.380Z,51.857,-177.957,2.74,1.25,ml,6,137,,0.23,av,av91763961,2023-02-18T03:15:37.160Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.55,1.8,0.167969377337017,6,reviewed,av,av
-2023-02-17T07:06:07.944Z,65.3265,-149.9902,9.3,1.4,ml,,,,0.45,ak,ak02327hzzui,2023-02-17T07:13:46.412Z,"21 km SSE of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-17T07:03:22.060Z,33.9916667,-116.9773333,18.06,1.14,ml,44,42,0.07015,0.16,ci,ci40415568,2023-02-17T22:31:12.667Z,"7km N of Beaumont, CA",earthquake,0.19,0.41,0.148,33,reviewed,ci,ci
