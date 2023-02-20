@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-20T09:17:24.280Z,38.8351669,-122.8073349,2.21,0.43,md,10,104,0.01195,0.01,nc,nc73848886,2023-02-20T09:18:58.748Z,"7km WNW of Cobb, CA",earthquake,0.4,1.03,0.24,11,automatic,nc,nc
+2023-02-20T09:29:40.410Z,38.8271675,-122.8544998,1.99,0.62,md,15,88,0.001892,0.03,nc,nc73848896,2023-02-20T09:31:13.678Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.49,0.41,16,automatic,nc,nc
+2023-02-20T09:28:32.600Z,38.8221664,-122.8048325,3.03,0.75,md,14,65,0.004274,0.01,nc,nc73848891,2023-02-20T09:30:08.903Z,"6km NW of The Geysers, CA",earthquake,0.32,0.76,0.19,15,automatic,nc,nc
+2023-02-20T09:17:24.280Z,38.8351669,-122.8073349,2.21,0.43,md,10,104,0.01195,0.01,nc,nc73848886,2023-02-20T09:33:10.696Z,"7km WNW of Cobb, CA",earthquake,0.4,1.03,0.24,11,automatic,nc,nc
 2023-02-20T09:15:40.750Z,38.8348351,-122.8093338,2.44,0.76,md,11,72,0.01144,0.01,nc,nc73848881,2023-02-20T09:27:11.660Z,"8km W of Cobb, CA",earthquake,0.41,1,0.13,14,automatic,nc,nc
 2023-02-20T09:11:18.820Z,38.8351669,-122.8089981,2.25,0.7,md,10,86,0.01178,0.01,nc,nc73848876,2023-02-20T09:22:11.628Z,"8km W of Cobb, CA",earthquake,0.4,1.08,0.55,11,automatic,nc,nc
 2023-02-20T08:54:05.870Z,33.2481667,-116.2526667,9.58,1.21,ml,51,29,0.05534,0.2,ci,ci40416776,2023-02-20T08:57:40.116Z,"11km E of Borrego Springs, CA",earthquake,0.23,0.6,0.131,27,automatic,ci,ci
@@ -210,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T10:05:47.319Z,37.5878,-117.9092,3.7,1.5,ml,12,175.46,0.412,0.3522,nn,nn00856235,2023-02-19T10:07:14.490Z,"16 km ESE of Dyer, Nevada",earthquake,,1.6,0.89,7,automatic,nn,nn
 2023-02-19T10:05:29.840Z,-15.4427,-71.5287,142.092,4.5,mb,48,112,2.902,0.63,us,us6000jq2z,2023-02-19T10:23:29.040Z,"8 km NNW of Ccolo, Peru",earthquake,9.2,8.156,0.061,78,reviewed,us,us
 2023-02-19T10:03:33.580Z,17.9198333333333,-66.8466666666667,11.54,3.08,md,34,189,0.06308,0.2,pr,pr71396718,2023-02-19T10:54:31.090Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.49,0.35,0.199923328460038,15,reviewed,pr,pr
-2023-02-19T09:36:03.470Z,19.2565002441406,-155.398666381836,29.6700000762939,2.13,ml,39,140,,0.150000006,hv,hv73327342,2023-02-19T09:41:34.330Z,"10 km NE of Pāhala, Hawaii",earthquake,0.66,0.75,0.14,4,automatic,hv,hv
-2023-02-19T09:32:58.550Z,38.8278351,-122.8014984,1.78,0.83,md,12,74,0.008033,0.01,nc,nc73848521,2023-02-19T11:09:12.538Z,"7km W of Cobb, CA",earthquake,0.27,0.7,0.27,14,automatic,nc,nc
-2023-02-19T09:32:24.840Z,38.8424988,-122.8796692,2.49,0.2,md,8,97,0.005192,0.01,nc,nc73848516,2023-02-19T10:43:12.412Z,"13km ENE of Cloverdale, CA",earthquake,0.47,0.7,0.09,8,automatic,nc,nc
