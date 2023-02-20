@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T04:09:18.270Z,38.786335,-122.734169,1.53,1.05,md,12,87,0.003682,0.02,nc,nc73848816,2023-02-20T06:24:12.609Z,"2km ENE of The Geysers, CA",earthquake,0.28,0.7,0.24,13,automatic,nc,nc
 2023-02-20T04:09:17.600Z,63.1808,-151.3395,0,2.3,ml,,,,0.85,ak,ak0232ceueeo,2023-02-20T04:11:30.802Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-20T04:05:03.974Z,-22.4556,-174.2759,10,5.1,mb,71,74,2.619,1.29,us,us6000jq88,2023-02-20T04:25:37.040Z,"142 km SSE of ‘Ohonua, Tonga",earthquake,9.35,1.871,0.054,110,reviewed,us,us
-2023-02-20T04:02:50.388Z,62.8689,-150.782,85.7,1.5,ml,,,,0.3,ak,ak0232cesyxa,2023-02-20T04:06:14.440Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
+2023-02-20T04:02:50.388Z,62.8689,-150.782,85.7,1.5,ml,,,,0.3,ak,ak0232cesyxa,2023-02-20T04:06:14.440Z,"41 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-20T03:45:38.572Z,38.6708,39.9482,7.526,4.3,mb,47,62,1.327,0.5,us,us6000jq85,2023-02-20T03:56:55.040Z,"3 km SE of Palu, Turkey",earthquake,3.47,1.56,0.095,31,reviewed,us,us
 2023-02-20T03:39:29.300Z,34.26,-116.4451667,8.04,1.74,ml,48,37,0.06061,0.19,ci,ci40416672,2023-02-20T03:50:13.740Z,"16km N of Yucca Valley, CA",earthquake,0.21,0.7,0.137,26,automatic,ci,ci
 2023-02-20T03:39:00.060Z,34.0528333,-118.165,3.44,0.83,ml,9,114,0.1931,0.23,ci,ci40416664,2023-02-20T03:42:50.443Z,"2km N of East Los Angeles, CA",earthquake,0.98,5.55,0.17,12,automatic,ci,ci
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T12:16:58.020Z,38.8236656,-122.8123322,29.53,1.12,md,7,186,0.01774,0.24,nc,nc73848541,2023-02-19T12:52:13.211Z,"7km NW of The Geysers, CA",earthquake,6.17,20.77,0.11,3,automatic,nc,nc
 2023-02-19T12:04:33.973Z,38.2418,38.1842,5.478,4.6,mwr,76,49,0.858,0.52,us,us6000jq3c,2023-02-19T12:23:56.040Z,"eastern Turkey",earthquake,4.08,3.971,0.044,49,reviewed,us,us
 2023-02-19T11:59:33.320Z,62.3973,-152.0513,99.4,1.4,ml,,,,0.57,ak,ak0232avrt08,2023-02-19T19:45:33.511Z,"56 km NW of Skwentna, Alaska",earthquake,,1,,,reviewed,ak,ak
-2023-02-19T11:41:42.408Z,32.7456665,-100.6658489,7.996704102,2.9,ml,26,70,0.089394826,0.3,tx,tx2023dmku,2023-02-20T05:54:01.663Z,"15 km NE of Hermleigh, Texas",earthquake,1.165498798,1.6901858940000003,0.2,19,reviewed,tx,tx
