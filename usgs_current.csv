@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T20:21:00.870Z,38.8474998,-122.8178329,1.57,0.82,md,12,91,0.008347,0.01,nc,nc73849091,2023-02-20T20:33:11.678Z,"9km WNW of Cobb, CA",earthquake,0.28,0.64,0.18,13,automatic,nc,nc
 2023-02-20T20:13:51.210Z,-4.3832,102.1932,55.423,4.9,mb,70,61,0.761,1.2,us,us6000jqe3,2023-02-20T20:51:19.040Z,"64 km S of Bengkulu, Indonesia",earthquake,7.48,5.564,0.065,75,reviewed,us,us
 2023-02-20T20:06:48.620Z,35.3903333,-118.6355,4.31,1.54,ml,30,65,0.1361,0.19,ci,ci40417016,2023-02-21T15:02:18.890Z,"26km SSW of Bodfish, CA",earthquake,0.27,1.13,0.194,26,reviewed,ci,ci
-2023-02-20T19:57:49.070Z,33.028,-116.3485,11.34,0.85,ml,20,88,0.07659,0.2,ci,ci40417008,2023-02-20T20:01:29.683Z,"24km WSW of Ocotillo Wells, CA",earthquake,0.37,1.18,0.132,12,automatic,ci,ci
-2023-02-20T19:53:32.912Z,61.659,-147.0457,21.8,1.8,ml,,,,0.67,ak,ak0232co1d63,2023-02-20T19:55:22.228Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
