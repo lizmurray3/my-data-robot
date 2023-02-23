@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-23T10:26:26.760Z,38.8336678,-122.807663,2.22,1.7,md,28,48,0.01043,0.02,nc,nc73850606,2023-02-23T10:28:00.987Z,"7km W of Cobb, CA",earthquake,0.19,0.35,0.13,32,automatic,nc,nc
-2023-02-23T10:23:25.360Z,38.8125,-122.8291702,1.58,0.75,md,11,61,0.003627,0.02,nc,nc73850601,2023-02-23T10:25:02.069Z,"7km WNW of The Geysers, CA",earthquake,0.27,0.52,0.11,11,automatic,nc,nc
+2023-02-23T10:26:26.760Z,38.8336678,-122.807663,2.22,1.7,md,28,48,0.01043,0.02,nc,nc73850606,2023-02-23T10:41:11.073Z,"7km W of Cobb, CA",earthquake,0.19,0.35,0.13,32,automatic,nc,nc
+2023-02-23T10:23:38.907Z,-33.9235,-73.2001,26.783,5.5,mww,80,51,1.347,1.12,us,us6000jqzy,2023-02-23T10:38:44.040Z,"151 km WSW of San Antonio, Chile",earthquake,4.79,4.205,0.041,58,reviewed,us,us
+2023-02-23T10:23:25.360Z,38.8125,-122.8291702,1.58,0.75,md,11,61,0.003627,0.02,nc,nc73850601,2023-02-23T10:40:16.068Z,"7km WNW of The Geysers, CA",earthquake,0.27,0.52,0.11,11,automatic,nc,nc
 2023-02-23T10:15:30.490Z,32.9158333,-116.2426667,8.13,0.98,ml,17,83,0.06404,0.16,ci,ci40417992,2023-02-23T10:19:16.823Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.34,0.73,0.059,6,automatic,ci,ci
 2023-02-23T09:55:54.780Z,19.2266674041748,-155.418670654297,32.1399993896484,2.06999993,md,27,149,,0.109999999,hv,hv73329257,2023-02-23T09:59:11.320Z,"6 km ENE of Pāhala, Hawaii",earthquake,1.06,0.910000026,0.639999986,8,automatic,hv,hv
 2023-02-23T09:34:50.260Z,19.1591663360596,-155.486328125,31.0499992370605,2.3499999,md,34,125,,0.129999995,hv,hv73329252,2023-02-23T09:38:10.800Z,"Hawaii region, Hawaii",earthquake,0.64,0.939999998,1.52999997,19,automatic,hv,hv
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T10:55:57.971Z,39.7754,-120.7211,0,0.3,ml,3,287.92,0.292,0.0962,nn,nn00856293,2023-02-23T02:03:08.258Z,"2 km NNW of Plumas Eureka (historical), California",earthquake,,0,0,1,reviewed,nn,nn
 2023-02-22T10:46:44.300Z,35.9685,-120.527,7.02,0.77,md,19,85,0.02082,0.07,nc,nc73850026,2023-02-23T01:24:18.644Z,"12km NW of Parkfield, CA",earthquake,0.34,0.31,0.069,8,reviewed,nc,nc
 2023-02-22T10:46:05.950Z,38.8424988,-122.8773346,2.51,1.04,md,13,91,0.006408,0.02,nc,nc73850021,2023-02-22T12:23:16.055Z,"13km NW of The Geysers, CA",earthquake,0.3,0.6,0.16,15,automatic,nc,nc
-2023-02-22T10:33:23.020Z,33.02,-116.3491667,10.34,1.28,ml,43,112,0.07056,0.2,ci,ci40417728,2023-02-22T15:53:08.242Z,"24km ESE of Julian, CA",earthquake,0.29,0.48,0.174,13,reviewed,ci,ci
