@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-25T10:03:01.440Z,38.8284988,-122.7866669,4.16,0.32,md,8,82,0.0103,0.03,nc,nc73851541,2023-02-25T10:04:38.676Z,"6km W of Cobb, CA",earthquake,0.89,1.8,0.15,7,automatic,nc,nc
 2023-02-25T09:29:08.330Z,38.8596649,-122.8030014,1.18,0.82,md,7,148,0.006631,0.02,nc,nc73851531,2023-02-25T09:47:14.079Z,"8km WNW of Cobb, CA",earthquake,0.44,0.81,0.19,10,automatic,nc,nc
 2023-02-25T09:17:38.893Z,59.044,-151.1641,27.6,2.4,ml,,,,0.41,ak,ak0232krk29t,2023-02-25T09:20:56.237Z,"51 km SE of Port Graham, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-25T09:15:46.830Z,33.7373333,-116.0961667,1.57,1.29,ml,24,90,0.08786,0.21,ci,ci40418528,2023-02-25T09:19:31.373Z,"10km NE of Coachella, CA",earthquake,0.26,0.52,0.099,28,automatic,ci,ci
@@ -68,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T00:15:35.292Z,57.4259,-156.2395,248,1.9,ml,,,,0.53,ak,ak0232km6q49,2023-02-25T00:18:05.437Z,"70 km E of Ugashik, Alaska",earthquake,,18.1,,,automatic,ak,ak
 2023-02-25T00:05:01.935Z,56.9321,-157.8162,9.1,2.2,ml,,,,0.37,ak,ak0232km4exb,2023-02-25T00:16:22.695Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-02-25T00:00:08.680Z,32.621666,-117.0374985,15.36,1.33,ml,13,177,0.1342,0.26,ci,ci40418440,2023-02-25T00:02:13.950Z,"1km SE of Chula Vista, CA",earthquake,1.17,1.34,0.176,3,automatic,ci,ci
-2023-02-24T23:59:40.665Z,51.8565,-3.0961,10.122,3.4,ml,16,139,2.438,0.33,us,us6000jrh6,2023-02-25T09:50:19.728Z,"2 km E of Crickhowell, United Kingdom",earthquake,4.83,7.5,0.148,6,reviewed,us,us
+2023-02-24T23:59:40.665Z,51.8565,-3.0961,10.122,3.4,ml,16,139,2.438,0.33,us,us6000jrh6,2023-02-25T10:10:55.223Z,"2 km E of Crickhowell, United Kingdom",earthquake,4.83,7.5,0.148,6,reviewed,us,us
 2023-02-24T23:54:16.646Z,62.8354,-143.5535,3.3,2,ml,,,,1.05,ak,ak0232jcko0w,2023-02-24T23:57:51.843Z,"14 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-24T23:36:14.560Z,19.93,-155.352833333333,8.2,1.86,md,24,261,,0.25,hv,hv73330312,2023-02-25T00:08:03.040Z,"Hawaii region, Hawaii",earthquake,0.99,0.63,0.20211936536834,8,reviewed,hv,hv
 2023-02-24T23:35:49.286Z,59.1602,-152.5603,61.5,2.3,ml,,,,0.43,ak,ak0232jcgnxs,2023-02-25T00:00:53.040Z,"42 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -206,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T10:28:53.930Z,58.1851666666667,-155.318166666667,1.8,-0.16,ml,7,157,,0.08,av,av91771996,2023-02-25T01:37:32.710Z,"85 km NW of Karluk, Alaska",earthquake,0.32,0.43,0.247304856488329,6,reviewed,av,av
 2023-02-24T10:26:25.890Z,38.4803333,-112.841,-0.23,1.18,ml,13,112,0.01472,0.09,uu,uu60532101,2023-02-24T15:42:31.310Z,"17 km ENE of Milford, Utah",earthquake,0.37,0.15,0.009,2,reviewed,uu,uu
 2023-02-24T10:12:54.961Z,31.68495713,-104.3839586,7.468383789,2.118925714,mlv,32,80,0.05009342674,0.3,tx,tx2023dvlk,2023-02-24T17:30:22.109Z,"54 km S of Whites City, New Mexico",earthquake,0.6892072139999998,0.8150914551000001,0.1900317956,19,reviewed,tx,tx
-2023-02-24T10:08:08.910Z,33.5331667,-116.7275,4.37,0.73,ml,23,48,0.03317,0.11,ci,ci40418272,2023-02-24T18:32:55.228Z,"6km WSW of Anza, CA",earthquake,0.17,0.31,0.07,12,reviewed,ci,ci
-2023-02-24T10:06:08.800Z,58.1768333333333,-155.2805,-0.3,-0.45,ml,4,158,,0.03,av,av91771961,2023-02-25T01:32:18.840Z,"83 km NW of Karluk, Alaska",earthquake,0.4,3.74,0.257144621685339,4,reviewed,av,av
