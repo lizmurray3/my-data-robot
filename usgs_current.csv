@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-26T04:34:37.180Z,38.8233337,-122.7955017,0.9,0.46,md,8,91,0.01138,0.01,nc,nc73851841,2023-02-26T04:46:11.150Z,"6km NNW of The Geysers, CA",earthquake,0.39,0.86,0.32,8,automatic,nc,nc
+2023-02-26T04:48:37.640Z,34.4648333,-117.9511667,8.65,0.97,ml,22,42,0.01624,0.22,ci,ci40418744,2023-02-26T04:52:16.248Z,"6km SW of Pearblossom, CA",earthquake,0.37,0.65,0.261,20,automatic,ci,ci
+2023-02-26T04:34:37.180Z,38.8233337,-122.7955017,0.9,0.46,md,8,91,0.01138,0.01,nc,nc73851841,2023-02-26T04:52:14.194Z,"6km NNW of The Geysers, CA",earthquake,0.39,0.86,0.32,8,automatic,nc,nc
 2023-02-26T03:53:02.135Z,5.5632,126.4766,10,4.8,mb,22,121,1.742,0.7,us,us6000jrn6,2023-02-26T04:11:03.040Z,"94 km SSE of Pondaguitan, Philippines",earthquake,6.45,1.885,0.139,19,reviewed,us,us
 2023-02-26T03:45:19.890Z,34.0168333,-116.7683333,16.25,1.07,ml,23,90,0.1023,0.18,ci,ci40418736,2023-02-26T03:49:06.657Z,"11km N of Cabazon, CA",earthquake,0.39,0.76,0.156,28,automatic,ci,ci
 2023-02-26T03:21:19.743Z,-11.2993,165.7764,10,4.9,mb,24,117,4.35,0.57,us,us6000jrn4,2023-02-26T03:39:31.040Z,"Santa Cruz Islands",earthquake,10.65,1.92,0.11,26,reviewed,us,us
