@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-26T02:24:23.500Z,38.8163338,-122.8068314,3.12,0.78,md,15,48,0.007492,0.02,nc,nc73851826,2023-02-26T02:38:11.390Z,"6km NW of The Geysers, CA",earthquake,0.29,1.17,0.14,18,automatic,nc,nc
+2023-02-26T03:00:28.260Z,36.1856667,-118.0501667,3.08,1.62,ml,11,90,0.1721,0.16,ci,ci40418728,2023-02-26T03:04:15.826Z,"11km SSW of Olancha, CA",earthquake,0.44,2.41,0.277,17,automatic,ci,ci
+2023-02-26T02:26:31.093Z,36.0612,36.0298,10,4.4,mb,36,119,1.459,0.77,us,us6000jrn1,2023-02-26T02:47:21.040Z,"7 km SW of Büyükçat, Turkey",earthquake,6.41,1.926,0.144,14,reviewed,us,us
+2023-02-26T02:24:23.500Z,38.8163338,-122.8068314,3.12,0.78,md,15,48,0.007492,0.02,nc,nc73851826,2023-02-26T02:48:14.443Z,"6km NW of The Geysers, CA",earthquake,0.29,1.17,0.14,18,automatic,nc,nc
 2023-02-26T02:18:41.150Z,38.8344994,-122.8168335,1.6,0.67,md,10,61,0.01228,0.02,nc,nc73851821,2023-02-26T02:36:12.377Z,"8km W of Cobb, CA",earthquake,0.28,0.77,0.4,12,automatic,nc,nc
 2023-02-26T01:58:38.569Z,65.2591,-141.5063,17,2.7,ml,,,,0.83,ak,ak0232makq9c,2023-02-26T02:07:30.040Z,"54 km NNW of Eagle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-26T01:53:35.640Z,19.2411670684814,-155.380004882812,34.0800018310547,1.75,md,28,162,,0.119999997,hv,hv73330742,2023-02-26T01:56:43.340Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.93,0.639999986,1.58000004,6,automatic,hv,hv
-2023-02-26T01:38:58.650Z,38.8170013,-122.8050003,1.48,0.76,md,13,82,0.007515,0.03,nc,nc73851816,2023-02-26T01:57:13.157Z,"6km NW of The Geysers, CA",earthquake,0.3,0.61,0.38,17,automatic,nc,nc
+2023-02-26T01:38:58.650Z,38.8170013,-122.8050003,1.48,0.76,md,13,82,0.007515,0.03,nc,nc73851816,2023-02-26T03:04:10.522Z,"6km NW of The Geysers, CA",earthquake,0.3,0.61,0.38,17,automatic,nc,nc
 2023-02-26T01:26:38.640Z,19.0858333333333,-66.4761666666667,36.2,3.31,md,17,274,0.6076,0.32,pr,pr71397428,2023-02-26T01:54:39.180Z,"69 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.43,6.26,0.172068078256293,6,reviewed,pr,pr
-2023-02-26T01:08:01.550Z,35.7176666,-121.0634995,5.52,1.92,md,18,90,0.08144,0.04,nc,nc73851811,2023-02-26T02:23:12.295Z,"14km NE of San Simeon, CA",earthquake,0.43,0.89,0.12,15,automatic,nc,nc
+2023-02-26T01:08:01.550Z,35.7176666,-121.0634995,5.52,1.92,md,18,90,0.08144,0.04,nc,nc73851811,2023-02-26T02:54:16.473Z,"14km NE of San Simeon, CA",earthquake,0.43,0.89,0.12,15,automatic,nc,nc
 2023-02-26T00:55:18.270Z,19.861665725708,-154.954833984375,13.4499998092651,1.86000001,md,39,275,,0.270000011,hv,hv73330727,2023-02-26T00:59:45.650Z,"16 km E of Pepeekeo, Hawaii",earthquake,4.37,6.4000001,0.930000007,8,automatic,hv,hv
 2023-02-26T00:47:10.927Z,63.0786,-150.3639,97.1,1.8,ml,,,,0.4,ak,ak0232m9wvn8,2023-02-26T00:49:38.726Z,"68 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-26T00:31:02.080Z,17.912,-66.969,11,3.45,md,19,213,0.0946,0.12,pr,pr2023057002,2023-02-26T01:03:21.242Z,"Puerto Rico region",earthquake,0.5,0.35,0.19,13,reviewed,pr,pr
@@ -161,5 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T03:49:13.589Z,34.8997,140.1181,70.371,4.6,mb,20,172,1.608,0.46,us,us6000jrh0,2023-02-25T04:26:07.040Z,"21 km S of Kamogawa, Japan",earthquake,5.6,9.77,0.207,7,reviewed,us,us
 2023-02-25T03:36:22.046Z,57.8431,-154.9627,201,0.3,ml,,,,0.59,ak,ak0232ko3jwa,2023-02-25T03:39:17.352Z,"Kodiak Island region, Alaska",earthquake,,7.4,,,automatic,ak,ak
 2023-02-25T03:35:26.583Z,18.2844,-106.7892,10,4.3,mb,37,213,5.435,1.24,us,us6000jrgx,2023-02-25T04:00:15.040Z,"227 km WSW of Emiliano Zapata, Mexico",earthquake,11.77,1.988,0.099,30,reviewed,us,us
-2023-02-25T03:07:21.300Z,18.0263333333333,-66.8616666666667,18.12,2.08,md,6,124,0.05368,0.12,pr,pr71397308,2023-02-25T03:22:13.230Z,"1 km SW of Yauco, Puerto Rico",earthquake,0.63,0.99,0.0319701200695155,4,reviewed,pr,pr
-2023-02-25T02:44:53.030Z,38.8231659,-122.783165,3.56,0.21,md,6,134,0.01266,0.04,nc,nc73851391,2023-02-25T04:59:18.413Z,"5km W of Cobb, CA",earthquake,1.73,4.06,0.08,8,automatic,nc,nc
