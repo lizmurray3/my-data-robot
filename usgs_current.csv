@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-26T08:57:38.618Z,59.4772,-151.4414,29.2,1.7,ml,,,,0.32,ak,ak0232meqjs5,2023-02-26T08:59:35.622Z,"11 km E of Seldovia Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-26T08:49:42.720Z,38.8199997,-122.8095016,3.38,0.63,md,11,87,0.00342,0.02,nc,nc73851911,2023-02-26T08:51:16.600Z,"7km NW of The Geysers, CA",earthquake,0.46,1.57,0.43,13,automatic,nc,nc
+2023-02-26T08:44:53.552Z,59.8641,-152.8724,98.2,1.6,ml,,,,0.54,ak,ak0232mensmj,2023-02-26T08:57:19.960Z,"59 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-26T08:13:09.210Z,40.3901672,-124.8635025,6.86,2.85,md,19,260,0.4105,0.4,nc,nc73851906,2023-02-26T08:41:40.714Z,"50km W of Petrolia, CA",earthquake,6.14,9.17,0.14,5,automatic,nc,nc
 2023-02-26T07:52:05.400Z,38.8328323,-122.8208313,2.2,0.77,md,8,136,0.01263,0.01,nc,nc73851901,2023-02-26T08:38:15.563Z,"8km NW of The Geysers, CA",earthquake,0.53,1.22,0.37,9,automatic,nc,nc
 2023-02-26T07:43:15.310Z,36.5965004,-121.1911697,4.96,1.43,md,17,126,0.02518,0.06,nc,nc73851891,2023-02-26T08:14:15.445Z,"8km NNW of Pinnacles, CA",earthquake,0.37,0.59,0.34,10,automatic,nc,nc
@@ -154,5 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T09:29:08.330Z,38.8596649,-122.8030014,1.18,0.82,md,7,148,0.006631,0.02,nc,nc73851531,2023-02-25T11:53:15.834Z,"8km WNW of Cobb, CA",earthquake,0.44,0.81,0.19,10,automatic,nc,nc
 2023-02-25T09:17:38.893Z,59.044,-151.1641,27.6,2.4,ml,,,,0.41,ak,ak0232krk29t,2023-02-25T09:20:56.237Z,"51 km SE of Port Graham, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-25T09:15:46.830Z,33.7373333,-116.0961667,1.57,1.29,ml,24,90,0.08786,0.21,ci,ci40418528,2023-02-25T09:19:31.373Z,"10km NE of Coachella, CA",earthquake,0.26,0.52,0.099,28,automatic,ci,ci
-2023-02-25T08:58:40.483Z,38.367,37.44,8.354,4.1,mb,24,58,0.804,0.81,us,us6000jril,2023-02-25T12:31:29.040Z,"20 km SSW of Darende, Turkey",earthquake,1.79,5.558,0.233,5,reviewed,us,us
-2023-02-25T08:55:49.317Z,61.7125,-148.4657,15.2,1.3,ml,,,,0.59,ak,ak0232kr6sdb,2023-02-25T08:58:29.079Z,"9 km S of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
