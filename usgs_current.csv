@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T23:34:23.130Z,33.494,-116.7825,4.22,0.68,ml,19,47,0.02362,0.16,ci,ci40419032,2023-02-26T23:37:54.028Z,"10km NE of Aguanga, CA",earthquake,0.31,0.47,0.131,14,automatic,ci,ci
 2023-02-26T23:33:18.143Z,18.7202,145.5187,210.671,4.6,mb,75,66,5.14,0.86,us,us6000jrt6,2023-02-27T04:06:03.040Z,"Pagan region, Northern Mariana Islands",earthquake,10.4,6.87,0.041,176,reviewed,us,us
 2023-02-26T23:32:19.425Z,-22.7234,-66.1307,265.266,4.1,mb,22,101,3.026,0.72,us,us6000jrt4,2023-02-27T03:49:52.040Z,"44 km W of Abra Pampa, Argentina",earthquake,13.58,23.291,0.234,5,reviewed,us,us
-2023-02-26T23:30:22.439Z,63.0795,-151.508,6.6,1.5,ml,,,,0.27,ak,ak0232mni89v,2023-02-26T23:31:52.807Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
