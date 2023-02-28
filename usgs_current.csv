@@ -140,6 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T01:20:25.460Z,33.9613333,-116.7781667,13.63,0.96,ml,24,72,0.07763,0.23,ci,ci40419400,2023-02-28T01:27:20.819Z,"5km N of Cabazon, CA",earthquake,0.37,0.9,0.255,22,automatic,ci,ci
 2023-02-28T00:48:06.156Z,58.1059,-155.4332,11,0.4,ml,,,,0.75,ak,ak0232pkzrzb,2023-02-28T00:50:03.113Z,"83 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-28T00:45:42.580Z,38.821167,-122.8526688,2.26,0.27,md,11,108,0.007166,0.02,nc,nc73852626,2023-02-28T01:19:16.136Z,"10km WNW of The Geysers, CA",earthquake,0.36,0.98,0.15,10,automatic,nc,nc
+2023-02-28T00:35:28.747Z,31.60558712,-103.9701308,9.062280273,2.069810608,mlv,22,60,0.04305177457,0.2,tx,tx2023ecai,2023-02-28T18:46:33.099Z,"36 km NNW of Toyah, Texas",earthquake,0.5849810006,0.6999702748999999,0.1908076151,13,reviewed,tx,tx
 2023-02-28T00:35:28.668Z,31.60684713,-103.9713467,9.537878418,2.2,ml,29,58,0.004412218608,0.1,tx,tx2023ecaj,2023-02-28T18:02:05.687Z,"36 km NNW of Toyah, Texas",earthquake,0.5296703523,0.4469359846,0.1,15,reviewed,tx,tx
 2023-02-28T00:33:30.974Z,64.0411,-148.7979,0,1.8,ml,,,,1.19,ak,ak0232pkwm5l,2023-02-28T00:35:21.499Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-28T00:25:55.892Z,27.9303,139.5216,498.668,4,mb,45,136,5.174,0.41,us,us7000jg51,2023-02-28T00:58:02.040Z,"Bonin Islands, Japan region",earthquake,12,10.13,0.102,26,reviewed,us,us
@@ -193,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T18:56:09.265Z,38.5655,142.079,48.169,4.6,mb,54,142,2.355,0.72,us,us7000jg2q,2023-02-27T19:44:03.040Z,"near the east coast of Honshu, Japan",earthquake,9.13,7.534,0.072,58,reviewed,us,us
 2023-02-27T18:55:48.194Z,60.1057,-141.2367,8.8,2.6,ml,,,,1.14,ak,ak0232o87tmr,2023-02-27T19:37:02.040Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-27T18:54:38.360Z,60.0474,-141.1933,0.8,2.3,ml,,,,0.4,ak,ak0232o87l5o,2023-02-27T18:56:41.365Z,"99 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-27T18:46:06.627Z,12.6515,-87.9497,77.254,5.3,mb,61,134,0.908,1.02,us,us7000jg2l,2023-02-28T16:16:48.276Z,"near the coast of Nicaragua",earthquake,5.04,6.323,0.022,672,reviewed,us,us
-2023-02-27T18:45:46.630Z,19.1860008239746,-155.488327026367,34.8400001525879,1.87,md,25,157,,0.119999997,hv,hv73331497,2023-02-27T18:49:01.140Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.92,1.23000002,1.84000003,6,automatic,hv,hv
-2023-02-27T18:44:33.576Z,31.71134751,-104.2743299,8.959448242,2.2,ml,38,55,0.04061792621,0.3,tx,tx2023ebot,2023-02-28T18:02:32.018Z,"52 km S of Whites City, New Mexico",earthquake,0.6788395745,0.7230936762,0.1,14,reviewed,tx,tx
