@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-02T04:23:16.250Z,17.9286666666667,-65.4388333333333,13.83,2.98,md,12,169,0.1996,0.14,pr,pr71397948,2023-03-02T04:38:58.080Z,"18 km S of Esperanza, Puerto Rico",earthquake,0.43,0.46,0.094707699479192,5,reviewed,pr,pr
 2023-03-02T04:18:40.380Z,38.8144989,-122.7401657,1.08,1.35,md,9,135,0.02062,0.04,nc,nc73854246,2023-03-02T04:37:37.393Z,"2km WSW of Cobb, CA",earthquake,0.36,0.79,0.42,11,automatic,nc,nc
 2023-03-02T04:11:00.460Z,38.8151665,-122.7415009,1.86,0.72,md,8,135,0.02033,0.03,nc,nc73854241,2023-03-02T04:27:39.324Z,"2km WSW of Cobb, CA",earthquake,0.38,1.22,0.19,8,automatic,nc,nc
 2023-03-02T03:55:13.554Z,66.0849,-150.441,4.3,1.9,ml,,,,0.53,ak,ak0232sxwaf3,2023-03-02T03:57:49.987Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -236,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T05:03:06.304Z,41.4468,-118.9101,0,1.7,ml,5,194.7,1.008,0.1136,nn,nn00856489,2023-03-02T01:04:11.313Z,"64 km SSW of Denio, Nevada",earthquake,,0,0.75,3,reviewed,nn,nn
 2023-03-01T04:58:43.520Z,33.3686667,-116.8873333,7.5,1.05,ml,42,36,0.1146,0.16,ci,ci40419736,2023-03-01T17:23:22.721Z,"3km WNW of Palomar Observatory, CA",earthquake,0.16,1.07,0.141,17,reviewed,ci,ci
 2023-03-01T04:49:47.980Z,38.7988319,-122.7488327,1.01,0.72,md,9,179,0.03103,0.03,nc,nc73853346,2023-03-01T07:01:13.905Z,"2km NNE of The Geysers, CA",earthquake,0.39,1.42,0.34,8,automatic,nc,nc
-2023-03-01T04:40:13.160Z,38.8440018,-122.8776703,2.18,0.93,md,12,94,0.007327,0.02,nc,nc73853341,2023-03-01T06:31:12.695Z,"13km ENE of Cloverdale, CA",earthquake,0.35,0.51,0.3,13,automatic,nc,nc
