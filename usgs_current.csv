@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-02T13:48:11.820Z,38.8344994,-122.8168335,1.43,1.46,md,25,59,0.01228,0.02,nc,nc73854386,2023-03-02T13:49:47.404Z,"8km W of Cobb, CA",earthquake,0.18,0.32,0.23,25,automatic,nc,nc
+2023-03-02T13:44:56.300Z,38.8349991,-122.8184967,1.72,0.68,md,11,106,0.01332,0.02,nc,nc73854381,2023-03-02T13:46:32.275Z,"8km NW of The Geysers, CA",earthquake,0.3,0.66,0.23,11,automatic,nc,nc
 2023-03-02T13:27:44.720Z,59.8805,-153.3733,134,2.2,ml,,,,0.28,ak,ak0232t3oors,2023-03-02T13:29:32.446Z,"42 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-02T12:48:16.780Z,38.8208351,-122.8111649,1.86,0.76,md,22,41,0.002694,0.02,nc,nc73854376,2023-03-02T13:05:18.423Z,"7km NW of The Geysers, CA",earthquake,0.18,0.43,0.1,21,automatic,nc,nc
 2023-03-02T12:37:24.710Z,33.9588333,-116.7356667,16.47,1.53,ml,45,38,0.06036,0.18,ci,ci40420104,2023-03-02T12:48:24.330Z,"7km NE of Cabazon, CA",earthquake,0.22,0.65,0.124,27,automatic,ci,ci
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T08:56:45.489Z,1.0635,120.2021,36.013,4.5,mb,26,106,0.581,0.55,us,us7000jgse,2023-03-02T09:18:02.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.55,3.957,0.131,25,reviewed,us,us
 2023-03-02T08:51:51.123Z,33.2858,139.481,8.581,4.4,mb,26,138,0.327,0.39,us,us7000jgsf,2023-03-02T09:28:39.040Z,"162 km SSE of Shimoda, Japan",earthquake,2.14,6.251,0.143,14,reviewed,us,us
 2023-03-02T08:23:58.916Z,2.4582,128.2838,75.46,4.6,mb,41,109,1.909,0.35,us,us7000jgsd,2023-03-02T09:08:26.040Z,"86 km NNE of Tobelo, Indonesia",earthquake,10.7,8.9,0.081,45,reviewed,us,us
-2023-03-02T08:13:58.769Z,63.7955,-153.3652,0.1,2.2,ml,,,,1,ak,ak0232t0mjt0,2023-03-02T08:16:12.089Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-02T08:13:58.769Z,63.7955,-153.3652,0.1,2.2,ml,,,,1,ak,ak0232t0mjt0,2023-03-02T08:16:12.089Z,"52 km W of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-02T08:12:55.635Z,28.3004,87.3941,10,4,mb,26,101,0.617,0.64,us,us7000jgsb,2023-03-02T08:52:25.040Z,"western Xizang",earthquake,2.87,1.933,0.125,17,reviewed,us,us
 2023-03-02T07:26:36.149Z,63.8993,-153.1349,0,2.4,ml,,,,1.01,ak,ak0232t03uri,2023-03-02T07:59:18.040Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-02T07:23:40.157Z,14.0599,-92.6197,28.066,4.3,mb,35,191,2.11,0.42,us,us7000jgs2,2023-03-02T07:50:06.040Z,"near the coast of Chiapas, Mexico",earthquake,7.36,9.46,0.063,70,reviewed,us,us
@@ -144,5 +146,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T14:09:02.870Z,38.8344994,-122.8184967,1.43,0.23,md,8,80,0.01289,0.01,nc,nc73853981,2023-03-01T16:27:16.027Z,"8km NW of The Geysers, CA",earthquake,0.45,1.23,0.15,9,automatic,nc,nc
 2023-03-01T13:59:22.322Z,27.4185,142.7435,17.451,5,mb,97,73,6.217,0.63,us,us7000jgk0,2023-03-01T14:42:45.040Z,"Bonin Islands, Japan region",earthquake,8.6,4.445,0.054,113,reviewed,us,us
 2023-03-01T13:56:18.436Z,60.2504,-152.6178,103.9,1.5,ml,,,,0.29,ak,ak0232rgbi0j,2023-03-01T13:57:55.305Z,"57 km WNW of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-03-01T13:46:28.370Z,38.8014984,-122.7748337,0.22,0.75,md,7,138,0.01185,0.03,nc,nc73853976,2023-03-01T13:48:02.606Z,"3km NNW of The Geysers, CA",earthquake,0.33,0.87,0.13,7,automatic,nc,nc
-2023-03-01T13:45:14.740Z,38.8003349,-122.7740021,0.62,0.9,md,14,79,0.01117,0.03,nc,nc73853971,2023-03-01T15:58:11.838Z,"3km NNW of The Geysers, CA",earthquake,0.25,0.44,0.18,16,automatic,nc,nc
