@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T11:12:06.585Z,-6.1037,149.8546,44.07,4.7,mb,30,64,2.983,0.89,us,us7000jgja,2023-03-01T11:30:00.040Z,"35 km ENE of Kandrian, Papua New Guinea",earthquake,9.83,8.108,0.106,27,reviewed,us,us
 2023-03-01T11:09:01.996Z,58.1697,-155.364,5.6,1.2,ml,,,,0.66,ak,ak0232reuivr,2023-03-01T11:10:48.668Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-03-01T11:08:59.620Z,38.8393326,-122.8001633,1.57,0.79,md,9,128,0.007724,0.01,nc,nc73853871,2023-03-01T11:39:16.083Z,"7km WNW of Cobb, CA",earthquake,0.45,1.16,0.41,10,automatic,nc,nc
-2023-03-01T11:03:31.260Z,39.3295,-123.2428333,6.96,1.52,md,12,90,0.09933,0.06,nc,nc73853866,2023-03-02T00:50:13.000Z,"8km NNW of Redwood Valley, CA",earthquake,0.29,1.46,0.185,16,reviewed,nc,nc
+2023-03-01T11:03:31.260Z,39.3295,-123.2428333,6.96,1.52,md,12,90,0.09933,0.06,nc,nc73853866,2023-03-02T03:41:12.024Z,"8km NNW of Redwood Valley, CA",earthquake,0.29,1.46,0.185,16,reviewed,nc,nc
 2023-03-01T10:58:52.350Z,19.3306666666667,-155.148333333333,4.71,0.96,md,20,85,,0.11,hv,hv73332112,2023-03-01T18:24:39.710Z,"Island of Hawaii, Hawaii",earthquake,0.31,0.94,0.167115263139326,6,reviewed,hv,hv
 2023-03-01T10:52:36.392Z,41.3404,44.0587,7.11,4.3,mb,15,74,0.456,0.85,us,us7000jgj7,2023-03-01T11:36:03.040Z,"20 km NW of Metsavan, Armenia",earthquake,4.05,5.779,0.237,5,reviewed,us,us
 2023-03-01T10:50:39.420Z,38.8170013,-122.795166,0.65,0.93,md,7,106,0.009021,0.03,nc,nc73853861,2023-03-01T11:28:15.009Z,"6km NW of The Geysers, CA",earthquake,0.48,0.42,0.32,8,automatic,nc,nc
@@ -242,8 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T04:08:14.938Z,38.1766,-117.8115,12.5,1.9,ml,6,138.4,0.122,0.0826,nn,nn00856475,2023-03-02T01:04:03.183Z,"35 km SE of Mina, Nevada",earthquake,,1.6,0.32,5,reviewed,nn,nn
 2023-03-01T04:06:56.840Z,18.0548333333333,-66.2443333333333,15.89,2.03,md,7,145,0.1047,0.17,pr,pr71397843,2023-03-01T06:22:54.280Z,"1 km SSW of Vázquez, Puerto Rico",earthquake,0.65,0.79,0.196833005910144,6,reviewed,pr,pr
 2023-03-01T04:04:16.074Z,56.896,-158.0442,3.2,3.1,ml,,,,0.46,ak,ak0232rang5r,2023-03-01T21:42:14.490Z,"36 km E of Port Heiden, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-01T03:46:33.247Z,51.8625,-177.9511,11.181,3.2,ml,25,107,0.042,0.53,us,us7000jgf5,2023-03-01T05:31:02.040Z,"90 km W of Adak, Alaska",earthquake,1.78,1.169,0.115,10,reviewed,us,us
-2023-03-01T03:42:29.240Z,38.8143349,-122.7955017,2.26,1.1,md,19,70,0.006359,0.02,nc,nc73853326,2023-03-01T06:06:13.547Z,"5km NW of The Geysers, CA",earthquake,0.24,0.49,0.23,20,automatic,nc,nc
-2023-03-01T03:41:24.380Z,38.8358345,-122.7983322,2.05,0.27,md,7,97,0.006748,0.01,nc,nc73853321,2023-03-01T03:58:15.805Z,"7km WNW of Cobb, CA",earthquake,0.5,1.44,0.15,7,automatic,nc,nc
-2023-03-01T03:41:00.661Z,31.16032345,-103.7288793,0.8871337891,2.8,ml,22,72,0.03049209389,0.2,tx,tx2023eeca,2023-03-01T19:08:59.551Z,"18 km SSE of Toyah, Texas",earthquake,0.9028550342,2.608081688,0.2,24,reviewed,tx,tx
-2023-03-01T03:38:50.640Z,19.067,-65.4031,42,3.47,md,15,268,0.769,0.48,pr,pr2023060001,2023-03-01T05:22:00.040Z,"83 km NNE of Luquillo, Puerto Rico",earthquake,4.34,13.76,0.09,10,reviewed,pr,pr
