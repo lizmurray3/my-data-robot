@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-03T09:12:04.254Z,63.2788,-150.6421,119.4,1.6,ml,,,,0.13,ak,ak0232uoqzzd,2023-03-03T09:13:54.302Z,"61 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-03-03T08:57:55.689Z,36.4767,-116.5984,0.7,0.7,ml,14,128.13,0.113,0.2723,nn,nn00856554,2023-03-03T08:58:45.864Z,"23 km E of Furnace Creek, California",earthquake,,16,0.92,10,automatic,nn,nn
 2023-03-03T08:43:29.587Z,64.6699,-149.1502,16.3,1.8,ml,,,,0.83,ak,ak0232uoc9iz,2023-03-03T08:46:04.971Z,"7 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-03T08:33:36.548Z,58.2496,-156.0142,142.3,4,ml,,,,0.58,ak,ak0232uoa4te,2023-03-03T08:54:31.040Z,"61 km SE of King Salmon, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-03-03T08:32:36.020Z,38.7944984,-122.7306671,0.82,1.03,md,12,98,0.0122,0.02,nc,nc73854881,2023-03-03T08:46:11.904Z,"3km NE of The Geysers, CA",earthquake,0.25,0.96,0.31,12,automatic,nc,nc
+2023-03-03T08:33:36.548Z,58.2496,-156.0142,142.3,4,ml,,,,0.58,ak,ak0232uoa4te,2023-03-03T08:54:54.932Z,"61 km SE of King Salmon, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-03-03T08:32:36.020Z,38.7944984,-122.7306671,0.82,1.03,md,12,98,0.0122,0.02,nc,nc73854881,2023-03-03T08:58:11.971Z,"3km NE of The Geysers, CA",earthquake,0.25,0.96,0.31,12,automatic,nc,nc
 2023-03-03T08:00:05.673Z,63.3096,-150.4766,124.3,2.2,ml,,,,0.34,ak,ak0232uo2zw7,2023-03-03T08:27:38.040Z,"67 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-03-03T07:57:55.910Z,38.8026657,-122.7696686,0.2,1.31,md,10,103,0.008042,0.02,nc,nc73854871,2023-03-03T08:34:11.842Z,"3km NNW of The Geysers, CA",earthquake,0.28,0.64,0.04,10,automatic,nc,nc
 2023-03-03T07:47:20.400Z,38.8338318,-122.8160019,1.71,0.33,md,8,80,0.0114,0.01,nc,nc73854866,2023-03-03T08:22:13.777Z,"8km NW of The Geysers, CA",earthquake,0.36,1.19,0.24,9,automatic,nc,nc
@@ -204,7 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T09:37:17.870Z,56.8771666666667,-158.176666666667,3.3,0.79,ml,4,203,,0.11,av,av91779336,2023-03-02T20:46:49.680Z,"28 km ESE of Port Heiden, Alaska",earthquake,0.88,0.63,0.0962598545571967,3,reviewed,av,av
 2023-03-02T09:35:09.840Z,33.4945,-116.7831667,4.75,0.66,ml,22,38,0.02289,0.15,ci,ci40420080,2023-03-02T16:45:41.930Z,"10km NE of Aguanga, CA",earthquake,0.21,0.39,0.125,5,reviewed,ci,ci
 2023-03-02T09:33:36.860Z,38.7816658,-122.6996689,11.9,0.96,md,6,229,0.029,0.01,nc,nc73854316,2023-03-02T11:16:13.793Z,"1km NW of Anderson Springs, CA",earthquake,1.79,0.83,0.45,5,automatic,nc,nc
-2023-03-02T09:09:37.904Z,37.2336,-104.5005,7.413,2.8,ml,15,71,0.119,0.78,us,us7000jgsg,2023-03-02T18:00:16.117Z,"Colorado",earthquake,1.95,6.121,0.066,30,reviewed,us,us
-2023-03-02T09:06:51.260Z,61.8178,-149.6923,35.3,1.7,ml,,,,0.5,ak,ak0232t16gti,2023-03-02T09:08:55.204Z,"19 km ENE of Willow, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2023-03-02T09:05:59.680Z,58.2428333333333,-155.0795,3.06,-0.07,ml,6,137,,0.08,av,av91779321,2023-03-02T20:43:01.580Z,"83 km NNW of Karluk, Alaska",earthquake,0.35,1.19,0.229612404307557,6,reviewed,av,av
-2023-03-02T08:56:45.489Z,1.0635,120.2021,36.013,4.5,mb,26,106,0.581,0.55,us,us7000jgse,2023-03-02T09:18:02.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.55,3.957,0.131,25,reviewed,us,us
