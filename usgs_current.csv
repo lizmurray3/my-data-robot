@@ -244,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T07:57:55.910Z,38.8026657,-122.7696686,0.2,1.31,md,10,103,0.008042,0.02,nc,nc73854871,2023-03-03T10:25:12.551Z,"3km NNW of The Geysers, CA",earthquake,0.28,0.64,0.04,10,automatic,nc,nc
 2023-03-03T07:56:04.690Z,56.8526666666667,-158.1825,1.76,0.15,ml,4,240,,0.21,av,av91091733,2023-03-03T19:59:34.990Z,"29 km ESE of Port Heiden, Alaska",earthquake,1.52,3.54,0.396725041417138,4,reviewed,av,av
 2023-03-03T07:54:48.690Z,56.8658333333333,-158.147833333333,2.11,1.2,ml,4,168,,0.16,av,av91780796,2023-03-03T19:44:30.520Z,"30 km ESE of Port Heiden, Alaska",earthquake,0.89,1.27,0.346953948387396,4,reviewed,av,av
-2023-03-03T07:47:20.400Z,38.8338318,-122.8160019,1.71,0.33,md,8,80,0.0114,0.01,nc,nc73854866,2023-03-03T09:44:10.266Z,"8km NW of The Geysers, CA",earthquake,0.36,1.19,0.24,9,automatic,nc,nc
-2023-03-03T07:40:49.570Z,38.9526667,-123.285,6.08,1.21,md,15,70,0.06049,0.07,nc,nc73854861,2023-03-03T23:20:13.304Z,"9km SE of Boonville, CA",earthquake,0.25,0.57,0.132,13,reviewed,nc,nc
