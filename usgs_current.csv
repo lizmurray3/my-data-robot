@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T19:13:13.250Z,38.824501,-122.8088303,1.27,0.76,md,14,43,0.001471,0.02,nc,nc73855431,2023-03-04T20:38:10.796Z,"7km NW of The Geysers, CA",earthquake,0.23,0.65,0.13,14,automatic,nc,nc
 2023-03-04T18:59:57.900Z,38.8008347,-122.7720032,1.02,1.07,md,10,88,0.009606,0.03,nc,nc73855426,2023-03-04T20:10:14.622Z,"3km NNW of The Geysers, CA",earthquake,0.36,0.73,0.09,11,automatic,nc,nc
 2023-03-04T18:54:29.487Z,-9.2205,124.0031,44.616,4.5,mb,13,99,0.592,0.81,us,us7000jhcz,2023-03-04T20:21:43.040Z,"Timor region",earthquake,4.56,12.602,0.312,3,reviewed,us,us
-2023-03-04T18:52:39.630Z,33.8621667,-118.2663333,20.45,2.34,ml,22,123,0.2895,0.3,ci,ci40420952,2023-03-04T21:07:04.308Z,"4km NNE of Carson, CA",earthquake,1.03,3.12,0.298,31,automatic,ci,ci
+2023-03-04T18:52:39.630Z,33.8621667,-118.2663333,20.45,2.34,ml,22,123,0.2895,0.3,ci,ci40420952,2023-03-04T21:17:56.759Z,"4km NNE of Carson, CA",earthquake,1.03,3.12,0.298,31,automatic,ci,ci
 2023-03-04T18:51:21.987Z,61.0006,-147.0178,23.3,1.7,ml,,,,0.45,ak,ak0232whvn7q,2023-03-04T18:55:45.223Z,"23 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-04T18:42:58.709Z,58.0918,-155.5686,19.3,1.1,ml,,,,0.49,ak,ak0232whtslq,2023-03-04T18:44:59.254Z,"Alaska Peninsula",earthquake,,1.8,,,automatic,ak,ak
 2023-03-04T18:34:39.770Z,33.4946667,-116.7806667,4.2,0.74,ml,20,55,0.02413,0.18,ci,ci40420944,2023-03-04T18:38:13.655Z,"10km NE of Aguanga, CA",earthquake,0.34,0.62,0.223,16,automatic,ci,ci
@@ -192,7 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T21:42:54.301Z,63.3252,-150.3373,6,1.6,ml,,,,0.71,ak,ak0232uw2ql2,2023-03-03T21:45:09.183Z,"69 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-03T21:28:20.110Z,19.1893329620361,-155.391998291016,30.6700000762939,1.92999995,md,36,164,,0.129999995,hv,hv73332942,2023-03-03T21:31:26.320Z,"9 km E of Pāhala, Hawaii",earthquake,0.68,0.889999986,0.400000006,17,automatic,hv,hv
 2023-03-03T21:23:26.590Z,56.9088333333333,-158.067166666667,2.56,0.62,ml,4,253,,0.11,av,av91091843,2023-03-04T01:41:53.620Z,"34 km E of Port Heiden, Alaska",earthquake,1.01,0.92,0.234118927240746,4,reviewed,av,av
-2023-03-03T21:19:08.560Z,38.8168335,-122.7945023,2.13,1.46,md,28,43,0.008875,0.03,nc,nc73855081,2023-03-04T00:57:11.924Z,"6km NW of The Geysers, CA",earthquake,0.2,0.34,0.16,27,automatic,nc,nc
-2023-03-03T21:18:25.960Z,38.7811661,-122.7429962,0.89,1.03,md,12,76,0.00532,0.01,nc,nc73855076,2023-03-03T21:33:09.637Z,"1km ENE of The Geysers, CA",earthquake,0.25,0.48,0.31,11,automatic,nc,nc
-2023-03-03T21:10:32.050Z,41.7401667,-111.7283333,11.61,1.59,ml,22,55,0.05384,0.15,uu,uu60532601,2023-03-03T21:42:36.120Z,"7 km ESE of North Logan, Utah",earthquake,0.36,0.56,0.03,2,reviewed,uu,uu
-2023-03-03T21:08:14.640Z,41.6276665,-122.4606705,4.61,2.16,md,4,167,0.07002,0.02,nc,nc73855071,2023-03-04T00:30:15.760Z,"6km ESE of Grenada, CA",earthquake,1.3,6.96,0.08,6,automatic,nc,nc
