@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-04T05:26:31.486Z,64.5292,-153.3917,0,1.6,ml,,,,0.32,ak,ak0232w9zo6k,2023-03-04T05:28:52.894Z,"89 km NW of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-04T05:21:55.000Z,19.023,-67.986,10,4.5,Ml,24,,,,pt,pt23063001,2023-03-04T05:26:47.624Z,"65 km NE of Punta Cana, Dominican Republic",earthquake,,,,29,reviewed,pt,pt
 2023-03-04T05:20:22.160Z,35.866,-117.7055,8.43,1.14,ml,14,107,0.07492,0.17,ci,ci40420704,2023-03-04T05:23:58.777Z,"20km ESE of Little Lake, CA",earthquake,0.44,1.13,0.112,11,automatic,ci,ci
-2023-03-04T05:09:13.750Z,38.791832,-122.807663,3.17,1.08,md,17,101,0.005014,0.02,nc,nc73855216,2023-03-04T05:10:48.507Z,"5km WNW of The Geysers, CA",earthquake,0.32,0.72,0.16,19,automatic,nc,nc
+2023-03-04T05:09:13.750Z,38.791832,-122.807663,3.17,1.08,md,17,101,0.005014,0.02,nc,nc73855216,2023-03-04T05:27:16.489Z,"5km WNW of The Geysers, CA",earthquake,0.32,0.72,0.16,19,automatic,nc,nc
 2023-03-04T04:42:30.740Z,38.8330002,-122.7935028,1.32,0.54,md,7,101,0.01611,0.01,nc,nc73855211,2023-03-04T05:00:15.334Z,"6km WNW of Cobb, CA",earthquake,0.5,1.77,0.29,9,automatic,nc,nc
 2023-03-04T04:32:54.370Z,33.4596667,-116.5521667,9.45,0.41,ml,13,118,0.05449,0.15,ci,ci40420696,2023-03-04T04:36:33.919Z,"16km SE of Anza, CA",earthquake,0.4,0.83,0.176,10,automatic,ci,ci
 2023-03-04T04:14:50.162Z,35.12321854,-97.57482147,3.097495317,1.85,ml,10,64.24451828,0.06636603922,0.6071874885,ok,ok2023ejpp,2023-03-04T04:16:37.511Z,"2 km N of Cole, Oklahoma",earthquake,3.390493334,2.899320844,,8,automatic,ok,ok
@@ -235,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T06:31:39.280Z,51.8595,-177.9485,4.72,0.52,ml,4,147,,0.1,av,av91780731,2023-03-03T18:59:02.030Z,"90 km W of Adak, Alaska",earthquake,0.42,1.59,0.290137472605727,4,reviewed,av,av
 2023-03-03T06:26:34.120Z,35.5511667,-118.4095,6.51,1.18,ml,18,67,0.1232,0.14,ci,ci40420320,2023-03-03T18:32:32.438Z,"8km ESE of Bodfish, CA",earthquake,0.25,0.75,0.185,11,reviewed,ci,ci
 2023-03-03T05:57:11.670Z,40.5481667,-124.2586667,18.85,1.7,md,18,156,0.09418,0.07,nc,nc73854831,2023-03-03T22:52:14.122Z,"3km S of Ferndale, CA",earthquake,0.51,0.34,0.109,16,reviewed,nc,nc
-2023-03-03T05:33:48.200Z,33.1651667,-116.5745,14.17,0.62,ml,30,60,0.06981,0.17,ci,ci40420304,2023-03-03T18:26:48.678Z,"10km NNE of Julian, CA",earthquake,0.27,0.7,0.228,8,reviewed,ci,ci
