@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-04T03:38:04.250Z,37.3113327,-121.6801682,6.54,2.12,md,53,50,0.04259,0.07,nc,nc73855206,2023-03-04T03:40:55.700Z,"14km ENE of Seven Trees, CA",earthquake,0.13,0.29,0.19,48,automatic,nc,nc
+2023-03-04T03:38:04.250Z,37.3113327,-121.6801682,6.54,2.12,md,53,50,0.04259,0.07,nc,nc73855206,2023-03-04T03:46:16.881Z,"14km ENE of Seven Trees, CA",earthquake,0.13,0.29,0.19,48,automatic,nc,nc
 2023-03-04T03:37:09.740Z,19.1016674041748,-155.151992797852,40.7099990844727,2.30999994,md,41,229,,0.129999995,hv,hv73333062,2023-03-04T03:42:29.852Z,"Island of Hawaii, Hawaii",earthquake,0.88,1,1.12,23,automatic,hv,hv
 2023-03-04T03:31:46.670Z,33.7685,-116.9385,12,0.61,ml,19,93,0.07991,0.18,ci,ci40420688,2023-03-04T03:35:19.238Z,"2km SE of San Jacinto, CA",earthquake,0.42,0.73,0.114,14,automatic,ci,ci
 2023-03-04T03:30:45.100Z,58.2951,-155.0113,0,1.1,ml,,,,0.34,ak,ak0232w8tovy,2023-03-04T03:31:56.343Z,"87 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -202,7 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T08:43:29.587Z,64.6699,-149.1502,16.3,1.8,ml,,,,0.83,ak,ak0232uoc9iz,2023-03-03T08:46:04.971Z,"7 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-03T08:33:36.548Z,58.2496,-156.0142,142.3,4,ml,,,,0.58,ak,ak0232uoa4te,2023-03-03T08:54:54.932Z,"61 km SE of King Salmon, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-03-03T08:33:00.020Z,40.7678333,-123.8628333,1.49,2.02,md,20,110,0.0601,0.16,nc,nc73854886,2023-03-03T23:35:19.403Z,"16km SE of Blue Lake, CA",earthquake,0.26,0.66,0.272,21,reviewed,nc,nc
-2023-03-03T08:32:44.680Z,51.8633333333333,-177.958833333333,6.1,1.3,ml,4,142,,0.09,av,av91780836,2023-03-03T20:11:05.880Z,"91 km W of Adak, Alaska",earthquake,0.44,1.08,0.128857242660784,4,reviewed,av,av
+2023-03-03T08:32:44.680Z,51.8633333333333,-177.958833333333,6.1,1.3,ml,4,142,,0.09,av,av91780836,2023-03-03T20:11:05.880Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.44,1.08,0.128857242660784,4,reviewed,av,av
 2023-03-03T08:32:36.020Z,38.7944984,-122.7306671,0.82,1.03,md,12,98,0.0122,0.02,nc,nc73854881,2023-03-03T10:53:14.710Z,"3km NE of The Geysers, CA",earthquake,0.25,0.96,0.31,12,automatic,nc,nc
 2023-03-03T08:27:55.990Z,51.8633333333333,-177.965166666667,6.33,0.88,ml,4,136,,0.09,av,av91780831,2023-03-03T19:58:05.230Z,"91 km W of Adak, Alaska",earthquake,0.5,1.08,0.133548509087429,4,reviewed,av,av
 2023-03-03T08:11:31.409Z,39.3658,-120.0058,5.3,-0.2,ml,3,193.49,0.077,0.0185,nn,nn00856561,2023-03-03T17:47:29.200Z,"3 km SSE of Floriston, California",earthquake,,15.6,0.25,2,reviewed,nn,nn
@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T04:00:32.725Z,61.4484,-146.8554,27.9,1.7,ml,,,,0.59,ak,ak0232ulpbk8,2023-03-03T04:02:48.104Z,"44 km NW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-03T03:54:09.550Z,38.8338318,-122.8161697,1.82,1.05,md,18,76,0.01146,0.03,nc,nc73854801,2023-03-03T04:12:14.249Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.17,20,automatic,nc,nc
 2023-03-03T03:53:28.600Z,48.61383333333333,-123.04966666666667,13.52,2.32,ml,26,126,0.02564,0.19,uw,uw61900522,2023-03-03T18:20:38.470Z,"7 km WNW of Orcas, Washington",earthquake,0.29,0.42,0.16747024715244097,22,reviewed,uw,uw
-2023-03-03T03:51:25.080Z,36.7149,-116.3001,11,0,ml,4,197.49,0.022,0.013,nn,nn00856560,2023-03-03T17:41:12.700Z,"46 km ESE of Beatty, Nevada",earthquake,,3.1,0,1,reviewed,nn,nn
