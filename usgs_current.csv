@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-06T12:46:15.720Z,34.0231667,-116.7396667,15.9,1.36,ml,39,49,0.05782,0.21,ci,ci40421488,2023-03-06T12:49:50.568Z,"12km NNE of Cabazon, CA",earthquake,0.27,0.64,0.163,26,automatic,ci,ci
+2023-03-06T13:01:37.180Z,35.5056667,-118.3913333,8.61,1.26,ml,14,66,0.1706,0.09,ci,ci40421496,2023-03-06T13:05:04.761Z,"13km SE of Bodfish, CA",earthquake,0.2,1.08,0.13,12,automatic,ci,ci
+2023-03-06T12:56:05.350Z,38.8276672,-122.8143311,1.68,0.21,md,8,113,0.005409,0.01,nc,nc73856106,2023-03-06T13:13:14.716Z,"8km NW of The Geysers, CA",earthquake,0.58,0.93,0.13,8,automatic,nc,nc
+2023-03-06T12:46:15.720Z,34.0231667,-116.7396667,15.9,1.36,ml,39,49,0.05782,0.21,ci,ci40421488,2023-03-06T12:56:46.030Z,"12km NNE of Cabazon, CA",earthquake,0.27,0.64,0.163,26,automatic,ci,ci
+2023-03-06T12:34:09.042Z,-29.0277,-176.7923,35.983,4.7,mb,20,173,1.012,0.38,us,us7000jhmd,2023-03-06T13:11:44.040Z,"Kermadec Islands region",earthquake,12.98,9.327,0.153,13,reviewed,us,us
 2023-03-06T12:30:57.820Z,55.1856,-159.388,35,3.2,ml,31,206,2.344,0.53,us,us7000jhm9,2023-03-06T12:44:46.040Z,"72 km ESE of Sand Point, Alaska",earthquake,8.36,2.015,0.077,22,reviewed,us,us
 2023-03-06T12:05:54.710Z,32.986,-115.512,2.85,1.52,ml,14,91,0.07853,0.27,ci,ci40421480,2023-03-06T12:09:34.370Z,"2km ENE of Brawley, CA",earthquake,0.57,0.86,0.217,17,automatic,ci,ci
 2023-03-06T12:00:51.500Z,33.4925,-116.784,3.94,1,ml,40,36,0.02407,0.17,ci,ci40421472,2023-03-06T12:04:26.088Z,"9km NE of Aguanga, CA",earthquake,0.19,0.47,0.141,26,automatic,ci,ci
@@ -7,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T11:41:53.424Z,63.1391,-149.217,66.9,1.4,ml,,,,0.51,ak,ak0232zoq88e,2023-03-06T11:43:46.477Z,"31 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-06T11:39:54.600Z,38.7878342,-122.767334,2.09,1.32,md,21,79,0.01409,0.03,nc,nc73856091,2023-03-06T11:55:15.226Z,"2km NW of The Geysers, CA",earthquake,0.24,0.53,0.11,22,automatic,nc,nc
 2023-03-06T11:26:54.349Z,63.8895,-153.3622,1,2.5,ml,,,,0.58,ak,ak0232zon0ka,2023-03-06T12:25:52.040Z,"51 km W of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-06T11:18:29.670Z,38.8503342,-122.8485031,1.05,0.6,md,11,115,0.01552,0.01,nc,nc73856086,2023-03-06T11:36:16.095Z,"11km WNW of Cobb, CA",earthquake,0.32,0.86,0.33,11,automatic,nc,nc
+2023-03-06T11:18:29.670Z,38.8503342,-122.8485031,1.05,0.6,md,11,115,0.01552,0.01,nc,nc73856086,2023-03-06T13:13:15.688Z,"11km WNW of Cobb, CA",earthquake,0.32,0.86,0.33,11,automatic,nc,nc
 2023-03-06T11:12:45.550Z,19.4459991455078,-155.23616027832,27.7999992370605,2.41,ml,43,70,,0.129999995,hv,hv73334482,2023-03-06T11:18:14.410Z,"0 km NNW of Volcano, Hawaii",earthquake,0.54,0.400000006,0.44,4,automatic,hv,hv
 2023-03-06T11:02:57.035Z,36.2306,36.0127,10,4,mb,35,117,1.345,0.34,us,us7000jhlx,2023-03-06T12:18:34.040Z,"Turkey-Syria border region",earthquake,5.12,1.881,0.164,10,reviewed,us,us
 2023-03-06T10:55:55.730Z,18.0153333333333,-66.8391666666667,12.41,2.63,md,6,175,0.2004,0.13,pr,pr71398553,2023-03-06T11:32:11.990Z,"2 km SSE of Yauco, Puerto Rico",earthquake,0.6,2.81,0.00936423591942948,3,reviewed,pr,pr
@@ -201,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T13:26:40.430Z,51.883,-178.125166666667,10.99,0.46,ml,4,230,,0.08,av,av91784751,2023-03-06T07:06:35.620Z,"102 km W of Adak, Alaska",earthquake,0.68,0.7,0.255425826601603,4,reviewed,av,av
 2023-03-05T13:25:41.710Z,32.936,-115.8228333,7.96,2.06,ml,39,41,0.02132,0.27,ci,ci40421224,2023-03-05T13:36:31.630Z,"22km WSW of Westmorland, CA",earthquake,0.36,0.75,0.248,25,automatic,ci,ci
 2023-03-05T13:22:10.710Z,33.7763333,-116.938,13.6,0.69,ml,18,94,0.08621,0.21,ci,ci40421216,2023-03-05T15:00:10.496Z,"2km ESE of San Jacinto, CA",earthquake,0.52,0.76,0.131,16,reviewed,ci,ci
-2023-03-05T13:05:20.467Z,61.1994,-151.6827,84.6,1.3,ml,,,,0.96,ak,ak0232y25ymm,2023-03-05T13:07:04.842Z,"32 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-05T13:02:58.770Z,36.0133324,-120.5751648,3.3,1.3,md,10,113,0.0315,0.06,nc,nc73855646,2023-03-05T13:41:15.198Z,"18km NW of Parkfield, CA",earthquake,0.43,0.63,0.05,4,automatic,nc,nc
