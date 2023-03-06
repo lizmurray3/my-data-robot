@@ -175,6 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T23:00:08.950Z,33.7658333,-116.9391667,12.73,0.93,ml,16,93,0.07755,0.17,ci,ci40421352,2023-03-05T23:03:39.453Z,"3km SE of San Jacinto, CA",earthquake,0.33,0.66,0.155,23,automatic,ci,ci
 2023-03-05T22:49:33.740Z,19.1655006408691,-155.489669799805,33.310001373291,2.11999989,md,34,112,,0.119999997,hv,hv73334137,2023-03-05T22:54:05.690Z,"Island of Hawaii, Hawaii",earthquake,0.73,0.930000007,1.32000005,12,automatic,hv,hv
 2023-03-05T22:30:39.720Z,62.1099,-147.5689,32,1.4,ml,,,,0.75,ak,ak0232y7o9gk,2023-03-05T22:48:46.780Z,"28 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-05T22:22:11.190Z,33.5268333,-116.7245,4.81,0.55,ml,18,48,0.03992,0.14,ci,ci40421344,2023-03-05T22:25:49.024Z,"6km WSW of Anza, CA",earthquake,0.31,0.6,0.085,17,automatic,ci,ci
-2023-03-05T22:21:34.783Z,-55.7338,147.3432,10,5.8,mww,45,82,6.768,0.96,us,us7000jhir,2023-03-06T00:24:50.739Z,"west of Macquarie Island",earthquake,12.19,1.933,0.078,16,reviewed,us,us
-2023-03-05T22:16:04.830Z,33.7761667,-116.9411667,13.12,0.92,ml,16,105,0.08448,0.21,ci,ci40421336,2023-03-05T22:19:40.723Z,"2km ESE of San Jacinto, CA",earthquake,0.45,0.86,0.18,18,automatic,ci,ci
