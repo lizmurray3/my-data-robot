@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-06T21:32:01.386Z,61.1972,-150.8943,50.3,1.8,ml,,,,0.78,ak,ak0232zumitm,2023-03-06T21:33:34.906Z,"11 km ENE of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-03-06T21:29:43.940Z,38.793335,-122.7486649,1.89,0.95,md,12,90,0.01374,0.02,nc,nc73856216,2023-03-06T21:31:16.337Z,"2km NNE of The Geysers, CA",earthquake,0.28,0.8,0.2,13,automatic,nc,nc
 2023-03-06T21:00:47.990Z,58.2104,-155.6231,51.1,0.8,ml,,,,0.2,ak,ak0232zufri7,2023-03-06T21:02:18.562Z,"80 km SE of King Salmon, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-03-06T20:59:59.964Z,-20.7817,-178.3,526.424,5.8,mww,92,40,2.919,1.21,us,us7000jhqt,2023-03-06T21:19:38.911Z,"Fiji region",earthquake,10.44,7.005,0.073,18,reviewed,us,us
 2023-03-06T20:55:54.819Z,61.7267,-150.4622,43.1,2.7,ml,,,,0.6,ak,ak0232zu63iu,2023-03-06T21:08:01.606Z,"20 km N of Susitna, Alaska",earthquake,,2.8,,,automatic,ak,ak
