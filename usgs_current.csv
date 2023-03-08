@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-08T10:04:38.880Z,38.8301659,-122.810997,1.36,0.2,md,7,89,0.006799,0.01,nc,nc73854215,2023-03-08T10:18:11.056Z,"8km NW of The Geysers, CA",earthquake,0.59,1.77,0.11,8,automatic,nc,nc
+2023-03-08T10:24:10.533Z,63.186,-151.3292,0,1.5,ml,,,,0.86,ak,ak02332z3r4t,2023-03-08T10:26:52.630Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-08T10:20:45.420Z,33.6803333,-116.7453333,13.43,0.63,ml,15,102,0.04026,0.16,ci,ci40422056,2023-03-08T10:24:27.881Z,"7km SSW of Idyllwild, CA",earthquake,0.53,0.89,0.128,13,automatic,ci,ci
+2023-03-08T10:04:38.880Z,38.8301659,-122.810997,1.36,0.2,md,7,89,0.006799,0.01,nc,nc73854215,2023-03-08T10:22:13.076Z,"8km NW of The Geysers, CA",earthquake,0.59,1.77,0.11,8,automatic,nc,nc
 2023-03-08T09:49:19.274Z,63.5355,-147.5118,0,1.4,ml,,,,0.69,ak,ak02332ynp3r,2023-03-08T09:51:37.395Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-08T09:43:37.240Z,19.2501659393311,-155.40266418457,31.8199996948242,2.19,ml,35,129,,0.150000006,hv,hv73335557,2023-03-08T09:49:09.510Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.920000017,0.1,3,automatic,hv,hv
 2023-03-08T09:19:29.264Z,60.0808,-153.2014,11.3,1.2,ml,,,,0.58,ak,ak02332yhafe,2023-03-08T09:21:32.327Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -241,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T10:45:43.900Z,32.7701667,-115.4311667,11.72,1.6,ml,20,75,0.03744,0.3,ci,ci40421704,2023-03-07T17:29:31.417Z,"7km SW of Holtville, CA",earthquake,0.49,0.62,0.13,17,reviewed,ci,ci
 2023-03-07T10:40:54.550Z,18.011,-65.4601666666667,14.78,2.55,md,7,237,0.1229,0.18,pr,pr71398708,2023-03-07T11:24:32.120Z,"9 km S of Esperanza, Puerto Rico",earthquake,1.31,0.76,0.170260344299439,4,reviewed,pr,pr
 2023-03-07T10:40:25.990Z,33.9323333,-116.7925,18.24,0.95,ml,36,65,0.09857,0.12,ci,ci40421696,2023-03-07T17:23:00.379Z,"2km NNW of Cabazon, CA",earthquake,0.17,0.32,0.134,23,reviewed,ci,ci
-2023-03-07T10:27:53.990Z,33.9806667,-116.69,13.85,0.75,ml,39,69,0.06746,0.14,ci,ci40421688,2023-03-07T17:16:56.341Z,"11km NE of Cabazon, CA",earthquake,0.18,0.41,0.115,20,reviewed,ci,ci
-2023-03-07T10:25:49.750Z,37.8931667,-112.5205,7.63,1.69,ml,16,99,0.3042,0.25,uu,uu60532746,2023-03-07T14:47:16.790Z,"10 km NW of Panguitch, Utah",earthquake,0.65,2.44,0.001,3,reviewed,uu,uu
