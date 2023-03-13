@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-13T07:09:13.940Z,19.423999786377,-155.265167236328,7.98999977111816,2.07,ml,19,96,,0.180000007,hv,hv73338377,2023-03-13T07:14:45.570Z,"3 km WSW of Volcano, Hawaii",earthquake,0.39,0.629999995,0.24,12,automatic,hv,hv
 2023-03-13T06:52:43.000Z,38.8163338,-122.7998352,1.79,0.32,md,10,83,0.009073,0.05,nc,nc73856110,2023-03-13T07:09:13.036Z,"6km NW of The Geysers, CA",earthquake,0.4,0.9,0.13,10,automatic,nc,nc
 2023-03-13T06:52:25.414Z,60.5877,-151.7956,76.7,1.9,ml,,,,0.59,ak,ak0233b6ksdp,2023-03-13T06:54:56.481Z,"26 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-13T06:49:21.929Z,-58.8029,-25.074,23.861,4.9,mb,56,82,15.757,0.46,us,us7000jjha,2023-03-13T07:19:22.040Z,"South Sandwich Islands region",earthquake,13.26,5.75,0.076,54,reviewed,us,us
 2023-03-13T06:36:48.080Z,38.8208351,-122.7633362,2.08,1.26,md,25,119,0.01091,0.02,nc,nc73856105,2023-03-13T06:53:21.934Z,"4km W of Cobb, CA",earthquake,0.22,0.36,0.2,26,automatic,nc,nc
 2023-03-13T06:19:05.807Z,31.60810884,-103.9720247,8.419580078,3.1,ml,14,66,0.003757351386,0.1,tx,tx2023fafg,2023-03-13T06:35:16.040Z,"36 km NNW of Toyah, Texas",earthquake,0.6200168714,0.5612817546,0.1,8,reviewed,tx,tx
 2023-03-13T06:11:33.820Z,-17.4346,-178.7572,550.523,5,mb,60,66,3.058,0.58,us,us7000jjh3,2023-03-13T06:30:44.040Z,"215 km ENE of Levuka, Fiji",earthquake,12.11,8.965,0.082,47,reviewed,us,us
@@ -13,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T05:25:18.940Z,38.8341675,-122.7901688,1.51,1.09,md,18,52,0.004238,0.03,nc,nc73856080,2023-03-13T05:42:16.504Z,"6km WNW of Cobb, CA",earthquake,0.22,0.36,0.15,18,automatic,nc,nc
 2023-03-13T05:06:21.970Z,31.803833,-115.9008331,12.82,3.01,ml,27,135,0.2043,0.26,ci,ci40184071,2023-03-13T05:08:32.900Z,"64km E of Maneadero, B.C., MX",earthquake,0.41,0.73,0.324,25,automatic,ci,ci
 2023-03-13T04:52:27.220Z,38.8371658,-122.8389969,1.36,0.77,md,14,110,0.01437,0.02,nc,nc73856075,2023-03-13T05:23:18.383Z,"10km NW of The Geysers, CA",earthquake,0.23,0.51,0.16,17,automatic,nc,nc
-2023-03-13T04:50:50.190Z,39.2013321,-123.189003,3.58,1.91,md,11,89,0.08721,0.06,nc,nc73856070,2023-03-13T05:10:16.304Z,"6km NNE of Ukiah, CA",earthquake,0.34,2.3,0.11,9,automatic,nc,nc
+2023-03-13T04:50:50.190Z,39.2013321,-123.189003,3.58,1.91,md,11,89,0.08721,0.06,nc,nc73856070,2023-03-13T07:21:11.103Z,"6km NNE of Ukiah, CA",earthquake,0.34,2.3,0.11,9,automatic,nc,nc
 2023-03-13T04:41:33.120Z,38.7481651,-122.7133331,1.17,1.1,md,8,131,0.01616,0.03,nc,nc73856065,2023-03-13T06:56:10.953Z,"4km SSW of Anderson Springs, CA",earthquake,0.4,0.5,0.15,11,automatic,nc,nc
 2023-03-13T04:26:21.030Z,17.9286666666667,-66.9451666666667,9.32,2.54,md,12,224,0.05553,0.16,pr,pr71399313,2023-03-13T04:35:56.330Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.7,0.72,0.0629745892818878,4,reviewed,pr,pr
 2023-03-13T04:23:25.100Z,38.7786674,-122.730835,1.18,1.19,md,16,75,0.006482,0.03,nc,nc73856060,2023-03-13T07:01:13.985Z,"2km E of The Geysers, CA",earthquake,0.28,0.37,0.19,14,automatic,nc,nc
@@ -255,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T07:43:20.334Z,-12.0577,165.8247,10,5.7,mww,67,58,3.626,0.71,us,us7000jjax,2023-03-12T09:46:55.704Z,"147 km S of Lata, Solomon Islands",earthquake,8.73,1.87,0.057,30,reviewed,us,us
 2023-03-12T07:31:00.430Z,19.1686668395996,-155.494171142578,28.2800006866455,2.01999998,md,30,151,,0.109999999,hv,hv73337802,2023-03-12T07:34:06.020Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,1,0.790000021,8,automatic,hv,hv
 2023-03-12T07:26:32.070Z,33.8095,-116.0925,2.68,0.85,ml,15,103,0.1338,0.26,ci,ci40183575,2023-03-12T07:30:07.469Z,"15km NE of Indio, CA",earthquake,0.52,3.03,0.147,16,automatic,ci,ci
-2023-03-12T07:14:11.570Z,51.8418333333333,-178.105666666667,4.44,2.43,ml,9,115,,0.17,av,av91800661,2023-03-12T14:58:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.57,0.76,0.166115857877238,8,reviewed,av,av
-2023-03-12T07:11:24.371Z,58.1976,-154.8813,82,0.4,ml,,,,0.71,ak,ak02339je31x,2023-03-12T07:12:56.405Z,"Alaska Peninsula",earthquake,,3.5,,,automatic,ak,ak
