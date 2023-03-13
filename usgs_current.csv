@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-13T08:47:24.520Z,33.2923333,-116.7531667,9.79,0.44,ml,12,106,0.1285,0.17,ci,ci40184103,2023-03-13T08:50:54.358Z,"6km N of Lake Henshaw, CA",earthquake,0.49,2.25,0.017,5,automatic,ci,ci
+2023-03-13T08:41:18.430Z,38.8288345,-122.8105011,2.21,0.74,md,10,86,0.005442,0.01,nc,nc73856125,2023-03-13T08:42:53.287Z,"7km NW of The Geysers, CA",earthquake,0.36,0.93,0.22,10,automatic,nc,nc
+2023-03-13T08:41:02.530Z,38.8463326,-122.7279968,-0.1,0.83,md,9,172,0.03637,0.21,nc,nc73856120,2023-03-13T08:42:39.178Z,"3km N of Cobb, CA",earthquake,1.33,6.35,0.19,8,automatic,nc,nc
 2023-03-13T08:31:12.920Z,33.5008333,-116.495,13.05,1.04,ml,32,93,0.06212,0.18,ci,ci40184095,2023-03-13T08:41:57.200Z,"18km ESE of Anza, CA",earthquake,0.28,0.48,0.129,28,automatic,ci,ci
 2023-03-13T08:11:47.628Z,63.5052,-147.7472,7.4,2.4,ml,,,,0.45,ak,ak0233b7iwy2,2023-03-13T08:13:39.928Z,"61 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-13T07:55:53.714Z,58.0039,-156.5266,16.5,1.4,ml,,,,0.22,ak,ak0233b76x86,2023-03-13T07:58:04.552Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2023-03-13T07:53:02.480Z,19.0276,-67.8181,103,3.65,md,5,330,1.2428,0.52,pr,pr2023072001,2023-03-13T08:49:50.982Z,"79 km NE of Punta Cana, Dominican Republic",earthquake,17.73,26.18,0.12,4,reviewed,pr,pr
 2023-03-13T07:52:17.190Z,18.0566666666667,-66.8563333333333,14.69,2.68,md,5,119,0.08405,0.08,pr,pr71399333,2023-03-13T08:14:13.570Z,"2 km NNW of Yauco, Puerto Rico",earthquake,0.43,1.02,0.062811401466154,4,reviewed,pr,pr
 2023-03-13T07:46:45.240Z,19.1931667327881,-155.481994628906,33.1500015258789,2.31,ml,33,146,,0.119999997,hv,hv73338417,2023-03-13T07:52:16.400Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.72,0.970000029,2.51,12,automatic,hv,hv
 2023-03-13T07:44:59.771Z,59.225,-151.648,50.6,1.8,ml,,,,0.46,ak,ak0233b74kwp,2023-03-13T07:46:42.825Z,"17 km SE of Port Graham, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -10,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T06:52:43.000Z,38.8163338,-122.7998352,1.79,0.32,md,10,83,0.009073,0.05,nc,nc73856110,2023-03-13T08:41:11.623Z,"6km NW of The Geysers, CA",earthquake,0.4,0.9,0.13,10,automatic,nc,nc
 2023-03-13T06:52:25.414Z,60.5877,-151.7956,76.7,1.9,ml,,,,0.59,ak,ak0233b6ksdp,2023-03-13T06:54:56.481Z,"26 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-13T06:49:21.929Z,-58.8029,-25.074,23.861,4.9,mb,56,82,15.757,0.46,us,us7000jjha,2023-03-13T07:19:22.040Z,"South Sandwich Islands region",earthquake,13.26,5.75,0.076,54,reviewed,us,us
-2023-03-13T06:36:48.080Z,38.8208351,-122.7633362,2.08,1.26,md,25,119,0.01091,0.02,nc,nc73856105,2023-03-13T08:14:10.444Z,"4km W of Cobb, CA",earthquake,0.22,0.36,0.2,26,automatic,nc,nc
+2023-03-13T06:36:48.080Z,38.8208351,-122.7633362,2.08,1.26,md,25,119,0.01091,0.02,nc,nc73856105,2023-03-13T08:50:12.666Z,"4km W of Cobb, CA",earthquake,0.22,0.36,0.2,26,automatic,nc,nc
 2023-03-13T06:19:05.807Z,31.60810884,-103.9720247,8.419580078,3.1,ml,14,66,0.003757351386,0.1,tx,tx2023fafg,2023-03-13T06:35:16.040Z,"36 km NNW of Toyah, Texas",earthquake,0.6200168714,0.5612817546,0.1,8,reviewed,tx,tx
 2023-03-13T06:11:33.820Z,-17.4346,-178.7572,550.523,5,mb,60,66,3.058,0.58,us,us7000jjh3,2023-03-13T06:30:44.040Z,"215 km ENE of Levuka, Fiji",earthquake,12.11,8.965,0.082,47,reviewed,us,us
 2023-03-13T06:02:03.558Z,59.2155,-153.7107,88.4,1.8,ml,,,,0.41,ak,ak0233b6a0w3,2023-03-13T06:04:02.806Z,"58 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -153,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T17:16:12.012Z,56.6181,-149.1972,11.6,2.4,ml,,,,0.77,ak,ak02339pdi2y,2023-03-12T19:30:39.994Z,"Gulf of Alaska",earthquake,,13.5,,,reviewed,ak,ak
 2023-03-12T17:05:09.710Z,19.1823329925537,-155.349502563477,2.61999988555908,2.2,ml,12,205,,0.100000001,hv,hv73338057,2023-03-12T17:10:40.730Z,"13 km E of Pāhala, Hawaii",earthquake,1.14,12.6199999,5.19,3,automatic,hv,hv
 2023-03-12T17:05:04.650Z,19.2565002441406,-155.378173828125,31.5499992370605,2.09,ml,35,174,,0.109999999,hv,hv73338062,2023-03-12T17:34:09.040Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.59,0.519999981,2.42,13,automatic,hv,hv
-2023-03-12T17:04:20.621Z,51.8667,-178.1053,6.962,3,ml,18,103,0.049,0.67,us,us7000jjdn,2023-03-12T20:17:57.040Z,"101 km W of Adak, Alaska",earthquake,1.08,1.947,0.097,14,reviewed,us,us
+2023-03-12T17:04:20.621Z,51.8667,-178.1053,6.962,3,ml,18,103,0.049,0.67,us,us7000jjdn,2023-03-12T20:17:57.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.08,1.947,0.097,14,reviewed,us,us
 2023-03-12T16:58:41.433Z,59.0292,-154.3973,130.7,2.5,ml,,,,0.18,ak,ak02339p13gv,2023-03-12T17:08:55.040Z,"50 km SSE of Kokhanok, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-12T16:51:04.610Z,51.8935,-177.931,4.72,1.28,ml,4,217,,0.21,av,av91801406,2023-03-12T18:22:26.470Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.89,1.96,0.13887350927026,4,reviewed,av,av
 2023-03-12T16:50:18.240Z,51.8571666666667,-178.086,2.74,1.46,ml,5,208,,0.2,av,av91801401,2023-03-12T18:20:00.390Z,"100 km W of Adak, Alaska",earthquake,0.78,1.38,0.167799287982878,5,reviewed,av,av
@@ -250,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T09:03:38.963Z,64.7235,-146.7581,5.1,1.1,ml,,,,0.97,ak,ak02339kj9ns,2023-03-12T09:05:15.320Z,"15 km ENE of Eielson Air Force Base, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-03-12T09:02:36.840Z,58.2593333333333,-155.108833333333,3.67,-0.33,ml,10,104,,0.12,av,av91800846,2023-03-12T19:08:51.290Z,"86 km NNW of Karluk, Alaska",earthquake,0.35,0.54,0.161564236572441,11,reviewed,av,av
 2023-03-12T08:58:56.190Z,33.7196667,-116.7615,14.41,0.54,ml,16,195,0.04035,0.17,ci,ci40183599,2023-03-12T14:13:37.786Z,"4km WSW of Idyllwild, CA",earthquake,0.96,0.68,0.103,11,reviewed,ci,ci
-2023-03-12T08:47:04.070Z,33.7441667,-116.8523333,1.9,0.58,ml,15,95,0.08242,0.16,ci,ci40183591,2023-03-12T14:14:26.085Z,"4km E of Valle Vista, CA",earthquake,0.27,0.4,0.134,11,reviewed,ci,ci
