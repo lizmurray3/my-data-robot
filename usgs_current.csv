@@ -3,6 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T02:44:21.525Z,61.6089,-150.5574,30.4,1.5,ml,,,,0.4,ak,ak0233g2rdew,2023-03-16T02:46:29.664Z,"7 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-16T02:35:52.040Z,17.9433333333333,-66.8298333333333,12.15,2.44,md,12,213,0.05664,0.06,pr,pr71400278,2023-03-16T02:46:31.600Z,"5 km S of Indios, Puerto Rico",earthquake,0.57,0.36,0.0986320798401599,4,reviewed,pr,pr
 2023-03-16T02:18:49.620Z,38.7566681,-122.6943359,23.58,1.17,md,9,173,0.01212,0.04,nc,nc73857575,2023-03-16T02:49:13.085Z,"2km S of Anderson Springs, CA",earthquake,1.82,2.5,0.16,6,automatic,nc,nc
+2023-03-16T02:16:55.440Z,51.85,-178.085166666667,3.42,1.52,ml,4,212,,0.14,av,av91807241,2023-03-16T02:58:19.590Z,"100 km W of Adak, Alaska",earthquake,0.61,0.48,0.162784078243153,4,reviewed,av,av
 2023-03-16T02:13:44.603Z,59.6645,-153.1257,103.2,2.2,ml,,,,0.21,ak,ak0233g2krzw,2023-03-16T02:15:30.475Z,"56 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-16T02:11:22.350Z,59.466,-152.4288,79.4,1.7,ml,,,,0.14,ak,ak0233g2kauj,2023-03-16T02:12:52.670Z,"Southern Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-03-16T01:57:43.970Z,51.8573333333333,-178.083333333333,1.62,1.13,ml,4,206,,0.27,av,av91807231,2023-03-16T02:48:14.900Z,"99 km W of Adak, Alaska",earthquake,1.04,2.39,0.154730245021666,4,reviewed,av,av
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T01:04:32.200Z,51.867,-178.114833333333,5.91,1.2,ml,4,226,,0.17,av,av91807186,2023-03-16T02:09:26.850Z,"101 km W of Adak, Alaska",earthquake,0.95,1.22,0.315087063225473,4,reviewed,av,av
 2023-03-16T01:03:28.940Z,33.469,-116.4295,5.18,1.41,ml,22,81,0.1224,0.31,ci,ci40185335,2023-03-16T01:07:03.340Z,"24km NNW of Borrego Springs, CA",earthquake,0.64,3.23,0.237,11,automatic,ci,ci
 2023-03-16T00:56:16.750Z,18.6076666666667,-65.0575,13.84,3.2,md,7,256,0.2714,0.3,pr,pr71400263,2023-03-16T01:14:49.100Z,"32 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.67,1.97,0.0826626345928163,4,reviewed,pr,pr
-2023-03-16T00:56:02.207Z,-30.1147,-176.1116,22.065,7,mww,116,22,1.789,1.34,us,us7000jkbd,2023-03-16T02:14:47.040Z,"Kermadec Islands region",earthquake,8.73,4.611,0.093,11,reviewed,us,us
+2023-03-16T00:56:02.207Z,-30.1147,-176.1116,22.065,7,mww,116,22,1.789,1.34,us,us7000jkbd,2023-03-16T02:58:17.577Z,"Kermadec Islands region",earthquake,8.73,4.611,0.093,11,reviewed,us,us
 2023-03-16T00:49:09.910Z,38.7798347,-122.7259979,0.99,0.78,md,7,78,0.009046,0.03,nc,nc73857530,2023-03-16T01:50:11.715Z,"3km E of The Geysers, CA",earthquake,0.46,0.63,0.22,7,automatic,nc,nc
 2023-03-16T00:45:46.610Z,33.5303333,-116.7391667,2.67,0.84,ml,16,49,0.03501,0.2,ci,ci40185327,2023-03-16T00:49:23.471Z,"7km WSW of Anza, CA",earthquake,0.31,0.37,0.22,18,automatic,ci,ci
 2023-03-16T00:41:06.690Z,18.8926,-65.033,21,3.74,md,22,214,0.5439,0.39,pr,pr2023075000,2023-03-16T01:13:00.188Z,"61 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.35,26.23,0.11,20,reviewed,pr,pr
@@ -320,6 +321,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T03:16:08.520Z,34.0508333,-116.7386667,13.29,1.57,ml,38,42,0.07632,0.2,ci,ci40185039,2023-03-15T13:37:12.800Z,"15km W of Morongo Valley, CA",earthquake,0.26,0.64,0.196,28,reviewed,ci,ci
 2023-03-15T03:15:39.190Z,58.1906666666667,-155.317333333333,2.27,-0.53,ml,7,152,,0.08,av,av91806006,2023-03-15T04:34:22.970Z,"86 km NW of Karluk, Alaska",earthquake,0.23,0.36,0.197937894906999,7,reviewed,av,av
 2023-03-15T03:10:38.130Z,33.4665,-116.5588333,10.53,0.59,ml,25,81,0.04588,0.14,ci,ci40185031,2023-03-15T15:42:52.845Z,"14km SE of Anza, CA",earthquake,0.23,0.33,0.151,11,reviewed,ci,ci
-2023-03-15T02:59:21.228Z,32.74475098,-100.6647771,8.852620443,2.3,ml,14,70,0.08927826288,0.1,tx,tx2023fdpr,2023-03-15T19:23:39.831Z,"15 km NE of Hermleigh, Texas",earthquake,1.092964554,1.944218923,0.1,7,reviewed,tx,tx
-2023-03-15T02:58:40.440Z,36.5828323,-121.1793365,7.3,1.89,md,16,139,0.01213,0.05,nc,nc73857010,2023-03-15T03:32:13.441Z,"6km NNW of Pinnacles, CA",earthquake,0.28,0.65,0.18,16,automatic,nc,nc
-2023-03-15T02:50:54.680Z,58.259,-154.957,3.86,-0.01,ml,6,152,,0.13,av,av91805996,2023-03-15T04:21:04.120Z,"82 km NNW of Karluk, Alaska",earthquake,0.58,1.41,0.443224634684384,6,reviewed,av,av
