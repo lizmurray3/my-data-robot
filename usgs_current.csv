@@ -6,8 +6,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T16:30:01.370Z,17.9801666666667,-66.9538333333333,6.68,2.54,md,13,163,0.04373,0.19,pr,pr71400653,2023-03-17T16:47:26.020Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.61,0.38,0.218373622526111,8,reviewed,pr,pr
 2023-03-17T16:17:03.470Z,38.8230019,-122.8448334,2.13,1.08,md,20,76,0.007659,0.01,nc,nc73858190,2023-03-17T16:52:15.717Z,"9km WNW of The Geysers, CA",earthquake,0.21,0.38,0.17,21,automatic,nc,nc
 2023-03-17T16:11:39.539Z,5.9278,126.9379,74.68,5,mb,69,83,1.764,0.72,us,us7000jkwd,2023-03-17T16:27:06.040Z,"96 km ESE of Pondaguitan, Philippines",earthquake,7.57,6.026,0.064,77,reviewed,us,us
-2023-03-17T15:46:01.944Z,-38.0709,176.6406,10,5.3,mww,37,87,0.606,1.04,us,us7000jkvz,2023-03-17T17:07:57.257Z,"North Island of New Zealand",earthquake,4.92,1.872,0.078,16,reviewed,us,us
-2023-03-17T15:31:07.356Z,-38.0795,176.6167,10,4.8,mb,25,130,0.607,1.14,us,us7000jkus,2023-03-17T17:19:51.351Z,"7 km WNW of Kawerau, New Zealand",earthquake,5.05,1.92,0.154,13,reviewed,us,us
+2023-03-17T15:46:01.944Z,-38.0709,176.6406,10,5.3,mww,37,87,0.606,1.04,us,us7000jkvz,2023-03-17T17:28:50.506Z,"North Island of New Zealand",earthquake,4.92,1.872,0.078,16,reviewed,us,us
+2023-03-17T15:31:07.356Z,-38.0795,176.6167,10,4.8,mb,25,130,0.607,1.14,us,us7000jkus,2023-03-17T17:25:48.960Z,"7 km WNW of Kawerau, New Zealand",earthquake,5.05,1.92,0.154,13,reviewed,us,us
 2023-03-17T15:05:36.630Z,34.277,-117,6.93,1.86,ml,70,31,0.06725,0.18,ci,ci40185983,2023-03-17T15:15:56.230Z,"9km WNW of Big Bear Lake, CA",earthquake,0.22,0.78,0.187,26,automatic,ci,ci
 2023-03-17T15:04:25.685Z,59.2624,-144.9381,14.3,4.6,ml,,,,0.65,ak,ak0233hxssds,2023-03-17T15:22:29.646Z,"149 km SSE of Cordova, Alaska",earthquake,,2.1,,,reviewed,ak,ak
 2023-03-17T15:02:15.450Z,38.7815018,-122.725502,1.38,1.05,md,13,80,0.008941,0.02,nc,nc73858165,2023-03-17T16:06:12.465Z,"3km E of The Geysers, CA",earthquake,0.27,0.59,0.07,11,automatic,nc,nc
@@ -220,7 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T17:37:03.000Z,36.38416667,-97.653,7,1.29,ml,34,65,0.142172101,0.25,ok,ok2023fgoc,2023-03-17T15:25:55.111Z,"5 km NE of Fairmont, Oklahoma",earthquake,,0.8,0.25,7,reviewed,ok,ok
 2023-03-16T17:36:33.470Z,38.8284988,-122.7935028,0.6,0.57,md,10,70,0.0102,0.01,nc,nc73857800,2023-03-16T18:07:13.624Z,"6km W of Cobb, CA",earthquake,0.27,0.92,0.27,11,automatic,nc,nc
 2023-03-16T17:35:23.390Z,17.9885,-66.9533333333333,2.7,1.59,md,3,183,0.07176,0.06,pr,pr71400493,2023-03-16T17:58:57.020Z,"3 km W of Fuig, Puerto Rico",earthquake,1.32,9.07,0.0082955787659138,3,reviewed,pr,pr
-2023-03-16T17:33:44.390Z,17.9551666666667,-66.9498333333333,6.13,2.1,md,5,207,0.07003,0.09,pr,pr71400483,2023-03-16T17:42:39.850Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.93,0.41,0.105874450185047,4,reviewed,pr,pr
-2023-03-16T17:30:46.870Z,39.4141,-119.7419,10.2,1.1,ml,3,292.83,0.03,0.2061,nn,nn00857115,2023-03-17T00:05:41.048Z,"13 km S of Sparks, Nevada",earthquake,,4.4,0.62,2,reviewed,nn,nn
-2023-03-16T17:29:46.153Z,31.6008,-104.4034,5,2.6,ml,26,65,0.459,1.06,us,us7000jkik,2023-03-16T21:43:37.040Z,"63 km S of Whites City, New Mexico",earthquake,3.94,1.967,0.057,40,reviewed,us,us
-2023-03-16T17:27:43.157Z,-23.7448,-179.5309,552.731,4.8,mb,26,107,4.753,0.51,us,us7000jkil,2023-03-16T21:37:46.040Z,"south of the Fiji Islands",earthquake,11.16,12.674,0.135,17,reviewed,us,us
