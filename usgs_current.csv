@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-17T11:39:52.043Z,63.0182,-150.5455,104.5,1.8,ml,,,,0.48,ak,ak0233hvmm4k,2023-03-17T11:41:59.143Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-17T11:35:00.930Z,38.814167,-122.8130035,2.57,0.75,md,8,76,0.009494,0.01,nc,nc73858105,2023-03-17T11:36:37.376Z,"6km NW of The Geysers, CA",earthquake,0.76,1.65,0.08,8,automatic,nc,nc
 2023-03-17T11:22:33.180Z,19.2556667327881,-155.403671264648,30.4899997711182,1.91,ml,39,126,,0.159999996,hv,hv73342132,2023-03-17T11:28:05.270Z,"9 km NE of Pāhala, Hawaii",earthquake,0.64,0.75999999,0.3,4,automatic,hv,hv
 2023-03-17T11:15:01.460Z,38.8378334,-122.783165,1.89,0.72,md,11,75,0.005636,0.03,nc,nc73858095,2023-03-17T11:32:11.904Z,"6km WNW of Cobb, CA",earthquake,0.36,0.56,0.19,11,automatic,nc,nc
-2023-03-17T10:50:19.590Z,38.8236656,-122.8424988,0.1,0.83,md,10,91,0.00586,0.01,nc,nc73858090,2023-03-17T11:11:14.771Z,"9km NW of The Geysers, CA",earthquake,0.27,0.69,0.15,10,automatic,nc,nc
+2023-03-17T10:50:19.590Z,38.8236656,-122.8424988,0.1,0.83,md,10,91,0.00586,0.01,nc,nc73858090,2023-03-17T11:44:12.966Z,"9km NW of The Geysers, CA",earthquake,0.27,0.69,0.15,10,automatic,nc,nc
 2023-03-17T10:47:51.296Z,-6.1026,147.4907,62.09,4.9,mb,69,44,3.297,0.7,us,us7000jktc,2023-03-17T11:08:35.040Z,"63 km NW of Finschhafen, Papua New Guinea",earthquake,8.58,6.515,0.069,66,reviewed,us,us
 2023-03-17T10:40:40.770Z,38.7993317,-122.7565002,1.68,1.07,md,11,93,0.02346,0.01,nc,nc73858085,2023-03-17T11:18:13.812Z,"2km N of The Geysers, CA",earthquake,0.27,1.05,0.05,12,automatic,nc,nc
 2023-03-17T10:39:39.732Z,30.7834,96.0546,10,5.1,mb,78,38,9.866,0.71,us,us7000jktb,2023-03-17T10:59:27.040Z,"114 km WSW of Qamdo, China",earthquake,6.41,1.912,0.05,131,reviewed,us,us
