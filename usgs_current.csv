@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T23:09:59.015Z,37.1658,-104.7419,5.607,3.1,ml,16,67,0.055,0.57,us,us7000jl5u,2023-03-19T11:26:59.423Z,"4 km NNE of Segundo, Colorado",earthquake,2.62,5.521,0.043,72,reviewed,us,us
 2023-03-18T22:52:42.710Z,38.8123322,-122.8294983,1.58,0.51,md,7,78,0.003468,0.01,nc,nc73858915,2023-03-19T00:31:14.957Z,"7km WNW of The Geysers, CA",earthquake,0.5,0.94,0.13,6,automatic,nc,nc
 2023-03-18T22:46:14.959Z,61.4498,-150.1688,31.7,1.6,ml,,,,0.68,ak,ak0233jpr5fb,2023-03-18T22:48:28.066Z,"13 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-18T22:38:01.940Z,33.5698333,-116.6373333,13.09,-0.18,ml,10,125,0.04461,0.05,ci,ci40186679,2023-03-19T18:28:40.619Z,"4km ENE of Anza, CA",earthquake,0.24,0.45,0.191,4,reviewed,ci,ci
