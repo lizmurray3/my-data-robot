@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-19T07:31:26.340Z,38.822834,-122.767334,2.05,1.25,md,15,111,0.007887,0.02,nc,nc73859165,2023-03-19T07:33:00.815Z,"4km W of Cobb, CA",earthquake,0.28,0.48,0.22,17,automatic,nc,nc
-2023-03-19T07:18:42.950Z,38.7953339,-122.7608337,2.51,0.72,md,7,151,0.02238,0.02,nc,nc73859160,2023-03-19T07:20:20.927Z,"2km N of The Geysers, CA",earthquake,0.54,2.31,0.06,9,automatic,nc,nc
+2023-03-19T07:18:42.950Z,38.7953339,-122.7608337,2.51,0.72,md,7,151,0.02238,0.02,nc,nc73859160,2023-03-19T07:43:10.397Z,"2km N of The Geysers, CA",earthquake,0.54,2.31,0.06,9,automatic,nc,nc
 2023-03-19T07:17:12.520Z,32.7806667,-115.9855,11.15,0.68,ml,10,99,0.04361,0.18,ci,ci40186895,2023-03-19T07:20:47.008Z,"5km N of Ocotillo, CA",earthquake,0.58,0.8,0.095,6,automatic,ci,ci
 2023-03-19T07:15:42.730Z,38.8195,-122.7963333,2.65,0.94,md,13,91,0.01142,0.02,nc,nc73859155,2023-03-19T07:17:21.327Z,"6km NW of The Geysers, CA",earthquake,0.33,0.58,0.16,15,automatic,nc,nc
 2023-03-19T07:14:31.040Z,19.2465000152588,-155.412994384766,31.7099990844727,2.12,ml,41,127,,0.109999999,hv,hv73343852,2023-03-19T07:20:01.700Z,"8 km NE of Pāhala, Hawaii",earthquake,0.48,0.660000026,3.19,8,automatic,hv,hv
