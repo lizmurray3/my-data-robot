@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-21T23:18:21.462Z,40.522,-124.2831,8,4.6,mw,9,,,,ew,ew1679440700,2023-03-21T23:18:29.312Z,"6 km SSW of Ferndale, California",earthquake,9.491,5,0.3,9,automatic,ew,ew
+2023-03-21T23:11:16.200Z,36.696167,-121.3255005,4.67,2.18,md,16,143,0.0203,0.06,nc,nc73860410,2023-03-21T23:13:11.578Z,"10km S of Tres Pinos, CA",earthquake,0.4,0.71,0.18,16,automatic,nc,nc
+2023-03-21T23:10:02.820Z,38.8378334,-122.8014984,1.76,0.97,md,8,131,0.00873,0.01,nc,nc73860405,2023-03-21T23:11:41.457Z,"7km WNW of Cobb, CA",earthquake,0.44,0.9,0.35,13,automatic,nc,nc
 2023-03-21T22:58:45.250Z,35.5196667,-118.3933333,7.96,0.86,ml,10,101,0.1572,0.13,ci,ci40188063,2023-03-21T23:02:24.202Z,"12km SE of Bodfish, CA",earthquake,0.36,1.86,0.159,6,automatic,ci,ci
-2023-03-21T22:51:01.540Z,38.8154984,-122.7959976,1.62,1.23,md,19,47,0.007539,0.01,nc,nc73860400,2023-03-21T23:05:12.008Z,"6km NW of The Geysers, CA",earthquake,0.21,0.54,0.18,20,automatic,nc,nc
+2023-03-21T22:51:01.540Z,38.8154984,-122.7959976,1.62,1.23,md,19,47,0.007539,0.01,nc,nc73860400,2023-03-21T23:13:15.061Z,"6km NW of The Geysers, CA",earthquake,0.21,0.54,0.18,20,automatic,nc,nc
 2023-03-21T22:48:02.690Z,33.532,-116.7331667,3.4,1.53,ml,45,30,0.03349,0.18,ci,ci40188055,2023-03-21T22:58:27.800Z,"6km WSW of Anza, CA",earthquake,0.18,0.48,0.138,27,automatic,ci,ci
 2023-03-21T22:09:20.120Z,19.0831666666667,-66.3543333333333,22.51,3.13,md,21,246,0.6253,0.24,pr,pr71401043,2023-03-21T22:44:18.280Z,"68 km N of Brenas, Puerto Rico",earthquake,0.82,16.23,0.138053966197733,13,reviewed,pr,pr
 2023-03-21T22:00:01.140Z,44.8026667,-110.9765,7.54,0.77,md,12,169,0.04821,0.14,uu,uu60534736,2023-03-21T22:41:09.410Z,"17 km ENE of Hebgen Lake Estates, Montana",earthquake,0.4,0.57,0.419,8,reviewed,uu,uu
@@ -58,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T17:11:13.230Z,56.8755,-158.205166666667,1.97,1.77,ml,6,126,,0.21,av,av91095343,2023-03-21T19:27:13.910Z,"26 km ESE of Port Heiden, Alaska",earthquake,0.73,1.25,0.403370579083392,6,reviewed,av,av
 2023-03-21T16:58:55.240Z,34.0813333,-117.8128333,15.41,1.62,ml,33,70,0.01149,0.18,ci,ci40187951,2023-03-21T18:18:43.566Z,"3km SSW of San Dimas, CA",earthquake,0.27,0.33,0.166,24,reviewed,ci,ci
 2023-03-21T16:57:09.780Z,51.8621666666667,-178.095333333333,2.47,1.57,ml,5,212,,0.23,av,av91814551,2023-03-21T18:16:35.410Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.89,1.79,0.160325188899,5,reviewed,av,av
-2023-03-21T16:47:23.695Z,36.5227,70.9787,187.589,6.5,mww,134,13,2.53,0.89,us,us7000jln7,2023-03-21T23:05:08.307Z,"40 km SSE of Jurm, Afghanistan",earthquake,6.61,4.79,0.057,30,reviewed,us,us
+2023-03-21T16:47:23.695Z,36.5227,70.9787,187.589,6.5,mww,134,13,2.53,0.89,us,us7000jln7,2023-03-21T23:12:18.291Z,"40 km SSE of Jurm, Afghanistan",earthquake,6.61,4.79,0.057,30,reviewed,us,us
 2023-03-21T16:45:43.250Z,19.1673336029053,-155.482498168945,32.9199981689453,1.87,md,27,159,,0.119999997,hv,hv73345617,2023-03-21T16:49:00.730Z,"3 km S of Pāhala, Hawaii",earthquake,0.67,1.12,1.38999999,6,automatic,hv,hv
 2023-03-21T16:42:10.500Z,36.1265,-118.0533333,4.09,1.73,ml,11,80,0.1609,0.11,ci,ci40187943,2023-03-21T18:18:41.198Z,"13km NW of Coso Junction, CA",earthquake,0.24,0.84,0.039,2,reviewed,ci,ci
 2023-03-21T16:39:29.270Z,36.2628333333333,-89.4893333333333,5.98,1.55,md,16,54,0.01879,0.12,nm,nm60514866,2023-03-21T17:31:13.420Z,"0 km WSW of Ridgely, Tennessee",earthquake,0.22,0.43,0.0931497056496908,13,reviewed,nm,nm
@@ -103,9 +106,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T13:56:45.680Z,55.4515,-161.809333333333,28.35,0.95,ml,9,188,,0.18,av,av91814436,2023-03-21T17:36:19.960Z,"54 km NE of King Cove, Alaska",earthquake,0.95,0.67,0.199670080782672,9,reviewed,av,av
 2023-03-21T13:44:02.570Z,38.8330002,-122.8043365,1.9,1.24,md,20,70,0.01059,0.02,nc,nc73860260,2023-03-21T16:25:12.658Z,"7km W of Cobb, CA",earthquake,0.24,0.39,0.12,22,automatic,nc,nc
 2023-03-21T13:43:03.217Z,61.8946,-149.2587,1.1,1.7,ml,,,,0.79,ak,ak0233oizmep,2023-03-21T13:45:55.153Z,"16 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-21T13:35:16.340Z,56.87,-157.991,-0.78,1.02,ml,5,285,,0.15,av,av91814426,2023-03-21T23:11:01.150Z,"39 km ESE of Port Heiden, Alaska",earthquake,0.98,3.93,0.134186763102348,4,reviewed,av,av
 2023-03-21T13:24:58.240Z,44.0761667,-110.6341667,7.06,1.11,md,14,125,0.2028,0.14,uu,uu60534676,2023-03-21T15:04:49.270Z,"48 km NE of Alta, Wyoming",earthquake,0.48,1.11,0.097,7,reviewed,uu,uu
 2023-03-21T13:23:46.550Z,44.7888333,-110.9618333,4.9,0.51,md,7,223,0.04321,0.1,uu,uu60534681,2023-03-21T15:00:41.170Z,"18 km NE of West Yellowstone, Montana",earthquake,1.33,0.9,0.267,6,reviewed,uu,uu
 2023-03-21T13:17:02.356Z,41.9515,-119.5696,0.7,0.9,ml,4,210.33,0.548,0.0012,nn,nn00857328,2023-03-21T18:16:49.223Z,"49 km ENE of Fort Bidwell, California",earthquake,,6.4,0,1,reviewed,nn,nn
+2023-03-21T13:08:36.570Z,51.8556666666667,-178.007166666667,2.35,1.57,ml,5,92,,0.22,av,av91814396,2023-03-21T23:19:29.840Z,"94 km W of Adak, Alaska",earthquake,0.47,1.57,0.162600265124134,5,reviewed,av,av
 2023-03-21T13:06:50.580Z,51.8536666666667,-178.086,3.18,1.97,ml,5,210,,0.18,av,av91814391,2023-03-21T18:14:38.680Z,"100 km W of Adak, Alaska",earthquake,0.73,0.59,0.255112845207972,5,reviewed,av,av
 2023-03-21T13:04:24.347Z,28.62213135,-98.29170496,3.350301107,2.2,ml,13,73,0.01544030713,0.2,tx,tx2023fpiq,2023-03-21T17:56:34.771Z,"20 km NNW of Three Rivers, Texas",earthquake,1.572773606,1.445501053,0.1,7,reviewed,tx,tx
 2023-03-21T12:59:49.180Z,56.8811666666667,-158.112333333333,-3.2,1.21,ml,6,193,,0.29,av,av91095283,2023-03-21T17:45:09.680Z,"32 km ESE of Port Heiden, Alaska",earthquake,1.08,2.45,0.249062915917558,8,reviewed,av,av
@@ -254,6 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T23:24:45.870Z,56.9095,-158.046166666667,-2.9,2.03,ml,5,271,,0.11,av,av91095103,2023-03-20T23:47:08.660Z,"Alaska Peninsula",earthquake,0.72,1.42,0.510570854397841,5,reviewed,av,av
 2023-03-20T23:23:18.213Z,64.0133,-148.7989,0,1.7,ml,,,,0.63,ak,ak0233n1acst,2023-03-20T23:25:09.701Z,"15 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-20T23:23:00.350Z,56.9076666666667,-158.018833333333,-0.79,2.01,ml,5,283,,0.1,av,av91095098,2023-03-20T23:38:56.500Z,"37 km E of Port Heiden, Alaska",earthquake,0.7,2.93,0.45823743312114,6,reviewed,av,av
-2023-03-20T23:15:30.140Z,35.0348333,-117.6805,-0.82,1.38,ml,25,45,0.101,0.18,ci,ci40187703,2023-03-21T14:18:55.539Z,"5km NW of Boron, CA",quarry blast,0.36,31.61,0.106,13,reviewed,ci,ci
-2023-03-20T23:15:03.573Z,64.9768,-147.4745,0,1.6,ml,,,,0.95,ak,ak0233n18lqk,2023-03-20T23:20:53.038Z,"7 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-20T23:08:56.750Z,51.8595,-178.0925,3.27,2.32,ml,6,135,,0.13,av,av91813876,2023-03-20T23:33:42.910Z,"100 km W of Adak, Alaska",earthquake,0.46,0.29,0.241182692495442,6,reviewed,av,av
