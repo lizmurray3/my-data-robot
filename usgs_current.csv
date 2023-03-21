@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T05:39:46.290Z,38.7451668,-122.6966629,0.96,1.03,md,8,144,0.02307,0.02,nc,nc73860130,2023-03-21T05:57:13.675Z,"3km S of Anderson Springs, CA",earthquake,0.59,0.88,0.19,9,automatic,nc,nc
 2023-03-21T05:34:52.718Z,59.2418,-153.6516,107,1.7,ml,,,,0.24,ak,ak0233oe6bxz,2023-03-21T05:37:10.862Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-21T05:20:52.758Z,37.3304,-117.6593,5.4,0.7,ml,8,172.05,0.098,0.2532,nn,nn00857297,2023-03-21T05:21:49.515Z,"47 km S of Silver Peak, Nevada",earthquake,,3.3,0.75,4,automatic,nn,nn
-2023-03-21T05:15:34.310Z,37.796833,-122.171669,9.1,1.22,md,12,70,0.01622,0.06,nc,nc73860125,2023-03-21T07:22:11.217Z,"5km E of Oakland, CA",earthquake,0.36,0.82,0.16,9,automatic,nc,nc
+2023-03-21T05:15:34.310Z,37.796833,-122.171669,9.1,1.22,md,12,70,0.01622,0.06,nc,nc73860125,2023-03-21T08:33:12.659Z,"5km E of Oakland, CA",earthquake,0.36,0.82,0.16,9,automatic,nc,nc
 2023-03-21T05:09:30.900Z,36.5883331,-121.1449966,8.97,1.9,md,20,128,0.03651,0.07,nc,nc73860120,2023-03-21T08:06:18.483Z,"6km N of Pinnacles, CA",earthquake,0.34,0.64,0.2,23,automatic,nc,nc
 2023-03-21T05:00:11.460Z,35.6826667,-117.5408333,11.07,1.31,ml,18,125,0.1154,0.17,ci,ci40187815,2023-03-21T05:03:48.779Z,"14km ENE of Ridgecrest, CA",earthquake,0.42,0.72,0.138,13,automatic,ci,ci
 2023-03-21T04:58:05.258Z,47.7348,153.4044,69.866,4.7,mb,58,91,6.038,0.64,us,us7000jll2,2023-03-21T05:12:38.040Z,"Kuril Islands",earthquake,10.93,7.717,0.042,171,reviewed,us,us
@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T08:43:31.230Z,32.919,-116.2426667,8.65,0.62,ml,17,98,0.06219,0.11,ci,ci40187439,2023-03-20T22:08:33.011Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.23,0.54,0.071,6,reviewed,ci,ci
 2023-03-20T08:42:59.788Z,36.9768,-116.1289,7.8,0.5,ml,31,43.73,0.042,0.1432,nn,nn00857257,2023-03-20T22:36:14.311Z,"56 km E of Beatty, Nevada",earthquake,,0.7,0.33,23,reviewed,nn,nn
 2023-03-20T08:42:38.450Z,39.027,-123.4216667,3.27,1.03,md,13,77,0.06933,0.08,nc,nc73859670,2023-03-20T23:22:10.409Z,"5km WNW of Boonville, CA",earthquake,0.27,1.25,0.176,11,reviewed,nc,nc
-2023-03-20T08:36:18.450Z,34.2478333,-117.0611667,3.47,1.19,ml,47,55,0.1172,0.16,ci,ci40187431,2023-03-20T12:52:23.530Z,"6km NE of Running Springs, CA",earthquake,0.2,0.76,0.11,25,reviewed,ci,ci
-2023-03-20T08:33:27.710Z,38.8219986,-122.800499,2.91,0.75,md,9,139,0.01459,0.01,nc,nc73859665,2023-03-20T08:51:18.119Z,"6km NW of The Geysers, CA",earthquake,0.5,1.23,0.18,11,automatic,nc,nc
