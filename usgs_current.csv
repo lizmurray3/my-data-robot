@@ -1,13 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-21T11:39:07.900Z,19.163,-155.4925,31.41,1.48,md,16,166,,0.12,hv,hv73345477,2023-03-21T11:48:37.950Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.76,0.89,0.0478489544348228,9,reviewed,hv,hv
 2023-03-21T11:38:48.772Z,62.1705,-145.6585,19.7,1.7,ml,,,,1.25,ak,ak0233ohrs4t,2023-03-21T11:41:02.373Z,"8 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-21T11:26:38.170Z,35.7531662,-120.3421631,6.89,1.09,md,12,208,0.01985,0.14,nc,nc73860235,2023-03-21T11:38:10.808Z,"5km NW of Cholame, CA",earthquake,1.17,0.79,0.07,4,automatic,nc,nc
+2023-03-21T11:26:38.170Z,35.7531662,-120.3421631,6.89,1.09,md,12,208,0.01985,0.14,nc,nc73860235,2023-03-21T11:44:12.848Z,"5km NW of Cholame, CA",earthquake,1.17,0.79,0.07,4,automatic,nc,nc
 2023-03-21T11:10:49.890Z,38.8263321,-122.8054962,2.64,0.83,md,13,70,0.004625,0.01,nc,nc73860230,2023-03-21T11:27:13.741Z,"7km NW of The Geysers, CA",earthquake,0.34,0.99,0.25,13,automatic,nc,nc
 2023-03-21T10:19:50.126Z,66.5924,-147.6462,4.7,2,ml,,,,0.83,ak,ak0233oh2a10,2023-03-21T10:21:59.795Z,"28 km NNW of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-21T10:13:27.256Z,62.1801,-145.6356,20,1.4,ml,,,,0.74,ak,ak0233oh0xyt,2023-03-21T10:15:13.230Z,"9 km NNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T10:03:13.936Z,62.1766,-145.6634,21.4,1.5,ml,,,,0.71,ak,ak0233ogyrs1,2023-03-21T10:04:47.616Z,"9 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-21T10:01:27.847Z,60.8895,-150.2928,48.4,1.5,ml,,,,0.35,ak,ak0233ogydf4,2023-03-21T10:04:01.750Z,"21 km E of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-21T09:55:24.118Z,62.1513,-145.6181,22.5,1.8,ml,,,,0.62,ak,ak0233ogoi6z,2023-03-21T09:57:17.806Z,"6 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-21T09:54:05.820Z,38.8349991,-122.7799988,8.2,0.26,md,7,99,0.008096,0.05,nc,nc73860210,2023-03-21T10:11:14.275Z,"5km WNW of Cobb, CA",earthquake,1.7,7.54,0.17,8,automatic,nc,nc
+2023-03-21T09:54:05.820Z,38.8349991,-122.7799988,8.2,0.26,md,7,99,0.008096,0.05,nc,nc73860210,2023-03-21T11:47:11.867Z,"5km WNW of Cobb, CA",earthquake,1.7,7.54,0.17,8,automatic,nc,nc
 2023-03-21T09:46:02.689Z,57.3039,-152.7773,164.2,2.5,ml,,,,1,ak,ak0233ogmj3g,2023-03-21T09:48:50.687Z,"33 km ENE of Old Harbor, Alaska",earthquake,,4,,,automatic,ak,ak
 2023-03-21T09:38:46.180Z,38.8031654,-122.7786636,4.35,0.59,md,7,160,0.01232,0.01,nc,nc73860205,2023-03-21T11:31:11.761Z,"4km NW of The Geysers, CA",earthquake,0.88,1.98,0.3,9,automatic,nc,nc
 2023-03-21T09:26:24.470Z,33.6273333,-117.2701667,15.89,0.89,ml,16,114,0.06646,0.19,ci,ci40187863,2023-03-21T09:29:57.830Z,"3km NNE of Wildomar, CA",earthquake,0.44,0.88,0.236,15,automatic,ci,ci
@@ -227,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T12:04:17.680Z,46.853,-121.675,-1.42,0.73,ml,8,280,0.04318,0.18,uw,uw61903532,2023-03-20T23:37:29.610Z,"27 km N of Packwood, Washington",earthquake,1.13,12.88,0.27587428770986755,5,reviewed,uw,uw
 2023-03-20T12:03:24.940Z,38.7991676,-122.7946701,3.12,1.11,md,26,51,0.007975,0.03,nc,nc73859760,2023-03-20T14:45:12.325Z,"4km NW of The Geysers, CA",earthquake,0.25,0.42,0.13,24,automatic,nc,nc
 2023-03-20T11:57:15.766Z,-56.0832,-27.8543,133.403,5.1,mb,59,46,5.266,0.54,us,us7000jlef,2023-03-20T12:13:01.040Z,"South Sandwich Islands region",earthquake,10.69,6.846,0.064,78,reviewed,us,us
-2023-03-20T11:45:34.160Z,51.8615,-178.124833333333,5.76,1.33,ml,4,234,,0.14,av,av91813466,2023-03-21T00:36:18.530Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.87,1.19,0.234863359410999,4,reviewed,av,av
-2023-03-20T11:43:40.140Z,38.7888336,-122.751503,3.44,0.74,md,14,82,0.01283,0.02,nc,nc73859755,2023-03-20T12:16:12.373Z,"1km NNE of The Geysers, CA",earthquake,0.34,0.85,0.36,14,automatic,nc,nc
