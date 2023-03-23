@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-23T08:36:35.690Z,33.3746667,-116.9663333,8.77,0.78,ml,23,55,0.05664,0.22,ci,ci40188535,2023-03-23T08:40:16.242Z,"10km WNW of Palomar Observatory, CA",earthquake,0.37,1.12,0.064,15,automatic,ci,ci
 2023-03-23T08:05:25.151Z,64.5565,-149.2173,0,1.7,ml,,,,0.79,ak,ak0233rqv1ur,2023-03-23T08:18:20.430Z,"5 km W of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-23T07:56:38.931Z,-7.6266,127.8385,137.474,4.8,mb,43,61,3.705,0.74,us,us7000jm4t,2023-03-23T08:15:05.040Z,"135 km NE of Lospalos, Timor Leste",earthquake,8.47,6.806,0.095,34,reviewed,us,us
 2023-03-23T07:40:27.800Z,19.2415008544922,-155.401000976562,31.3999996185303,1.80999994,md,30,152,,0.129999995,hv,hv73346967,2023-03-23T07:43:38.020Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.920000017,0.899999976,3,automatic,hv,hv
@@ -26,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T05:16:42.990Z,33.175,-116.047,3.83,1.63,ml,49,35,0.0581,0.25,ci,ci40188495,2023-03-23T05:27:36.760Z,"9km ENE of Ocotillo Wells, CA",earthquake,0.29,0.96,0.098,27,automatic,ci,ci
 2023-03-23T05:14:30.440Z,17.951,-66.9575,7.13,2.53,md,12,209,0.05106,0.09,pr,pr71401208,2023-03-23T05:27:00.970Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.43,0.18,0.0750244181606154,5,reviewed,pr,pr
 2023-03-23T05:13:47.200Z,38.8396683,-122.8420029,0.71,0.96,md,18,85,0.005202,0.04,nc,nc73860890,2023-03-23T05:31:14.920Z,"10km NW of The Geysers, CA",earthquake,0.21,0.42,0.26,19,automatic,nc,nc
-2023-03-23T05:03:06.590Z,36.7343333,-120.943,6.37,1.82,md,33,118,0.14,0.2,nc,nc73860885,2023-03-23T07:42:10.642Z,"29km NE of Pinnacles, CA",earthquake,0.39,1.88,0.224,29,reviewed,nc,nc
+2023-03-23T05:03:06.590Z,36.7343333,-120.943,6.37,1.82,md,33,118,0.14,0.2,nc,nc73860885,2023-03-23T08:39:14.986Z,"29km NE of Pinnacles, CA",earthquake,0.39,1.88,0.224,29,reviewed,nc,nc
 2023-03-23T05:00:38.660Z,34.007,-117.2161667,6.11,1.25,ml,33,43,0.06954,0.2,ci,ci40188487,2023-03-23T05:04:13.742Z,"6km SE of Loma Linda, CA",earthquake,0.24,0.82,0.157,28,automatic,ci,ci
 2023-03-23T04:53:38.490Z,35.5088333,-118.3573333,0.04,1.86,ml,28,62,0.1792,0.18,ci,ci40188479,2023-03-23T05:04:19.230Z,"15km SE of Bodfish, CA",earthquake,0.24,31.61,0.224,26,automatic,ci,ci
 2023-03-23T04:49:44.970Z,38.8096657,-122.7921677,3.87,0.38,md,5,197,0.002979,0.04,nc,nc73860875,2023-03-23T06:43:13.296Z,"5km NW of The Geysers, CA",earthquake,2.92,2.09,0.16,9,automatic,nc,nc
