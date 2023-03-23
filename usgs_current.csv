@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-23T09:53:49.190Z,38.7868347,-122.7668304,2.17,0.87,md,12,78,0.01485,0.03,nc,nc73860950,2023-03-23T09:55:27.051Z,"1km NW of The Geysers, CA",earthquake,0.29,0.66,0.2,12,automatic,nc,nc
-2023-03-23T09:50:11.810Z,35.5113333,-118.357,1.24,1.78,ml,25,61,0.1785,0.18,ci,ci40188543,2023-03-23T09:53:50.020Z,"15km SE of Bodfish, CA",earthquake,0.25,0.56,0.205,27,automatic,ci,ci
+2023-03-23T10:09:07.276Z,61.6789,-151.7291,100.8,1.9,ml,,,,0.34,ak,ak0233rs2qjr,2023-03-23T10:11:27.500Z,"38 km SSW of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-03-23T09:57:32.300Z,38.7955,-122.7591667,3,0.33,md,19,76,0.005135,0.03,nc,nc73860955,2023-03-23T10:13:10.518Z,"2km N of The Geysers, CA",earthquake,0.25,0.41,0.253,16,reviewed,nc,nc
+2023-03-23T09:53:49.190Z,38.7868347,-122.7668304,2.17,0.87,md,12,78,0.01485,0.03,nc,nc73860950,2023-03-23T10:06:10.489Z,"1km NW of The Geysers, CA",earthquake,0.29,0.66,0.2,12,automatic,nc,nc
+2023-03-23T09:50:11.810Z,35.5113333,-118.357,1.24,1.78,ml,25,61,0.1785,0.18,ci,ci40188543,2023-03-23T10:01:22.710Z,"15km SE of Bodfish, CA",earthquake,0.25,0.56,0.205,27,automatic,ci,ci
 2023-03-23T09:31:26.560Z,38.8321648,-122.8171692,1.66,0.88,md,9,83,0.01036,0.01,nc,nc73860940,2023-03-23T09:44:10.358Z,"8km NW of The Geysers, CA",earthquake,0.4,1.32,0.09,2,automatic,nc,nc
 2023-03-23T09:29:49.999Z,39.0129,-119.6623,10.9,1.4,ml,10,122.47,0.09,0.0933,nn,nn00857391,2023-03-23T09:31:01.263Z,"6 km SE of Johnson Lane, Nevada",earthquake,,0.7,0.31,6,automatic,nn,nn
 2023-03-23T09:21:37.494Z,62.2529,-152.0143,0,1.6,ml,,,,0.76,ak,ak0233rrjxwa,2023-03-23T09:24:12.743Z,"43 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-23T09:19:53.987Z,38.0255,36.4149,10,4.9,mb,90,21,0.381,1.43,us,us7000jm54,2023-03-23T10:04:00.709Z,"Central Turkey",earthquake,4.82,1.84,0.056,154,reviewed,us,us
 2023-03-23T08:58:28.490Z,38.8008347,-122.7736664,1.37,0.75,md,11,85,0.01091,0.02,nc,nc73860935,2023-03-23T09:55:13.423Z,"3km NNW of The Geysers, CA",earthquake,0.33,0.55,0.26,12,automatic,nc,nc
-2023-03-23T08:52:46.060Z,19.2643337249756,-155.410659790039,31.4200000762939,2.39,ml,40,120,,0.140000001,hv,hv73347087,2023-03-23T08:58:17.790Z,"9 km NE of Pāhala, Hawaii",earthquake,0.56,0.75999999,2.67,11,automatic,hv,hv
+2023-03-23T08:52:46.070Z,19.2626666666667,-155.4055,31.17,2.53,ml,44,79,,0.12,hv,hv73347087,2023-03-23T10:01:47.430Z,"10 km NE of Pāhala, Hawaii",earthquake,0.47,0.43,0.164089955891219,20,reviewed,hv,hv
 2023-03-23T08:52:27.880Z,19.1413326263428,-155.490661621094,31.1200008392334,2.49,ml,15,254,,0.0799999982,hv,hv73347082,2023-03-23T08:57:58.260Z,"6 km S of Pāhala, Hawaii",earthquake,1.95,1.35000002,2.9,10,automatic,hv,hv
 2023-03-23T08:52:23.040Z,38.8214989,-122.7981644,2.66,0.84,md,17,56,0.009494,0.01,nc,nc73860930,2023-03-23T09:15:11.183Z,"6km NW of The Geysers, CA",earthquake,0.31,0.59,0.22,17,automatic,nc,nc
 2023-03-23T08:51:36.080Z,38.8230019,-122.800499,3.15,0.77,md,9,114,0.00749,0.01,nc,nc73860925,2023-03-23T09:09:11.150Z,"6km NW of The Geysers, CA",earthquake,1,1.44,0.36,12,automatic,nc,nc
@@ -132,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T20:19:35.630Z,32.9135,-116.245,8.11,1.54,ml,35,50,0.06395,0.13,ci,ci40188383,2023-03-23T00:12:33.885Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.16,0.47,0.147,20,reviewed,ci,ci
 2023-03-22T20:13:47.950Z,33.4678333,-116.563,9.71,1.3,ml,39,47,0.04232,0.16,ci,ci40188375,2023-03-22T23:38:28.870Z,"14km SE of Anza, CA",earthquake,0.17,0.37,0.145,21,reviewed,ci,ci
 2023-03-22T20:12:59.143Z,56.9096,-157.9705,2,0.4,ml,,,,0.28,ak,ak0233qaifyd,2023-03-22T23:37:19.892Z,"40 km E of Port Heiden, Alaska",earthquake,,4.9,,,reviewed,ak,ak
-2023-03-22T20:07:44.018Z,39.4523,69.9525,5.644,5.9,mb,120,33,1.43,0.79,us,us7000jm0r,2023-03-23T07:36:51.804Z,"51 km NNW of Novobod, Tajikistan",earthquake,6.85,4.129,0.028,464,reviewed,us,us
+2023-03-22T20:07:44.018Z,39.4523,69.9525,5.644,5.9,mb,120,33,1.43,0.79,us,us7000jm0r,2023-03-23T10:11:27.011Z,"51 km NNW of Novobod, Tajikistan",earthquake,6.85,4.129,0.028,464,reviewed,us,us
 2023-03-22T20:05:59.070Z,39.0149,-119.6607,11.4,1.5,ml,7,129.24,0.088,0.1183,nn,nn00857383,2023-03-23T00:07:14.416Z,"6 km SE of Johnson Lane, Nevada",earthquake,,2.8,1.24,2,reviewed,nn,nn
 2023-03-22T19:58:38.560Z,33.647,-116.6716667,15.24,0.45,ml,14,93,0.02192,0.05,ci,ci40188367,2023-03-22T23:24:56.936Z,"10km N of Anza, CA",earthquake,0.23,0.4,0.147,5,reviewed,ci,ci
 2023-03-22T19:58:35.670Z,51.855,-178.079833333333,2.89,1.59,ml,5,205,,0.17,av,av91815976,2023-03-22T20:38:10.560Z,"99 km W of Adak, Alaska",earthquake,0.66,1.13,0.177524411126612,5,reviewed,av,av
@@ -227,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T10:51:58.380Z,38.8366661,-122.8028336,2.24,0.7,md,16,82,0.009908,0.01,nc,nc73860545,2023-03-22T12:53:18.036Z,"7km WNW of Cobb, CA",earthquake,0.28,0.67,0.24,16,automatic,nc,nc
 2023-03-22T10:39:11.330Z,35.8701667,-117.6878333,8.9,1.74,ml,24,120,0.08774,0.1,ci,ci40188255,2023-03-22T21:46:12.914Z,"21km ESE of Little Lake, CA",earthquake,0.19,0.38,0.187,18,reviewed,ci,ci
 2023-03-22T10:38:47.719Z,37.167,54.7079,10,5.1,mb,69,138,7.7,0.99,us,us7000jlww,2023-03-23T07:03:07.589Z,"39 km NNE of Qarnābād, Iran",earthquake,10.35,1.892,0.055,105,reviewed,us,us
-2023-03-22T09:59:13.115Z,58.1075,-137.5433,16,3.8,ml,,,,0.72,ak,ak0233q48os9,2023-03-23T06:54:59.050Z,"Southeastern Alaska",earthquake,,0.5,,,reviewed,ak,ak
