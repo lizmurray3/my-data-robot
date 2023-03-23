@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-23T05:36:10.580Z,34.3041667,-118.5043333,5.82,1.01,ml,21,72,0.01353,0.27,ci,ci40188503,2023-03-23T05:39:46.181Z,"4km N of Granada Hills, CA",earthquake,0.53,0.91,0.248,19,automatic,ci,ci
 2023-03-23T05:28:36.351Z,36.7293,-116.1082,3.3,0.5,ml,18,53.78,0.018,0.1987,nn,nn00857390,2023-03-23T05:29:20.379Z,"42 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.43,10,automatic,nn,nn
 2023-03-23T05:16:42.990Z,33.175,-116.047,3.83,1.63,ml,49,35,0.0581,0.25,ci,ci40188495,2023-03-23T05:27:36.760Z,"9km ENE of Ocotillo Wells, CA",earthquake,0.29,0.96,0.098,27,automatic,ci,ci
 2023-03-23T05:14:30.440Z,17.951,-66.9575,7.13,2.53,md,12,209,0.05106,0.09,pr,pr71401208,2023-03-23T05:27:00.970Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.43,0.18,0.0750244181606154,5,reviewed,pr,pr
