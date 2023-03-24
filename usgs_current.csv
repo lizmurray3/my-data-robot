@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-24T22:31:03.410Z,36.7019997,-121.3421631,3.54,1.71,md,13,148,0.006473,0.09,nc,nc73861785,2023-03-24T22:32:37.466Z,"10km SSW of Tres Pinos, CA",earthquake,0.47,0.68,0.27,13,automatic,nc,nc
 2023-03-24T21:51:56.285Z,63.5705,-147.3584,0,2.2,ml,,,,0.58,ak,ak0233tmeyjw,2023-03-24T21:54:02.382Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-24T21:50:07.570Z,17.9621666666667,-66.9691666666667,9.1,2.15,md,6,195,0.05846,0.1,pr,pr71401463,2023-03-24T22:00:05.230Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.97,0.0132257722705891,3,reviewed,pr,pr
 2023-03-24T21:44:08.700Z,33.1893333,-116.4061667,11.35,1.09,ml,31,74,0.07919,0.18,ci,ci40189567,2023-03-24T21:47:45.961Z,"8km SSW of Borrego Springs, CA",earthquake,0.29,0.44,0.179,22,automatic,ci,ci
@@ -314,5 +315,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T22:52:59.800Z,36.107,-117.8896667,4.52,1.78,ml,22,79,0.0301,0.14,ci,ci40188847,2023-03-24T00:10:24.690Z,"9km NE of Coso Junction, CA",earthquake,0.24,0.28,0.186,22,reviewed,ci,ci
 2023-03-23T22:51:02.730Z,19.5005,-155.468166666667,6.02,2.48,ml,33,71,,0.11,hv,hv73347417,2023-03-23T23:59:24.580Z,"25 km WNW of Volcano, Hawaii",earthquake,0.3,0.83,0.168352458011637,11,reviewed,hv,hv
 2023-03-23T22:49:50.530Z,58.2046666666667,-155.2035,5.06,-0.1,ml,8,112,,0.16,av,av91817181,2023-03-23T23:18:05.490Z,"83 km NNW of Karluk, Alaska",earthquake,0.37,1.14,0.258350277635647,8,reviewed,av,av
-2023-03-23T22:35:16.390Z,38.5471667,-122.5636667,9.85,1.4,md,48,44,0.1102,0.11,nc,nc73861255,2023-03-24T20:31:13.867Z,"4km SSE of Calistoga, CA",earthquake,0.2,0.57,0.198,42,reviewed,nc,nc
-2023-03-23T22:32:36.350Z,19.2534999847412,-155.391006469727,31.1599998474121,1.82000005,md,28,133,,0.129999995,hv,hv73347412,2023-03-23T22:35:50.540Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.75,0.779999971,1.36000001,8,automatic,hv,hv
