@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-24T09:32:36.657Z,37.429,-117.0239,7,1.4,ml,18,151.06,0.373,0.2737,nn,nn00857434,2023-03-24T09:33:57.875Z,"36 km SSE of Goldfield, Nevada",earthquake,,2.1,1.01,12,automatic,nn,nn
 2023-03-24T09:08:38.591Z,63.2728,-151.3375,0,1.8,ml,,,,0.59,ak,ak0233tf0i4z,2023-03-24T09:11:38.767Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-24T08:46:15.000Z,19.1536674499512,-155.363327026367,26.7999992370605,1.79999995,md,38,181,,0.129999995,hv,hv73347982,2023-03-24T08:49:25.190Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.64,1.20000005,0.270000011,16,automatic,hv,hv
 2023-03-24T08:45:13.810Z,33.5398333,-116.7258333,4.57,0.44,ml,18,71,0.02724,0.09,ci,ci40189015,2023-03-24T08:48:48.384Z,"5km WSW of Anza, CA",earthquake,0.21,0.3,0.11,8,automatic,ci,ci
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T07:01:51.890Z,33.9741667,-117.0523333,7.5,0.84,ml,14,94,0.1534,0.35,ci,ci40188983,2023-03-24T07:05:26.571Z,"2km S of Calimesa, CA",earthquake,0.85,6.99,0.183,17,automatic,ci,ci
 2023-03-24T06:34:35.820Z,33.9733333,-117.9456667,13.04,1.49,ml,36,54,0.03331,0.17,ci,ci40188975,2023-03-24T06:38:20.358Z,"2km NNE of La Habra Heights, CA",earthquake,0.26,0.43,0.205,30,automatic,ci,ci
 2023-03-24T06:26:58.880Z,19.1965007781982,-155.458999633789,34.8800010681152,2.57,ml,40,111,,0.140000001,hv,hv73347872,2023-03-24T06:32:28.450Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.62,0.75999999,2.27,16,automatic,hv,hv
-2023-03-24T06:20:55.580Z,38.7608337,-122.7300034,1.63,1.44,md,16,107,0.004091,0.03,nc,nc73861420,2023-03-24T08:27:11.415Z,"3km SE of The Geysers, CA",earthquake,0.31,0.37,0.28,15,automatic,nc,nc
+2023-03-24T06:20:55.580Z,38.7608337,-122.7300034,1.63,1.44,md,16,107,0.004091,0.03,nc,nc73861420,2023-03-24T09:33:15.763Z,"3km SE of The Geysers, CA",earthquake,0.31,0.37,0.28,15,automatic,nc,nc
 2023-03-24T06:12:40.220Z,33.4551667,-116.5813333,6.19,0.88,ml,31,76,0.04311,0.18,ci,ci40188967,2023-03-24T06:16:13.796Z,"14km SE of Anza, CA",earthquake,0.25,0.45,0.143,25,automatic,ci,ci
 2023-03-24T06:12:01.300Z,19.1678333282471,-155.440826416016,34.8400001525879,2.02999997,md,34,161,,0.119999997,hv,hv73347857,2023-03-24T06:15:10.780Z,"5 km SE of Pāhala, Hawaii",earthquake,0.6,1,1.75999999,14,automatic,hv,hv
 2023-03-24T05:42:51.542Z,59.5842,-151.2491,27.7,1.7,ml,,,,0.18,ak,ak0233tcu32d,2023-03-24T05:45:08.699Z,"1 km SW of Halibut Cove, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -65,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T03:22:28.290Z,33.3598333,-116.3083333,10.6,1.73,ml,58,38,0.1291,0.24,ci,ci40188919,2023-03-24T03:34:18.970Z,"13km NNE of Borrego Springs, CA",earthquake,0.27,0.6,0.143,27,automatic,ci,ci
 2023-03-24T03:19:21.548Z,61.0896,-150.5458,36.7,1.7,ml,,,,0.33,ak,ak0233tbi82i,2023-03-24T03:21:16.372Z,"20 km NNE of Point Possession, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-03-24T03:18:12.370Z,19.5041666666667,-155.463,-0.67,1.48,md,22,113,,0.12,hv,hv73347622,2023-03-24T05:14:44.780Z,"24 km WNW of Volcano, Hawaii",earthquake,0.27,0.41,0.27145018136882,8,reviewed,hv,hv
-2023-03-24T03:16:57.198Z,38.462,44.8446,17.884,5.6,mww,93,50,1.18,0.92,us,us7000jmbi,2023-03-24T09:12:28.607Z,"13 km SW of Khowy, Iran",earthquake,5.27,3.76,0.044,50,reviewed,us,us
+2023-03-24T03:16:57.198Z,38.462,44.8446,17.884,5.6,mww,93,50,1.18,0.92,us,us7000jmbi,2023-03-24T09:32:26.477Z,"13 km SW of Khowy, Iran",earthquake,5.27,3.76,0.044,50,reviewed,us,us
 2023-03-24T03:11:23.510Z,19.5113333333333,-155.4595,5.98,1.48,md,27,108,,0.13,hv,hv73347607,2023-03-24T03:44:18.020Z,"24 km WNW of Volcano, Hawaii",earthquake,0.31,0.97,0.288386938182368,5,reviewed,hv,hv
 2023-03-24T03:05:05.690Z,35.5,-118.3866667,7.61,1.58,ml,22,42,0.1773,0.13,ci,ci40188911,2023-03-24T03:08:48.812Z,"14km SE of Bodfish, CA",earthquake,0.19,1.43,0.18,22,automatic,ci,ci
 2023-03-24T03:04:00.400Z,19.4991666666667,-155.461,3.73,3.9,ml,42,71,,0.13,hv,hv73347592,2023-03-24T09:24:00.150Z,"24 km WNW of Volcano, Hawaii",earthquake,0.23,0.87,0.148817256813871,25,reviewed,hv,hv
@@ -260,7 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T09:50:11.800Z,35.51,-118.3575,1.83,1.81,ml,42,36,0.1791,0.17,ci,ci40188543,2023-03-23T17:34:15.790Z,"15km SE of Bodfish, CA",earthquake,0.15,0.69,0.179,29,reviewed,ci,ci
 2023-03-23T09:43:41.740Z,51.8545,-178.073833333333,3.49,1.68,ml,5,201,,0.15,av,av91816761,2023-03-23T17:31:05.740Z,"99 km W of Adak, Alaska",earthquake,0.6,0.41,0.227685533659132,5,reviewed,av,av
 2023-03-23T09:42:12.720Z,51.855,-178.074,3.07,1.35,ml,4,200,,0.15,av,av91816756,2023-03-23T17:34:02.590Z,"99 km W of Adak, Alaska",earthquake,0.66,1.06,0.169373729563983,4,reviewed,av,av
-2023-03-23T09:31:26.560Z,38.8321648,-122.8171692,1.66,0.88,md,9,83,0.01036,0.01,nc,nc73860940,2023-03-23T10:19:15.559Z,"8km NW of The Geysers, CA",earthquake,0.4,1.32,0.09,2,automatic,nc,nc
-2023-03-23T09:30:54.868Z,39.0149,-119.6602,12.1,1.1,ml,9,66.85,0.088,0.1725,nn,nn00857407,2023-03-24T02:02:51.301Z,"6 km SE of Johnson Lane, Nevada",earthquake,,1.9,0.81,2,reviewed,nn,nn
-2023-03-23T09:29:50.559Z,39.0169,-119.6616,11.8,1.4,ml,21,66.34,0.087,0.1298,nn,nn00857391,2023-03-24T02:02:41.570Z,"6 km ESE of Johnson Lane, Nevada",earthquake,,0.7,0.11,7,reviewed,nn,nn
-2023-03-23T09:27:27.610Z,37.0045,-112.9241667,18.4,2,ml,12,188,0.08267,0.11,uu,uu60534916,2023-03-23T16:51:45.460Z,"3 km E of Hildale, Utah",earthquake,0.42,0.63,0.423,3,reviewed,uu,uu
