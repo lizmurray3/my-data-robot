@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-24T04:32:02.830Z,19.4785003662109,-155.451507568359,-2.01999998092651,2.04999995,md,28,74,,0.319999993,hv,hv73347742,2023-03-24T04:35:19.180Z,"23 km W of Volcano, Hawaii",earthquake,0.73,0.289999992,1.41999996,7,automatic,hv,hv
+2023-03-24T04:32:03.120Z,19.4996666666667,-155.4645,0.38,2.04,md,37,73,,0.15,hv,hv73347742,2023-03-24T04:45:34.130Z,"25 km WNW of Volcano, Hawaii",earthquake,0.23,0.6,0.0967313018496372,8,reviewed,hv,hv
+2023-03-24T04:25:26.072Z,29.9829,141.9136,4.574,5.4,mww,82,92,3.601,0.77,us,us7000jmc2,2023-03-24T04:49:37.688Z,"Izu Islands, Japan region",earthquake,9.93,4.233,0.089,12,reviewed,us,us
 2023-03-24T04:22:53.750Z,17.9411666666667,-66.8493333333333,11,2.07,md,5,213,0.04413,0.12,pr,pr71401323,2023-03-24T04:34:22.030Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,2.49,0.63,0.0003531941645738,3,reviewed,pr,pr
 2023-03-24T04:21:35.930Z,19.5036666666667,-155.481,5.56,1.33,md,22,99,,0.16,hv,hv73347737,2023-03-24T04:35:59.720Z,"26 km WNW of Volcano, Hawaii",earthquake,0.31,0.95,0.207758998855135,6,reviewed,hv,hv
 2023-03-24T04:17:14.259Z,64.9961,-147.7217,9.8,0,ml,,,,0.66,ak,ak0233tc336g,2023-03-24T04:38:11.223Z,"6 km NW of Fox, Alaska",earthquake,,1.7,,,reviewed,ak,ak
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T03:26:52.830Z,19.5021666666667,-155.466166666667,-0.84,2.07,ml,19,112,,0.12,hv,hv73347637,2023-03-24T03:52:55.690Z,"25 km WNW of Volcano, Hawaii",earthquake,0.31,0.44,0.200975847937214,9,reviewed,hv,hv
 2023-03-24T03:22:28.290Z,33.3598333,-116.3083333,10.6,1.73,ml,58,38,0.1291,0.24,ci,ci40188919,2023-03-24T03:34:18.970Z,"13km NNE of Borrego Springs, CA",earthquake,0.27,0.6,0.143,27,automatic,ci,ci
 2023-03-24T03:19:21.548Z,61.0896,-150.5458,36.7,1.7,ml,,,,0.33,ak,ak0233tbi82i,2023-03-24T03:21:16.372Z,"20 km NNE of Point Possession, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-03-24T03:16:57.198Z,38.462,44.8446,17.884,5.6,mww,93,50,1.18,0.92,us,us7000jmbi,2023-03-24T04:37:13.773Z,"13 km SW of Khowy, Iran",earthquake,5.27,3.76,0.044,50,reviewed,us,us
+2023-03-24T03:16:57.198Z,38.462,44.8446,17.884,5.6,mww,93,50,1.18,0.92,us,us7000jmbi,2023-03-24T04:42:37.570Z,"13 km SW of Khowy, Iran",earthquake,5.27,3.76,0.044,50,reviewed,us,us
 2023-03-24T03:11:23.510Z,19.5113333333333,-155.4595,5.98,1.48,md,27,108,,0.13,hv,hv73347607,2023-03-24T03:44:18.020Z,"24 km WNW of Volcano, Hawaii",earthquake,0.31,0.97,0.288386938182368,5,reviewed,hv,hv
 2023-03-24T03:05:05.690Z,35.5,-118.3866667,7.61,1.58,ml,22,42,0.1773,0.13,ci,ci40188911,2023-03-24T03:08:48.812Z,"14km SE of Bodfish, CA",earthquake,0.19,1.43,0.18,22,automatic,ci,ci
 2023-03-24T03:04:00.400Z,19.4991666666667,-155.461,3.73,3.9,ml,42,71,,0.13,hv,hv73347592,2023-03-24T04:31:20.922Z,"24 km WNW of Volcano, Hawaii",earthquake,0.23,0.87,0.148817256813871,25,reviewed,hv,hv
@@ -288,4 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T05:02:49.442Z,31.69335162,-104.3646491,6.388647461,2,ml,15,56,0.06414967322,0.2,tx,tx2023fsjt,2023-03-23T19:36:08.900Z,"western Texas",earthquake,0.9182867942,1.229405387,0.1,33,reviewed,tx,tx
 2023-03-23T05:00:38.510Z,34.0071667,-117.2165,7.98,1.22,ml,61,43,0.06983,0.16,ci,ci40188487,2023-03-23T14:27:38.318Z,"6km SE of Loma Linda, CA",earthquake,0.13,0.48,0.122,28,reviewed,ci,ci
 2023-03-23T04:53:38.520Z,35.5091667,-118.3565,0.74,1.89,ml,42,36,0.1784,0.17,ci,ci40188479,2023-03-23T14:16:02.040Z,"15km SE of Bodfish, CA",earthquake,0.15,0.37,0.19,30,reviewed,ci,ci
-2023-03-23T04:49:44.970Z,38.8096657,-122.7921677,3.87,0.38,md,5,197,0.002979,0.04,nc,nc73860875,2023-03-23T06:43:13.296Z,"5km NW of The Geysers, CA",earthquake,2.92,2.09,0.16,9,automatic,nc,nc
