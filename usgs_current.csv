@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-24T22:39:42.250Z,33.1848333,-116.4098333,10.28,1.57,ml,59,30,0.08337,0.24,ci,ci40189599,2023-03-24T22:43:20.553Z,"8km SSW of Borrego Springs, CA",earthquake,0.26,0.69,0.14,26,automatic,ci,ci
+2023-03-24T22:37:55.560Z,36.1834984,-120.7721634,2.47,1.89,md,17,139,0.04,0.13,nc,nc73861790,2023-03-24T22:39:32.582Z,"22km NNE of San Ardo, CA",earthquake,0.75,1.75,0.06,9,automatic,nc,nc
 2023-03-24T22:31:03.410Z,36.7019997,-121.3421631,3.54,1.71,md,13,148,0.006473,0.09,nc,nc73861785,2023-03-24T22:32:37.466Z,"10km SSW of Tres Pinos, CA",earthquake,0.47,0.68,0.27,13,automatic,nc,nc
 2023-03-24T21:51:56.285Z,63.5705,-147.3584,0,2.2,ml,,,,0.58,ak,ak0233tmeyjw,2023-03-24T21:54:02.382Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-24T21:50:07.570Z,17.9621666666667,-66.9691666666667,9.1,2.15,md,6,195,0.05846,0.1,pr,pr71401463,2023-03-24T22:00:05.230Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.97,0.0132257722705891,3,reviewed,pr,pr
+2023-03-24T21:49:46.800Z,51.8568333333333,-178.084666666667,3.25,1.53,ml,5,207,,0.17,av,av91818101,2023-03-24T22:42:34.570Z,"99 km W of Adak, Alaska",earthquake,0.66,0.49,0.175619115938914,5,reviewed,av,av
 2023-03-24T21:44:08.700Z,33.1893333,-116.4061667,11.35,1.09,ml,31,74,0.07919,0.18,ci,ci40189567,2023-03-24T21:47:45.961Z,"8km SSW of Borrego Springs, CA",earthquake,0.29,0.44,0.179,22,automatic,ci,ci
 2023-03-24T21:39:32.880Z,33.1875,-116.398,10.42,1.06,ml,33,65,0.08207,0.23,ci,ci40189559,2023-03-24T21:43:07.352Z,"8km SSW of Borrego Springs, CA",earthquake,0.38,0.78,0.145,23,automatic,ci,ci
 2023-03-24T21:29:04.930Z,19.2721672058105,-155.391830444336,-0.709999978542328,2.37,ml,35,124,,0.310000002,hv,hv73348447,2023-03-24T21:44:17.040Z,"11 km NE of Pāhala, Hawaii",earthquake,0.56,0.280000001,0.26,14,automatic,hv,hv
