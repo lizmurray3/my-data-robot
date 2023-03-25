@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-25T07:31:23.168Z,59.9795,-147.0461,3.8,2.6,ml,,,,0.85,ak,ak0233v1hvp8,2023-03-25T07:33:26.516Z,"54 km E of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-25T07:29:23.640Z,38.8153343,-122.8259964,2.15,0.89,md,12,71,0.006919,0.02,nc,nc73861980,2023-03-25T07:30:58.977Z,"7km NW of The Geysers, CA",earthquake,0.34,0.76,0.21,13,automatic,nc,nc
 2023-03-25T07:27:51.590Z,38.8001671,-122.7726669,1.21,1.04,md,19,74,0.01013,0.02,nc,nc73861975,2023-03-25T07:29:29.086Z,"3km NNW of The Geysers, CA",earthquake,0.21,0.37,0.24,19,automatic,nc,nc
 2023-03-25T07:25:52.546Z,60.87,-150.5663,15.6,1.4,ml,,,,0.38,ak,ak0233v1gno6,2023-03-25T07:27:55.167Z,"8 km SE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T07:20:05.330Z,36.0006676,-120.559166,2.41,0.95,md,11,87,0.02026,0.06,nc,nc73861965,2023-03-25T07:21:44.217Z,"16km NW of Parkfield, CA",earthquake,0.33,0.67,0.33,4,automatic,nc,nc
@@ -29,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T04:14:35.440Z,38.7893333,-122.767334,1.71,1.06,md,15,77,0.01275,0.03,nc,nc73861890,2023-03-25T05:06:14.918Z,"2km NW of The Geysers, CA",earthquake,0.31,0.53,0.1,15,automatic,nc,nc
 2023-03-25T04:11:29.250Z,51.8611666666667,-178.069166666667,-1.8,1.66,ml,5,184,,0.24,av,av91818296,2023-03-25T04:39:11.460Z,"98 km W of Adak, Alaska",earthquake,0.73,1.4,0.26190431252114,5,reviewed,av,av
 2023-03-25T04:10:19.078Z,61.4741,-148.7414,30.4,1.6,ml,,,,0.47,ak,ak0233uzl2j7,2023-03-25T04:11:54.861Z,"9 km E of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2023-03-25T04:03:45.330Z,35.7669983,-120.3246689,7.58,1.1,md,10,133,0.01378,0.02,nc,nc73861885,2023-03-25T07:03:10.608Z,"6km NNW of Cholame, CA",earthquake,1.41,0.8,0.27,4,automatic,nc,nc
+2023-03-25T04:03:45.330Z,35.7669983,-120.3246689,7.58,1.1,md,10,133,0.01378,0.02,nc,nc73861885,2023-03-25T07:32:15.752Z,"6km NNW of Cholame, CA",earthquake,1.41,0.8,0.27,4,automatic,nc,nc
 2023-03-25T04:02:42.250Z,38.8183327,-122.824501,2.2,0.43,md,10,63,0.009511,0.02,nc,nc73861880,2023-03-25T04:42:15.776Z,"8km NW of The Geysers, CA",earthquake,0.35,0.82,0.24,10,automatic,nc,nc
 2023-03-25T03:42:35.220Z,51.8545,-178.079,3.65,1.23,ml,4,205,,0.19,av,av91095998,2023-03-25T04:47:09.890Z,"99 km W of Adak, Alaska",earthquake,0.84,0.74,0.304275006871323,4,reviewed,av,av
 2023-03-25T03:39:29.568Z,58.1771,-155.2676,0,0.2,ml,,,,0.32,ak,ak0233uz5vi4,2023-03-25T04:32:17.550Z,"83 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -316,4 +318,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T07:45:28.819Z,37.1233,-117.3497,5.4,0.5,ml,5,152.43,0.128,0.1766,nn,nn00857444,2023-03-24T18:04:08.340Z,"57 km WNW of Beatty, Nevada",earthquake,,5.6,0.76,4,reviewed,nn,nn
 2023-03-24T07:42:23.730Z,51.8616666666667,-178.0905,3.68,1.42,ml,5,209,,0.15,av,av91095863,2023-03-24T17:48:52.860Z,"100 km W of Adak, Alaska",earthquake,0.64,0.5,0.222577686001431,5,reviewed,av,av
 2023-03-24T07:40:38.430Z,18.0315,-66.2298333333333,14.35,2.95,md,15,146,0.1083,0.18,pr,pr71401363,2023-03-24T11:01:24.541Z,"3 km WSW of La Plena, Puerto Rico",earthquake,0.46,0.88,0.0710008541519263,9,reviewed,pr,pr
-2023-03-24T07:35:50.090Z,51.8546666666667,-178.082166666667,3.25,0.86,ml,5,207,,0.16,av,av91817536,2023-03-25T02:42:32.100Z,"99 km W of Adak, Alaska",earthquake,0.5,0.57,0.205307721392529,5,reviewed,av,av
