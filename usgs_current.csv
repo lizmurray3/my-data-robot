@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-25T06:22:48.240Z,37.3016663,-121.6743317,6.59,1.25,md,8,78,0.04262,0.03,nc,nc73861945,2023-03-25T06:24:23.767Z,"15km E of Seven Trees, CA",earthquake,0.34,1.21,0.19,7,automatic,nc,nc
 2023-03-25T06:22:33.770Z,19.1669998168945,-155.484664916992,29.6900005340576,1.79999995,md,25,158,,0.109999999,hv,hv73348822,2023-03-25T06:25:42.220Z,"4 km S of Pāhala, Hawaii",earthquake,0.79,1.07000005,0.889999986,3,automatic,hv,hv
-2023-03-25T06:17:34.310Z,38.8349991,-122.8061676,2.17,0.92,md,14,76,0.01198,0.01,nc,nc73861940,2023-03-25T06:19:08.802Z,"7km WNW of Cobb, CA",earthquake,0.29,0.7,0.2,16,automatic,nc,nc
+2023-03-25T06:17:34.310Z,38.8349991,-122.8061676,2.17,0.92,md,14,76,0.01198,0.01,nc,nc73861940,2023-03-25T06:31:10.416Z,"7km WNW of Cobb, CA",earthquake,0.29,0.7,0.2,16,automatic,nc,nc
 2023-03-25T06:10:17.810Z,33.1841667,-116.4091667,11.25,1.14,ml,34,50,0.08407,0.19,ci,ci40189695,2023-03-25T06:13:54.466Z,"9km SSW of Borrego Springs, CA",earthquake,0.32,0.47,0.174,28,automatic,ci,ci
 2023-03-25T06:08:01.240Z,38.8300018,-122.817337,1.74,0.7,md,10,101,0.008701,0.02,nc,nc73861935,2023-03-25T06:20:10.350Z,"8km NW of The Geysers, CA",earthquake,0.31,0.72,0.22,10,automatic,nc,nc
 2023-03-25T06:00:20.800Z,38.8079987,-122.8113327,1.83,1.07,md,22,55,0.01252,0.02,nc,nc73861930,2023-03-25T06:13:11.314Z,"6km NW of The Geysers, CA",earthquake,0.2,0.45,0.16,23,automatic,nc,nc
@@ -314,5 +314,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T07:09:04.242Z,40.1694,-119.8155,1.1,0.5,ml,3,215.21,0.064,0.082,nn,nn00857442,2023-03-24T17:42:29.220Z,"27 km E of Herlong, California",earthquake,,40.8,0.23,2,reviewed,nn,nn
 2023-03-24T07:01:51.230Z,33.9773333,-117.051,16.68,0.76,ml,19,100,0.1503,0.13,ci,ci40188983,2023-03-24T20:20:04.249Z,"1km S of Calimesa, CA",earthquake,0.27,0.93,0.134,9,reviewed,ci,ci
 2023-03-24T06:49:41.000Z,51.8636666666667,-178.089,2.65,0.75,ml,4,205,,0.24,av,av91817511,2023-03-25T02:45:17.210Z,"100 km W of Adak, Alaska",earthquake,0.93,1.79,0.323926903658841,4,reviewed,av,av
-2023-03-24T06:34:35.660Z,33.9656667,-117.9448333,13.44,1.49,ml,46,109,0.02678,0.16,ci,ci40188975,2023-03-24T20:07:18.794Z,"1km NE of La Habra Heights, CA",earthquake,0.2,0.29,0.193,25,reviewed,ci,ci
-2023-03-24T06:27:34.850Z,51.8615,-178.080166666667,3.34,1.01,ml,4,197,,0.27,av,av91817481,2023-03-24T19:05:48.650Z,"99 km W of Adak, Alaska",earthquake,2.14,0.88,0.176248146229406,4,reviewed,av,av
