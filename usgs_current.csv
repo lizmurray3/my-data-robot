@@ -16,11 +16,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T04:00:37.000Z,38.8258324,-122.8011703,2.44,0.91,md,18,45,0.007368,0.01,nc,nc73862825,2023-03-27T04:27:16.598Z,"7km NW of The Geysers, CA",earthquake,0.25,0.47,0.19,20,automatic,nc,nc
 2023-03-27T03:55:27.160Z,34.0226667,-117.6063333,3.28,1.42,ml,44,31,0.04128,0.22,ci,ci40190415,2023-03-27T04:07:43.281Z,"4km SSE of Ontario, CA",earthquake,0.24,0.35,0.146,29,automatic,ci,ci
 2023-03-27T03:54:18.380Z,38.8358345,-122.8085022,2.13,0.7,md,12,57,0.01248,0.01,nc,nc73862820,2023-03-27T04:13:14.532Z,"8km WNW of Cobb, CA",earthquake,0.31,0.95,0.5,13,automatic,nc,nc
-2023-03-27T03:37:59.380Z,38.7989998,-122.7543335,1.79,1.29,md,24,95,0.004505,0.03,nc,nc73862815,2023-03-27T03:57:16.450Z,"2km N of The Geysers, CA",earthquake,0.25,0.4,0.21,24,automatic,nc,nc
+2023-03-27T03:37:59.380Z,38.7989998,-122.7543335,1.79,1.29,md,24,95,0.004505,0.03,nc,nc73862815,2023-03-27T05:31:10.989Z,"2km N of The Geysers, CA",earthquake,0.25,0.4,0.21,24,automatic,nc,nc
 2023-03-27T03:29:06.960Z,19.0095,-65.038,12.07,3.26,md,6,277,0.6582,0.22,pr,pr71401708,2023-03-27T03:41:57.550Z,"74 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.2,3.29,0.0216891460649729,3,reviewed,pr,pr
 2023-03-27T03:22:34.060Z,33.7646667,-116.938,13.29,1.11,ml,38,36,0.04989,0.22,ci,ci40190399,2023-03-27T03:26:11.504Z,"3km SE of San Jacinto, CA",earthquake,0.28,0.54,0.163,26,automatic,ci,ci
 2023-03-27T03:17:28.545Z,62.4015,-149.7298,63.6,1,ml,,,,0.28,ak,ak0233ya3unq,2023-03-27T03:20:22.660Z,"19 km ESE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-03-27T03:15:59.150Z,38.7611656,-122.7268295,2.03,1.81,md,38,69,0.02265,0.06,nc,nc73862810,2023-03-27T05:04:11.816Z,"3km SE of The Geysers, CA",earthquake,0.24,0.41,0.2,38,automatic,nc,nc
+2023-03-27T03:15:59.150Z,38.7611656,-122.7268295,2.03,1.81,md,38,69,0.02265,0.06,nc,nc73862810,2023-03-27T05:35:18.018Z,"3km SE of The Geysers, CA",earthquake,0.24,0.41,0.2,38,automatic,nc,nc
 2023-03-27T03:08:57.740Z,38.8186684,-122.7851639,1.96,0.22,md,7,102,0.006436,0.02,nc,nc73862805,2023-03-27T05:09:16.847Z,"5km NNW of The Geysers, CA",earthquake,0.94,1.95,0.09,7,automatic,nc,nc
 2023-03-27T02:56:06.731Z,-5.5666,146.923,186.972,4.6,mb,36,92,3.821,0.77,us,us7000jmyc,2023-03-27T03:17:34.040Z,"128 km N of Lae, Papua New Guinea",earthquake,12.04,7.874,0.101,29,reviewed,us,us
 2023-03-27T02:53:43.417Z,-22.7695,171.7227,10.385,5,mb,47,101,3.952,0.94,us,us7000jmyb,2023-03-27T03:09:14.040Z,"southeast of the Loyalty Islands",earthquake,10.18,4.85,0.093,37,reviewed,us,us
