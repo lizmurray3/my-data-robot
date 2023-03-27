@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T11:57:08.370Z,38.8191681,-122.7641678,1.72,1.08,md,18,115,0.01215,0.03,nc,nc73862520,2023-03-26T14:19:14.613Z,"4km W of Cobb, CA",earthquake,0.26,0.38,0.17,18,automatic,nc,nc
 2023-03-26T11:49:19.800Z,38.8338318,-122.7990036,2.12,0.7,md,8,75,0.008163,0.01,nc,nc73862515,2023-03-26T12:16:13.865Z,"7km W of Cobb, CA",earthquake,0.53,1.69,0.12,8,automatic,nc,nc
 2023-03-26T11:49:06.630Z,38.8274994,-122.7945023,0.72,0.42,md,6,139,0.01137,0.01,nc,nc73862510,2023-03-26T12:09:11.816Z,"6km W of Cobb, CA",earthquake,0.47,1.23,0.3,8,automatic,nc,nc
-2023-03-26T11:42:52.310Z,33.6918333,-116.7091667,15.93,0.65,ml,16,103,0.01973,0.12,ci,ci40190199,2023-03-26T14:07:04.608Z,"5km S of Idyllwild, CA",earthquake,0.34,0.56,0.15,11,reviewed,ci,ci
-2023-03-26T11:39:00.915Z,-25.6955,-69.1855,6.319,5,mww,83,63,0.645,0.7,us,us7000jmuh,2023-03-26T11:57:32.040Z,"114 km NE of Diego de Almagro, Chile",earthquake,1.56,3.776,0.063,24,reviewed,us,us
