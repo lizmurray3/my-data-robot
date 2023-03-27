@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-27T04:32:47.300Z,37.6308327,-118.9621658,4.94,0.53,md,10,162,0.03124,0.02,nc,nc73862850,2023-03-27T04:34:25.329Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.78,2.32,0.11,9,automatic,nc,nc
+2023-03-27T04:47:35.905Z,61.6517,-152.1716,116.6,1.7,ml,,,,0.45,ak,ak0233yavqba,2023-03-27T04:49:28.581Z,"55 km SW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-27T04:45:03.820Z,35.8195,-117.6358333,13.7,1.17,ml,12,158,0.1055,0.22,ci,ci40190431,2023-03-27T04:48:31.081Z,"22km WNW of Searles Valley, CA",earthquake,0.79,1.24,0.082,8,automatic,ci,ci
+2023-03-27T04:39:15.248Z,18.8381,-155.1649,20.782,4.4,ml,18,272,0.444,1.07,us,us7000jmyl,2023-03-27T04:49:47.098Z,"Hawaii region, Hawaii",earthquake,2.39,8.442,0.056,42,reviewed,us,us
+2023-03-27T04:32:47.300Z,37.6308327,-118.9621658,4.94,0.53,md,10,162,0.03124,0.02,nc,nc73862850,2023-03-27T04:42:10.683Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.78,2.32,0.11,9,automatic,nc,nc
 2023-03-27T04:24:10.513Z,58.2023,-155.3982,0,1.3,ml,,,,1.01,ak,ak0233yaqqvv,2023-03-27T04:29:13.399Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-03-27T04:23:12.070Z,38.8321648,-122.7963333,1,0.86,md,9,80,0.007795,0.01,nc,nc73862845,2023-03-27T04:35:11.784Z,"6km W of Cobb, CA",earthquake,0.32,1.08,0.25,10,automatic,nc,nc
 2023-03-27T04:22:18.302Z,-24.3046,-67.2997,180.766,4.1,mb,19,125,1.569,0.77,us,us7000jmyk,2023-03-27T04:36:49.040Z,"Salta, Argentina",earthquake,10.22,9.932,0.234,5,reviewed,us,us
@@ -21,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T02:42:37.872Z,-26.154,178.5166,630.659,4.5,mb,34,73,4.406,0.94,us,us7000jmy9,2023-03-27T02:57:28.040Z,"south of the Fiji Islands",earthquake,11.89,7.558,0.112,23,reviewed,us,us
 2023-03-27T02:32:02.240Z,38.7915001,-122.7614975,2.1,0.78,md,13,76,0.009218,0.02,nc,nc73862790,2023-03-27T04:07:10.650Z,"2km NNW of The Geysers, CA",earthquake,0.3,0.71,0.29,13,automatic,nc,nc
 2023-03-27T02:29:21.602Z,-17.8319,-178.213,466.766,5.5,mww,94,33,3.505,0.66,us,us7000jmy4,2023-03-27T04:32:21.598Z,"262 km E of Levuka, Fiji",earthquake,9.79,5.679,0.089,12,reviewed,us,us
-2023-03-27T02:22:34.650Z,38.8343315,-122.8161697,1.78,0.48,md,10,78,0.01191,0,nc,nc73862785,2023-03-27T02:40:14.963Z,"8km W of Cobb, CA",earthquake,0.36,0.98,0.35,13,automatic,nc,nc
+2023-03-27T02:22:34.650Z,38.8343315,-122.8161697,1.78,0.48,md,10,78,0.01191,0,nc,nc73862785,2023-03-27T04:43:13.690Z,"8km W of Cobb, CA",earthquake,0.36,0.98,0.35,13,automatic,nc,nc
 2023-03-27T02:19:19.587Z,61.5523,-148.029,0,1,ml,,,,1.13,ak,ak0233y9itsm,2023-03-27T02:20:53.276Z,"34 km SW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-27T02:11:16.150Z,33.5363333,-116.566,15.69,0.62,ml,20,135,0.03606,0.19,ci,ci40190383,2023-03-27T02:14:55.077Z,"10km ESE of Anza, CA",earthquake,0.61,0.5,0.142,10,automatic,ci,ci
 2023-03-27T02:10:11.450Z,34.4013333,-116.4528333,11.35,1.73,ml,34,53,0.1241,0.19,ci,ci40190375,2023-03-27T02:21:21.490Z,"32km N of Yucca Valley, CA",earthquake,0.26,0.75,0.174,27,automatic,ci,ci
@@ -214,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T05:01:00.850Z,36.185,-118.0555,2.41,1.19,ml,10,139,0.1758,0.11,ci,ci40189951,2023-03-26T14:09:40.127Z,"12km SSW of Olancha, CA",earthquake,0.27,0.97,0.159,11,reviewed,ci,ci
 2023-03-26T04:58:09.220Z,19.1709995269775,-155.491668701172,34.9599990844727,2.35,ml,38,151,,0.129999995,hv,hv73349422,2023-03-26T05:11:09.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.67,0.839999974,2.74,10,automatic,hv,hv
 2023-03-26T04:53:28.360Z,58.0039,-154.679,34.7,1.2,ml,,,,0.45,ak,ak0233wndnj8,2023-03-26T04:55:24.134Z,"50 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-26T04:43:49.523Z,21.5254,121.4208,10,4.4,mb,33,123,1.324,0.57,us,us7000jmt2,2023-03-26T06:31:29.479Z,"87 km SE of Hengchun, Taiwan",earthquake,6.23,1.896,0.12,21,reviewed,us,us
