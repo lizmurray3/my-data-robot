@@ -325,6 +325,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T11:07:39.350Z,33.616,-116.6515,16.14,1.01,ml,46,43,0.04961,0.13,ci,ci40191207,2023-03-29T17:55:16.997Z,"7km NNE of Anza, CA",earthquake,0.15,0.24,0.136,26,reviewed,ci,ci
 2023-03-29T10:57:24.830Z,41.9494,-119.6278,0,1.2,ml,3,314.77,0.505,0.0936,nn,nn00857612,2023-03-29T17:06:06.167Z,"44 km ENE of Fort Bidwell, California",earthquake,,0,0,1,reviewed,nn,nn
 2023-03-29T10:56:48.710Z,19.2273330688477,-155.438339233398,33.7999992370605,1.75,ml,32,120,,0.129999995,hv,hv73352062,2023-03-29T11:02:29.480Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.67,0.949999988,0.19,3,automatic,hv,hv
-2023-03-29T10:44:53.245Z,62.113,-151.1482,0,2.6,ml,,,,0.8,ak,ak02341pif3p,2023-03-29T12:59:56.040Z,"18 km NE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-29T10:43:36.971Z,39.9939,-119.9675,4.4,0.4,ml,3,158.37,0.12,0.023,nn,nn00857611,2023-03-29T16:59:54.774Z,"Nevada",earthquake,,23.9,0.17,2,reviewed,nn,nn
-2023-03-29T10:39:28.734Z,58.2855,-154.9787,1.2,0.4,ml,,,,0.25,ak,ak02341phand,2023-03-29T10:41:03.154Z,"85 km NNW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
