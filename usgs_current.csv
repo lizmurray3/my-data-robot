@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-30T17:23:09.940Z,38.7966652,-122.7483368,1.29,1.48,md,20,96,0.009728,0.03,nc,nc73864515,2023-03-30T17:24:46.210Z,"2km NNE of The Geysers, CA",earthquake,0.23,0.38,0.16,21,automatic,nc,nc
+2023-03-30T17:23:09.940Z,38.7966652,-122.7483368,1.29,1.48,md,20,96,0.009728,0.03,nc,nc73864515,2023-03-30T17:36:11.251Z,"2km NNE of The Geysers, CA",earthquake,0.23,0.38,0.16,21,automatic,nc,nc
+2023-03-30T17:18:55.731Z,43.2655,-110.8848,5,3.3,ml,27,85,0.216,0.64,us,us6000k0x6,2023-03-30T17:39:37.662Z,"8 km WSW of Hoback, Wyoming",earthquake,1.56,1.653,0.048,56,reviewed,us,us
 2023-03-30T17:17:38.316Z,64.6071,-148.3501,14.7,0.6,ml,,,,1.13,ak,ak02343h1zd3,2023-03-30T17:20:04.837Z,"31 km SSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T16:42:39.609Z,64.8718,-151.1863,15.5,1.1,ml,,,,0.45,ak,ak02343glwr4,2023-03-30T16:47:16.964Z,"29 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T16:21:30.430Z,38.7949982,-122.7476654,2.26,0.5,md,9,94,0.01096,0.03,nc,nc73864500,2023-03-30T16:49:13.979Z,"2km NNE of The Geysers, CA",earthquake,0.33,1.03,0.28,9,automatic,nc,nc
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T18:21:26.880Z,36.5408333333333,-89.6985,4.96,1.62,md,19,59,0.0261,0.03,nm,nm60516861,2023-03-30T16:25:01.890Z,"7 km S of Catron, Missouri",earthquake,0.55,0.25,0.0476852272382298,14,reviewed,nm,nm
 2023-03-29T18:15:42.428Z,58.2617,-155.0973,1.9,0.1,ml,,,,0.23,ak,ak02341u3ncy,2023-03-29T18:17:28.602Z,"86 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-29T18:10:19.540Z,-8.2471,116.7308,12.409,4.9,mb,75,41,1.184,0.63,us,us6000k0p7,2023-03-30T08:56:29.469Z,"28 km NNE of Labuan Lombok, Indonesia",earthquake,5.23,3.876,0.074,63,reviewed,us,us
-2023-03-29T17:41:35.302Z,60.8571,-149.6823,30.6,1.5,ml,,,,0.54,ak,ak02341tnrtm,2023-03-29T17:43:22.079Z,"7 km SSW of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
