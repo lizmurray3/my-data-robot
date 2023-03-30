@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-30T15:36:28.247Z,57.7632,-155.0273,65.7,3.3,ml,,,,0.47,ak,ak02343fz5yg,2023-03-30T15:38:23.574Z,"40 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T14:39:05.030Z,35.614666,-120.2723312,6.2,1.98,md,12,168,0.09373,0.08,nc,nc73864470,2023-03-30T15:11:14.462Z,"10km ESE of Shandon, CA",earthquake,0.47,0.89,0.24,11,automatic,nc,nc
 2023-03-30T14:34:41.560Z,38.8063316,-122.7968369,3.29,1.06,md,15,75,0.002026,0.01,nc,nc73864465,2023-03-30T15:00:13.411Z,"5km NW of The Geysers, CA",earthquake,0.4,0.64,0.2,17,automatic,nc,nc
 2023-03-30T14:28:23.640Z,38.6851654,-122.8308334,5.08,1.31,md,11,217,0.06293,0.03,nc,nc73864460,2023-03-30T14:46:12.343Z,"9km NNE of Healdsburg, CA",earthquake,0.92,1.78,0.11,12,automatic,nc,nc
@@ -258,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T16:06:39.256Z,58.2388,-155.9213,12.9,0.8,ml,,,,0.16,ak,ak02341suugl,2023-03-29T16:07:41.828Z,"66 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-29T16:01:55.790Z,44.5231667,-110.3601667,2.57,1.26,md,11,72,0.04738,0.15,uu,uu60535611,2023-03-29T16:20:41.740Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.32,1.29,0.228,7,reviewed,uu,uu
 2023-03-29T15:53:10.480Z,44.5095,-110.3506667,3.53,1.5,ml,15,72,0.06238,0.13,uu,uu60535606,2023-03-29T16:29:32.370Z,"58 km SSE of Mammoth, Wyoming",earthquake,0.29,0.8,0.326,2,reviewed,uu,uu
-2023-03-29T15:40:04.240Z,33.886,-116.8846667,13.04,1.59,ml,59,40,0.08811,0.14,ci,ci40191279,2023-03-29T18:29:37.510Z,"4km S of Banning, CA",earthquake,0.12,0.42,0.166,37,reviewed,ci,ci
-2023-03-29T15:38:28.354Z,37.0495,-116.463,6,1,ml,9,100.23,0.064,0.1172,nn,nn00857622,2023-03-29T20:33:10.949Z,"30 km ENE of Beatty, Nevada",earthquake,,2.4,0.83,7,reviewed,nn,nn
