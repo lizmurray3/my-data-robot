@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-31T11:26:22.318Z,59.1647,-145.1426,5.5,2.3,ml,,,,0.17,ak,ak0234512mfr,2023-03-31T11:28:53.881Z,"157 km SSE of Cordova, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-31T11:09:13.890Z,36.0756667,-117.6528333,2.05,1.84,ml,18,107,0.1173,0.12,ci,ci39508034,2023-03-31T11:19:51.540Z,"27km E of Coso Junction, CA",earthquake,0.28,0.76,0.16,19,automatic,ci,ci
+2023-03-31T11:06:24.810Z,18.0253333333333,-66.8783333333333,13.88,1.95,md,4,174,0.05002,0.03,pr,pr71402168,2023-03-31T11:28:20.140Z,"1 km NNW of Palomas, Puerto Rico",earthquake,4.41,1.57,0.0402949243351789,2,reviewed,pr,pr
 2023-03-31T10:53:07.210Z,38.8349991,-122.8048325,-0.85,0.35,md,7,80,0.02072,0.17,nc,nc73864835,2023-03-31T11:06:11.353Z,"7km WNW of Cobb, CA",earthquake,0.48,5.09,0.2,8,automatic,nc,nc
 2023-03-31T10:48:07.016Z,36.8289,-115.9515,3,1.2,ml,27,71.11,0.031,0.1661,nn,nn00857713,2023-03-31T10:49:42.976Z,"38 km NW of Indian Springs, Nevada",earthquake,,0.5,0.85,18,automatic,nn,nn
 2023-03-31T10:46:22.431Z,-24.7616,-70.1594,53.385,5.2,mww,69,93,0.26,0.98,us,us6000k138,2023-03-31T11:07:35.040Z,"78 km NNE of Taltal, Chile",earthquake,4.05,3.154,0.086,13,reviewed,us,us
@@ -29,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T08:17:36.200Z,18.7761666666667,-67.3933333333333,11.45,3.41,md,12,214,0.398,0.3,pr,pr71402138,2023-03-31T09:10:59.500Z,"44 km NW of San Antonio, Puerto Rico",earthquake,1.13,0.93,0.0159824998497116,5,reviewed,pr,pr
 2023-03-31T08:13:44.877Z,60.9978,-152.2485,116,2.1,ml,,,,0.47,ak,ak02344z7l1v,2023-03-31T08:16:49.414Z,"60 km W of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-31T08:11:24.220Z,33.7156667,-116.763,16.18,1.13,ml,40,35,0.04095,0.17,ci,ci39507994,2023-03-31T08:15:04.802Z,"5km WSW of Idyllwild, CA",earthquake,0.2,0.4,0.188,27,automatic,ci,ci
-2023-03-31T07:58:33.810Z,37.0716667,-121.4976667,7.59,0.71,md,15,109,0.04613,0.09,nc,nc73864795,2023-03-31T10:41:12.198Z,"10km NE of Gilroy, CA",earthquake,0.35,0.64,0.183,14,reviewed,nc,nc
+2023-03-31T07:58:33.810Z,37.0716667,-121.4976667,7.59,0.71,md,15,109,0.04613,0.09,nc,nc73864795,2023-03-31T11:23:18.441Z,"10km NE of Gilroy, CA",earthquake,0.35,0.64,0.183,14,reviewed,nc,nc
 2023-03-31T07:55:45.842Z,59.9409,-152.3939,97.5,1.8,ml,,,,0.2,ak,ak02344yv5lk,2023-03-31T07:57:16.933Z,"36 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-31T07:48:14.591Z,63.1959,-150.4666,106.4,1.8,ml,,,,0.45,ak,ak02344ytl6b,2023-03-31T07:50:55.035Z,"73 km ESE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-31T07:45:34.158Z,63.8024,-147.695,19.9,1,ml,,,,0.41,ak,ak02344yszjb,2023-03-31T07:47:48.898Z,"60 km E of Denali Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -227,7 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T11:56:23.160Z,58.168,-155.335166666667,2,0.06,ml,8,181,,0.09,av,av91096478,2023-03-31T05:17:34.130Z,"84 km NW of Karluk, Alaska",earthquake,0.31,0.5,0.318921424427037,8,reviewed,av,av
 2023-03-30T11:53:21.460Z,46.506166666666665,-122.43683333333334,20.46,1.1400000000000001,ml,39,49,0.1032,0.13,uw,uw61905832,2023-03-30T13:40:24.400Z,"Washington",earthquake,0.18,0.61,0.14835556902948077,27,reviewed,uw,uw
 2023-03-30T11:51:32.181Z,31.71577324,-104.5743472,8.033959961,2.1,ml,47,85,0.03922938123,0.2,tx,tx2023gfrt,2023-03-30T21:05:28.758Z,"54 km SSW of Whites City, New Mexico",earthquake,1.075293439,0.8395981234,0,6,reviewed,tx,tx
-2023-03-30T11:28:27.435Z,57.6903,-155.2721,2.7,2,ml,,,,0.23,ak,ak02343djprr,2023-03-30T11:31:10.973Z,"50 km WNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-03-30T11:27:51.730Z,38.8351669,-122.8171692,1.09,0.76,md,7,76,0.013,0.01,nc,nc73864420,2023-03-30T11:45:15.280Z,"8km W of Cobb, CA",earthquake,0.37,1.21,0.35,8,automatic,nc,nc
-2023-03-30T11:27:41.483Z,37.1529,-116.2118,4.1,-0.3,ml,10,91.08,0.069,0.1586,nn,nn00857682,2023-03-30T20:42:49.236Z,"55 km ENE of Beatty, Nevada",earthquake,,2.8,0.23,5,reviewed,nn,nn
-2023-03-30T11:23:23.325Z,56.1406,-152.1955,11.6,2.7,ml,,,,0.95,ak,ak02343dimk4,2023-03-30T19:48:07.864Z,"136 km SSE of Old Harbor, Alaska",earthquake,,5.8,,,reviewed,ak,ak
