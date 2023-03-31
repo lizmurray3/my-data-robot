@@ -127,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T22:50:45.814Z,59.8748,-152.4161,76.1,1.8,ml,,,,0.4,ak,ak02343k88lh,2023-03-30T22:53:46.006Z,"34 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T22:36:27.469Z,59.0023,-152.7547,29.7,1.8,ml,,,,0.56,ak,ak02343k575m,2023-03-30T22:38:43.044Z,"61 km SW of Nanwalek, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-03-30T22:31:29.950Z,33.3161667,-116.3068333,11.69,0.92,ml,20,200,0.04614,0.13,ci,ci39507898,2023-03-31T00:22:25.228Z,"9km NE of Borrego Springs, CA",earthquake,0.49,0.45,0.148,13,reviewed,ci,ci
-2023-03-30T22:30:21.880Z,38.7603333,-122.727,1.75,0.38,md,10,68,0.002093,0.02,nc,nc73864605,2023-03-31T10:52:10.264Z,"3km SE of The Geysers, CA",earthquake,0.37,0.54,0.303,6,reviewed,nc,nc
+2023-03-30T22:30:21.880Z,38.7603333,-122.727,1.75,0.38,md,10,68,0.002093,0.02,nc,nc73864605,2023-03-31T11:46:14.558Z,"3km SE of The Geysers, CA",earthquake,0.37,0.54,0.303,6,reviewed,nc,nc
 2023-03-30T22:18:05.856Z,62.4423,-149.1773,17,1.4,ml,,,,0.46,ak,ak02343k1all,2023-03-30T22:20:22.642Z,"46 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T22:07:22.050Z,34.159,-117.4683333,12.11,1.57,ml,55,25,0.04767,0.17,ci,ci39507890,2023-03-31T00:19:13.485Z,"7km N of Fontana, CA",earthquake,0.16,0.36,0.149,27,reviewed,ci,ci
 2023-03-30T22:03:23.257Z,-35.7033,-73.5399,10,4.5,mwr,40,114,1.08,0.78,us,us6000k0zq,2023-03-30T22:37:28.040Z,"110 km WSW of Constitución, Chile",earthquake,5.07,1.646,0.044,49,reviewed,us,us
@@ -141,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T20:48:50.390Z,34.4106667,-118.391,9.46,1.77,ml,41,28,0.04907,0.13,ci,ci39507866,2023-03-30T23:32:37.170Z,"11km E of Santa Clarita, CA",earthquake,0.15,0.38,0.078,19,reviewed,ci,ci
 2023-03-30T20:43:57.672Z,61.0814,-152.3807,110.4,2,ml,,,,0.36,ak,ak02343izwaf,2023-03-30T20:47:11.746Z,"67 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T20:39:57.950Z,38.8218346,-122.8024979,2.47,0.95,md,6,231,0.00612,0.01,nc,nc73864570,2023-03-30T20:54:10.377Z,"6km NW of The Geysers, CA",earthquake,1.34,1.71,0.19,9,automatic,nc,nc
+2023-03-30T20:39:11.706Z,31.57809717,-104.1792005,7.828295898,1.5,ml,22,67,0.04557851719,0.1,tx,tx2023ggjg,2023-03-31T11:46:22.659Z,"46 km NW of Toyah, Texas",earthquake,0.7192100872,0.7921823346,0.2,11,reviewed,tx,tx
 2023-03-30T20:37:51.734Z,31.5611666,-104.163496,8.496704102000002,2.2,ml,21,63,0.03642340846,0.1,tx,tx2023ggje,2023-03-31T07:51:39.145Z,"44 km NW of Toyah, Texas",earthquake,0.9903918407,1.117576529,0.2,23,reviewed,tx,tx
 2023-03-30T20:26:14.205Z,47.7295,15.9861,16.384,4,mb,46,40,1.37,0.68,us,us6000k0yt,2023-03-31T08:08:29.440Z,"3 km N of Buchbach, Austria",earthquake,4.92,7.823,0.366,2,reviewed,us,us
 2023-03-30T20:24:35.623Z,39.404,-119.9093,7.1,0.7,ml,6,166.64,0.113,0.0768,nn,nn00857690,2023-03-30T23:05:17.705Z,"9 km E of Floriston, California",earthquake,,4.7,0.43,3,reviewed,nn,nn
