@@ -212,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T10:04:44.135Z,2.3955,128.3208,70.888,4.4,mb,29,116,1.874,0.51,us,us6000k12y,2023-03-31T14:44:17.040Z,"81 km NNE of Tobelo, Indonesia",earthquake,5.08,10.051,0.117,21,reviewed,us,us
 2023-03-31T09:56:32.745Z,62.0029,-149.6029,33.5,1.8,ml,,,,0.41,ak,ak02345027ii,2023-03-31T09:57:53.860Z,"21 km SE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-31T09:55:47.119Z,38.1296,-118.2164,8.9,1.6,ml,13,71.49,0.195,0.3326,nn,nn00857711,2023-03-31T09:58:30.713Z,"30 km SSW of Mina, Nevada",earthquake,,0.6,0.28,8,automatic,nn,nn
-2023-03-31T09:49:49.010Z,46.602,-119.78866666666667,7.47,0.65,ml,12,116,0.02135,0.08,uw,uw61906057,2023-03-31T18:40:10.310Z,"13 km SE of Desert Aire, Washington",earthquake,0.28,0.15,0.1780331895111803,11,reviewed,uw,uw
-2023-03-31T09:49:30.050Z,38.7615013,-122.7265015,1.65,1.17,md,8,141,0.001286,0.02,nc,nc73864820,2023-03-31T13:41:18.252Z,"3km SE of The Geysers, CA",earthquake,0.48,0.49,0.26,6,automatic,nc,nc
-2023-03-31T09:43:00.436Z,63.4485,-148.1985,0.1,1.5,ml,,,,0.84,ak,ak02344zzcpn,2023-03-31T09:44:57.836Z,"38 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
