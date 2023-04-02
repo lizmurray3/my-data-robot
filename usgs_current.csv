@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-02T16:52:45.380Z,19.5338325500488,-155.623001098633,8.59000015258789,2.94,ml,39,49,,0.180000007,hv,hv73355022,2023-04-02T16:58:15.880Z,"Hawaii region, Hawaii",earthquake,0.37,0.360000014,2.07,22,automatic,hv,hv
+2023-04-02T16:49:02.540Z,33.4035,-116.9071667,8.26,0.7,ml,15,120,0.1053,0.19,ci,ci39509122,2023-04-02T16:52:39.444Z,"6km SW of Aguanga, CA",earthquake,0.43,2.23,0.13,16,automatic,ci,ci
 2023-04-02T16:41:35.432Z,58.6096,-157.0365,9.9,1.9,ml,,,,0.42,ak,ak02348f7q7b,2023-04-02T16:44:09.787Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T16:08:32.917Z,63.2778,-151.058,0,1.5,ml,,,,0.83,ak,ak02348f0ndn,2023-04-02T16:10:24.383Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-02T15:57:51.226Z,60.2136,-141.209,6.3,2.1,ml,,,,0.77,ak,ak02348epr9u,2023-04-02T15:59:45.741Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
