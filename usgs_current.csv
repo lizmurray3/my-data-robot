@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-03T11:25:31.520Z,34.0040016,-116.8488312,13.94,1.16,ml,40,62,0.04613,0.15,ci,ci39509386,2023-04-03T11:27:36.404Z,"9km NNE of Banning, CA",earthquake,0.25,0.65,0.139,7,automatic,ci,ci
 2023-04-03T11:14:33.560Z,33.3,-116.1918333,0.82,1.44,ml,31,59,0.119,0.29,ci,ci39509378,2023-04-03T11:18:05.606Z,"18km ENE of Borrego Springs, CA",earthquake,0.33,0.84,0.141,29,automatic,ci,ci
 2023-04-03T11:10:39.820Z,33.3036667,-116.195,1.08,1.22,ml,23,70,0.1212,0.28,ci,ci39509370,2023-04-03T11:14:12.543Z,"18km ENE of Borrego Springs, CA",earthquake,0.41,0.99,0.116,26,automatic,ci,ci
 2023-04-03T11:06:28.790Z,33.2988333,-116.1981667,1.29,1.92,ml,46,44,0.1157,0.25,ci,ci39509362,2023-04-03T11:16:58.860Z,"17km ENE of Borrego Springs, CA",earthquake,0.26,0.73,0.199,27,automatic,ci,ci
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T03:45:49.012Z,37.9232,36.271,5,4.3,mb,34,51,0.348,0.65,us,us6000k1n0,2023-04-03T04:02:06.040Z,"central Turkey",earthquake,1.89,1.945,0.168,10,reviewed,us,us
 2023-04-03T03:44:51.526Z,61.7487,-151.5666,70.7,1.7,ml,,,,0.53,ak,ak02349v147n,2023-04-03T04:05:19.993Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-03T03:43:07.138Z,60.6005,-152.4964,147.9,1.5,ml,,,,0.79,ak,ak02349v0t2x,2023-04-03T03:49:14.993Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-03T03:39:03.750Z,44.4135,-124.43883333333333,27.17,2.3000000000000003,ml,21,154,0.2645,0.11,uw,uw61915651,2023-04-03T05:27:54.560Z,"offshore Oregon",earthquake,0.32,0.62,0.15674791206878114,13,reviewed,uw,uw
+2023-04-03T03:39:03.750Z,44.4135,-124.43883333333333,27.17,2.3000000000000003,ml,21,154,0.2645,0.11,uw,uw61915651,2023-04-03T11:28:29.372Z,"offshore Oregon",earthquake,0.32,0.62,0.15674791206878114,13,reviewed,uw,uw
 2023-04-03T03:06:57.764Z,52.7772,158.4839,105.631,6.5,mww,104,30,0.266,0.89,us,us6000k1mn,2023-04-03T05:16:20.840Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake,8.7,4.602,0.069,20,reviewed,us,us
 2023-04-03T03:02:55.983Z,61.5769,-150.022,37.4,1.8,ml,,,,0.13,ak,ak02349us4hq,2023-04-03T03:04:40.273Z,"Southern Alaska",earthquake,,8.7,,,automatic,ak,ak
 2023-04-03T03:02:44.500Z,61.7045,-149.7117,35.4,1.8,ml,,,,0.99,ak,ak02349us3lu,2023-04-03T03:06:41.351Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
