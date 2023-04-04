@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-04T22:23:18.279Z,36.8125,-121.2992,8,4.6,mw,5,,,,ew,ew1680647000,2023-04-04T22:23:22.845Z,"3 km NE of Tres Pinos, California",earthquake,15.714,5,0.3,5,automatic,ew,ew
+2023-04-04T22:29:19.501Z,61.4898,-151.2459,63.7,2.6,ml,,,,0.22,ak,ak0234btsety,2023-04-04T22:30:54.386Z,"39 km W of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-04-04T22:27:20.865Z,61.5853,-149.7938,43.9,1.6,ml,,,,0.55,ak,ak0234btrzo6,2023-04-04T22:29:29.876Z,"5 km SSE of Houston, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-04-04T22:23:17.780Z,36.8035011,-121.3219986,9.15,4.46,mw,66,49,0.09786,0.13,nc,nc73866925,2023-04-04T22:33:12.073Z,"2km N of Tres Pinos, CA",earthquake,0.2,0.37,,4,reviewed,nc,nc
 2023-04-04T22:22:58.150Z,19.3803329467773,-155.285171508789,0.370000004768372,1.79999995,md,4,207,,0.0799999982,hv,hv73356632,2023-04-04T22:25:56.310Z,"8 km SW of Volcano, Hawaii",earthquake,0.47,0.649999976,0.75999999,3,automatic,hv,hv
 2023-04-04T22:18:12.000Z,7.575,-82.321,10,6.6,Mi,20,82.79999337600053,2.918626,0.69,at,at00rsm3ae,2023-04-04T22:24:47.654Z,"south of Panama",earthquake,0,0,,4,reviewed,at,at
 2023-04-04T22:02:17.210Z,19.2603340148926,-155.389663696289,33.2900009155273,2.00999999,md,35,130,,0.119999997,hv,hv73356612,2023-04-04T22:05:31.570Z,"Hawaii region, Hawaii",earthquake,0.58,0.709999979,1.40999997,12,automatic,hv,hv
@@ -212,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T22:59:48.690Z,58.1835,-155.327833333333,2.3,0.13,ml,9,161,,0.09,av,av91833081,2023-04-04T21:34:52.560Z,"85 km NW of Karluk, Alaska",earthquake,0.25,0.35,0.278079162892313,9,reviewed,av,av
 2023-04-03T22:52:27.550Z,38.8238333,-122.7911667,1.29,1.71,md,31,39,0.01617,0.05,nc,nc73866410,2023-04-04T09:52:14.458Z,"6km W of Cobb, CA",earthquake,0.15,0.26,0.23,24,reviewed,nc,nc
 2023-04-03T22:43:13.860Z,33.4506667,-116.5811667,6.89,1.16,ml,24,71,0.0473,0.12,ci,ci39509466,2023-04-04T00:51:46.722Z,"14km SE of Anza, CA",earthquake,0.22,0.38,0.128,20,reviewed,ci,ci
-2023-04-03T22:34:44.950Z,19.2438335418701,-155.397506713867,32.1800003051758,2.26999998,md,32,138,,0.100000001,hv,hv73355852,2023-04-03T22:37:58.220Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,0.50999999,2.00999999,14,automatic,hv,hv
