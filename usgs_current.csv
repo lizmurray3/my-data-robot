@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-06T09:08:40.203Z,35.79358673,-96.96762085,2.174293518,2.32,ml,48,36.34751701,0.1864968389,0.5216284229,ok,ok2023gsgx,2023-04-06T09:10:16.272Z,"4 km ESE of Carney, Oklahoma",earthquake,1.67268549,1.532786838,0.16,22,automatic,ok,ok
+2023-04-06T09:16:57.067Z,35.79102325,-96.97657776,2.389768362,3.31,ml,85,35.73929596,0.2077444494,0.3943795063,ok,ok2023gshe,2023-04-06T09:18:51.741Z,"3 km ESE of Carney, Oklahoma",earthquake,1.528840103,1.14929811,0.21,50,automatic,ok,ok
+2023-04-06T09:16:52.992Z,62.2768,-149.7592,14,1.5,ml,,,,0.56,ak,ak0234ex1reb,2023-04-06T09:19:19.364Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-06T09:16:00.023Z,63.373,-147.415,78.3,1.3,ml,,,,0.42,ak,ak0234ex1nb6,2023-04-06T09:17:27.481Z,"76 km E of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-06T09:10:53.017Z,60.0447,-152.8893,91.5,1.7,ml,,,,0.3,ak,ak0234ex0h3p,2023-04-06T09:12:34.850Z,"65 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-06T09:08:40.432Z,35.79408264,-96.96463776,1.081580281,2.31,ml,58,32.02679443,0.1878661811,0.6343599456,ok,ok2023gsgx,2023-04-06T09:22:47.917Z,"4 km ESE of Carney, Oklahoma",earthquake,1.535156732,1.344809654,0.18,30,automatic,ok,ok
 2023-04-06T08:58:04.066Z,62.2436,-150.2293,17.2,1.5,ml,,,,0.5,ak,ak0234ewp83a,2023-04-06T08:59:45.675Z,"8 km S of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-06T08:57:16.827Z,35.7873,-96.9639,10.775,4.2,mb,42,32,0.193,0.17,us,us6000k2b9,2023-04-06T09:17:13.551Z,"5 km ESE of Carney, Oklahoma",earthquake,0.76,7.463,0.075,49,reviewed,us,us
 2023-04-06T08:56:57.058Z,64.6638,-149.2307,14,1.1,ml,,,,0.81,ak,ak0234ewowqx,2023-04-06T08:58:44.881Z,"8 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-06T08:42:36.790Z,38.8218346,-122.7653351,2.26,0.74,md,11,118,0.009336,0.02,nc,nc73867915,2023-04-06T09:00:11.995Z,"4km W of Cobb, CA",earthquake,0.35,0.69,0.17,11,automatic,nc,nc
 2023-04-06T08:34:13.575Z,57.1298,-156.2922,15.8,2,ml,,,,0.52,ak,ak0234ewk3n1,2023-04-06T08:36:27.445Z,"79 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -8,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T08:12:34.987Z,61.6465,-150.9607,58.2,1.5,ml,,,,0.5,ak,ak0234ewffje,2023-04-06T08:14:38.802Z,"26 km WNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-06T08:08:22.450Z,38.8279991,-122.8026657,1.59,1.08,md,22,44,0.007391,0.02,nc,nc73867905,2023-04-06T08:26:12.771Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,23,automatic,nc,nc
 2023-04-06T08:08:16.105Z,60.0134,-153.0501,118.7,1.7,ml,,,,0.29,ak,ak0234ewej7u,2023-04-06T08:10:04.909Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-06T08:03:17.450Z,36.793499,-121.3099976,8.72,2.39,md,43,69,0.09074,0.1,nc,nc73867900,2023-04-06T09:01:10.002Z,"1km ENE of Tres Pinos, CA",earthquake,0.22,0.55,0.13,47,automatic,nc,nc
+2023-04-06T08:03:17.450Z,36.793499,-121.3099976,8.72,2.39,md,43,69,0.09074,0.1,nc,nc73867900,2023-04-06T09:22:14.259Z,"1km ENE of Tres Pinos, CA",earthquake,0.22,0.55,0.13,47,automatic,nc,nc
 2023-04-06T07:40:09.310Z,33.7231667,-117.448,10.07,1.47,ml,13,85,0.05165,0.24,ci,ci39510474,2023-04-06T07:43:58.333Z,"13km WNW of Lake Elsinore, CA",earthquake,0.66,0.69,0.327,20,automatic,ci,ci
 2023-04-06T07:38:18.173Z,35.54257965,-98.13194275,2.839203358,1.7,ml,7,120.1902161,0.1447263658,1.240145285,ok,ok2023gsdx,2023-04-06T09:10:39.011Z,"6 km S of Calumet, Oklahoma",earthquake,4.750347189,3.611093233,0.24,5,automatic,ok,ok
 2023-04-06T07:24:04.820Z,38.8375015,-122.8081665,2.03,0.53,md,10,88,0.01395,0.01,nc,nc73867890,2023-04-06T07:53:15.582Z,"8km WNW of Cobb, CA",earthquake,0.36,0.86,0.38,11,automatic,nc,nc
