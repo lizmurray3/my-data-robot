@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-06T07:10:54.160Z,38.8248329,-122.7786636,5.11,0.33,md,8,82,0.008855,0.03,nc,nc73867880,2023-04-06T07:12:31.438Z,"5km W of Cobb, CA",earthquake,1.03,3.72,0.13,8,automatic,nc,nc
 2023-04-06T06:51:43.690Z,33.3991667,-116.3788333,2.14,0.88,ml,23,107,0.1345,0.17,ci,ci39510458,2023-04-06T06:55:16.105Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.64,0.166,17,automatic,ci,ci
-2023-04-06T06:43:45.560Z,38.8156662,-122.8191681,0.96,0.56,md,6,117,0.01036,0.01,nc,nc73867875,2023-04-06T06:45:21.032Z,"7km NW of The Geysers, CA",earthquake,0.37,0.81,0.21,8,automatic,nc,nc
-2023-04-06T06:39:39.300Z,36.0009995,-120.560997,2.72,0.56,md,8,217,0.02148,0.04,nc,nc73867870,2023-04-06T06:55:11.272Z,"16km NW of Parkfield, CA",earthquake,0.96,1.11,,1,automatic,nc,nc
+2023-04-06T06:43:45.560Z,38.8156662,-122.8191681,0.96,0.56,md,6,117,0.01036,0.01,nc,nc73867875,2023-04-06T07:01:11.301Z,"7km NW of The Geysers, CA",earthquake,0.37,0.81,0.21,8,automatic,nc,nc
+2023-04-06T06:39:39.300Z,36.0009995,-120.560997,2.72,0.56,md,8,217,0.02148,0.04,nc,nc73867870,2023-04-06T07:03:15.311Z,"16km NW of Parkfield, CA",earthquake,0.96,1.11,,1,automatic,nc,nc
+2023-04-06T06:39:06.499Z,11.6502,-85.7939,10,5.1,mww,74,129,0.666,0.72,us,us6000k2b0,2023-04-06T07:12:38.642Z,"16 km NW of Moyogalpa, Nicaragua",earthquake,3.14,1.622,0.047,43,reviewed,us,us
 2023-04-06T06:35:43.810Z,38.7868347,-122.7588348,1.67,1.04,md,15,67,0.01379,0.02,nc,nc73867865,2023-04-06T06:53:16.257Z,"1km NNW of The Geysers, CA",earthquake,0.25,0.52,0.11,16,automatic,nc,nc
 2023-04-06T06:17:55.620Z,60.975,-147.5048,9.4,2,ml,,,,0.51,ak,ak0234ev9oi2,2023-04-06T06:20:04.696Z,"46 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-06T06:17:34.890Z,45.88966751098633,-121.96099853515625,6.15999984741211,1.5170307159423828,ml,17,110,,0.0900000036,uw,uw61916431,2023-04-06T06:20:23.380Z,"21 km NNW of Carson, Washington",earthquake,0.36,0.680000007,0.35793280601501465,10,automatic,uw,uw
@@ -319,5 +321,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T07:41:16.700Z,36.5956667,-121.1975,7.06,1.71,md,35,99,0.02582,0.09,nc,nc73867145,2023-04-05T22:41:18.227Z,"9km NW of Pinnacles, CA",earthquake,0.25,0.42,0.233,33,reviewed,nc,nc
 2023-04-05T07:31:34.550Z,38.8346672,-122.796669,1.56,0.32,md,8,76,0.006194,0.01,nc,nc73867140,2023-04-05T08:31:11.098Z,"6km WNW of Cobb, CA",earthquake,0.4,1.27,0.23,7,automatic,nc,nc
 2023-04-05T07:22:16.962Z,-12.8042,169.3885,642.931,4.3,mb,36,64,3.376,0.41,us,us6000k234,2023-04-05T08:12:51.040Z,"231 km ENE of Sola, Vanuatu",earthquake,12.65,7.62,0.049,119,reviewed,us,us
-2023-04-05T07:10:37.360Z,39.4435,-119.5135,13.9,0.9,ml,10,213.2,0.182,0.2167,nn,nn00857861,2023-04-05T20:47:07.978Z,"14 km WNW of Stagecoach, Nevada",earthquake,,3.5,0.75,6,reviewed,nn,nn
-2023-04-05T07:02:56.319Z,38.6335,-118.7871,11.3,1.6,ml,12,95.11,0.442,0.1481,nn,nn00857843,2023-04-05T16:58:00.574Z,"3 km WSW of Walker Lake, Nevada",earthquake,,1.2,0.19,7,reviewed,nn,nn
