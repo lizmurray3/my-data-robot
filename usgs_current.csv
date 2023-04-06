@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-06T16:46:53.130Z,38.8224983,-122.7968369,2.54,1,md,18,56,0.01038,0.01,nc,nc73868100,2023-04-06T16:48:30.054Z,"6km NW of The Geysers, CA",earthquake,0.27,0.74,0.22,19,automatic,nc,nc
 2023-04-06T16:29:22.920Z,17.9561666666667,-66.8593333333333,12.57,2.18,md,7,209,0.02669,0.09,pr,pr71402683,2023-04-06T16:41:01.870Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,0.68,0.38,0.191529582927147,7,reviewed,pr,pr
-2023-04-06T16:28:59.370Z,38.8045006,-122.7799988,2.92,1.31,md,26,65,0.008762,0.02,nc,nc73868090,2023-04-06T16:44:11.857Z,"4km NW of The Geysers, CA",earthquake,0.23,0.44,0.12,26,automatic,nc,nc
+2023-04-06T16:28:59.370Z,38.8045006,-122.7799988,2.92,1.31,md,26,65,0.008762,0.02,nc,nc73868090,2023-04-06T16:55:13.933Z,"4km NW of The Geysers, CA",earthquake,0.23,0.44,0.12,26,automatic,nc,nc
 2023-04-06T16:24:49.243Z,61.4111,-150.1359,19.8,2.5,ml,,,,0.74,ak,ak0234f19i2k,2023-04-06T16:27:20.197Z,"10 km NW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T16:18:54.978Z,60.8028,-150.7012,46.6,1.7,ml,,,,0.54,ak,ak0234f1887t,2023-04-06T16:20:53.739Z,"13 km S of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-04-06T16:14:13.480Z,38.8243332,-122.8000031,2.9,0.94,md,12,62,0.007922,0.02,nc,nc73868080,2023-04-06T16:31:13.774Z,"6km NW of The Geysers, CA",earthquake,0.4,0.73,0.22,12,automatic,nc,nc
@@ -63,13 +64,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T09:10:53.017Z,60.0447,-152.8893,91.5,1.7,ml,,,,0.3,ak,ak0234ex0h3p,2023-04-06T09:12:34.850Z,"65 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-06T09:08:39.979Z,35.79383333,-96.97333333,7.5,2.12,ml,85,33,0,0.23,ok,ok2023gsgx,2023-04-06T15:58:10.372Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.6,0.24,45,reviewed,ok,ok
 2023-04-06T08:58:04.066Z,62.2436,-150.2293,17.2,1.5,ml,,,,0.5,ak,ak0234ewp83a,2023-04-06T08:59:45.675Z,"8 km S of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-06T08:57:16.809Z,35.7935,-96.96983333,7,4,mwr,99,32,0,0.18,ok,ok2023gsgn,2023-04-06T16:45:31.383Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.4,,44,reviewed,ok,us
+2023-04-06T08:57:16.809Z,35.7935,-96.96983333,7,4,mwr,99,32,0,0.18,ok,ok2023gsgn,2023-04-06T16:56:01.300Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.4,,44,reviewed,ok,us
 2023-04-06T08:56:57.058Z,64.6638,-149.2307,14,1.1,ml,,,,0.81,ak,ak0234ewowqx,2023-04-06T08:58:44.881Z,"8 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-06T08:54:32.231Z,-43.5791,172.7848,15.692,2.5,ml,13,191,0.159,0.4,us,us6000k2dl,2023-04-06T15:05:58.525Z,"13 km ESE of Christchurch, New Zealand",earthquake,3.27,5.018,0.091,16,reviewed,us,us
 2023-04-06T08:42:36.790Z,38.8218346,-122.7653351,2.26,0.74,md,11,118,0.009336,0.02,nc,nc73867915,2023-04-06T10:28:11.668Z,"4km W of Cobb, CA",earthquake,0.35,0.69,0.17,11,automatic,nc,nc
 2023-04-06T08:34:13.575Z,57.1298,-156.2922,15.8,2,ml,,,,0.52,ak,ak0234ewk3n1,2023-04-06T08:36:27.445Z,"79 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T08:20:59.750Z,33.0533333,-115.5555,3.36,1.01,ml,8,116,0.0268,0.09,ci,ci39510482,2023-04-06T08:24:32.121Z,"6km ENE of Westmorland, CA",earthquake,0.38,0.41,0.178,10,automatic,ci,ci
-2023-04-06T08:12:34.987Z,61.6465,-150.9607,58.2,1.5,ml,,,,0.5,ak,ak0234ewffje,2023-04-06T08:14:38.802Z,"26 km WNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-04-06T08:12:34.987Z,61.6465,-150.9607,58.2,1.5,ml,,,,0.5,ak,ak0234ewffje,2023-04-06T08:14:38.802Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-06T08:08:22.450Z,38.8279991,-122.8026657,1.59,1.08,md,22,44,0.007391,0.02,nc,nc73867905,2023-04-06T09:47:14.281Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,23,automatic,nc,nc
 2023-04-06T08:08:16.105Z,60.0134,-153.0501,118.7,1.7,ml,,,,0.29,ak,ak0234ewej7u,2023-04-06T08:10:04.909Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-06T08:03:17.450Z,36.793499,-121.3099976,8.72,2.39,md,43,69,0.09074,0.1,nc,nc73867900,2023-04-06T09:22:14.259Z,"1km ENE of Tres Pinos, CA",earthquake,0.22,0.55,0.13,47,automatic,nc,nc
