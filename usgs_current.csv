@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-06T08:20:59.750Z,33.0533333,-115.5555,3.36,1.01,ml,8,116,0.0268,0.09,ci,ci39510482,2023-04-06T08:24:32.121Z,"6km ENE of Westmorland, CA",earthquake,0.38,0.41,0.178,10,automatic,ci,ci
 2023-04-06T08:12:34.987Z,61.6465,-150.9607,58.2,1.5,ml,,,,0.5,ak,ak0234ewffje,2023-04-06T08:14:38.802Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-04-06T08:08:22.450Z,38.8279991,-122.8026657,1.59,1.08,md,22,44,0.007391,0.02,nc,nc73867905,2023-04-06T08:19:10.730Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,23,automatic,nc,nc
+2023-04-06T08:08:22.450Z,38.8279991,-122.8026657,1.59,1.08,md,22,44,0.007391,0.02,nc,nc73867905,2023-04-06T08:26:12.771Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,23,automatic,nc,nc
 2023-04-06T08:08:16.105Z,60.0134,-153.0501,118.7,1.7,ml,,,,0.29,ak,ak0234ewej7u,2023-04-06T08:10:04.909Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-06T08:03:17.450Z,36.793499,-121.3099976,8.72,2.39,md,43,69,0.09074,0.1,nc,nc73867900,2023-04-06T08:11:11.678Z,"1km ENE of Tres Pinos, CA",earthquake,0.22,0.55,0.13,47,automatic,nc,nc
 2023-04-06T07:40:09.310Z,33.7231667,-117.448,10.07,1.47,ml,13,85,0.05165,0.24,ci,ci39510474,2023-04-06T07:43:58.333Z,"13km WNW of Lake Elsinore, CA",earthquake,0.66,0.69,0.327,20,automatic,ci,ci
@@ -311,5 +311,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T08:55:25.310Z,38.7900009,-122.7593307,1.92,0.75,md,12,69,0.01061,0.02,nc,nc73867175,2023-04-05T09:12:15.326Z,"1km N of The Geysers, CA",earthquake,0.26,0.67,0.08,11,automatic,nc,nc
 2023-04-05T08:40:51.150Z,46.85783333333333,-121.74083333333333,-2.07,0.34,ml,16,77,0.01426,0.07,uw,uw61916226,2023-04-05T18:11:09.910Z,"24 km ENE of Ashford, Washington",earthquake,0.17,0.29,0.17548470844214115,6,reviewed,uw,uw
 2023-04-05T08:40:35.180Z,46.8595,-121.7405,-1.17,0.35000000000000003,ml,18,77,0.01265,0.08,uw,uw61916221,2023-04-05T18:04:18.110Z,"24 km ENE of Ashford, Washington",earthquake,0.23,0.9,0.12319834109791755,7,reviewed,uw,uw
-2023-04-05T08:30:13.820Z,36.5365,-98.96433333,7.18,1.84,ml,29,76,0.04589099462,0.12,ok,ok2023gqkb,2023-04-05T13:51:00.751Z,"9 km SW of Waynoka, Oklahoma",earthquake,,0.3,0.21,7,reviewed,ok,ok
-2023-04-05T08:27:08.690Z,35.1925,-82.6645,5.48,2.08,md,9,68,0.296,0.34,se,se60500593,2023-04-05T12:33:33.540Z,"7 km SE of Brevard, North Carolina",earthquake,1.05,8.47,0.0434339046867001,9,reviewed,se,se
