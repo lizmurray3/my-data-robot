@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-07T08:50:41.432Z,61.6404,-149.527,31.6,1.5,ml,,,,0.36,ak,ak0234gk6xqn,2023-04-07T08:52:20.259Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-07T08:45:28.211Z,60.5828,-146.8808,13.3,2.5,ml,,,,0.58,ak,ak0234gk5u5r,2023-04-07T08:47:22.943Z,"33 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T08:38:04.905Z,56.9271,-158.1488,0,2,ml,,,,0.56,ak,ak0234gk4abu,2023-04-07T08:39:53.950Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-04-07T08:29:56.497Z,60.6807,-152.4173,105.1,1.7,ml,,,,0.34,ak,ak0234gk2gv5,2023-04-07T08:32:03.249Z,"60 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-07T08:26:13.050Z,32.1701667,-115.0671667,22.35,1.82,ml,7,249,0.1239,0.18,ci,ci40437528,2023-04-07T08:29:49.044Z,"7km WSW of Estacion Coahuila, B.C., MX",earthquake,2.99,1.26,0.29,10,automatic,ci,ci
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T06:47:19.356Z,62.4601,-149.3214,2.2,1.5,ml,,,,0.75,ak,ak0234gizdof,2023-04-07T06:49:14.217Z,"40 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-07T06:36:31.279Z,62.3141,-151.4291,90,1.2,ml,,,,0.51,ak,ak0234gix1q2,2023-04-07T06:39:06.349Z,"36 km N of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-07T06:28:06.380Z,38.8345,-122.8195,1.37,0.25,md,13,88,0.01314,0.03,nc,nc73868435,2023-04-07T07:57:12.374Z,"8km NW of The Geysers, CA",earthquake,0.31,0.57,0.464,13,reviewed,nc,nc
-2023-04-07T06:27:08.190Z,38.8320007,-122.8144989,1.44,2.01,md,37,44,0.009262,0.03,nc,nc73868430,2023-04-07T07:44:17.296Z,"8km NW of The Geysers, CA",earthquake,0.15,0.24,0.22,37,automatic,nc,nc
+2023-04-07T06:27:08.190Z,38.8320007,-122.8144989,1.44,2.01,md,37,44,0.009262,0.03,nc,nc73868430,2023-04-07T08:53:11.751Z,"8km NW of The Geysers, CA",earthquake,0.15,0.24,0.22,37,automatic,nc,nc
 2023-04-07T06:24:53.169Z,64.7281,-149.233,23.3,0.9,ml,,,,0.61,ak,ak0234giuitg,2023-04-07T06:26:27.622Z,"14 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T06:09:23.140Z,33.2555,-116.2931667,10.24,0.76,ml,20,50,0.07073,0.16,ci,ci40437504,2023-04-07T06:12:56.617Z,"8km E of Borrego Springs, CA",earthquake,0.33,0.6,0.135,13,automatic,ci,ci
 2023-04-07T06:02:59.320Z,38.831665,-122.8153305,1.74,0.77,md,12,52,0.009222,0.02,nc,nc73868420,2023-04-07T06:26:10.951Z,"8km NW of The Geysers, CA",earthquake,0.32,0.87,0.16,13,automatic,nc,nc
@@ -166,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T17:20:24.550Z,58.2028333333333,-155.170166666667,1.19,-0.24,ml,8,99,,0.16,av,av91837616,2023-04-06T19:52:54.150Z,"82 km NNW of Karluk, Alaska",earthquake,0.33,2.61,0.371186314776866,8,reviewed,av,av
 2023-04-06T17:20:10.310Z,58.2061666666667,-155.175166666667,3.49,-0.46,ml,6,99,,0.09,av,av91096988,2023-04-06T19:54:45.810Z,"82 km NNW of Karluk, Alaska",earthquake,0.27,1.59,0.333669533862679,6,reviewed,av,av
 2023-04-06T17:15:50.932Z,60.3049,-140.197,0.1,1.9,ml,,,,0.59,ak,ak0234f1t0d1,2023-04-06T17:17:55.305Z,"88 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-06T17:08:59.860Z,38.52,-122.486,7.47,1.23,md,35,63,0.107,0.08,nc,nc73868125,2023-04-07T07:46:11.303Z,"2km NW of Saint Helena, CA",earthquake,0.19,0.68,0.252,27,reviewed,nc,nc
+2023-04-06T17:08:59.860Z,38.52,-122.486,7.47,1.23,md,35,63,0.107,0.08,nc,nc73868125,2023-04-07T08:49:14.725Z,"2km NW of Saint Helena, CA",earthquake,0.19,0.68,0.252,27,reviewed,nc,nc
 2023-04-06T17:07:07.780Z,58.1836666666667,-155.315,1.28,-0.42,ml,5,159,,0.06,av,av91837611,2023-04-06T19:50:15.260Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.79,0.0368587067817272,5,reviewed,av,av
 2023-04-06T17:03:22.342Z,59.9386,-152.2069,74.6,1.8,ml,,,,0.41,ak,ak0234f1qdka,2023-04-06T17:05:22.677Z,"26 km W of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-06T17:03:17.850Z,18.258,-68.9041,144,3.91,md,16,183,0.582,0.84,pr,pr2023096000,2023-04-06T17:47:09.040Z,"20 km SSE of La Romana, Dominican Republic",earthquake,5.46,3.16,0.19,11,reviewed,pr,pr
