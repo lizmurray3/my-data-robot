@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-07T19:40:24.000Z,38.8438339,-122.7661667,7.62,0.79,md,9,225,0.008084,0.05,nc,nc73868705,2023-04-07T19:42:01.043Z,"4km WNW of Cobb, CA",earthquake,1.36,0.71,0.26,9,automatic,nc,nc
 2023-04-07T19:20:45.890Z,38.8413315,-122.8718338,2.14,0.95,md,13,100,0.002841,0.02,nc,nc73868700,2023-04-07T19:34:10.603Z,"12km NW of The Geysers, CA",earthquake,0.5,0.65,0.08,15,automatic,nc,nc
 2023-04-07T19:18:47.260Z,33.3226667,-115.7468333,2.7,1.53,ml,30,62,0.03196,0.24,ci,ci40437808,2023-04-07T19:22:34.039Z,"3km SSW of Bombay Beach, CA",earthquake,0.46,0.73,0.1,27,automatic,ci,ci
 2023-04-07T19:16:40.880Z,33.3316667,-115.7426667,3.06,1.58,ml,34,58,0.02233,0.27,ci,ci40437800,2023-04-07T19:20:25.261Z,"2km SSW of Bombay Beach, CA",earthquake,0.52,0.71,0.077,24,automatic,ci,ci
-2023-04-07T18:55:44.400Z,18.0393333333333,-66.8783333333333,17.8,2.54,md,7,99,0.06394,0.08,pr,pr71402878,2023-04-07T19:25:55.530Z,"Puerto Rico",earthquake,0.56,1.18,0.0944647014644593,3,reviewed,pr,pr
+2023-04-07T18:55:44.400Z,18.0393333333333,-66.8783333333333,17.8,2.54,md,7,99,0.06394,0.08,pr,pr71402878,2023-04-07T19:25:55.530Z,"Puerto Rico region",earthquake,0.56,1.18,0.0944647014644593,3,reviewed,pr,pr
 2023-04-07T18:34:29.010Z,38.8381653,-122.8361664,1.93,0.93,md,9,116,0.0006786,0.01,nc,nc73868685,2023-04-07T18:58:10.379Z,"10km NW of The Geysers, CA",earthquake,0.39,1.04,0.23,11,automatic,nc,nc
 2023-04-07T18:30:17.530Z,38.841835,-122.878334,2.06,0.63,md,12,112,0.007804,0.03,nc,nc73868680,2023-04-07T18:31:55.774Z,"13km ENE of Cloverdale, CA",earthquake,0.36,0.57,0.35,12,automatic,nc,nc
 2023-04-07T18:21:45.204Z,63.0988,-149.0646,72.1,1,ml,,,,0.91,ak,ak0234gpz2bc,2023-04-07T18:23:58.015Z,"33 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
