@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-08T18:18:27.780Z,33.6995,-116.8123333,15.24,1.08,ml,42,36,0.07537,0.2,ci,ci40438408,2023-04-08T18:22:07.791Z,"9km SE of Valle Vista, CA",earthquake,0.27,0.47,0.214,27,automatic,ci,ci
-2023-04-08T18:14:21.510Z,38.7944984,-122.7509995,2.25,0.69,md,7,91,0.01584,0.02,nc,nc73869310,2023-04-08T18:15:56.956Z,"2km NNE of The Geysers, CA",earthquake,0.42,1.18,0.23,6,automatic,nc,nc
+2023-04-08T18:28:41.470Z,36.8051682,-121.3259964,9.22,1.72,md,26,70,0.0989,0.1,nc,nc73869315,2023-04-08T18:30:17.264Z,"2km NNW of Tres Pinos, CA",earthquake,0.37,0.66,0.23,22,automatic,nc,nc
+2023-04-08T18:18:27.780Z,33.6995,-116.8123333,15.24,1.08,ml,42,36,0.07537,0.2,ci,ci40438408,2023-04-08T18:29:15.040Z,"9km SE of Valle Vista, CA",earthquake,0.27,0.47,0.214,27,automatic,ci,ci
+2023-04-08T18:14:21.510Z,38.7944984,-122.7509995,2.25,0.69,md,7,91,0.01584,0.02,nc,nc73869310,2023-04-08T18:32:13.821Z,"2km NNE of The Geysers, CA",earthquake,0.42,1.18,0.23,6,automatic,nc,nc
 2023-04-08T18:09:51.141Z,61.5384,-151.4958,71.2,1.8,ml,,,,0.43,ak,ak0234idfuoa,2023-04-08T18:11:29.674Z,"49 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T18:02:01.180Z,38.783165,-122.7649994,-0.89,0.5,md,5,139,0.01244,0.01,nc,nc73869305,2023-04-08T18:20:14.754Z,"1km NW of The Geysers, CA",earthquake,0.4,2.74,0.28,7,automatic,nc,nc
 2023-04-08T17:58:11.450Z,33.4933333,-116.524,13.71,0.85,ml,13,179,0.1921,0.25,ci,ci40438400,2023-04-08T18:01:47.531Z,"16km ESE of Anza, CA",earthquake,1.14,2.85,0.169,15,automatic,ci,ci
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T18:55:44.400Z,18.0393333333333,-66.8783333333333,17.8,2.54,md,7,99,0.06394,0.08,pr,pr71402878,2023-04-07T19:25:55.530Z,"2 km E of Lluveras, Puerto Rico",earthquake,0.56,1.18,0.0944647014644593,3,reviewed,pr,pr
 2023-04-07T18:34:32.484Z,54.3262,-159.7851,10,3.7,mb,23,170,1.101,0.8,us,us6000k2q7,2023-04-07T21:40:38.040Z,"121 km SSE of Sand Point, Alaska",earthquake,4.75,1.983,0.178,10,reviewed,us,us
 2023-04-07T18:34:29.010Z,38.8381653,-122.8361664,1.93,0.93,md,9,116,0.0006786,0.01,nc,nc73868685,2023-04-07T18:58:10.379Z,"10km NW of The Geysers, CA",earthquake,0.39,1.04,0.23,11,automatic,nc,nc
-2023-04-07T18:30:17.530Z,38.841835,-122.878334,2.06,0.63,md,12,112,0.007804,0.03,nc,nc73868680,2023-04-07T18:31:55.774Z,"13km ENE of Cloverdale, CA",earthquake,0.36,0.57,0.35,12,automatic,nc,nc
