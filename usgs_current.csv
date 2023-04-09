@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-09T06:18:39.400Z,38.7943344,-122.7584991,2.17,1.08,md,17,79,0.006352,0.02,nc,nc73869630,2023-04-09T06:20:15.554Z,"2km N of The Geysers, CA",earthquake,0.26,0.6,0.06,17,automatic,nc,nc
+2023-04-09T06:18:39.400Z,38.7943344,-122.7584991,2.17,1.08,md,17,79,0.006352,0.02,nc,nc73869630,2023-04-09T06:30:13.036Z,"2km N of The Geysers, CA",earthquake,0.26,0.6,0.06,17,automatic,nc,nc
 2023-04-09T06:08:08.945Z,35.62865829,-97.97422028,3.384241104,1.73,ml,17,56.20011806,0.1291816682,0.97926226,ok,ok2023gxnl,2023-04-09T06:10:08.357Z,"10 km S of Okarche, Oklahoma",earthquake,2.60241211,2.377966113,0.33,5,automatic,ok,ok
 2023-04-09T06:03:35.370Z,33.5875,-116.8041667,7.79,0.32,ml,16,71,0.03401,0.15,ci,ci40438640,2023-04-09T06:07:07.144Z,"13km WNW of Anza, CA",earthquake,0.41,0.59,0.096,5,automatic,ci,ci
 2023-04-09T05:54:29.549Z,35.79497147,-96.98312378,3.303929329,1.83,ml,29,40.84597778,0.1768136173,0.409466096,ok,ok2023gxmz,2023-04-09T05:58:04.003Z,"Oklahoma",earthquake,2.114450708,1.878464814,0.25,15,automatic,ok,ok
@@ -131,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T17:01:28.290Z,38.8351669,-122.8115005,2.33,0.74,md,14,54,0.01181,0.01,nc,nc73869290,2023-04-08T17:35:13.545Z,"8km W of Cobb, CA",earthquake,0.26,0.69,0.32,15,automatic,nc,nc
 2023-04-08T17:01:12.610Z,38.8348351,-122.8126678,2.86,0.29,md,8,96,0.0116,0.01,nc,nc73869285,2023-04-08T19:07:17.033Z,"8km W of Cobb, CA",earthquake,0.57,2.42,0.11,9,automatic,nc,nc
 2023-04-08T16:58:42.010Z,33.918,-117.2425,15.22,0.94,ml,16,126,0.1337,0.25,ci,ci40438376,2023-04-08T17:02:25.545Z,"2km SW of Moreno Valley, CA",earthquake,0.78,1.07,0.187,21,automatic,ci,ci
-2023-04-08T16:57:56.290Z,19.1301670074463,-155.387329101562,30.2800006866455,1.78999996,md,36,184,,0.0900000036,hv,hv73359282,2023-04-08T17:24:54.362Z,"Island of Hawaii, Hawaii",earthquake,0.64,1.21000004,1.16999996,6,automatic,hv,hv
+2023-04-08T16:57:56.290Z,19.1301670074463,-155.387329101562,30.2800006866455,1.78999996,md,36,184,,0.0900000036,hv,hv73359282,2023-04-08T17:24:54.362Z,"12 km SE of Pāhala, Hawaii",earthquake,0.64,1.21000004,1.16999996,6,automatic,hv,hv
 2023-04-08T16:32:21.485Z,62.5794,-149.1498,0,1.6,ml,,,,0.96,ak,ak0234icdun8,2023-04-08T16:34:25.732Z,"51 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T16:27:33.707Z,-16.5627,175.021,24.835,5.3,mww,26,105,3.128,0.56,us,us6000k2vx,2023-04-08T16:48:03.040Z,"283 km WNW of Lautoka, Fiji",earthquake,6.07,6.367,0.098,10,reviewed,us,us
 2023-04-08T16:22:36.320Z,38.7628326,-122.7353363,1.59,0.95,md,11,101,0.008283,0.03,nc,nc73869275,2023-04-08T18:15:12.720Z,"2km SE of The Geysers, CA",earthquake,0.47,0.58,0.21,11,automatic,nc,nc
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T06:47:14.170Z,18.0766,-68.5315,75,3.95,md,11,239,0.6004,0.58,pr,pr2023098001,2023-04-09T05:21:15.040Z,"34 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.88,3.27,0.01,3,reviewed,pr,pr
 2023-04-08T06:36:52.850Z,38.8320007,-122.8069992,1.63,0.49,md,13,47,0.008922,0.01,nc,nc73869120,2023-04-08T06:48:10.608Z,"7km W of Cobb, CA",earthquake,0.3,0.5,0.28,13,automatic,nc,nc
 2023-04-08T06:34:26.951Z,61.5035,-149.9466,28.7,1.2,ml,,,,0.41,ak,ak0234i6fyg7,2023-04-08T06:36:40.965Z,"2 km SSE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-08T06:24:37.620Z,38.8339996,-122.8030014,2.5,0.71,md,8,115,0.01082,0.01,nc,nc73869110,2023-04-08T06:36:11.545Z,"7km W of Cobb, CA",earthquake,0.5,1.31,0.4,9,automatic,nc,nc
