@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-11T15:48:25.900Z,38.8059998,-122.774498,0.97,0.29,md,7,107,0.008713,0.02,nc,nc73870760,2023-04-11T15:50:01.658Z,"4km NNW of The Geysers, CA",earthquake,0.48,1.21,0.06,8,automatic,nc,nc
+2023-04-11T15:40:53.616Z,63.0859,-151.5443,0.1,1.8,ml,,,,0.81,ak,ak0234nag8q9,2023-04-11T15:43:14.257Z,"51 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T15:36:57.148Z,58.4831,-153.7316,77,1.8,ml,,,,0.38,ak,ak0234nafe4y,2023-04-11T15:38:48.337Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-11T15:35:50.140Z,59.8282,-149.1865,3.2,2.1,ml,,,,1.14,ak,ak0234naf5u5,2023-04-11T15:38:32.188Z,"30 km SSE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T15:34:55.509Z,61.8054,-151.674,75,1.2,ml,,,,0.19,ak,ak0234naeyku,2023-04-11T15:36:27.617Z,"25 km SW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -291,6 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T16:02:58.890Z,17.9586666666667,-66.963,14.23,2.3,md,9,200,0.07805,0.11,pr,pr71403748,2023-04-10T16:22:29.040Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.84,0.73,0.06780530783226,7,reviewed,pr,pr
 2023-04-10T15:54:05.530Z,38.788166,-122.7458344,1.61,1.16,md,16,85,0.008655,0.02,nc,nc73870285,2023-04-10T19:05:14.341Z,"2km NE of The Geysers, CA",earthquake,0.24,0.51,0.18,16,automatic,nc,nc
 2023-04-10T15:53:00.592Z,54.2959,-159.8829,15.4,2.3,ml,,,,0.65,ak,ak0234lmzlng,2023-04-10T16:51:32.485Z,"122 km SSE of Sand Point, Alaska",earthquake,,2.7,,,reviewed,ak,ak
-2023-04-10T15:51:49.070Z,17.998,-66.85,16.54,2.04,md,5,158,0.036,0.06,pr,pr71403743,2023-04-10T16:20:42.550Z,"3 km SE of Palomas, Puerto Rico",earthquake,0.63,0.75,0.0190589067164333,3,reviewed,pr,pr
-2023-04-10T15:47:39.420Z,17.971,-66.9818333333333,6.97,2.72,md,12,182,0.0594,0.1,pr,pr71403728,2023-04-10T22:16:27.742Z,"Puerto Rico region",earthquake,0.48,0.3,0.121212046997109,7,reviewed,pr,pr
-2023-04-10T15:44:00.970Z,37.4678345,-121.7761688,7.29,1.19,md,10,124,0.02599,0.03,nc,nc73870275,2023-04-10T18:39:14.176Z,"12km NNE of Alum Rock, CA",earthquake,0.76,0.67,0.14,7,automatic,nc,nc
