@@ -301,5 +301,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T11:39:18.720Z,51.8588333333333,-178.089333333333,2.01,1.37,ml,5,209,,0.24,av,av91845431,2023-04-12T23:59:38.910Z,"100 km W of Adak, Alaska",earthquake,0.89,1.92,0.136871238150627,5,reviewed,av,av
 2023-04-12T11:35:40.240Z,38.8344994,-122.8010025,3.07,1.02,md,14,75,0.009194,0.02,nc,nc73872185,2023-04-12T12:21:15.623Z,"7km WNW of Cobb, CA",earthquake,0.33,0.68,0.22,18,automatic,nc,nc
 2023-04-12T11:29:39.930Z,36.9093333,-112.3436667,19.61,1.89,ml,9,148,0.1934,0.13,uu,uu60536916,2023-04-12T13:46:30.370Z,"16 km ESE of Fredonia, Arizona",earthquake,0.96,0.57,0.031,5,reviewed,uu,uu
-2023-04-12T11:25:10.486Z,59.878,-152.6689,97,2,ml,,,,0.15,ak,ak0234ovijqg,2023-04-12T12:04:34.040Z,"48 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-12T11:24:04.520Z,38.8278351,-122.8065033,1.9,0.22,md,7,84,0.005238,0.01,nc,nc73872170,2023-04-12T11:48:14.326Z,"7km NW of The Geysers, CA",earthquake,0.71,1.57,0.13,8,automatic,nc,nc
