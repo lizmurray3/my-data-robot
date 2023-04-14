@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-14T14:56:56.520Z,32.519001,-115.6276703,15.58,3.71,mlr,71,33,0.04327,0.33,ci,ci40440784,2023-04-14T15:17:21.509Z,"8km SSW of Progreso, B.C., MX",earthquake,0.36,0.79,0.353,14,reviewed,ci,ci
+2023-04-14T15:13:20.660Z,35.02366667,-97.66516667,5.68,1.57,ml,76,34,0.1205763388,0.61,ok,ok2023hhiy,2023-04-14T15:24:59.036Z,"3 km WSW of Dibble, Oklahoma",earthquake,,1.1,0.24,34,reviewed,ok,ok
+2023-04-14T14:56:56.520Z,32.519001,-115.6276703,15.58,3.71,mlr,71,33,0.04327,0.33,ci,ci40440784,2023-04-14T15:27:50.589Z,"8km SSW of Progreso, B.C., MX",earthquake,0.36,0.79,0.353,14,reviewed,ci,ci
 2023-04-14T14:49:02.715Z,61.9579,-149.5943,35.3,1.4,ml,,,,0.45,ak,ak0234s8io4f,2023-04-14T14:50:44.382Z,"Southern Alaska",earthquake,,3,,,automatic,ak,ak
 2023-04-14T14:46:51.450Z,19.1310005187988,-155.374664306641,29.2299995422363,1.71000004,md,27,226,,0.100000001,hv,hv73363707,2023-04-14T14:50:17.530Z,"13 km SE of Pāhala, Hawaii",earthquake,0.89,1.84000003,0.850000024,3,automatic,hv,hv
 2023-04-14T14:42:32.390Z,19.3780002593994,-155.292831420898,1.82000005245209,1.86,ml,13,88,,0.129999995,hv,hv73363697,2023-04-14T14:48:01.700Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.270000011,0.5,4,automatic,hv,hv
-2023-04-14T14:25:15.960Z,38.6856651,-122.8583298,7.72,1.14,md,11,200,0.0829,0.03,nc,nc73873580,2023-04-14T14:56:11.157Z,"8km N of Healdsburg, CA",earthquake,1.07,1.51,0.07,10,automatic,nc,nc
+2023-04-14T14:25:15.960Z,38.6856651,-122.8583298,7.72,1.14,md,11,200,0.0829,0.03,nc,nc73873580,2023-04-14T15:20:14.302Z,"8km N of Healdsburg, CA",earthquake,1.07,1.51,0.07,10,automatic,nc,nc
 2023-04-14T14:16:18.175Z,58.1865,-155.2983,0,1,ml,,,,0.58,ak,ak0234s8bmop,2023-04-14T14:18:08.782Z,"85 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-14T14:10:55.902Z,-5.4749,152.0914,61.909,5.4,mb,31,113,1.278,1.02,us,us6000k4fw,2023-04-14T14:29:59.313Z,"126 km S of Kokopo, Papua New Guinea",earthquake,8.8,7.471,0.044,179,reviewed,us,us
 2023-04-14T14:04:39.794Z,58.1769,-155.35,1.2,0.6,ml,,,,0.2,ak,ak0234s893rf,2023-04-14T14:06:18.740Z,"86 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -241,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T15:46:49.720Z,46.281,-122.687,23.17,1.32,ml,28,69,0.1337,0.23,uw,uw61917531,2023-04-13T18:17:58.560Z,"17 km E of Castle Rock, Washington",earthquake,0.41,0.98,0.12363154359192863,14,reviewed,uw,uw
 2023-04-13T15:37:06.790Z,19.1746673583984,-155.478668212891,32.0499992370605,1.91999996,md,31,164,,0.109999999,hv,hv73362722,2023-04-13T15:40:24.160Z,"3 km S of Pāhala, Hawaii",earthquake,0.62,1.14999998,1.91999996,4,automatic,hv,hv
 2023-04-13T15:32:29.541Z,61.5505,-147.1551,20,1.3,ml,,,,1.09,ak,ak0234qlh64q,2023-04-13T15:34:30.914Z,"38 km SE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-13T15:25:05.700Z,38.8248329,-122.8033371,2.43,1.08,md,18,73,0.005455,0.03,nc,nc73873185,2023-04-13T15:53:21.609Z,"7km NW of The Geysers, CA",earthquake,0.24,0.56,0.27,20,automatic,nc,nc
