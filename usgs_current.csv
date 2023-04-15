@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-15T14:05:21.040Z,36.082,-118.4386667,3.95,1.33,ml,16,112,0.2904,0.19,ci,ci40441080,2023-04-15T14:08:49.430Z,"36km N of Kernville, CA",earthquake,0.55,3.37,0.22,13,automatic,ci,ci
+2023-04-15T14:00:59.220Z,36.0858333,-118.4381667,2.6,1.09,ml,15,123,0.2892,0.17,ci,ci40441072,2023-04-15T14:04:25.620Z,"37km N of Kernville, CA",earthquake,0.52,2.05,0.13,10,automatic,ci,ci
 2023-04-15T13:47:43.590Z,19.1586666107178,-155.492340087891,32.2099990844727,1.78999996,md,41,127,,0.150000006,hv,hv73364582,2023-04-15T13:50:50.790Z,"Hawaii region, Hawaii",earthquake,0.65,1.03999996,0.810000002,12,automatic,hv,hv
 2023-04-15T13:24:09.727Z,58.3627,-154.7036,28.2,0.4,ml,,,,1.24,ak,ak0234tvb8ng,2023-04-15T13:25:36.670Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
 2023-04-15T13:08:51.840Z,38.7779999,-122.7985001,10.31,0.28,md,7,190,0.01091,0.03,nc,nc73873925,2023-04-15T13:27:16.280Z,"4km W of The Geysers, CA",earthquake,2.09,6.52,0.07,9,automatic,nc,nc
@@ -218,8 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T14:23:13.540Z,58.1778333333333,-155.316,0.83,-0.21,ml,7,165,,0.06,av,av91097513,2023-04-14T18:58:41.400Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.95,0.220143513529556,7,reviewed,av,av
 2023-04-14T14:17:45.530Z,58.1778333333333,-155.316166666667,1,-0.32,ml,5,165,,0.04,av,av91848236,2023-04-14T18:51:02.480Z,"Alaska Peninsula",earthquake,0.23,0.92,0.232205021975253,5,reviewed,av,av
 2023-04-14T14:16:18.175Z,58.1865,-155.2983,0,1,ml,,,,0.58,ak,ak0234s8bmop,2023-04-14T18:47:10.590Z,"85 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-04-14T14:12:24.282Z,37.2241,-116.0068,8,-0.2,ml,6,248.5,0.037,0.0859,nn,nn00858245,2023-04-15T02:04:49.149Z,"52 km SSW of Rachel, Nevada",earthquake,,1.9,0.16,3,reviewed,nn,nn
-2023-04-14T14:11:10.030Z,58.1785,-155.312666666667,0.72,-0.39,ml,6,163,,0.03,av,av91848226,2023-04-14T18:43:24.980Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.92,0.303418293704416,7,reviewed,av,av
-2023-04-14T14:10:55.902Z,-5.4749,152.0914,61.909,5.4,mb,31,113,1.278,1.02,us,us6000k4fw,2023-04-14T16:13:50.893Z,"126 km S of Kokopo, Papua New Guinea",earthquake,8.8,7.471,0.044,179,reviewed,us,us
-2023-04-14T14:04:39.794Z,58.1769,-155.35,1.2,0.6,ml,,,,0.2,ak,ak0234s893rf,2023-04-15T00:23:05.690Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
-2023-04-14T14:00:35.395Z,57.891,-154.1715,60.3,1.9,ml,,,,0.16,ak,ak0234s888k3,2023-04-14T14:02:20.418Z,"39 km NNE of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
