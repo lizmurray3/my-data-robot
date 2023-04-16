@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-16T20:09:00.860Z,40.5299988,-124.3830032,17.3,2.44,md,14,242,0.06451,0.07,nc,nc73874380,2023-04-16T20:15:11.065Z,"11km WSW of Ferndale, CA",earthquake,1.35,0.38,0.12,10,automatic,nc,nc
 2023-04-16T19:20:28.610Z,33.3885,-116.896,10.29,0.69,ml,23,66,0.1136,0.18,ci,ci40441592,2023-04-16T19:23:59.850Z,"5km NW of Palomar Observatory, CA",earthquake,0.34,1.29,0.158,17,automatic,ci,ci
 2023-04-16T19:02:14.930Z,38.7966652,-122.8198318,1.31,1.07,md,19,95,0.01233,0.04,nc,nc73874335,2023-04-16T19:51:13.914Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.38,0.19,21,automatic,nc,nc
 2023-04-16T19:00:17.270Z,38.7958336,-122.8221664,1.71,0.47,md,10,97,0.01036,0.02,nc,nc73874330,2023-04-16T19:39:13.852Z,"6km WNW of The Geysers, CA",earthquake,0.41,0.85,0.22,10,automatic,nc,nc
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T16:17:53.030Z,19.4238338470459,-155.271499633789,-1.1599999666214,1.99000001,md,11,110,,0.100000001,hv,hv73365697,2023-04-16T16:20:50.940Z,"4 km WSW of Volcano, Hawaii",earthquake,0.18,0.5,0.99000001,8,automatic,hv,hv
 2023-04-16T16:16:57.080Z,17.9595,-66.9715,6.92,2.06,md,10,200,0.06115,0.08,pr,pr71405363,2023-04-16T16:33:23.940Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.31,0.0468735576592523,4,reviewed,pr,pr
 2023-04-16T16:13:50.220Z,33.4721667,-116.56,8.84,1.11,ml,41,64,0.04182,0.18,ci,ci40441560,2023-04-16T16:42:36.750Z,"14km SE of Anza, CA",earthquake,0.21,0.46,0.241,26,reviewed,ci,ci
-2023-04-16T16:13:40.794Z,61.5979,-149.7462,32.7,1.7,ml,,,,0.38,ak,ak0234vkklhb,2023-04-16T16:15:28.213Z,"5 km SE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-16T16:13:40.794Z,61.5979,-149.7462,32.7,1.7,ml,,,,0.38,ak,ak0234vkklhb,2023-04-16T16:15:28.213Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-16T16:05:09.410Z,33.4735,-116.5575,8.63,0.48,ml,16,156,0.04293,0.16,ci,ci40441544,2023-04-16T16:42:21.848Z,"14km SE of Anza, CA",earthquake,0.36,0.54,0.138,12,reviewed,ci,ci
 2023-04-16T16:04:01.340Z,37.6243324,-118.8448334,5.76,0.6,md,8,109,0.009101,0.03,nc,nc73874255,2023-04-16T16:37:15.768Z,"12km E of Mammoth Lakes, CA",earthquake,0.9,2.62,0.11,8,automatic,nc,nc
 2023-04-16T16:02:41.477Z,62.357,-149.1148,27.2,2.4,ml,,,,0.74,ak,ak0234vki8ns,2023-04-16T17:01:25.040Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -54,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T12:03:25.719Z,-20.426,-177.6273,360.011,4.1,mb,23,88,2.385,0.63,us,us6000k4w2,2023-04-16T13:04:43.040Z,"Fiji region",earthquake,14.73,11.549,0.126,17,reviewed,us,us
 2023-04-16T11:32:15.770Z,18.0406666666667,-66.665,12.07,2.4,md,11,166,0.05596,0.11,pr,pr71405303,2023-04-16T11:59:33.490Z,"3 km ESE of Tallaboa Alta, Puerto Rico",earthquake,0.3,0.38,0.147981969779694,6,reviewed,pr,pr
 2023-04-16T11:24:37.501Z,60.0387,-151.5448,69.7,1.8,ml,,,,0.2,ak,ak0234vhns2u,2023-04-16T11:25:58.605Z,"6 km E of Ninilchik, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2023-04-16T11:22:21.910Z,15.8534,-61.3059,104.123,5.1,mb,81,117,0.098,0.62,us,us6000k4vv,2023-04-16T16:36:31.895Z,"3 km SSE of Grand-Bourg, Guadeloupe",earthquake,5.61,4.525,0.023,586,reviewed,us,us
+2023-04-16T11:22:21.910Z,15.8534,-61.3059,104.123,5.1,mb,81,117,0.098,0.62,us,us6000k4vv,2023-04-16T20:06:24.070Z,"3 km SSE of Grand-Bourg, Guadeloupe",earthquake,5.61,4.525,0.023,586,reviewed,us,us
 2023-04-16T11:14:35.707Z,58.2643,-154.2819,84.1,1.9,ml,,,,0.17,ak,ak0234vhlms2,2023-04-16T11:16:31.748Z,"78 km N of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-16T11:11:37.799Z,25.8985,125.412,10,4.6,mb,36,76,2.6,0.78,us,us6000k4vu,2023-04-16T11:59:21.040Z,"121 km N of Hirara, Japan",earthquake,7.24,1.904,0.132,17,reviewed,us,us
 2023-04-16T10:21:54.293Z,61.5121,-149.6349,52.1,2.2,ml,,,,0.22,ak,ak0234vh1qmd,2023-04-16T10:27:33.945Z,"1 km W of Knik-Fairview, Alaska",earthquake,,0.6,,,automatic,ak,ak
