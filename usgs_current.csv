@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-17T04:57:33.050Z,19.1768341064453,-155.492828369141,32.6800003051758,1.80999994,md,26,95,,0.180000007,hv,hv73366277,2023-04-17T05:00:47.880Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.7,1.14999998,1.80999994,4,automatic,hv,hv
+2023-04-17T04:38:27.506Z,-8.4254,107.7916,35,4.8,mb,52,103,0.967,0.98,us,us6000k4z3,2023-04-17T05:04:49.040Z,"123 km SSW of Singaparna, Indonesia",earthquake,6.93,1.927,0.087,41,reviewed,us,us
 2023-04-17T04:17:59.450Z,33.6731667,-116.6836667,15.63,0.6,ml,30,55,0.04564,0.14,ci,ci40441736,2023-04-17T04:21:29.327Z,"8km SSE of Idyllwild, CA",earthquake,0.26,0.39,0.154,17,automatic,ci,ci
 2023-04-17T04:15:12.819Z,-3.9775,128.7115,154.382,4.6,mb,51,46,1.307,0.68,us,us6000k4z2,2023-04-17T04:45:23.040Z,"66 km ESE of Ambon, Indonesia",earthquake,6.6,7.36,0.095,33,reviewed,us,us
 2023-04-17T04:15:00.000Z,35.5821667,-118.9328333,7.81,1.31,ml,15,100,0.06033,0.15,ci,ci40441728,2023-04-17T04:18:27.610Z,"20km NNE of Oildale, CA",earthquake,0.41,0.74,0.193,12,automatic,ci,ci
@@ -165,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T05:36:50.170Z,31.69260933,-104.4087943,1.915454102,2.8,ml,11,68,0.04150377607,0.2,tx,tx2023hkgy,2023-04-16T06:02:54.637Z,"53 km S of Whites City, New Mexico",earthquake,1.175817337,1.65386136,0.2,10,reviewed,tx,tx
 2023-04-16T05:23:40.951Z,-31.4557,-179.4295,164.76,4.8,mb,51,77,2.546,0.96,us,us6000k4um,2023-04-16T05:43:11.040Z,"Kermadec Islands region",earthquake,11.24,7.165,0.059,90,reviewed,us,us
 2023-04-16T05:23:00.330Z,33.3606667,-116.2265,11.18,1.12,ml,35,42,0.1691,0.24,ci,ci40441376,2023-04-16T05:33:34.390Z,"17km SW of Oasis, CA",earthquake,0.35,0.72,0.15,27,automatic,ci,ci
-2023-04-16T04:52:28.180Z,18.0771666666667,-68.424,77.72,3.43,md,13,231,0.4369,0.56,pr,pr71405218,2023-04-16T05:28:39.500Z,"38 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.95,2.32,0.0691134866753254,4,reviewed,pr,pr
