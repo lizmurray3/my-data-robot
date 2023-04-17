@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-17T19:41:00.440Z,39.920166,-123.5456696,0.08,2.03,md,11,73,0.122,0.31,nc,nc73874840,2023-04-17T19:42:39.541Z,"26km NNW of Laytonville, CA",earthquake,0.85,9.77,0.06,6,automatic,nc,nc
+2023-04-17T19:51:49.190Z,36.5403328,-121.1196671,9.05,2.54,md,51,129,0.06149,0.21,nc,nc73874850,2023-04-17T19:54:55.170Z,"2km ENE of Pinnacles, CA",earthquake,0.37,0.83,0.15,48,automatic,nc,nc
+2023-04-17T19:50:02.207Z,62.4421,-149.576,48.5,1.5,ml,,,,0.32,ak,ak0234xa43b0,2023-04-17T19:56:58.364Z,"27 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-17T19:41:00.440Z,39.920166,-123.5456696,0.08,2.03,md,11,73,0.122,0.31,nc,nc73874840,2023-04-17T19:48:18.676Z,"26km NNW of Laytonville, CA",earthquake,0.85,9.77,0.06,6,automatic,nc,nc
 2023-04-17T19:31:32.300Z,33.7736664,-117.904335,0.4,1.18,ml,13,137,0.113,0.39,ci,ci40442040,2023-04-17T19:35:12.637Z,"4km NNW of Santa Ana, CA",earthquake,1.06,2.24,0.374,6,automatic,ci,ci
-2023-04-17T19:12:37.020Z,38.2566681,-122.6103363,3.61,1.28,md,6,222,0.2595,0.07,nc,nc73874835,2023-04-17T19:42:35.757Z,"4km NE of Petaluma, CA",earthquake,5.63,9.91,,1,automatic,nc,nc
+2023-04-17T19:12:37.020Z,38.2566681,-122.6103363,3.61,1.28,md,6,222,0.2595,0.07,nc,nc73874835,2023-04-17T19:53:11.701Z,"4km NE of Petaluma, CA",earthquake,5.63,9.91,,1,automatic,nc,nc
 2023-04-17T19:12:26.041Z,-6.2875,150.9103,10,5,mb,38,66,4.837,0.97,us,us6000k54v,2023-04-17T19:47:41.040Z,"118 km SE of Kimbe, Papua New Guinea",earthquake,10.71,1.888,0.063,79,reviewed,us,us
 2023-04-17T19:04:27.700Z,61.5334,-151.1097,64.2,1.7,ml,,,,0.37,ak,ak0234x9uac1,2023-04-17T19:07:12.423Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-17T18:52:36.980Z,33.527,-116.6878333,8.26,2.58,ml,92,16,0.05633,0.21,ci,ci40442016,2023-04-17T19:04:13.510Z,"3km SSW of Anza, CA",earthquake,0.17,0.41,0.2,25,automatic,ci,ci
