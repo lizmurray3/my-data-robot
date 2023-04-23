@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T00:37:26.100Z,19.4251666666667,-155.2235,1.56,2.32,ml,19,153,,0.09,hv,hv73372987,2023-04-23T01:06:18.162Z,"Hawaii region, Hawaii",earthquake,0.3,0.32,0.126795488408113,12,reviewed,hv,hv
 2023-04-23T00:33:01.480Z,19.4248333333333,-155.224333333333,1.58,2.45,ml,26,135,,0.09,hv,hv73372982,2023-04-23T01:50:23.123Z,"2 km SSE of Volcano, Hawaii",earthquake,0.26,0.28,0.14436176566592,15,reviewed,hv,hv
 2023-04-23T00:24:30.546Z,69.5981,-144.5526,0,1.9,ml,,,,0.55,ak,ak02356vvfce,2023-04-23T00:27:24.782Z,"69 km SSW of Kaktovik, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-04-23T00:23:47.580Z,19.4243333333333,-155.228,1.18,4.1,md,48,49,,0.11,hv,hv73372962,2023-04-23T06:08:31.502Z,"Island of Hawaii, Hawaii",earthquake,0.19,0.26,0.263075127264119,9,reviewed,hv,hv
+2023-04-23T00:23:47.580Z,19.4243333333333,-155.228,1.18,4.1,md,48,49,,0.11,hv,hv73372962,2023-04-23T06:23:32.498Z,"Island of Hawaii, Hawaii",earthquake,0.19,0.26,0.263075127264119,9,reviewed,hv,hv
 2023-04-23T00:22:02.433Z,64.7056,-146.8949,12.6,1.2,ml,,,,0.88,ak,ak02356vuxqr,2023-04-23T00:23:52.199Z,"8 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-23T00:15:56.760Z,17.971,-66.8041666666667,13.75,2.93,md,5,210,0.07159,0.07,pr,pr71406343,2023-04-23T00:32:27.300Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.89,0.5,0.106649317083952,3,reviewed,pr,pr
 2023-04-22T23:55:55.690Z,38.8240013,-122.7996674,2.77,1.07,md,20,57,0.008151,0.01,nc,nc73876745,2023-04-23T00:39:13.554Z,"6km NW of The Geysers, CA",earthquake,0.25,0.64,0.07,20,automatic,nc,nc
@@ -216,7 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T06:56:27.474Z,58.1763,-155.322,28.9,0,ml,,,,0.64,ak,ak02355c3jf7,2023-04-22T06:59:06.009Z,"84 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-22T06:48:09.610Z,38.8418333,-122.8365,2.08,0.1,md,14,132,0.003335,0.04,nc,nc73876515,2023-04-22T23:01:10.895Z,"10km NW of The Geysers, CA",earthquake,0.27,0.41,0.348,14,reviewed,nc,nc
 2023-04-22T06:46:11.270Z,38.8383331,-122.8363342,1.83,1.15,md,26,82,0.0007093,0.02,nc,nc73876510,2023-04-22T10:34:10.425Z,"10km NW of The Geysers, CA",earthquake,0.19,0.34,0.18,25,automatic,nc,nc
-2023-04-22T06:27:12.913Z,40.138,-121.0087,9.3,1.5,ml,6,269.18,0.567,0.1219,nn,nn00858551,2023-04-22T20:23:33.629Z,"4 km W of Greenville, California",earthquake,,2.3,0.18,6,reviewed,nn,nn
-2023-04-22T06:25:20.510Z,40.8813333,-121.8921667,15.76,1.8,md,25,57,0.1411,0.07,nc,nc73876505,2023-04-22T11:43:10.957Z,"5km NNE of Montgomery Creek, CA",earthquake,0.22,0.62,0.229,27,reviewed,nc,nc
-2023-04-22T06:23:43.860Z,35.7103333,-117.5123333,2.61,0.54,ml,8,81,0.08509,0.17,ci,ci40444056,2023-04-22T06:27:17.150Z,"12km WSW of Searles Valley, CA",earthquake,0.52,0.54,0.061,6,automatic,ci,ci
-2023-04-22T06:23:11.540Z,19.1919994354248,-155.425003051758,32.5800018310547,1.83000004,md,35,153,,0.109999999,hv,hv73372147,2023-04-22T06:26:16.900Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.57,0.939999998,0.910000026,8,automatic,hv,hv
