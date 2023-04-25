@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-25T22:27:12.430Z,38.8106651,-122.7409973,2.7,0.78,md,9,125,0.01773,0.02,nc,nc73877750,2023-04-25T22:28:47.379Z,"2km SW of Cobb, CA",earthquake,0.4,1.32,0.06,11,automatic,nc,nc
-2023-04-25T22:16:15.020Z,-40.3083,176.6162,25.329,5.4,mww,73,97,0.466,0.91,us,us7000jvwe,2023-04-25T22:34:45.659Z,"45 km ESE of Dannevirke, New Zealand",earthquake,5.29,4.659,0.086,13,reviewed,us,us
+2023-04-25T22:39:34.030Z,35.863,-117.6888333,4.95,0.96,ml,15,112,0.08228,0.21,ci,ci40445624,2023-04-25T22:43:07.630Z,"21km ESE of Little Lake, CA",earthquake,0.54,0.82,0.105,9,automatic,ci,ci
+2023-04-25T22:27:12.430Z,38.8106651,-122.7409973,2.7,0.78,md,9,125,0.01773,0.02,nc,nc73877750,2023-04-25T22:41:11.645Z,"2km SW of Cobb, CA",earthquake,0.4,1.32,0.06,11,automatic,nc,nc
+2023-04-25T22:19:03.174Z,-40.237,176.4869,23.152,5.2,mb,55,92,0.479,1.03,us,us7000jvwg,2023-04-25T22:42:03.475Z,"North Island of New Zealand",earthquake,5.13,5.003,0.086,45,reviewed,us,us
+2023-04-25T22:16:15.020Z,-40.3083,176.6162,25.329,5.4,mww,73,97,0.466,0.91,us,us7000jvwe,2023-04-25T22:43:25.637Z,"45 km ESE of Dannevirke, New Zealand",earthquake,5.29,4.659,0.086,13,reviewed,us,us
 2023-04-25T22:07:21.600Z,33.2901667,-116.2041667,6.97,1.06,ml,28,58,0.1058,0.26,ci,ci40445616,2023-04-25T22:11:05.411Z,"16km ENE of Borrego Springs, CA",earthquake,0.43,1.22,0.09,17,automatic,ci,ci
 2023-04-25T22:06:32.430Z,34.2331667,-117.4996667,7.44,1.69,ml,51,30,0.02538,0.22,ci,ci40445600,2023-04-25T22:17:52.560Z,"3km S of Lytle Creek, CA",earthquake,0.26,0.64,0.239,27,automatic,ci,ci
 2023-04-25T22:03:21.640Z,38.8214989,-122.7610016,1.84,0.92,md,12,125,0.01135,0.02,nc,nc73877745,2023-04-25T22:19:11.503Z,"3km W of Cobb, CA",earthquake,0.32,0.75,0.2,13,automatic,nc,nc
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T20:18:17.980Z,32.7571667,-115.4208333,8.91,1.38,ml,10,156,0.05276,0.18,ci,ci40445552,2023-04-25T20:21:51.385Z,"7km SSW of Holtville, CA",earthquake,0.89,1.39,0.128,8,automatic,ci,ci
 2023-04-25T20:12:43.300Z,44.8025,-110.8278333,4.81,1.58,ml,15,189,0.02148,0.16,uu,uu60538281,2023-04-25T20:58:01.250Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.56,0.45,0.218,4,reviewed,uu,uu
 2023-04-25T20:06:39.310Z,35.7936667,-117.5903333,6.78,0.99,ml,18,87,0.02279,0.15,ci,ci40445536,2023-04-25T20:10:23.266Z,"17km W of Searles Valley, CA",earthquake,0.39,0.7,0.2,10,automatic,ci,ci
-2023-04-25T20:01:30.214Z,38.6635,-119.7601,8,1.5,ml,16,76.83,0.035,0.1778,nn,nn00858683,2023-04-25T22:35:36.973Z,"3 km SSE of Markleeville, California",earthquake,,1.2,1.08,5,reviewed,nn,nn
+2023-04-25T20:01:30.158Z,38.6628,-119.758,8.7,1.4,ml,15,76.84,0.036,0.1207,nn,nn00858683,2023-04-25T22:38:50.464Z,"4 km SSE of Markleeville, California",earthquake,,1.1,1.08,4,reviewed,nn,nn
 2023-04-25T20:00:37.012Z,64.8309,-149.0085,18.4,0.9,ml,,,,0.37,ak,ak0235aipnqt,2023-04-25T20:02:14.736Z,"25 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-25T19:54:41.260Z,19.4098333333333,-155.324666666667,6.05,2.98,ml,45,60,,0.12,hv,hv73376292,2023-04-25T20:30:53.010Z,"10 km WSW of Volcano, Hawaii",earthquake,0.24,0.37,0.172192515729977,22,reviewed,hv,hv
 2023-04-25T19:53:53.630Z,19.441333770752,-155.581329345703,32.6399993896484,3.32,ml,13,76,,0.200000003,hv,hv73376287,2023-04-25T20:05:16.300Z,"28 km NNW of Pāhala, Hawaii",earthquake,1.17,1.74000001,0.84,16,automatic,hv,hv
@@ -177,6 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T03:37:19.960Z,38.8370018,-122.7985001,1.46,0.63,md,10,99,0.006523,0.01,nc,nc73877495,2023-04-25T04:23:15.860Z,"7km WNW of Cobb, CA",earthquake,0.3,0.9,0.33,8,automatic,nc,nc
 2023-04-25T03:33:42.060Z,19.2683334350586,-155.383834838867,30.7199993133545,2.08,ml,37,129,,0.150000006,hv,hv73375417,2023-04-25T20:45:49.040Z,"12 km NE of Pāhala, Hawaii",earthquake,0.61,0.939999998,2.89,14,automatic,hv,hv
 2023-04-25T03:32:56.755Z,61.5094,-151.3739,20.1,1.4,ml,,,,0.71,ak,ak0235a8s6wb,2023-04-25T03:51:22.046Z,"43 km NNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-25T03:32:41.450Z,58.1876666666667,-155.280333333333,1.96,-0.29,ml,6,167,,0.29,av,av91862546,2023-04-25T22:36:06.940Z,"84 km NW of Karluk, Alaska",earthquake,0.85,1.77,0.222165896324653,6,reviewed,av,av
 2023-04-25T03:28:40.860Z,38.762,-122.7048333,1.81,0.43,md,17,53,0.007543,0.03,nc,nc73877490,2023-04-25T19:26:12.472Z,"2km SW of Anderson Springs, CA",earthquake,0.29,0.37,0.177,9,reviewed,nc,nc
 2023-04-25T03:28:22.959Z,31.68028184,-104.3962996,6.440063477,2.8,ml,26,56,0.02523218456,0.2,tx,tx2023iaoh,2023-04-25T20:35:40.040Z,"54 km S of Whites City, New Mexico",earthquake,0.7420051579,0.6847204377,0.1,53,reviewed,tx,tx
 2023-04-25T03:25:09.530Z,38.8286667,-122.8154984,1.59,0.79,md,15,62,0.006757,0.03,nc,nc73877485,2023-04-25T03:47:17.518Z,"8km NW of The Geysers, CA",earthquake,0.27,0.72,0.14,17,automatic,nc,nc
@@ -252,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T22:57:39.450Z,44.4641667,-110.6065,4.37,1.31,ml,18,53,0.03022,0.11,uu,uu60538111,2023-04-25T13:16:49.680Z,"45 km ESE of West Yellowstone, Montana",earthquake,0.25,0.34,0.613,2,reviewed,uu,uu
 2023-04-24T22:51:48.320Z,57.5978333333333,-156.4875,8.38,0.19,ml,4,248,,0.17,av,av91862361,2023-04-24T23:30:34.360Z,"55 km E of Ugashik, Alaska",earthquake,0.94,3.01,0.429304776414141,4,reviewed,av,av
 2023-04-24T22:49:56.490Z,38.8134995,-122.7868347,1.4,1.06,md,17,54,0.00481,0.03,nc,nc73877420,2023-04-24T23:21:16.845Z,"5km NNW of The Geysers, CA",earthquake,0.22,0.51,0.25,18,automatic,nc,nc
-2023-04-24T22:39:36.190Z,49.12766666666667,-122.00033333333333,-0.7,1.36,ml,5,298,0.141,0.33,uw,uw61919426,2023-04-25T03:46:14.600Z,"5 km SW of Chilliwack, Canada",explosion,2.29,31.61,0.12019425662382044,4,reviewed,uw,uw
-2023-04-24T22:37:44.650Z,19.4033336639404,-155.287170410156,1.23000001907349,2,md,20,64,,0.170000002,hv,hv73375147,2023-04-24T22:41:01.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.170000002,1.25,13,automatic,hv,hv
