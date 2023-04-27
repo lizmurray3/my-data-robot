@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-27T22:40:17.370Z,33.5258331,-116.5271683,11.45,1.1,ml,23,57,0.03175,0.14,ci,ci40212071,2023-04-27T22:42:22.288Z,"14km ESE of Anza, CA",earthquake,0.32,0.66,0.311,6,automatic,ci,ci
+2023-04-27T22:40:17.490Z,33.52,-116.5233333,10.65,0.72,ml,29,44,0.03795,0.25,ci,ci40212071,2023-04-27T22:43:59.279Z,"14km ESE of Anza, CA",earthquake,0.4,0.61,0.214,18,automatic,ci,ci
+2023-04-27T22:28:31.828Z,31.6525,-104.1915,6.291,2.6,ml,30,105,0.22,0.46,us,us7000jwf4,2023-04-27T22:45:34.040Z,"53 km NW of Toyah, Texas",earthquake,1.91,1.825,0.046,62,reviewed,us,us
 2023-04-27T22:16:18.888Z,57.1034,-155.2395,12.3,2,ml,,,,0.47,ak,ak0235dv2m00,2023-04-27T22:19:04.369Z,"67 km WNW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-27T22:12:59.780Z,19.2441673278809,-155.376495361328,28.6499996185303,1.79999995,md,30,144,,0.209999993,hv,hv73379547,2023-04-27T22:16:07.780Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.8,1.23000002,0.889999986,3,automatic,hv,hv
 2023-04-27T21:57:03.753Z,59.8227,-153.3483,131.4,1.8,ml,,,,0.5,ak,ak0235dupxl3,2023-04-27T22:00:03.269Z,"42 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
