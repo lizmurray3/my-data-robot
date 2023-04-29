@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-29T06:46:20.185Z,60.151,-152.5168,91.4,1.2,ml,,,,0.42,ak,ak0235gwssw2,2023-04-29T06:48:00.254Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-29T06:41:34.910Z,38.8059998,-122.8143311,3.09,1.09,md,25,61,0.01195,0.02,nc,nc73881666,2023-04-29T06:43:08.002Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.47,0.13,25,automatic,nc,nc
 2023-04-29T06:36:04.322Z,64.5048,-152.48,1.7,1.3,ml,,,,0.33,ak,ak0235gwqmi8,2023-04-29T06:37:46.429Z,"69 km N of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-29T06:35:07.410Z,33.4016667,-116.3825,4.88,0.76,ml,25,147,0.1267,0.16,ci,ci40213943,2023-04-29T06:38:43.268Z,"16km N of Borrego Springs, CA",earthquake,0.32,2.17,0.164,17,automatic,ci,ci
 2023-04-29T06:30:11.709Z,57.8531,-156.162,121.1,1.5,ml,,,,0.37,ak,ak0235gwpcs2,2023-04-29T06:32:42.196Z,"82 km ESE of Egegik, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -315,6 +317,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T06:59:07.551Z,61.5098,-146.6235,31.5,1.5,ml,,,,0.6,ak,ak0235f9c7qb,2023-04-28T07:09:46.210Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-28T06:56:08.250Z,18.0265,-66.7818333333333,15.89,2.95,md,21,140,0.01127,0.22,pr,pr71407023,2023-04-28T10:48:27.540Z,"1 km NE of Guayanilla, Puerto Rico",earthquake,0.44,0.74,0.133316145002373,7,reviewed,pr,pr
 2023-04-28T06:53:52.169Z,19.446,-108.4235,10,4.5,mb,48,180,6.389,0.77,us,us7000jwkk,2023-04-28T07:26:15.040Z,"Revilla Gigedo Islands region",earthquake,7.19,1.879,0.039,193,reviewed,us,us
-2023-04-28T06:49:52.540Z,32.7048333,-115.5343333,11.06,3.16,ml,57,42,0.06939,0.26,ci,ci40212415,2023-04-28T18:34:25.685Z,"3km S of Heber, CA",earthquake,0.24,0.44,0.133,184,reviewed,ci,ci
-2023-04-28T06:44:52.580Z,40.4418333,-124.3825,22.87,1.68,md,21,223,0.04812,0.1,nc,nc73881306,2023-04-28T11:47:18.810Z,"15km NNW of Petrolia, CA",earthquake,0.61,0.34,0.14,10,reviewed,nc,nc
-2023-04-28T06:41:08.390Z,58.1811666666667,-155.307166666667,1.91,-0.1,ml,9,160,,0.05,av,av91866376,2023-04-28T22:13:51.940Z,"84 km NW of Karluk, Alaska",earthquake,0.21,0.43,0.38045226554681,9,reviewed,av,av
