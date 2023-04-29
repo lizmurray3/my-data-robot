@@ -302,5 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T09:02:59.510Z,19.4355,-155.020833333333,3.37,0.81,md,13,171,,0.12,hv,hv73380417,2023-04-28T22:51:31.310Z,"10 km SW of Pāhoa, Hawaii",earthquake,0.7,0.41,0.188453552407774,4,reviewed,hv,hv
 2023-04-28T08:59:39.476Z,65.0874,-148.7301,12.1,1.4,ml,,,,0.7,ak,ak0235faj5ej,2023-04-28T09:01:41.626Z,"29 km ESE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-28T08:48:23.060Z,38.787,-122.721,1.01,1.19,md,40,59,0.006297,0.04,nc,nc73881341,2023-04-28T19:29:18.560Z,"3km WNW of Anderson Springs, CA",earthquake,0.15,0.24,0.203,33,reviewed,nc,nc
-2023-04-28T08:39:50.380Z,33.1833333,-116.0278333,3.53,2.07,ml,70,27,0.04314,0.2,ci,ci40212503,2023-04-28T20:51:40.320Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.14,0.41,0.171,28,reviewed,ci,ci
-2023-04-28T08:39:38.510Z,14.0171,-90.9451,67.914,4.4,mb,53,161,1.137,0.79,us,us7000jwl4,2023-04-28T08:53:30.040Z,"13 km ESE of La Gomera, Guatemala",earthquake,10.39,8.365,0.068,62,reviewed,us,us
