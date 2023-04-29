@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-29T22:36:05.190Z,32.7229996,-115.5554962,8.42,1.46,ml,12,95,0.04402,0.24,ci,ci40215183,2023-04-29T22:38:14.795Z,"3km WSW of Heber, CA",earthquake,0.84,1.77,0.084,3,automatic,ci,ci
+2023-04-29T22:41:49.640Z,32.6968333,-115.53,5.71,2.06,ml,26,50,0.097,0.31,ci,ci40215191,2023-04-29T22:46:14.665Z,"4km NW of Calexico, CA",earthquake,0.54,1.4,0.266,26,automatic,ci,ci
+2023-04-29T22:36:05.300Z,32.719,-115.546,5.99,1.36,ml,13,56,0.07819,0.27,ci,ci40215183,2023-04-29T22:39:38.761Z,"2km SW of Heber, CA",earthquake,0.65,1.4,0.242,15,automatic,ci,ci
 2023-04-29T22:34:10.500Z,32.6971667,-115.5316667,6.78,1.7,ml,14,73,0.09826,0.27,ci,ci40215175,2023-04-29T22:37:52.602Z,"4km WNW of Calexico, CA",earthquake,0.54,1.93,0.27,23,automatic,ci,ci
-2023-04-29T22:34:02.620Z,19.3950004577637,-155.27799987793,1.1599999666214,1.75999999,md,13,86,,0.129999995,hv,hv73383642,2023-04-29T22:36:57.520Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.200000003,0.899999976,11,automatic,hv,hv
+2023-04-29T22:34:02.620Z,19.3950004577637,-155.27799987793,1.1599999666214,1.72,ml,13,86,,0.129999995,hv,hv73383642,2023-04-29T22:39:32.730Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.200000003,0.16,4,automatic,hv,hv
 2023-04-29T22:31:14.260Z,36.9278336,-121.5233307,7.85,1.65,md,6,198,0.1022,0.05,nc,nc73882021,2023-04-29T22:32:49.785Z,"9km N of San Juan Bautista, CA",earthquake,0.85,2.3,0.16,8,automatic,nc,nc
 2023-04-29T22:28:02.630Z,32.695,-115.5406667,11.1,1.5,ml,11,170,0.09738,0.23,ci,ci40215167,2023-04-29T22:31:38.138Z,"4km SSW of Heber, CA",earthquake,1.19,1.64,0.123,7,automatic,ci,ci
 2023-04-29T22:27:09.150Z,32.7935,-115.664,23.8,1.7,ml,8,175,0.04595,0.15,ci,ci40215159,2023-04-29T22:30:57.561Z,"10km W of El Centro, CA",earthquake,1.05,0.72,0.244,27,automatic,ci,ci
@@ -129,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T15:41:26.110Z,38.8190002,-122.8050003,2.8,1.2,md,29,36,0.005913,0.02,nc,nc73881856,2023-04-29T18:20:13.642Z,"6km NW of The Geysers, CA",earthquake,0.21,0.41,0.17,29,automatic,nc,nc
 2023-04-29T15:40:27.800Z,19.4003333333333,-155.277666666667,1.39,0.21,md,13,66,,0.12,hv,hv73382972,2023-04-29T15:50:27.820Z,"6 km SW of Volcano, Hawaii",earthquake,0.22,0.27,0.059178256096065,2,reviewed,hv,hv
 2023-04-29T15:39:59.012Z,62.3655,-149.16,0,3.3,ml,,,,0.91,ak,ak0235h24a9o,2023-04-29T19:02:10.226Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-29T15:36:31.430Z,35.7581667,-120.2911667,3.34,1.01,md,24,108,0.04233,0.07,nc,nc73881851,2023-04-29T22:27:30.096Z,"4km N of Cholame, CA",earthquake,0.44,0.53,0.113,13,reviewed,nc,nc
+2023-04-29T15:36:31.430Z,35.7581667,-120.2911667,3.34,1.01,md,24,108,0.04233,0.07,nc,nc73881851,2023-04-29T22:43:11.334Z,"4km N of Cholame, CA",earthquake,0.44,0.53,0.113,13,reviewed,nc,nc
 2023-04-29T15:34:51.440Z,33.5276667,-116.7451667,2.54,0.69,ml,22,45,0.0382,0.15,ci,ci40214567,2023-04-29T15:38:25.376Z,"7km WSW of Anza, CA",earthquake,0.2,0.23,0.15,19,automatic,ci,ci
 2023-04-29T15:30:47.500Z,19.3988333333333,-155.283666666667,1.05,0.25,md,13,62,,0.1,hv,hv73382957,2023-04-29T15:39:53.230Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.22,0.0369918840029619,3,reviewed,hv,hv
 2023-04-29T15:29:07.280Z,19.4035,-155.272666666667,1.09,0.29,md,15,72,,0.11,hv,hv73382952,2023-04-29T15:43:05.120Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.25,0.0431486283017795,3,reviewed,hv,hv
@@ -245,7 +246,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T10:06:16.270Z,38.8338318,-122.8148346,1.86,1.14,md,19,56,0.01107,0.01,nc,nc73881741,2023-04-29T12:47:19.657Z,"8km W of Cobb, CA",earthquake,0.22,0.47,0.15,21,automatic,nc,nc
 2023-04-29T09:58:58.990Z,37.6496658,-118.9448318,4.63,0.81,md,10,150,0.01683,0.02,nc,nc73881736,2023-04-29T10:15:14.605Z,"3km ENE of Mammoth Lakes, CA",earthquake,0.97,1.1,0.15,9,automatic,nc,nc
 2023-04-29T09:44:56.300Z,37.3696671,-121.731163,5.41,2,md,7,184,0.09759,0.03,nc,nc73881716,2023-04-29T12:05:19.404Z,"8km E of Alum Rock, CA",earthquake,0.68,2.33,0.05,4,automatic,nc,nc
-2023-04-29T09:44:45.840Z,37.3720016,-121.7296677,5.93,2.5,md,57,40,0.09636,0.07,nc,nc73881721,2023-04-29T21:20:28.334Z,"9km E of Alum Rock, CA",earthquake,0.13,0.45,0.16,34,automatic,nc,nc
+2023-04-29T09:44:45.840Z,37.3720016,-121.7296677,5.93,2.5,md,57,40,0.09636,0.07,nc,nc73881721,2023-04-29T22:41:43.733Z,"9km E of Alum Rock, CA",earthquake,0.13,0.45,0.16,34,automatic,nc,nc
 2023-04-29T09:39:31.800Z,37.4169998,-121.776001,3.76,1.94,md,30,54,0.03853,0.08,nc,nc73881711,2023-04-29T11:50:13.334Z,"7km NE of Alum Rock, CA",earthquake,0.21,0.46,0.17,26,automatic,nc,nc
 2023-04-29T09:39:19.410Z,33.2948333,-116.74,12.46,1.26,ml,48,26,0.06076,0.19,ci,ci40214103,2023-04-29T15:20:52.802Z,"6km NNE of Lake Henshaw, CA",earthquake,0.23,0.56,0.14,26,reviewed,ci,ci
 2023-04-29T09:36:14.930Z,19.1963329315186,-155.380828857422,30.8099994659424,2.76,ml,48,163,,0.129999995,hv,hv73382367,2023-04-29T09:53:05.040Z,"10 km E of Pāhala, Hawaii",earthquake,0.5,0.600000024,1.82,23,automatic,hv,hv
@@ -260,7 +261,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T08:53:16.937Z,37.197,-115.1895,1,1.4,ml,21,150.15,0.237,0.3746,nn,nn00858880,2023-04-29T08:55:52.554Z,"18 km S of Alamo, Nevada",earthquake,,21.8,0.91,13,automatic,nn,nn
 2023-04-29T08:52:26.550Z,33.597,-116.8161667,13.72,0.88,ml,33,39,0.04219,0.16,ci,ci40214063,2023-04-29T15:21:17.049Z,"14km WNW of Anza, CA",earthquake,0.25,0.45,0.158,23,reviewed,ci,ci
 2023-04-29T08:45:18.480Z,32.7125,-115.5451667,7.11,1.77,ml,24,45,0.08272,0.25,ci,ci40214047,2023-04-29T08:49:00.733Z,"2km SW of Heber, CA",earthquake,0.45,1.29,0.252,26,automatic,ci,ci
-2023-04-29T08:43:15.180Z,38.7738333,-122.724,1.48,0.92,md,13,63,0.01224,0.03,nc,nc71130304,2023-04-29T22:11:11.020Z,"3km W of Anderson Springs, CA",earthquake,0.24,0.68,0.267,7,reviewed,nc,nc
+2023-04-29T08:43:15.180Z,38.7738333,-122.724,1.48,0.92,md,13,63,0.01224,0.03,nc,nc71130304,2023-04-29T22:47:14.242Z,"3km W of Anderson Springs, CA",earthquake,0.24,0.68,0.267,7,reviewed,nc,nc
 2023-04-29T08:43:11.660Z,38.7743333,-122.7223333,1.81,0.73,md,21,46,0.01287,0.06,nc,nc73881691,2023-04-29T22:36:13.170Z,"3km W of Anderson Springs, CA",earthquake,0.24,0.24,0.425,4,reviewed,nc,nc
 2023-04-29T08:34:45.130Z,37.4178352,-121.7761688,3.68,1.54,md,12,77,0.03774,0.03,nc,nc73881686,2023-04-29T09:41:15.703Z,"7km NE of Alum Rock, CA",earthquake,0.3,0.59,0.06,11,automatic,nc,nc
 2023-04-29T08:29:41.380Z,34.7083333,-120.2763333,4.24,1.03,ml,15,109,0.02728,0.2,ci,ci40214031,2023-04-29T08:33:14.124Z,"4km S of Los Alamos, CA",earthquake,0.46,0.94,0.162,8,automatic,ci,ci
@@ -372,5 +373,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T23:06:07.125Z,61.7782,-149.6196,31,1.8,ml,,,,0.42,ak,ak0235fj5814,2023-04-28T23:07:51.988Z,"17 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-28T23:04:13.370Z,32.7085,-115.54,7.48,1.48,ml,10,126,0.1245,0.22,ci,ci40213551,2023-04-28T23:07:51.810Z,"3km SSW of Heber, CA",earthquake,0.74,1.9,0.318,18,automatic,ci,ci
 2023-04-28T22:50:24.858Z,59.8702,-153.3467,114.2,1.1,ml,,,,0.22,ak,ak0235fit9at,2023-04-28T22:52:09.709Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-04-28T22:43:29.708Z,59.9477,-150.9352,17.3,3,ml,,,,0.55,ak,ak0235firrnu,2023-04-28T22:55:41.040Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-28T22:42:09.220Z,19.2583332061768,-155.376327514648,27.9899997711182,1.98,ml,36,136,,0.119999997,hv,hv73381552,2023-04-28T22:47:39.830Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.62,0.839999974,2.47,13,automatic,hv,hv
