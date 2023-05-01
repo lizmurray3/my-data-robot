@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-01T16:51:57.900Z,36.4049988,-120.9726639,8.02,1.98,md,18,160,0.08516,0.09,nc,nc73882751,2023-05-01T16:54:35.441Z,"21km SE of Pinnacles, CA",earthquake,0.38,0.79,0.14,14,automatic,nc,nc
 2023-05-01T16:30:47.770Z,36.4346657,-121.0230026,5.72,1.97,md,21,146,0.01044,0.15,nc,nc73882746,2023-05-01T16:48:13.617Z,"15km SE of Pinnacles, CA",earthquake,0.59,0.69,0.15,19,automatic,nc,nc
 2023-05-01T16:11:21.309Z,59.9805,-152.2338,34,1.6,ml,,,,0.18,ak,ak0235kdmbya,2023-05-01T16:13:07.854Z,"28 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-01T15:55:18.651Z,26.0271,128.6477,10,4.6,mb,50,71,0.873,1.22,us,us7000jxcx,2023-05-01T16:26:00.040Z,"Ryukyu Islands, Japan",earthquake,5.87,1.848,0.08,47,reviewed,us,us
@@ -194,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T17:16:21.850Z,38.8149986,-122.8256683,1.93,0.92,md,9,77,0.006708,0.01,nc,nc73882326,2023-04-30T19:07:10.743Z,"7km NW of The Geysers, CA",earthquake,0.45,1.02,0.17,9,automatic,nc,nc
 2023-04-30T17:12:00.800Z,38.7804985,-122.7539978,0.83,0.58,md,9,90,0.0134,0.02,nc,nc73882321,2023-04-30T18:42:11.580Z,"0km NNE of The Geysers, CA",earthquake,0.38,0.85,0.15,9,automatic,nc,nc
 2023-04-30T17:06:54.150Z,58.1633333333333,-155.370833333333,0.59,-0.15,ml,5,194,,0.08,av,av91869536,2023-05-01T02:41:00.210Z,"Alaska Peninsula",earthquake,0.32,2.21,0.114767971668034,5,reviewed,av,av
-2023-04-30T16:54:26.150Z,38.8231659,-122.7653351,1.82,1.1,md,21,121,0.008124,0.02,nc,nc73882311,2023-04-30T18:14:11.405Z,"4km W of Cobb, CA",earthquake,0.26,0.4,0.16,21,automatic,nc,nc
-2023-04-30T16:53:32.390Z,33.1858333,-115.6038333,2.35,1.17,ml,11,89,0.01295,0.15,ci,ci40216191,2023-04-30T16:57:05.728Z,"10km SW of Niland, CA",earthquake,0.44,0.33,0.17,18,automatic,ci,ci
