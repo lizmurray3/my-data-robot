@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T06:33:26.710Z,19.408166885376,-155.298004150391,-0.379999995231628,1.72000003,md,11,145,,0.129999995,hv,hv73386417,2023-05-02T06:36:28.760Z,"7 km WSW of Volcano, Hawaii",earthquake,0.28,0.180000007,0.769999981,7,automatic,hv,hv
 2023-05-02T06:20:59.390Z,19.4188333333333,-155.277333333333,0.32,1.79,ml,20,93,,0.09,hv,hv73386412,2023-05-02T06:33:21.690Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.24,0.15911765777952,9,reviewed,hv,hv
 2023-05-02T06:17:55.950Z,38.8214989,-122.7645035,2.09,0.74,md,11,119,0.009905,0.01,nc,nc73882951,2023-05-02T08:05:17.276Z,"4km W of Cobb, CA",earthquake,0.32,0.76,0.05,11,automatic,nc,nc
-2023-05-02T06:10:02.650Z,41.149334,-124.3511658,6.6,2.86,md,18,239,0.2477,0.57,nc,nc73882946,2023-05-02T07:38:14.117Z,"20km WNW of Trinidad, CA",earthquake,3.98,3.5,0.18,13,automatic,nc,nc
+2023-05-02T06:10:03.790Z,41.1945,-124.2323333,16.31,2.84,md,29,175,0.1535,0.14,nc,nc73882946,2023-05-02T12:45:12.156Z,"17km NNW of Trinidad, CA",earthquake,0.5,0.29,0.185,36,reviewed,nc,nc
 2023-05-02T06:06:42.340Z,40.3273315,-121.8980026,-0.65,2.57,md,13,85,0.08029,0.17,nc,nc73882941,2023-05-02T06:55:11.862Z,"11km SSW of Manton, CA",earthquake,0.57,3.66,0.12,16,automatic,nc,nc
 2023-05-02T06:02:41.880Z,17.9395,-66.9343333333333,15.32,2.6,md,13,215,0.04069,0.12,pr,pr71407498,2023-05-02T06:15:36.310Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.54,0.45,0.049892778667056,5,reviewed,pr,pr
 2023-05-02T06:01:24.222Z,63.3226,-149.8471,111.3,1.2,ml,,,,0.23,ak,ak0235lv57gm,2023-05-02T06:02:53.201Z,"45 km W of Cantwell, Alaska",earthquake,,4.3,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T00:33:20.710Z,38.8105011,-122.7581635,6.07,0.92,md,7,210,0.009936,0.11,nc,nc73882896,2023-05-02T01:04:13.715Z,"3km WSW of Cobb, CA",earthquake,2.96,4.74,0.13,9,automatic,nc,nc
 2023-05-02T00:21:17.760Z,35.7945,-96.97366667,7.13,1.1,ml,64,45,0.1826641551,0.23,ok,ok2023inco,2023-05-02T12:12:28.358Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.5,0.2,24,reviewed,ok,ok
 2023-05-02T00:19:35.380Z,35.9474983,-117.4970016,-1.12,3.05,ml,44,83,0.1548,0.2,ci,ci40217047,2023-05-02T01:21:08.332Z,"22km NNW of Searles Valley, CA",earthquake,0.24,0.57,0.256,24,automatic,ci,ci
-2023-05-02T00:11:21.343Z,61.5532,-149.9371,35.1,1.9,ml,,,,0.59,ak,ak0235lrmqrq,2023-05-02T00:47:45.922Z,"3 km NNE of Big Lake, Alaska",earthquake,,4,,,automatic,ak,ak
+2023-05-02T00:11:21.343Z,61.5532,-149.9371,35.1,1.9,ml,,,,0.59,ak,ak0235lrmqrq,2023-05-02T00:47:45.922Z,"Southern Alaska",earthquake,,4,,,automatic,ak,ak
 2023-05-02T00:10:37.610Z,38.822834,-122.8246689,1.56,0.88,md,13,59,0.008098,0.12,nc,nc73882881,2023-05-02T00:42:14.582Z,"8km NW of The Geysers, CA",earthquake,0.45,0.97,0.18,14,automatic,nc,nc
 2023-05-01T23:55:21.200Z,38.8198318,-122.8231659,2.39,0.77,md,17,50,0.009831,0.02,nc,nc73882876,2023-05-02T00:21:14.442Z,"8km NW of The Geysers, CA",earthquake,0.25,0.79,0.15,17,automatic,nc,nc
 2023-05-01T23:53:27.580Z,38.911335,-123.6384964,8.32,1.75,md,8,213,0.1149,0.05,nc,nc73882871,2023-05-02T02:41:18.312Z,"5km E of Point Arena, CA",earthquake,0.8,1.56,0.11,7,automatic,nc,nc
@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T23:33:52.809Z,60.4229,-143.719,19.4,1.8,ml,,,,0.17,ak,ak0235khx5dc,2023-05-01T23:35:51.167Z,"112 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-01T23:32:37.100Z,35.0385,-117.6661667,0.67,1.41,ml,11,113,0.1068,0.21,ci,ci40217031,2023-05-01T23:36:13.769Z,"5km NNW of Boron, CA",quarry blast,0.81,1.75,0.213,13,automatic,ci,ci
 2023-05-01T23:13:50.150Z,38.7801666,-122.7676697,1.09,1.11,md,21,87,0.009551,0.03,nc,nc73882861,2023-05-02T02:00:17.058Z,"1km WNW of The Geysers, CA",earthquake,0.22,0.48,0.09,20,automatic,nc,nc
-2023-05-01T23:13:47.480Z,38.8905,-123.6595,9.07,3.62,mw,66,216,0.08718,0.1,nc,nc73882866,2023-05-02T08:59:19.174Z,"4km SE of Point Arena, CA",earthquake,0.38,0.28,,4,reviewed,nc,nc
+2023-05-01T23:13:47.480Z,38.8905,-123.6595,9.07,3.62,mw,66,216,0.08718,0.1,nc,nc73882866,2023-05-02T12:37:01.397Z,"4km SE of Point Arena, CA",earthquake,0.38,0.28,,4,reviewed,nc,nc
 2023-05-01T23:02:35.480Z,19.4198341369629,-155.321502685547,4.40000009536743,1.79999995,md,20,86,,0.159999996,hv,hv73386102,2023-05-01T23:05:37.770Z,"9 km WSW of Volcano, Hawaii",earthquake,0.44,1.07000005,0.899999976,8,automatic,hv,hv
 2023-05-01T23:00:30.681Z,-10.0095,160.9951,70.587,4.5,mb,32,110,10.95,0.52,us,us7000jxf1,2023-05-02T01:08:51.040Z,"112 km WNW of Kirakira, Solomon Islands",earthquake,10.23,7.493,0.093,34,reviewed,us,us
 2023-05-01T22:52:27.250Z,38.8326683,-122.815834,2.01,0.38,md,11,87,0.01029,0.01,nc,nc73882851,2023-05-01T23:09:15.029Z,"8km NW of The Geysers, CA",earthquake,0.3,0.77,0.25,11,automatic,nc,nc
@@ -155,6 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T13:28:57.240Z,38.8258324,-122.8098297,1.23,0.46,md,11,70,0.002441,0.01,nc,nc73882716,2023-05-01T15:13:13.061Z,"7km NW of The Geysers, CA",earthquake,0.29,0.67,0.32,11,automatic,nc,nc
 2023-05-01T13:25:57.680Z,34.025,-117.1555,14.65,1.1,ml,31,106,0.03728,0.14,ci,ci40216607,2023-05-01T13:29:27.169Z,"4km SE of Redlands, CA",earthquake,0.23,0.36,0.19,27,automatic,ci,ci
 2023-05-01T13:21:21.070Z,40.3115005,-124.0208359,27.91,1.99,md,12,83,0.03317,0.07,nc,nc73882711,2023-05-01T14:45:12.885Z,"22km SSE of Rio Dell, CA",earthquake,0.61,1.61,0.07,8,automatic,nc,nc
-2023-05-01T12:49:57.400Z,35.9589996,-120.5121689,9.99,1.49,md,13,78,0.02758,0.06,nc,nc73882706,2023-05-01T14:18:14.739Z,"10km NW of Parkfield, CA",earthquake,0.44,0.58,0.19,8,automatic,nc,nc
-2023-05-01T12:47:12.182Z,60.3521,-152.5832,95.4,1.4,ml,,,,0.48,ak,ak0235kbgalu,2023-05-01T12:50:04.864Z,"60 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-01T12:32:30.010Z,33.171,-116.3953333,10.65,1.05,ml,16,113,0.09865,0.22,ci,ci40216575,2023-05-01T13:14:36.681Z,"10km SSW of Borrego Springs, CA",earthquake,0.58,0.88,0.292,27,reviewed,ci,ci
