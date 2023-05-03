@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-03T12:41:09.225Z,62.9045,-150.8656,95.9,1.3,ml,,,,0.38,ak,ak0235nmhp2i,2023-05-03T12:43:04.899Z,"45 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-03T12:24:24.700Z,34.5068333,-118.6965,16.46,1.89,ml,53,27,0.08729,0.29,ci,ci40217999,2023-05-03T12:34:56.790Z,"7km WNW of Castaic, CA",earthquake,0.33,0.86,0.148,26,automatic,ci,ci
 2023-05-03T12:23:47.690Z,33.4718333,-116.4891667,13.83,0.61,ml,21,99,0.09231,0.15,ci,ci40217991,2023-05-03T12:27:21.009Z,"19km ESE of Anza, CA",earthquake,0.29,0.67,0.14,14,automatic,ci,ci
 2023-05-03T12:23:19.420Z,35.8716667,-117.7215,9.78,1.18,ml,13,114,0.07217,0.14,ci,ci40217983,2023-05-03T12:27:00.406Z,"18km ESE of Little Lake, CA",earthquake,0.35,0.69,0.114,10,automatic,ci,ci
@@ -28,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T09:33:07.930Z,38.8363342,-122.8061676,1.93,0.67,md,9,110,0.01253,0.02,nc,nc73883326,2023-05-03T12:16:11.760Z,"7km WNW of Cobb, CA",earthquake,0.46,0.93,0.16,9,automatic,nc,nc
 2023-05-03T09:31:40.410Z,38.7901649,-122.7786636,0.91,1.05,md,9,98,0.007833,0.02,nc,nc73883321,2023-05-03T11:47:15.578Z,"2km NW of The Geysers, CA",earthquake,0.36,0.73,0.13,11,automatic,nc,nc
 2023-05-03T09:26:38.240Z,35.656,-117.5475,2.02,0.78,ml,12,130,0.1012,0.16,ci,ci40217911,2023-05-03T09:30:20.196Z,"12km ENE of Ridgecrest, CA",earthquake,0.73,0.48,0.1,4,automatic,ci,ci
-2023-05-03T09:26:05.380Z,61.2748,-150.4749,35.8,2.7,ml,,,,0.71,ak,ak0235nkm66n,2023-05-03T12:25:50.086Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-05-03T09:26:05.380Z,61.2748,-150.4749,35.8,2.7,ml,,,,0.71,ak,ak0235nkm66n,2023-05-03T12:41:07.200Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-03T09:13:13.510Z,35.7943333,-117.5815,1.61,0.73,ml,10,209,0.1497,0.24,ci,ci40217903,2023-05-03T09:16:50.184Z,"16km W of Searles Valley, CA",earthquake,1.26,0.78,0.182,4,automatic,ci,ci
 2023-05-03T08:58:31.520Z,33.1885,-116.0326667,3.8,0.75,ml,15,79,0.04843,0.26,ci,ci40217895,2023-05-03T09:02:04.550Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.72,1.09,0.1,4,automatic,ci,ci
 2023-05-03T08:51:09.710Z,38.8400002,-122.8111649,1.98,0.61,md,9,116,0.01634,0,nc,nc73883316,2023-05-03T11:20:12.430Z,"8km WNW of Cobb, CA",earthquake,0.37,1.14,0.28,10,automatic,nc,nc
@@ -94,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T02:15:44.960Z,35.8728333,-117.7173333,8.35,1.56,ml,19,114,0.07487,0.19,ci,ci40217735,2023-05-03T02:19:20.269Z,"18km ESE of Little Lake, CA",earthquake,0.34,1.03,0.124,13,automatic,ci,ci
 2023-05-03T02:13:04.648Z,58.0217,-154.5216,8.5,1.1,ml,,,,0.24,ak,ak0235ngdcm8,2023-05-03T02:14:48.595Z,"50 km N of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-05-03T02:12:58.770Z,38.8250008,-122.8506699,1.78,0.4,md,8,141,0.005471,0.01,nc,nc73883216,2023-05-03T02:29:21.069Z,"10km WNW of The Geysers, CA",earthquake,0.47,1.07,0.29,12,automatic,nc,nc
-2023-05-03T02:12:29.245Z,9.3615,-78.5655,82.435,5.1,mww,55,84,3.381,0.85,us,us7000jxn2,2023-05-03T11:00:18.081Z,"Panama",earthquake,7.28,6.593,0.078,16,reviewed,us,us
+2023-05-03T02:12:29.245Z,9.3615,-78.5655,82.435,5.1,mww,55,84,3.381,0.85,us,us7000jxn2,2023-05-03T12:38:20.351Z,"Panama",earthquake,7.28,6.593,0.078,16,reviewed,us,us
 2023-05-03T02:11:11.900Z,-16.4029,-73.0069,61.584,5,mb,39,57,3.21,0.8,us,us7000jxn0,2023-05-03T02:49:32.040Z,"Near the coast of southern Peru",earthquake,12.28,6.392,0.069,66,reviewed,us,us
 2023-05-03T02:10:44.550Z,35.873,-117.7133333,10.19,0.96,ml,14,118,0.07674,0.1,ci,ci40217727,2023-05-03T02:14:16.029Z,"19km ESE of Little Lake, CA",earthquake,0.27,0.4,0.135,8,automatic,ci,ci
 2023-05-03T02:00:07.220Z,35.8743333,-117.7255,9.42,1.27,ml,16,113,0.07302,0.17,ci,ci40217719,2023-05-03T02:03:46.488Z,"18km ESE of Little Lake, CA",earthquake,0.38,0.8,0.262,10,automatic,ci,ci
@@ -107,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T01:42:16.860Z,38.8250008,-122.8501663,1.97,1.06,md,20,96,0.005822,0.03,nc,nc73883201,2023-05-03T02:04:25.909Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.43,0.13,22,automatic,nc,nc
 2023-05-03T01:40:24.530Z,35.873333,-117.7115021,8.95,3.47,mlr,51,114,0.07784,0.2,ci,ci40217695,2023-05-03T05:58:58.164Z,"19km ESE of Little Lake, CA",earthquake,0.22,0.49,0.242,18,automatic,ci,ci
 2023-05-03T01:39:11.390Z,38.8253326,-122.8521652,2.08,0.86,md,15,89,0.00429,0.02,nc,nc73883191,2023-05-03T01:55:13.848Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.45,0.23,17,automatic,nc,nc
-2023-05-03T01:38:03.770Z,36.9516666666667,-83.0338333333333,18.53,2.56,md,9,143,0.2573,0.48,se,se60523511,2023-05-03T12:17:10.066Z,"4 km SW of Cumberland, Kentucky",earthquake,2.65,6.08,0.0777414947558839,6,reviewed,se,se
+2023-05-03T01:38:03.240Z,36.925,-82.9841666666667,7.88,2.46,md,17,84,0.2097,0.2,se,se60523511,2023-05-03T12:45:50.671Z,"5 km SW of Benham, Kentucky",earthquake,0.34,1.46,0.0624599865726077,12,reviewed,se,se
 2023-05-03T01:36:32.420Z,34.0633333,-117.2803333,12.48,1.09,ml,29,84,0.1053,0.22,ci,ci40217687,2023-05-03T02:01:43.168Z,"2km NW of Loma Linda, CA",earthquake,0.39,0.88,0.211,30,automatic,ci,ci
 2023-05-03T01:31:04.480Z,33.1836667,-115.6216667,2.76,1.12,ml,6,130,0.0009275,0.12,ci,ci40217679,2023-05-03T01:34:35.851Z,"11km WSW of Niland, CA",earthquake,2.94,0.45,0.097,9,automatic,ci,ci
 2023-05-03T01:23:06.237Z,3.402,126.0601,101.372,5.1,mww,44,117,3.675,0.97,us,us7000jxmj,2023-05-03T01:35:15.040Z,"230 km SSE of Sarangani, Philippines",earthquake,5.56,8.015,0.098,10,reviewed,us,us
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T13:26:41.246Z,58.2093,-152.1496,69.1,2.1,ml,,,,0.33,ak,ak0235lzgmws,2023-05-02T13:29:03.267Z,"38 km NNE of Ouzinkie, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-05-02T13:22:30.480Z,37.5483333,-118.8213333,-0.87,1.4,md,17,167,0.04208,0.04,nc,nc73883001,2023-05-02T23:31:12.835Z,"12km W of Toms Place, CA",earthquake,0.4,0.21,0.177,16,reviewed,nc,nc
 2023-05-02T13:03:26.980Z,58.1831666666667,-155.319166666667,2.33,0.12,ml,6,271,,0.09,av,av91871466,2023-05-02T23:51:01.750Z,"85 km NW of Karluk, Alaska",earthquake,0.61,0.37,0.229181638392374,6,reviewed,av,av
-2023-05-02T12:39:41.270Z,37.4576667,-121.7688333,5.34,0.99,md,26,86,0.02614,0.07,nc,nc73882996,2023-05-02T18:43:11.963Z,"11km NNE of Alum Rock, CA",earthquake,0.23,0.32,0.203,19,reviewed,nc,nc
