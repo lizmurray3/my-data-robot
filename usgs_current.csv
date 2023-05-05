@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-05T15:47:47.690Z,32.5921667,-115.452,13.44,1.81,ml,9,115,0.2126,0.27,ci,ci40219423,2023-05-05T15:51:24.235Z,"7km SSE of Mexicali, B.C., MX",earthquake,0.94,3.23,0.247,19,automatic,ci,ci
 2023-05-05T15:37:25.320Z,58.183,-155.2371,0,1.4,ml,,,,0.39,ak,ak0235qzbv90,2023-05-05T15:39:26.814Z,"82 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-05-05T15:35:31.079Z,35.798,-96.65366667,7.93,1.19,ml,61,46,0.1340736902,0.23,ok,ok2023ittg,2023-05-05T15:46:54.257Z,"5 km N of Stroud, Oklahoma",earthquake,,0.6,0.18,25,reviewed,ok,ok
 2023-05-05T15:26:50.871Z,61.3812,-150.082,31.9,1.2,ml,,,,0.35,ak,ak0235qz9kcj,2023-05-05T15:38:54.303Z,"6 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-05T15:25:24.510Z,38.8413315,-122.8795013,2.36,0.65,md,8,109,0.004377,0.02,nc,nc73884221,2023-05-05T15:41:11.668Z,"13km ENE of Cloverdale, CA",earthquake,0.73,0.63,0.45,10,automatic,nc,nc
 2023-05-05T15:25:20.487Z,58.0957,-155.5721,14.6,0.8,ml,,,,0.8,ak,ak0235qz9aa8,2023-05-05T15:26:29.787Z,"88 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -246,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T16:16:32.574Z,61.4986,-149.9453,39.7,1.4,ml,,,,0.81,ak,ak0235pc9gvt,2023-05-04T16:18:51.303Z,"2 km S of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-04T16:14:07.900Z,38.8153333,-122.828,1.74,0.84,md,33,48,0.006521,0.03,nc,nc73883831,2023-05-04T23:50:15.381Z,"8km NW of The Geysers, CA",earthquake,0.13,0.27,0.123,27,reviewed,nc,nc
 2023-05-04T16:11:39.400Z,51.8543333333333,-178.056166666667,-1.8,1.1,ml,5,174,,0.23,av,av91873811,2023-05-05T01:10:39.490Z,"97 km W of Adak, Alaska",earthquake,0.6,1.37,0.388154775974895,5,reviewed,av,av
-2023-05-04T15:53:23.680Z,61.4515,-151.371,12.93,0.6,ml,9,308,,0.06,av,av91873796,2023-05-05T00:50:36.970Z,"37 km NNW of Beluga, Alaska",earthquake,0.82,0.6,0.149348409639632,10,reviewed,av,av
