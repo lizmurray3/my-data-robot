@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-06T13:41:49.847Z,58.1609,-155.3951,0,1,ml,,,,0.45,ak,ak0235slp9ag,2023-05-06T13:43:51.437Z,"86 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-05-06T13:36:04.943Z,67.3172,-156.1591,8.5,2.3,ml,,,,0.69,ak,ak0235slo38u,2023-05-06T13:39:15.410Z,"55 km NE of Kobuk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-06T13:32:16.390Z,19.3388328552246,-155.299163818359,3.84999990463257,1.86000001,md,20,125,,0.150000006,hv,hv73390827,2023-05-06T13:35:24.630Z,"Hawaii region, Hawaii",earthquake,0.47,0.910000026,0.409999996,11,automatic,hv,hv
 2023-05-06T13:31:17.378Z,63.2891,-144.8652,0,1.8,ml,,,,0.78,ak,ak0235sln1mh,2023-05-06T13:33:17.554Z,"41 km SSW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-06T13:21:55.339Z,62.4512,-149.3128,12.6,1.1,ml,,,,0.26,ak,ak0235slkze5,2023-05-06T13:23:17.466Z,"40 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -240,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T14:00:11.930Z,17.9528333333333,-66.4298333333333,11.77,2.52,md,17,185,0.03469,0.19,pr,pr71408233,2023-05-05T14:28:18.970Z,"3 km WSW of Santa Isabel, Puerto Rico",earthquake,0.61,0.46,0.0711087244561983,9,reviewed,pr,pr
 2023-05-05T13:52:37.770Z,33.8708333,-118.4098333,11.63,2.14,ml,42,112,0.06526,0.25,ci,ci40219367,2023-05-06T09:57:37.554Z,"1km NW of Hermosa Beach, CA",earthquake,0.32,0.48,0.14,4,reviewed,ci,ci
 2023-05-05T13:46:36.630Z,33.3775,-116.3906667,9.69,0.7,ml,32,124,0.05433,0.13,ci,ci40219359,2023-05-05T15:56:42.269Z,"14km N of Borrego Springs, CA",earthquake,0.21,0.5,0.115,17,reviewed,ci,ci
-2023-05-05T13:36:10.380Z,44.4766667,-110.6118333,2.02,2.31,md,8,137,0.04318,0.1,uu,uu60539186,2023-05-05T14:40:23.120Z,"44 km ESE of West Yellowstone, Montana",earthquake,0.52,31.61,0.675,6,reviewed,uu,uu
