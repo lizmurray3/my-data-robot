@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-07T19:43:18.210Z,19.4108333587646,-155.32600402832,2.44000005722046,1.9,ml,17,81,,0.140000001,hv,hv73391872,2023-05-07T19:48:49.670Z,"10 km WSW of Volcano, Hawaii",earthquake,0.35,0.449999988,0.2,3,automatic,hv,hv
 2023-05-07T19:37:19.910Z,33.898,-116.0555,14.05,0.69,ml,13,121,0.1018,0.24,ci,ci40220551,2023-05-07T19:41:01.831Z,"25km NE of Indio, CA",earthquake,0.61,1.06,0.117,8,automatic,ci,ci
 2023-05-07T19:33:42.613Z,60.7287,-150.9153,35.7,1.2,ml,,,,0.89,ak,ak0235ucrh4l,2023-05-07T19:35:23.305Z,"20 km ENE of Nikiski, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2023-05-07T19:13:23.470Z,38.8235016,-122.8118362,1.71,0.72,md,9,83,0.001381,0.02,nc,nc73885041,2023-05-07T19:30:13.785Z,"7km NW of The Geysers, CA",earthquake,0.38,1.14,0.18,11,automatic,nc,nc
@@ -218,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T20:12:07.580Z,62.0146,-149.3302,5.8,1.5,ml,,,,0.74,ak,ak0235spozhy,2023-05-06T20:14:12.445Z,"30 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-06T20:00:56.040Z,38.8465004,-122.8186646,1.05,0.84,md,15,66,0.008931,0.02,nc,nc73884646,2023-05-06T22:38:14.106Z,"9km WNW of Cobb, CA",earthquake,0.23,0.46,0.2,14,automatic,nc,nc
 2023-05-06T19:54:00.340Z,57.556,-154.6883,29.7,1.4,ml,,,,0.42,ak,ak0235spcjeq,2023-05-06T20:03:37.432Z,"14 km W of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-06T19:46:24.727Z,-6.1582,129.1053,243.981,4.4,mb,41,101,1.809,0.96,us,usd000jl9q,2023-05-06T21:19:06.040Z,"Banda Sea",earthquake,9.13,6.105,0.112,23,reviewed,us,us
-2023-05-06T19:45:26.870Z,38.8091667,-122.7591667,0.27,0.39,md,16,117,0.00854,0.03,nc,nc73884641,2023-05-07T14:53:12.070Z,"3km WSW of Cobb, CA",earthquake,0.17,0.26,0.128,12,reviewed,nc,nc
