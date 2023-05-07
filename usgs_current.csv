@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-07T16:31:05.990Z,33.8178333,-116.7205,11.94,0.51,ml,17,77,0.1037,0.14,ci,ci40220455,2023-05-07T16:34:38.742Z,"9km N of Idyllwild, CA",earthquake,0.37,0.71,0.154,11,automatic,ci,ci
 2023-05-07T16:22:32.225Z,58.2558,-155.1156,1.1,0.8,ml,,,,0.56,ak,ak0235uawsmu,2023-05-07T16:24:28.331Z,"85 km NNW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-05-07T16:19:14.160Z,38.7991676,-122.8075027,1.77,0.83,md,21,64,0.01137,0.03,nc,nc73884991,2023-05-07T16:20:50.341Z,"5km WNW of The Geysers, CA",earthquake,0.2,0.43,0.25,21,automatic,nc,nc
-2023-05-07T16:18:02.220Z,38.7806664,-122.7565002,1.01,1.08,md,18,112,0.01228,0.05,nc,nc73884986,2023-05-07T16:19:51.173Z,"0km N of The Geysers, CA",earthquake,0.28,0.47,0.24,17,automatic,nc,nc
+2023-05-07T16:19:14.160Z,38.7991676,-122.8075027,1.77,0.83,md,21,64,0.01137,0.03,nc,nc73884991,2023-05-07T16:38:11.800Z,"5km WNW of The Geysers, CA",earthquake,0.2,0.43,0.25,21,automatic,nc,nc
+2023-05-07T16:18:02.220Z,38.7806664,-122.7565002,1.01,1.08,md,18,112,0.01228,0.05,nc,nc73884986,2023-05-07T16:34:12.643Z,"0km N of The Geysers, CA",earthquake,0.28,0.47,0.24,17,automatic,nc,nc
 2023-05-07T16:04:05.038Z,62.7934,-143.3173,14.8,1,ml,,,,1.05,ak,ak0235uasvnm,2023-05-07T16:06:49.088Z,"27 km ESE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T15:59:41.790Z,33.885,-117.5413333,6.73,0.91,ml,11,90,0.07406,0.23,ci,ci40220439,2023-05-07T16:03:20.693Z,"2km WNW of Home Gardens, CA",earthquake,0.58,1.92,0.292,19,automatic,ci,ci
 2023-05-07T15:52:23.780Z,33.6885,-116.8048333,17.52,1,ml,21,125,0.06847,0.2,ci,ci40220431,2023-05-07T15:55:56.290Z,"10km SW of Idyllwild, CA",earthquake,0.54,0.76,0.202,19,automatic,ci,ci
