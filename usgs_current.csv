@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-08T19:14:10.710Z,34.028,-116.8425,18.39,1.13,ml,28,70,0.0297,0.21,ci,ci40221119,2023-05-08T19:22:12.459Z,"12km NNE of Banning, CA",earthquake,0.35,0.68,0.216,26,automatic,ci,ci
 2023-05-08T19:11:38.690Z,19.1956672668457,-155.462829589844,30.2600002288818,1.82000005,md,20,144,,0.0900000036,hv,hv73393122,2023-05-08T19:14:45.830Z,"1 km ESE of Pāhala, Hawaii",earthquake,1.23,0.870000005,0.00999999978,5,automatic,hv,hv
 2023-05-08T19:10:17.800Z,19.2368335723877,-155.396667480469,29.3400001525879,1.82000005,md,27,139,,0.180000007,hv,hv73393117,2023-05-08T19:13:32.680Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.75,1.12,0.140000001,9,automatic,hv,hv
 2023-05-08T18:52:45.250Z,33.356,-116.7756667,11.65,0.58,ml,10,170,0.1494,0.24,ci,ci40221095,2023-05-08T18:56:25.362Z,"8km E of Palomar Observatory, CA",earthquake,1.25,2.79,0.076,6,automatic,ci,ci
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T15:42:10.700Z,34.2076667,-117.497,4.76,1.27,ml,26,72,0.002212,0.22,ci,ci40220975,2023-05-08T15:45:41.504Z,"6km S of Lytle Creek, CA",earthquake,0.35,0.49,0.216,31,automatic,ci,ci
 2023-05-08T15:18:06.280Z,38.8040009,-122.8063354,1.73,0.99,md,11,75,0.009487,0.01,nc,nc73885416,2023-05-08T16:34:14.077Z,"5km NW of The Geysers, CA",earthquake,0.34,0.79,0.16,11,automatic,nc,nc
 2023-05-08T15:10:22.609Z,35.10683333,-95.54166667,7.14,2.05,ml,68,54,0.112477928,0.25,ok,ok2023izex,2023-05-08T15:21:31.958Z,"Oklahoma",earthquake,,0.6,0.27,15,reviewed,ok,ok
-2023-05-08T15:05:24.100Z,34.0453333,-118.6536667,7.22,3.32,ml,113,48,0.0153,0.27,ci,ci40220951,2023-05-08T19:05:45.782Z,"2km WNW of Las Flores, CA",earthquake,0.21,0.41,0.183,180,reviewed,ci,ci
+2023-05-08T15:05:24.100Z,34.0453333,-118.6536667,7.22,3.32,ml,113,48,0.0153,0.27,ci,ci40220951,2023-05-08T19:22:47.220Z,"2km WNW of Las Flores, CA",earthquake,0.21,0.41,0.183,180,reviewed,ci,ci
 2023-05-08T15:00:28.619Z,63.0726,-150.4433,97.7,1.8,ml,,,,0.47,ak,ak0235vxpzhp,2023-05-08T15:03:50.738Z,"66 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-08T14:54:09.258Z,51.5469,-175.5215,45.953,4.5,mb,119,119,0.507,0.65,us,us6000kadz,2023-05-08T15:54:38.040Z,"85 km ESE of Adak, Alaska",earthquake,4.9,5.943,0.045,146,reviewed,us,us
 2023-05-08T14:48:48.877Z,62.1615,-149.5668,51.3,1.2,ml,,,,0.4,ak,ak0235vxevtj,2023-05-08T14:51:01.846Z,"14 km E of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -89,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T06:51:00.670Z,17.941,-66.6705,7.9,2.7,md,12,192,0.0793,0.15,pr,pr71408483,2023-05-08T07:00:49.730Z,"7 km SE of Tallaboa, Puerto Rico",earthquake,0.54,0.65,0.178352453772442,5,reviewed,pr,pr
 2023-05-08T06:39:20.539Z,61.1822,-147.5436,15.4,1.4,ml,,,,0.52,ak,ak0235vslfcl,2023-05-08T06:42:46.865Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-08T06:38:22.367Z,-4.345,143.2097,75.722,4.7,mb,48,79,6.375,0.55,us,us6000kabw,2023-05-08T07:01:04.040Z,"45 km ESE of Ambunti, Papua New Guinea",earthquake,10.13,7.763,0.093,36,reviewed,us,us
-2023-05-08T06:29:55.880Z,33.2801666666667,-83.0073333333333,10.95,2.47,md,10,103,0.406,0.27,se,se60500698,2023-05-08T18:55:39.096Z,"2 km W of Sparta, Georgia",earthquake,0.57,0.91,0.0661072566773759,10,reviewed,se,se
+2023-05-08T06:29:55.880Z,33.2801666666667,-83.0073333333333,10.95,2.47,md,10,103,0.406,0.27,se,se60500698,2023-05-08T19:25:39.004Z,"2 km W of Sparta, Georgia",earthquake,0.57,0.91,0.0661072566773759,10,reviewed,se,se
 2023-05-08T06:24:37.220Z,38.796833,-122.754837,1.82,1.08,md,16,91,0.005371,0.02,nc,nc73885301,2023-05-08T06:41:19.139Z,"2km N of The Geysers, CA",earthquake,0.26,0.48,0.12,15,automatic,nc,nc
 2023-05-08T06:22:26.880Z,58.3913,-154.9491,150.6,0.4,ml,,,,0.14,ak,ak0235vshso0,2023-05-08T06:25:01.244Z,"96 km NNW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-05-08T06:19:55.382Z,58.2236,-155.3075,30.4,0.1,ml,,,,0.64,ak,ak0235vsh7zv,2023-05-08T06:21:59.955Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
