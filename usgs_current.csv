@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-09T05:44:31.250Z,38.8180008,-122.8225021,2.1,0.81,md,17,57,0.01051,0.02,nc,nc73885561,2023-05-09T05:46:05.099Z,"7km NW of The Geysers, CA",earthquake,0.26,0.58,0.17,18,automatic,nc,nc
+2023-05-09T05:57:43.340Z,38.8296661,-122.8141632,2.33,1.08,md,19,62,0.00703,0.01,nc,nc73885566,2023-05-09T06:10:10.212Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.19,18,automatic,nc,nc
+2023-05-09T05:56:57.105Z,59.3759,-152.5441,19.6,2.1,ml,,,,0.56,ak,ak0235xfn28e,2023-05-09T05:58:33.586Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-09T05:50:48.940Z,19.4099998474121,-155.322006225586,3.22000002861023,1.75999999,md,23,70,,0.159999996,hv,hv73393612,2023-05-09T05:54:03.970Z,"9 km WSW of Volcano, Hawaii",earthquake,0.36,0.629999995,0.879999995,8,automatic,hv,hv
+2023-05-09T05:44:31.250Z,38.8180008,-122.8225021,2.1,0.81,md,17,57,0.01051,0.02,nc,nc73885561,2023-05-09T06:01:14.168Z,"7km NW of The Geysers, CA",earthquake,0.26,0.58,0.17,18,automatic,nc,nc
 2023-05-09T05:27:07.320Z,33.4723333,-116.5521667,9.15,0.52,ml,13,86,0.04739,0.19,ci,ci40221415,2023-05-09T05:30:45.113Z,"14km SE of Anza, CA",earthquake,0.54,0.91,0.137,11,automatic,ci,ci
 2023-05-09T05:26:49.496Z,63.1669,-150.4997,99,1.8,ml,,,,0.22,ak,ak0235xfgm5x,2023-05-09T05:29:09.415Z,"74 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-09T05:25:25.150Z,33.706,-116.765,15.65,0.72,ml,31,34,0.04269,0.19,ci,ci40221407,2023-05-09T05:29:10.854Z,"6km SW of Idyllwild, CA",earthquake,0.33,0.52,0.13,18,automatic,ci,ci
@@ -25,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T02:28:09.436Z,11.1414,-85.7684,83.442,4.6,mb,47,133,0.513,0.64,us,us6000kaim,2023-05-09T04:45:42.887Z,"16 km WNW of La Cruz, Costa Rica",earthquake,5.87,6.946,0.037,222,reviewed,us,us
 2023-05-09T02:28:06.331Z,63.0282,-150.2168,97.8,1.5,ml,,,,0.15,ak,ak0235xdong9,2023-05-09T02:29:38.027Z,"64 km N of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-09T02:22:07.290Z,34.1033333,-116.6833333,8.31,2.12,ml,71,31,0.07101,0.17,ci,ci40221319,2023-05-09T02:32:38.140Z,"11km WNW of Morongo Valley, CA",earthquake,0.17,0.58,0.093,26,automatic,ci,ci
-2023-05-09T02:19:28.500Z,38.8398323,-122.8718338,1.94,1.1,md,14,183,0.002514,0.03,nc,nc73885521,2023-05-09T02:58:12.184Z,"12km NW of The Geysers, CA",earthquake,0.59,0.53,0.21,16,automatic,nc,nc
+2023-05-09T02:19:28.500Z,38.8398323,-122.8718338,1.94,1.1,md,14,183,0.002514,0.03,nc,nc73885521,2023-05-09T06:09:15.209Z,"12km NW of The Geysers, CA",earthquake,0.59,0.53,0.21,16,automatic,nc,nc
 2023-05-09T02:16:27.270Z,19.3864994049072,-155.299331665039,2.90000009536743,1.75,ml,12,140,,0.209999993,hv,hv73393457,2023-05-09T02:21:58.570Z,"9 km SW of Volcano, Hawaii",earthquake,1.01,0.529999971,0.05,3,automatic,hv,hv
 2023-05-09T02:09:14.750Z,38.7638321,-122.7101669,1.93,1.79,md,28,56,0.009553,0.1,nc,nc73885516,2023-05-09T05:42:16.065Z,"2km SW of Anderson Springs, CA",earthquake,0.32,0.44,0.19,29,automatic,nc,nc
 2023-05-09T02:06:46.340Z,62.3155,-148.2832,22,1.9,ml,,,,0.81,ak,ak0235xdk0sa,2023-05-09T02:09:16.351Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -188,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T06:19:55.382Z,58.2236,-155.3075,30.4,0.1,ml,,,,0.64,ak,ak0235vsh7zv,2023-05-08T06:21:59.955Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-08T06:16:09.490Z,46.730666666666664,-121.84683333333334,2.15,0.28,ml,14,216,0.007267,0.09,uw,uw61922521,2023-05-08T16:37:19.180Z,"14 km ESE of Ashford, Washington",earthquake,0.43,0.45,0.083607886052111,3,reviewed,uw,uw
 2023-05-08T06:14:42.200Z,17.9465,-66.9636666666667,6.81,2.69,md,6,220,0.08522,0.2,pr,pr71408488,2023-05-08T07:12:06.430Z,"6 km WSW of Guánica, Puerto Rico",earthquake,1.19,0.5,0.0174205650439283,4,reviewed,pr,pr
-2023-05-08T06:02:15.883Z,-56.0059,-121.4208,10,5.9,mww,101,36,28.658,0.53,us,us6000kabr,2023-05-08T12:17:57.474Z,"southern East Pacific Rise",earthquake,11.96,1.855,0.078,16,reviewed,us,us
-2023-05-08T05:58:54.244Z,63.4705,-151.1472,3.2,1.5,ml,,,,0.68,ak,ak0235vs44y8,2023-05-08T06:01:41.901Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-08T05:56:36.722Z,59.7382,-153.4845,117.3,0.8,ml,,,,0.39,ak,ak0235vs3o60,2023-05-08T05:58:32.351Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
