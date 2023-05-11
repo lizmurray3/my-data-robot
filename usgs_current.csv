@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T08:22:21.707Z,62.4192,-149.5595,52.2,2.1,ml,,,,0.7,ak,ak02360saoyi,2023-05-11T08:25:28.997Z,"28 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-11T08:19:15.103Z,62.376,-148.504,19,2.1,ml,,,,0.86,ak,ak02360sa1au,2023-05-11T08:21:40.309Z,"64 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-11T08:10:12.158Z,61.64,-150.9848,29.4,1.5,ml,,,,0.38,ak,ak02360s83oe,2023-05-11T08:12:39.122Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-11T08:05:37.620Z,19.1436672210693,-155.366500854492,29.1700000762939,1.99,ml,46,184,,0.109999999,hv,hv73396197,2023-05-11T08:11:07.850Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.64,0.74000001,3.48,6,automatic,hv,hv
+2023-05-11T08:05:37.620Z,19.1436672210693,-155.366500854492,29.1700000762939,1.99,ml,46,184,,0.109999999,hv,hv73396197,2023-05-11T08:11:07.850Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.74000001,3.48,6,automatic,hv,hv
 2023-05-11T07:42:40.691Z,61.6713,-150.031,71.3,2.1,ml,,,,0.9,ak,ak02360rtl51,2023-05-11T07:44:51.541Z,"8 km S of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-11T07:42:21.290Z,40.5138321,-124.4151688,16.65,3.28,ml,18,251,0.0705,0.07,nc,nc73886451,2023-05-11T10:08:10.432Z,"14km WSW of Ferndale, CA",earthquake,1.16,0.37,0.599,9,automatic,nc,nc
 2023-05-11T07:39:36.070Z,40.5411682,-124.1784973,16.73,1.46,md,7,271,0.2125,0.06,nc,nc73886446,2023-05-11T09:50:10.464Z,"7km SSW of Fortuna, CA",earthquake,1.75,2.7,,1,automatic,nc,nc
@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T11:59:11.200Z,38.783165,-122.7458344,0.99,0.78,md,8,90,0.00712,0.02,nc,nc73886101,2023-05-10T14:14:14.200Z,"1km NE of The Geysers, CA",earthquake,0.55,0.88,0.06,9,automatic,nc,nc
 2023-05-10T11:52:00.510Z,44.8448333333333,-111.846333333333,8.92,1.32,ml,25,78,0.1725,0.18,mb,mb90013208,2023-05-10T19:49:24.750Z,"50 km S of Virginia City, Montana",earthquake,0.43,0.93,0.17131201050627,13,reviewed,mb,mb
 2023-05-10T11:46:33.960Z,56.1835,-159.457,17.89,-0.26,ml,7,86,,0.31,av,av91881251,2023-05-11T03:43:55.200Z,"31 km N of Ivanof Bay, Alaska",earthquake,1,1.8,0.195657583722067,7,reviewed,av,av
-2023-05-10T11:41:07.590Z,56.1931666666667,-159.468166666667,20.52,0.45,ml,7,96,,0.19,av,av91881246,2023-05-11T03:43:19.880Z,"32 km N of Ivanof Bay, Alaska",earthquake,0.67,1.07,0.2477570952678,7,reviewed,av,av
-2023-05-10T11:40:15.447Z,36.7215,-116.2561,6.9,-0.2,ml,6,157.8,0.022,0.0539,nn,nn00859328,2023-05-11T00:08:08.355Z,"49 km ESE of Beatty, Nevada",earthquake,,2,0.02,2,reviewed,nn,nn
