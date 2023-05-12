@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-12T10:18:41.140Z,40.2084999,-121.0934982,-1.39,5.15,mw,198,45,0.3039,0.64,nc,nc73887046,2023-05-12T10:24:24.278Z,"4km SSW of East Shore, CA",earthquake,0.49,1.74,,4,automatic,nc,nc
-2023-05-12T10:09:46.730Z,38.8303337,-122.8153305,1.49,0.76,md,15,48,0.008054,0.02,nc,nc73887041,2023-05-12T10:20:11.083Z,"8km NW of The Geysers, CA",earthquake,0.22,0.72,0.3,16,automatic,nc,nc
+2023-05-12T10:26:41.197Z,59.7032,-153.0621,103.9,1.3,ml,,,,0.16,ak,ak02362h1t13,2023-05-12T10:28:47.895Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-12T10:24:30.911Z,64.8438,-148.7571,16.2,1.3,ml,,,,0.29,ak,ak02362h1cui,2023-05-12T10:26:02.176Z,"31 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-12T10:18:41.140Z,40.2084999,-121.0934982,-1.39,5.15,mw,198,45,0.3039,0.64,nc,nc73887046,2023-05-12T10:33:11.570Z,"4km SSW of East Shore, CA",earthquake,0.49,1.74,,4,reviewed,nc,nc
+2023-05-12T10:09:46.730Z,38.8303337,-122.8153305,1.49,0.76,md,15,48,0.008054,0.02,nc,nc73887041,2023-05-12T10:26:13.286Z,"8km NW of The Geysers, CA",earthquake,0.22,0.72,0.3,16,automatic,nc,nc
 2023-05-12T09:59:02.780Z,38.8343315,-122.8209991,2.5,0.32,md,8,99,0.01209,0.02,nc,nc73887036,2023-05-12T10:15:13.048Z,"8km NW of The Geysers, CA",earthquake,0.56,0.92,0.15,10,automatic,nc,nc
 2023-05-12T09:45:28.530Z,7.0512,-76.0172,51.35,4.6,mb,122,124,0.983,0.52,us,us6000kbd5,2023-05-12T10:21:21.140Z,"northern Colombia",earthquake,7.44,7.533,0.036,234,reviewed,us,us
 2023-05-12T09:15:38.310Z,38.5493317,-122.5636673,10.07,2.27,md,57,35,0.1128,0.09,nc,nc73887026,2023-05-12T09:24:17.733Z,"4km SSE of Calistoga, CA",earthquake,0.21,0.65,0.13,62,automatic,nc,nc
@@ -147,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T23:23:48.220Z,40.2301667,-121.1663333,5.78,2.83,ml,37,44,0.02374,0.17,nc,nc71130369,2023-05-12T07:40:12.122Z,"2km NNE of Almanor, CA",earthquake,0.28,0.45,0.067,8,reviewed,nc,nc
 2023-05-11T23:21:56.113Z,65.393,-144.7847,0,1.7,ml,,,,0.81,ak,ak02361181yz,2023-05-11T23:23:35.907Z,"20 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-11T23:21:29.462Z,61.4901,-152.2668,122.4,1.8,ml,,,,0.49,ak,ak0236117zvy,2023-05-11T23:23:56.576Z,"72 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-11T23:19:41.990Z,40.2041667,-121.1095,5.85,5.48,mw,54,46,0.05144,0.16,nc,nc73886731,2023-05-12T10:22:51.385Z,"Lake Almanor Earthquake",earthquake,0.26,0.56,,4,reviewed,nc,nc
+2023-05-11T23:19:41.990Z,40.2041667,-121.1095,5.85,5.48,mw,54,46,0.05144,0.16,nc,nc73886731,2023-05-12T10:31:40.033Z,"Lake Almanor Earthquake",earthquake,0.26,0.56,,4,reviewed,nc,nc
 2023-05-11T23:15:31.460Z,38.8305016,-122.8138351,1.72,1.4,md,27,42,0.00768,0.05,nc,nc73886726,2023-05-12T03:33:16.632Z,"8km NW of The Geysers, CA",earthquake,0.19,0.35,0.2,27,automatic,nc,nc
 2023-05-11T23:06:17.170Z,19.4098339080811,-155.27799987793,0.600000023841858,2.25,md,11,104,,0.140000001,hv,hv73397147,2023-05-11T23:09:07.220Z,"5 km SW of Volcano, Hawaii",earthquake,0.26,0.370000005,1.41999996,10,automatic,hv,hv
 2023-05-11T22:49:55.777Z,31.52990514,-104.1654443,6.388647461,2,ml,32,73,0.05904255739,0.2,tx,tx2023jfgp,2023-05-12T08:43:46.589Z,"42 km NW of Toyah, Texas",earthquake,0.8408382298,0.9858551531,0.1,21,reviewed,tx,tx
@@ -293,5 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T10:54:49.090Z,19.187,-155.451666666667,37.12,1.63,md,25,132,,0.11,hv,hv73396382,2023-05-12T01:40:43.410Z,"3 km ESE of Pāhala, Hawaii",earthquake,0.58,0.66,0.0581608742697959,9,reviewed,hv,hv
 2023-05-11T10:50:17.870Z,19.1176,-64.7836,60,3.65,md,6,289,0.9514,0.34,pr,pr2023131006,2023-05-11T11:22:51.274Z,"87 km N of Cruz Bay, U.S. Virgin Islands",earthquake,6.19,11.79,0.02,4,reviewed,pr,pr
 2023-05-11T10:45:09.850Z,46.86216666666667,-121.73283333333333,-2.28,0.03,ml,7,122,0.008674,0.06,uw,uw61923496,2023-05-11T20:12:06.480Z,"25 km ENE of Ashford, Washington",earthquake,0.46,0.57,0.028265557588764773,3,reviewed,uw,uw
-2023-05-11T10:33:41.930Z,38.8406677,-122.876503,2.63,0.88,md,12,87,0.005951,0.02,nc,nc73886481,2023-05-11T12:46:11.463Z,"13km NW of The Geysers, CA",earthquake,0.43,0.68,0.24,14,automatic,nc,nc
-2023-05-11T10:32:47.930Z,51.8578333333333,-178.054166666667,-1.8,1.36,ml,5,166,,0.19,av,av91882466,2023-05-12T01:34:58.470Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.51,1.25,0.281373010195221,5,reviewed,av,av
