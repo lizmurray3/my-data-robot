@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-13T20:19:48.604Z,53.3176,-169.7105,118.318,5.4,mww,62,80,1.082,0.92,us,us6000kbqn,2023-05-13T20:45:23.922Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,8.4,5.555,0.089,12,reviewed,us,us
-2023-05-13T20:18:10.100Z,40.2186661,-121.1521683,-0.48,2.57,md,14,59,0.3316,0.17,nc,nc73887696,2023-05-13T20:24:13.511Z,"1km NNE of Prattville, CA",earthquake,0.56,11.79,0.1,11,automatic,nc,nc
+2023-05-13T21:07:31.000Z,38.8213348,-122.7630005,2.27,3.26,ml,73,45,0.0106,0.08,nc,nc73887711,2023-05-13T21:10:58.712Z,"4km W of Cobb, CA",earthquake,0.13,0.22,0.214,16,automatic,nc,nc
+2023-05-13T20:19:48.604Z,53.3176,-169.7105,118.318,5.4,mww,62,80,1.082,0.92,us,us6000kbqn,2023-05-13T21:00:00.646Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,8.4,5.555,0.089,12,reviewed,us,us
+2023-05-13T20:18:10.100Z,40.2186661,-121.1521683,-0.48,2.57,md,14,59,0.3316,0.17,nc,nc73887696,2023-05-13T21:10:10.812Z,"1km NNE of Prattville, CA",earthquake,0.56,11.79,0.1,11,automatic,nc,nc
 2023-05-13T20:16:49.050Z,19.2611675262451,-155.38200378418,30.6000003814697,2.19,ml,43,132,,0.140000001,hv,hv73400827,2023-05-13T20:22:19.830Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.56,0.730000019,3.41,7,automatic,hv,hv
 2023-05-13T20:10:25.120Z,33.664,-116.6885,12.58,0.49,ml,23,71,0.05168,0.26,ci,ci40224567,2023-05-13T20:13:54.277Z,"9km SSE of Idyllwild, CA",earthquake,0.52,0.81,0.261,10,automatic,ci,ci
 2023-05-13T19:46:43.090Z,38.8154984,-122.8190002,2.66,1.07,md,17,90,0.01035,0.02,nc,nc73887691,2023-05-13T20:55:10.717Z,"7km NW of The Geysers, CA",earthquake,0.28,0.67,0.17,19,automatic,nc,nc
@@ -14,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T17:41:21.290Z,18.0375,-66.9278,9,3.57,md,20,162,0.0791,0.14,pr,pr2023133001,2023-05-13T18:35:41.361Z,"1 km ESE of Liborio Negron Torres, Puerto Rico",earthquake,0.33,0.87,0.11,11,reviewed,pr,pr
 2023-05-13T17:31:40.030Z,19.4016666412354,-155.281173706055,0.479999989271164,2.00999999,md,14,96,,0.189999998,hv,hv73400682,2023-05-13T17:34:43.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.31,0.180000007,0.800000012,10,automatic,hv,hv
 2023-05-13T17:24:40.820Z,18.1805,-66.0798333333333,13.46,2.22,md,7,100,0.09744,0.09,pr,pr71409228,2023-05-13T18:20:25.450Z,"3 km E of Bayamon, Puerto Rico",earthquake,0.37,0.42,0.117184518254133,4,reviewed,pr,pr
+2023-05-13T17:18:32.476Z,26.5708,142.3763,26.604,4.6,mb,103,70,6.891,0.58,us,us6000kbq3,2023-05-13T21:05:18.040Z,"Bonin Islands, Japan region",earthquake,9.01,5.082,0.063,80,reviewed,us,us
 2023-05-13T16:56:07.660Z,32.9713333,-116.7813333,4.88,0.74,ml,14,82,0.1377,0.3,ci,ci40224511,2023-05-13T17:07:08.386Z,"4km S of San Diego Country Estates, CA",earthquake,1.65,6.17,0.348,7,automatic,ci,ci
 2023-05-13T16:43:49.960Z,38.791832,-122.7591629,2,1.1,md,9,118,0.008791,0.02,nc,nc73887666,2023-05-13T17:44:15.539Z,"2km N of The Geysers, CA",earthquake,0.46,0.86,0.05,7,automatic,nc,nc
 2023-05-13T16:34:42.730Z,34.0461667,-120.2178333,0.67,2.1,ml,13,146,0.1111,0.18,ci,ci40224495,2023-05-13T16:38:28.243Z,"14km E of San Miguel Is., CA",earthquake,0.48,31.61,0.139,24,automatic,ci,ci
@@ -211,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T21:41:35.220Z,38.7908325,-122.7591629,1.57,0.75,md,9,95,0.01911,0.02,nc,nc73887336,2023-05-12T21:58:14.367Z,"2km N of The Geysers, CA",earthquake,0.31,0.64,0.14,11,automatic,nc,nc
 2023-05-12T21:30:35.260Z,38.8190002,-122.8228302,2.35,0.69,md,10,68,0.01038,0.01,nc,nc73887321,2023-05-12T21:46:15.293Z,"7km NW of The Geysers, CA",earthquake,0.32,0.97,0.15,12,automatic,nc,nc
 2023-05-12T21:20:17.089Z,62.6705,-151.3402,88.7,1.4,ml,,,,0.41,ak,ak02362nk8j0,2023-05-12T21:22:03.044Z,"35 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-12T21:11:56.310Z,46.98566666666667,-122.19816666666667,-0.54,1.31,ml,26,107,0.01431,0.17,uw,uw61923916,2023-05-13T00:39:23.680Z,"2 km E of Kapowsin, Washington",explosion,0.49,31.61,0.18963686274023717,17,reviewed,uw,uw
-2023-05-12T20:57:31.290Z,35.7493333,-121.2476667,4.48,2.88,md,67,176,0.1016,0.11,nc,nc73887311,2023-05-13T14:58:14.502Z,"13km NNW of San Simeon, CA",earthquake,0.2,0.5,0.099,68,reviewed,nc,nc
-2023-05-12T20:57:24.230Z,35.748,-121.2543333,3.77,1.25,md,25,185,0.1049,0.11,nc,nc73887306,2023-05-13T14:43:13.425Z,"13km NNW of San Simeon, CA",earthquake,0.46,0.91,0.219,6,reviewed,nc,nc
-2023-05-12T20:57:01.610Z,33.998,-116.4028333,6.4,0.75,ml,6,178,0.05739,0.05,ci,ci37523925,2023-05-13T00:15:17.096Z,"10km ENE of Desert Hot Springs, CA",earthquake,0.44,0.62,0.133,4,reviewed,ci,ci
