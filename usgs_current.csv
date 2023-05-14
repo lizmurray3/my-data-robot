@@ -182,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T09:44:01.430Z,19.4043333333333,-155.288,1.25,0.59,md,13,90,,0.09,hv,hv73400012,2023-05-13T10:11:21.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.24,0.118397157490332,3,reviewed,hv,hv
 2023-05-13T09:41:56.631Z,61.3225,-149.8847,34.1,2,ml,,,,0.34,ak,ak0236442yun,2023-05-13T09:43:41.462Z,"6 km SE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-13T09:39:50.800Z,19.4041666666667,-155.288666666667,1.28,0.55,md,11,105,,0.07,hv,hv73400007,2023-05-13T10:13:06.840Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.19,0.269728195370087,3,reviewed,hv,hv
-2023-05-13T09:34:10.520Z,38.7885017,-122.746666,1.82,1.78,md,19,85,0.009381,0.02,nc,nc73887556,2023-05-13T10:16:10.841Z,"2km NE of The Geysers, CA",earthquake,0.24,0.41,0.1,19,automatic,nc,nc
-2023-05-13T09:34:00.270Z,33.9686667,-117.2176667,13.56,0.83,ml,23,67,0.04293,0.19,ci,ci40224231,2023-05-13T09:37:35.549Z,"5km NNE of Moreno Valley, CA",earthquake,0.29,0.71,0.178,19,automatic,ci,ci
-2023-05-13T09:30:54.050Z,43.619,-111.046333333333,1.82,0.82,ml,8,148,0.1448,0.15,mb,mb90013893,2023-05-13T14:42:35.760Z,"5 km ENE of Victor, Idaho",earthquake,0.6,1.77,0.291961975849864,5,reviewed,mb,mb
