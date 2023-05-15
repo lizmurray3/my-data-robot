@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T08:52:44.810Z,33.7155,-116.8328333,15.38,-0.07,ml,24,71,0.08098,0.12,ci,ci40225375,2023-05-15T08:56:12.456Z,"7km ESE of Valle Vista, CA",earthquake,0.25,0.4,0.04,3,automatic,ci,ci
 2023-05-15T08:52:21.180Z,38.8351669,-122.7901688,1.51,0.88,md,10,69,0.01307,0.02,nc,nc73888346,2023-05-15T09:19:13.312Z,"6km WNW of Cobb, CA",earthquake,0.43,1.54,0.23,10,automatic,nc,nc
 2023-05-15T08:38:30.280Z,33.4691667,-116.5685,4.88,1.51,ml,55,66,0.03797,0.28,ci,ci40225367,2023-05-15T08:48:57.400Z,"14km SE of Anza, CA",earthquake,0.26,0.94,0.201,26,automatic,ci,ci
-2023-05-15T08:34:11.230Z,40.2431679,-121.1631699,-0.91,2.65,md,19,64,0.3244,0.28,nc,nc73888336,2023-05-15T08:55:14.297Z,"3km NNE of Almanor, CA",earthquake,0.74,13.73,0.08,13,automatic,nc,nc
+2023-05-15T08:34:11.230Z,40.2431679,-121.1631699,-0.91,2.65,md,19,64,0.3244,0.28,nc,nc73888336,2023-05-15T12:07:17.356Z,"3km NNE of Almanor, CA",earthquake,0.74,13.73,0.08,13,automatic,nc,nc
 2023-05-15T08:33:32.184Z,36.3189,-116.3278,0,1.2,ml,24,84.81,0.139,0.311,nn,nn00859539,2023-05-15T08:37:13.545Z,"33 km WNW of Pahrump, Nevada",earthquake,,10.6,0.94,15,automatic,nn,nn
 2023-05-15T08:30:05.965Z,63.2238,-150.9958,138.2,1.7,ml,,,,0.19,ak,ak02367ehrg4,2023-05-15T08:32:12.567Z,"Central Alaska",earthquake,,4.9,,,automatic,ak,ak
 2023-05-15T08:21:09.790Z,33.4715004,-116.5636673,8.21,1.54,ml,57,52,0.03965,0.19,ci,ci40225359,2023-05-15T08:31:43.400Z,"14km SE of Anza, CA",earthquake,0.22,0.68,0.235,14,automatic,ci,ci
@@ -189,7 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T12:27:36.975Z,60.4141,-147.3361,15.1,2,ml,,,,0.37,ak,ak02365tbkm9,2023-05-14T12:30:03.783Z,"53 km NE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-14T12:25:35.636Z,62.1488,-152.068,106.4,1.6,ml,,,,0.22,ak,ak02365tb52k,2023-05-14T12:28:14.438Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-14T12:22:31.250Z,38.8198318,-122.82267,2.38,0.81,md,11,71,0.0102,0.02,nc,nc73887961,2023-05-14T13:12:12.968Z,"7km NW of The Geysers, CA",earthquake,0.37,0.86,0.17,11,automatic,nc,nc
-2023-05-14T12:08:25.190Z,34.01,-117.235,16.98,0.89,ml,32,43,0.08108,0.2,ci,ci40224927,2023-05-14T12:11:59.321Z,"5km SSE of Loma Linda, CA",earthquake,0.26,0.67,0.185,24,automatic,ci,ci
-2023-05-14T12:07:43.951Z,58.1137,-155.4705,26.9,1.1,ml,,,,0.61,ak,ak02365t7au3,2023-05-14T12:09:12.804Z,"85 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
-2023-05-14T12:06:08.858Z,37.9,36.1805,8.423,4.1,mb,46,34,0.345,0.5,us,us6000kbui,2023-05-14T12:24:10.040Z,"12 km SE of Saimbeyli, Turkey",earthquake,3.96,3.9,0.123,18,reviewed,us,us
-2023-05-14T11:54:24.750Z,33.2711667,-116.4288333,3.52,0.97,ml,40,78,0.01022,0.21,ci,ci40224919,2023-05-14T11:58:10.074Z,"5km WNW of Borrego Springs, CA",earthquake,0.28,0.77,0.123,24,automatic,ci,ci
