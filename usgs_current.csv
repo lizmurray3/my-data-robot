@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T05:14:47.450Z,19.0801666666667,-66.8336666666667,13.86,3.3,md,22,272,0.6168,0.19,pr,pr71409483,2023-05-15T05:58:12.700Z,"65 km N of Hatillo, Puerto Rico",earthquake,1.7,2.47,0.0747635062386673,8,reviewed,pr,pr
 2023-05-15T04:59:30.948Z,40.1677,-121.0749,5.9,1.5,ml,4,326.54,0.625,0.0292,nn,nn00859548,2023-05-15T17:34:20.540Z,"0 km SSW of Canyondam, California",earthquake,,23.5,0.16,3,reviewed,nn,nn
 2023-05-15T04:49:29.490Z,38.8095016,-122.8164978,2.76,0.76,md,12,102,0.009927,0.01,nc,nc73888236,2023-05-15T05:56:11.080Z,"6km NW of The Geysers, CA",earthquake,0.31,0.96,0.15,13,automatic,nc,nc
-2023-05-15T04:46:45.436Z,36.399,-115.4517,0,1,ml,4,236.9,0.26,0.1795,nn,nn00859563,2023-05-15T22:12:26.410Z,"23 km NE of Mount Charleston, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2023-05-15T04:45:29.460Z,35.7681667,-117.5725,1.77,0.99,ml,13,137,0.1589,0.2,ci,ci40225311,2023-05-15T04:49:03.817Z,"15km W of Searles Valley, CA",earthquake,0.5,0.64,0.161,8,automatic,ci,ci
