@@ -114,6 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T02:39:02.190Z,19.2403335571289,-155.373992919922,31.0300006866455,2.24000001,md,41,147,,0.119999997,hv,hv73404212,2023-05-16T02:59:34.277Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.52,0.600000024,0.389999986,17,automatic,hv,hv
 2023-05-16T02:36:23.752Z,70.393,-15.6295,10,4.4,mb,22,71,2.13,1.12,us,us6000kc7a,2023-05-16T03:00:14.040Z,"262 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.15,1.926,0.169,10,reviewed,us,us
 2023-05-16T02:28:50.534Z,51.1611,-178.1687,20,3.1,ml,,,,0.86,ak,ak02368yg68y,2023-05-16T10:29:10.157Z,"132 km SW of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-05-16T02:27:36.067Z,36.4812,-113.5223,1.1,1.6,ml,6,223.94,0.576,0.1138,nn,nn00859576,2023-05-16T16:55:51.855Z,"Arizona",earthquake,,18.3,0.21,5,reviewed,nn,nn
 2023-05-16T02:16:33.030Z,19.2401676177979,-155.402496337891,30.75,2.00999999,md,38,135,,0.0900000036,hv,hv73404182,2023-05-16T02:19:46.930Z,"Hawaii region, Hawaii",earthquake,0.54,0.870000005,0.529999971,14,automatic,hv,hv
 2023-05-16T02:09:22.490Z,38.8118324,-122.8273315,1.74,1.33,md,26,48,0.003293,0.02,nc,nc73888616,2023-05-16T03:48:11.019Z,"7km WNW of The Geysers, CA",earthquake,0.18,0.32,0.13,28,automatic,nc,nc
 2023-05-16T02:08:48.600Z,37.4613333,-121.786,2.32,1.27,md,22,44,0.01584,0.09,nc,nc73888621,2023-05-16T07:29:19.356Z,"11km NNE of Alum Rock, CA",earthquake,0.26,0.4,0.279,19,reviewed,nc,nc
@@ -208,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T17:07:08.078Z,65.3731,-148.4103,13.4,0.7,ml,,,,0.44,ak,ak02367jpql3,2023-05-15T17:09:11.057Z,"17 km SSE of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-15T17:02:22.600Z,35.4708333,-118.3378333,4.02,0.91,ml,19,89,0.174,0.11,ci,ci40225583,2023-05-16T15:43:53.918Z,"19km SE of Bodfish, CA",earthquake,0.21,0.63,0.15,12,reviewed,ci,ci
 2023-05-15T16:59:41.787Z,61.6583,-150.017,47,1.4,ml,,,,0.68,ak,ak02367jfite,2023-05-15T17:01:38.994Z,"9 km S of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-15T16:52:42.020Z,38.8173332,-122.7626648,1.86,0.89,md,12,115,0.01429,0.02,nc,nc73888481,2023-05-15T18:41:19.655Z,"4km W of Cobb, CA",earthquake,0.41,0.78,0.27,13,automatic,nc,nc
-2023-05-15T16:51:16.744Z,59.9467,-152.7985,109,1.6,ml,,,,0.37,ak,ak02367jdr5m,2023-05-15T16:53:21.049Z,"57 km WNW of Anchor Point, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-05-15T16:50:32.480Z,40.2381667,-121.1683333,5.15,1.84,md,14,89,0.01997,0.16,nc,nc71130429,2023-05-16T12:09:13.087Z,"2km NNE of Almanor, CA",earthquake,0.38,0.4,0.104,11,reviewed,nc,nc
