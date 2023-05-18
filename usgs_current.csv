@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T03:06:59.758Z,58.2424,-155.0953,10.6,0.8,ml,,,,0.92,ak,ak0236c9zp08,2023-05-18T03:20:04.274Z,"84 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-18T02:52:11.240Z,61.9849,-150.7393,11.7,1.9,ml,,,,0.31,ak,ak0236c9nxgk,2023-05-18T02:53:46.679Z,"34 km E of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-18T02:38:32.843Z,60.3625,-151.7145,59.3,1,ml,,,,0.39,ak,ak0236c9kz3o,2023-05-18T02:39:57.175Z,"22 km W of Cohoe, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-05-18T02:37:12.440Z,19.3911,-64.6585,28,3.68,md,13,302,1.0805,0.4,pr,pr2023138000,2023-05-18T03:21:38.486Z,"118 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.79,30.7,0.04,4,reviewed,pr,pr
+2023-05-18T02:37:12.440Z,19.3911,-64.6585,28,3.68,md,13,302,1.0805,0.4,pr,pr2023138000,2023-05-18T03:37:46.920Z,"118 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.79,30.7,0.04,4,reviewed,pr,pr
 2023-05-18T02:36:37.810Z,19.4265003204346,-155.257659912109,0.140000000596046,1.72,ml,14,114,,0.100000001,hv,hv73407057,2023-05-18T02:42:17.150Z,"3 km SW of Volcano, Hawaii",earthquake,0.23,0.289999992,0.21,5,automatic,hv,hv
 2023-05-18T02:31:10.529Z,61.9756,-150.7229,6.5,3.1,ml,,,,0.34,ak,ak0236c9jfe2,2023-05-18T03:00:41.332Z,"35 km E of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-18T02:20:59.200Z,38.786335,-122.7551651,2.32,0.3,md,7,125,0.0147,0.01,nc,nc73889436,2023-05-18T03:02:14.729Z,"1km N of The Geysers, CA",earthquake,0.55,0.97,0.08,9,automatic,nc,nc
