@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-18T15:40:54.280Z,38.8148346,-122.8188324,1.04,1.08,md,23,52,0.01004,0.03,nc,nc73889626,2023-05-18T15:42:31.017Z,"7km NW of The Geysers, CA",earthquake,0.17,0.39,0.15,25,automatic,nc,nc
 2023-05-18T15:34:51.310Z,38.7926674,-122.746666,1.46,1.02,md,7,91,0.01221,0.02,nc,nc73889621,2023-05-18T15:36:25.990Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.96,0.13,8,automatic,nc,nc
 2023-05-18T15:26:28.270Z,19.4136657714844,-155.257659912109,0.589999973773956,2.22,ml,26,56,,0.140000001,hv,hv73407777,2023-05-18T15:31:59.620Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.239999995,0.37,10,automatic,hv,hv
 2023-05-18T15:24:31.671Z,58.8886,-153.0663,244.6,1.9,ml,,,,0.95,ak,ak0236ch8lun,2023-05-18T15:27:05.862Z,"Kodiak Island region, Alaska",earthquake,,17.2,,,automatic,ak,ak
@@ -271,5 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T16:01:46.469Z,58.1144,-151.7581,31.4,2.6,ml,,,,0.32,ak,ak0236au5smu,2023-05-18T05:11:38.040Z,"48 km ENE of Ouzinkie, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-17T16:01:03.319Z,36.2215,-95.8535,0,1.19,ml,60,183,0.3599293696,0.43,ok,ok2023jpsd,2023-05-17T16:09:32.126Z,"5 km S of Owasso, Oklahoma",quarry blast,,0.5,0.21,25,reviewed,ok,ok
 2023-05-17T16:00:31.927Z,58.9067,-152.1493,58.4,1.6,ml,,,,0.45,ak,ak0236au5jso,2023-05-17T16:02:27.078Z,"51 km SSW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-05-17T15:44:42.920Z,38.8181648,-122.8218307,2.25,1.08,md,22,59,0.01056,0.02,nc,nc73889191,2023-05-17T16:05:19.528Z,"7km NW of The Geysers, CA",earthquake,0.22,0.41,0.11,23,automatic,nc,nc
-2023-05-17T15:42:25.900Z,46.8455,-121.80366666666667,-0.49,0.92,ml,3,312,0.009095,0.01,uw,uw61916402,2023-05-17T18:47:35.910Z,"19 km ENE of Ashford, Washington",earthquake,1.63,1.29,0.30391944068691523,3,reviewed,uw,uw
