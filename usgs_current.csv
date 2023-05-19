@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-19T08:46:25.910Z,38.7958336,-122.7588348,4.21,0.43,md,7,150,0.004833,0.02,nc,nc73889826,2023-05-19T08:47:58.716Z,"2km N of The Geysers, CA",earthquake,0.91,1.91,0.2,7,automatic,nc,nc
+2023-05-19T08:44:01.280Z,34.3428333,-117.532,0.02,1.23,ml,17,146,0.1385,0.26,ci,ci40228007,2023-05-19T08:47:47.318Z,"10km ESE of Wrightwood, CA",earthquake,0.77,31.61,0.23,28,automatic,ci,ci
+2023-05-19T08:43:42.070Z,61.4276,-146.6035,20.1,1.1,ml,,,,0.95,ak,ak0236e0q0in,2023-05-19T08:45:51.978Z,"35 km NNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-19T08:33:58.620Z,19.3426666259766,-155.09700012207,2.59999990463257,2.36,ml,30,201,,0.189999998,hv,hv73409102,2023-05-19T08:39:29.780Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.6,0.629999995,0.52,3,automatic,hv,hv
+2023-05-19T08:27:22.757Z,-22.8429,170.669,20.744,5.3,mb,74,85,2.984,0.75,us,us6000kd3j,2023-05-19T08:45:33.040Z,"southeast of the Loyalty Islands",earthquake,9.15,5.518,0.044,170,reviewed,us,us
 2023-05-19T08:18:30.946Z,59.5045,-152.8527,82.2,1.2,ml,,,,0.47,ak,ak0236e0kmra,2023-05-19T08:20:30.023Z,"55 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-19T08:13:44.990Z,19.38450050354,-155.279159545898,1.53999996185303,1.96000004,md,17,66,,0.119999997,hv,hv73409087,2023-05-19T08:16:37.250Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.180000007,0.769999981,12,automatic,hv,hv
 2023-05-19T08:11:22.300Z,36.2398338,-120.8098297,7.74,2.26,md,36,103,0.02487,0.12,nc,nc73889821,2023-05-19T08:28:12.837Z,"22km ENE of San Lucas, CA",earthquake,0.29,0.5,0.2,33,automatic,nc,nc
@@ -31,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T05:58:48.176Z,62.0882,-146.9512,63.9,1.4,ml,,,,1,ak,ak0236dz0y17,2023-05-19T06:01:33.580Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-19T05:58:06.350Z,19.4228324890137,-155.241500854492,0.649999976158142,2.04,ml,20,127,,0.0799999982,hv,hv73408927,2023-05-19T06:03:37.650Z,"2 km SSW of Volcano, Hawaii",earthquake,0.21,0.270000011,0.24,12,automatic,hv,hv
 2023-05-19T05:54:17.874Z,-23.3152,170.9667,34.273,4.8,mb,26,111,3.319,0.69,us,us6000kd2f,2023-05-19T06:13:12.040Z,"southeast of the Loyalty Islands",earthquake,6.06,6.426,0.121,21,reviewed,us,us
-2023-05-19T05:53:43.680Z,40.9735,-73.8842,10.299,2.2,ml,33,83,0.113,0.21,us,us6000kd2b,2023-05-19T08:35:54.675Z,"2 km S of Hastings-on-Hudson, New York",earthquake,2.1,7.565,0.105,12,reviewed,us,us
+2023-05-19T05:53:43.680Z,40.9735,-73.8842,10.299,2.2,ml,33,83,0.113,0.21,us,us6000kd2b,2023-05-19T08:44:49.265Z,"2 km S of Hastings-on-Hudson, New York",earthquake,2.1,7.565,0.105,12,reviewed,us,us
 2023-05-19T05:52:50.210Z,38.8003349,-122.7593307,2.27,0.43,md,12,91,0.0004155,0.02,nc,nc73889796,2023-05-19T06:11:18.029Z,"3km N of The Geysers, CA",earthquake,0.33,0.83,0.21,13,automatic,nc,nc
 2023-05-19T05:49:10.326Z,58.1328,-155.376,18.8,0.5,ml,,,,1.25,ak,ak0236dyyxr1,2023-05-19T05:51:17.986Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-19T05:44:54.330Z,38.8378334,-122.8040009,1.18,0.88,md,16,60,0.01068,0.02,nc,nc73889791,2023-05-19T06:01:11.960Z,"7km WNW of Cobb, CA",earthquake,0.2,0.7,0.15,17,automatic,nc,nc
@@ -258,6 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T08:55:30.547Z,57.1358,-155.3927,41,2.1,ml,,,,0.38,ak,ak0236cd97q6,2023-05-18T08:57:09.050Z,"74 km SW of Karluk, Alaska",earthquake,,6,,,automatic,ak,ak
 2023-05-18T08:53:31.171Z,58.2095,-155.0884,1.2,1.3,ml,,,,0.51,ak,ak0236cd8scd,2023-05-18T08:55:31.746Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-05-18T08:50:22.433Z,62.6466,-149.2376,6.3,1.4,ml,,,,1.55,ak,ak0236cd84ir,2023-05-18T08:52:58.841Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-18T08:44:19.740Z,37.5411667,-118.8268333,4.18,1.12,md,15,232,0.04881,0.03,nc,nc73889521,2023-05-19T01:44:11.288Z,"13km W of Toms Place, CA",earthquake,1.09,0.77,0.169,15,reviewed,nc,nc
-2023-05-18T08:43:56.942Z,19.6791,-70.8102,16.23,4.8,mwr,122,53,0.205,1.3,us,us6000kcrq,2023-05-19T04:10:22.069Z,"3 km E of Altamira, Dominican Republic",earthquake,5.41,3.6,0.045,47,reviewed,us,us
-2023-05-18T08:40:28.340Z,19.2945003509521,-155.213165283203,6.71999979019165,1.76,ml,29,167,,0.109999999,hv,hv73407442,2023-05-18T08:46:00.190Z,"16 km S of Volcano, Hawaii",earthquake,0.41,0.610000014,0.29,7,automatic,hv,hv
