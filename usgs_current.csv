@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-21T14:54:06.393Z,61.1615,-154.0673,3.6,1.8,ml,,,,1.53,ak,ak0236hffl9b,2023-05-21T14:55:55.806Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-05-21T14:53:09.670Z,32.9588333,-115.5301667,3.1,1.2,ml,16,116,0.06271,0.32,ci,ci40230535,2023-05-21T14:56:40.275Z,"2km S of Brawley, CA",earthquake,0.63,0.89,0.166,15,automatic,ci,ci
 2023-05-21T14:38:20.190Z,34.4613333,-117.9755,9.67,0.85,ml,17,59,0.0207,0.22,ci,ci40230503,2023-05-21T14:41:53.593Z,"7km S of Littlerock, CA",earthquake,0.4,0.68,0.282,16,automatic,ci,ci
 2023-05-21T14:25:10.590Z,19.4253330230713,-155.321502685547,0.370000004768372,2.01,ml,29,64,,0.310000002,hv,hv73413837,2023-05-21T14:30:40.570Z,"9 km WSW of Volcano, Hawaii",earthquake,0.41,0.550000012,0.41,5,automatic,hv,hv
 2023-05-21T14:18:37.300Z,33.8146667,-117.0223333,8.15,1.36,ml,7,81,0.112,0.18,ci,ci40230495,2023-05-21T14:22:18.948Z,"7km WNW of San Jacinto, CA",earthquake,0.64,31.61,0.314,7,automatic,ci,ci
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T13:09:57.130Z,35.2055,-118.5145,7.1,1.87,ml,50,39,0.1149,0.16,ci,ci40230415,2023-05-21T13:21:13.240Z,"10km NW of Tehachapi, CA",earthquake,0.2,0.79,0.24,26,automatic,ci,ci
 2023-05-21T13:08:35.280Z,33.2656667,-116.4285,3.93,0.78,ml,25,69,0.009831,0.21,ci,ci40230407,2023-05-21T13:36:42.761Z,"5km WNW of Borrego Springs, CA",earthquake,0.35,0.5,0.134,17,reviewed,ci,ci
 2023-05-21T13:07:31.050Z,19.1471672058105,-155.35383605957,28.1200008392334,2.14,ml,47,185,,0.129999995,hv,hv73413747,2023-05-21T13:13:02.350Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.56,0.910000026,3.72,10,automatic,hv,hv
-2023-05-21T13:06:10.430Z,38.7923317,-122.7683334,6.02,0.79,md,8,197,0.02302,0.02,nc,nc73890791,2023-05-21T14:36:11.295Z,"2km NNW of The Geysers, CA",earthquake,1.35,3.05,0.57,8,automatic,nc,nc
+2023-05-21T13:06:10.430Z,38.7923317,-122.7683334,6.02,0.79,md,8,197,0.02302,0.02,nc,nc73890791,2023-05-21T14:53:11.403Z,"2km NNW of The Geysers, CA",earthquake,1.35,3.05,0.57,8,automatic,nc,nc
 2023-05-21T12:57:44.476Z,35.1648407,-97.88379669,2.713118792,1.93,ml,10,85.90823364,0.05570634454,0.5407000322,ok,ok2023jwuc,2023-05-21T13:00:44.936Z,"0 km NW of Amber, Oklahoma",earthquake,3.713799044,2.920008773,0.26,7,automatic,ok,ok
 2023-05-21T12:50:36.200Z,38.8375015,-122.8366699,1.29,0.93,md,14,86,0.001426,0.01,nc,nc73890786,2023-05-21T13:16:10.751Z,"10km NW of The Geysers, CA",earthquake,0.22,0.45,0.15,15,automatic,nc,nc
 2023-05-21T12:50:27.450Z,38.8375015,-122.8365021,1.38,0.77,md,17,85,0.001345,0.01,nc,nc73890781,2023-05-21T13:37:12.890Z,"10km NW of The Geysers, CA",earthquake,0.21,0.47,0.18,19,automatic,nc,nc
