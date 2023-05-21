@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-21T15:26:36.140Z,60.9828,-150.8563,35.5,1.9,ml,,,,0.76,ak,ak0236hfv33y,2023-05-21T15:28:22.261Z,"11 km NW of Point Possession, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-05-21T15:21:13.499Z,61.3828,-150.1735,32.4,2.5,ml,,,,0.53,ak,ak0236hftys5,2023-05-21T15:23:07.983Z,"10 km WNW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-21T15:00:10.630Z,19.4109992980957,-155.322998046875,2.89000010490417,2.09,ml,32,68,,0.330000013,hv,hv73413892,2023-05-21T15:05:41.270Z,"9 km WSW of Volcano, Hawaii",earthquake,0.51,0.879999995,0.29,8,automatic,hv,hv
 2023-05-21T14:57:57.110Z,19.4171657562256,-155.317840576172,3.05999994277954,2.53,ml,39,58,,0.389999986,hv,hv73413887,2023-05-21T15:03:28.820Z,"9 km WSW of Volcano, Hawaii",earthquake,0.56,1.01999998,2.58,24,automatic,hv,hv
@@ -287,5 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T15:37:28.700Z,38.7989998,-122.8003311,0.99,0.29,md,10,102,0.009779,0.03,nc,nc73890381,2023-05-20T15:58:13.746Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.64,0.07,10,automatic,nc,nc
 2023-05-20T15:37:03.280Z,19.1463333333333,-155.363,27.99,1.47,md,28,227,,0.12,hv,hv73411777,2023-05-20T15:50:32.990Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.62,0.91,0.0323193297065911,11,reviewed,hv,hv
 2023-05-20T15:35:21.724Z,-34.0031,56.1322,10,4.8,mb,22,97,12.014,0.57,us,us6000kdgp,2023-05-20T17:09:35.040Z,"South Indian Ocean",earthquake,6.79,1.901,0.127,19,reviewed,us,us
-2023-05-20T15:25:56.900Z,19.390832901001,-155.136840820312,2.5,1.81,ml,8,148,,0.280000001,hv,hv73411762,2023-05-20T15:31:34.100Z,"8 km S of Fern Forest, Hawaii",earthquake,1.56,2.1099999,3.43,7,automatic,hv,hv
-2023-05-20T15:25:54.300Z,19.3255004882812,-155.123992919922,2.20000004768372,1.91,ml,41,120,,0.170000002,hv,hv73411757,2023-05-20T15:31:28.200Z,"15 km S of Fern Forest, Hawaii",earthquake,0.33,0.589999974,2.72,11,automatic,hv,hv
