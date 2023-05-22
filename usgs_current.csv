@@ -250,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T18:14:41.320Z,47.7578333333333,-113.729333333333,4.6,1.02,ml,18,87,0.2175,0.3,mb,mb90015013,2023-05-22T14:09:57.570Z,"20 km SSE of Swan Lake, Montana",earthquake,0.81,3.59,0.372718014927766,5,reviewed,mb,mb
 2023-05-21T18:08:39.490Z,19.4156,-65.7795,77,3.97,md,20,260,1.1475,0.37,pr,pr2023141000,2023-05-21T20:58:18.861Z,"109 km N of Suárez, Puerto Rico",earthquake,3.43,6.69,0.1,7,reviewed,pr,pr
 2023-05-21T18:05:17.420Z,17.9823333333333,-66.8446666666667,16.77,2.15,md,7,183,0.03371,0.13,pr,pr71410243,2023-05-21T19:11:22.180Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.59,0.9,0.0593063490544594,6,reviewed,pr,pr
-2023-05-21T17:56:31.326Z,36.7779,-117.3633,4.9,1,ml,13,222.9,0.218,0.2569,nn,nn00860014,2023-05-21T17:58:47.415Z,"Central California",earthquake,,3.6,0.94,8,automatic,nn,nn
-2023-05-21T17:51:57.746Z,37.2692,-117.5616,2.8,1.4,ml,21,211.42,0.076,0.3432,nn,nn00860012,2023-05-21T17:54:29.777Z,"54 km S of Silver Peak, Nevada",earthquake,,8,0.78,13,automatic,nn,nn
