@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-24T20:12:00.918Z,57.3817,-157.4193,6.4,2.7,ml,,,,1.17,ak,ak0236mhd7vf,2023-05-24T20:17:17.465Z,"14 km S of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-24T19:44:35.118Z,58.2225,-154.3975,38.3,1.6,ml,,,,1.02,ak,ak0236mgyptj,2023-05-24T19:47:06.351Z,"72 km N of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-24T19:43:16.270Z,33.4818333,-116.4398333,10.2,1.19,ml,33,70,0.04311,0.21,ci,ci40233071,2023-05-24T19:46:48.832Z,"23km ESE of Anza, CA",earthquake,0.27,0.46,0.168,27,automatic,ci,ci
+2023-05-24T19:38:49.311Z,39.3706,-99.0031,8.876,3.2,mb_lg,27,47,0.797,0.77,us,us7000k3l2,2023-05-24T20:22:28.040Z,"12 km SSW of Alton, Kansas",earthquake,2.5,7.271,0.043,141,reviewed,us,us
 2023-05-24T19:17:42.220Z,38.8380013,-122.8105011,1.64,0.27,md,6,152,0.01459,0.01,nc,nc73889520,2023-05-24T19:33:11.482Z,"8km WNW of Cobb, CA",earthquake,0.81,1.66,0.17,7,automatic,nc,nc
 2023-05-24T19:13:21.840Z,33.2388333,-117.1625,3.35,0.9,ml,19,101,0.05256,0.35,ci,ci40233047,2023-05-24T19:16:59.863Z,"9km ENE of Vista, CA",earthquake,0.79,0.84,0.131,13,automatic,ci,ci
 2023-05-24T19:11:52.260Z,33.9505,-116.6416667,11.71,2.25,ml,78,24,0.05492,0.2,ci,ci40233039,2023-05-24T19:23:21.000Z,"10km WNW of Garnet, CA",earthquake,0.17,0.51,0.176,26,automatic,ci,ci
@@ -147,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T02:33:55.890Z,17.7905,-66.8956666666667,6.23,2.5,md,7,270,0.1842,0.1,pr,pr71410688,2023-05-24T02:43:40.160Z,"20 km S of Guánica, Puerto Rico",earthquake,0.61,0.62,0.0248254614835899,3,reviewed,pr,pr
 2023-05-24T02:33:10.970Z,38.8230019,-122.8431702,2.18,0.73,md,17,74,0.00636,0.01,nc,nc73889255,2023-05-24T02:50:14.217Z,"9km NW of The Geysers, CA",earthquake,0.24,0.44,0.17,17,automatic,nc,nc
 2023-05-24T02:18:46.210Z,33.9515,-116.7906667,10.16,1.97,ml,79,21,0.03805,0.14,ci,ci40232663,2023-05-24T15:32:34.650Z,"4km N of Cabazon, CA",earthquake,0.11,0.23,0.149,61,reviewed,ci,ci
-2023-05-24T02:15:43.010Z,40.236,-121.1653333,6.01,2.9,md,36,39,0.01922,0.15,nc,nc73889245,2023-05-24T18:54:17.362Z,"2km NNE of Almanor, CA",earthquake,0.3,0.41,0.151,63,reviewed,nc,nc
+2023-05-24T02:15:43.010Z,40.236,-121.1653333,6.01,2.9,md,36,39,0.01922,0.15,nc,nc73889245,2023-05-24T20:13:16.726Z,"2km NNE of Almanor, CA",earthquake,0.3,0.41,0.151,63,reviewed,nc,nc
 2023-05-24T01:49:06.270Z,38.8173332,-122.8221664,2.14,0.94,md,21,50,0.01007,0.02,nc,nc73889240,2023-05-24T02:05:17.964Z,"7km NW of The Geysers, CA",earthquake,0.2,0.56,0.23,21,automatic,nc,nc
 2023-05-24T01:48:26.501Z,-40.872,42.7236,10,4.7,mb,22,89,19.486,0.77,us,us7000k3ds,2023-05-24T02:03:42.040Z,"Southwest Indian Ridge",earthquake,8.89,1.842,0.13,18,reviewed,us,us
 2023-05-24T01:48:11.530Z,34.235,-117.6365,4.54,1.25,ml,40,74,0.01865,0.15,ci,ci40232639,2023-05-24T14:28:24.612Z,"13km WSW of Lytle Creek, CA",earthquake,0.21,0.28,0.127,24,reviewed,ci,ci
@@ -201,6 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T20:28:15.120Z,38.8253333,-122.8523333,2.2,2.01,md,55,52,0.004177,0.04,nc,nc73889160,2023-05-24T00:48:15.510Z,"10km WNW of The Geysers, CA",earthquake,0.13,0.2,0.177,44,reviewed,nc,nc
 2023-05-23T20:28:06.790Z,51.8278333333333,-178.120333333333,3.31,0.18,ml,4,242,,0.24,av,av91770382,2023-05-23T22:15:35.330Z,"102 km W of Adak, Alaska",earthquake,1.5,1.46,0.27661173328731,4,reviewed,av,av
 2023-05-23T20:26:50.250Z,52.0945,-176.211,11.61,-0.02,ml,4,290,,0.18,av,av91770377,2023-05-23T22:17:16.650Z,"38 km NE of Adak, Alaska",earthquake,1.16,1.24,0.252426321160401,4,reviewed,av,av
-2023-05-23T20:22:37.990Z,44.2241667,-110.778,1.9,0.89,md,11,91,0.05055,0.19,uu,uu60540761,2023-05-23T21:38:19.020Z,"45 km ENE of Warm River, Idaho",earthquake,0.63,4.19,0.224,5,reviewed,uu,uu
-2023-05-23T20:17:39.362Z,65.2587,-148.8855,9,1.5,ml,,,,0.55,ak,ak0236ktv0xc,2023-05-24T04:06:04.942Z,"24 km ENE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-23T20:14:12.837Z,31.62799362,-104.5136667,6.131567383,1.9,ml,18,76,0.04213659935,0.3,tx,tx2023kazn,2023-05-23T21:10:35.694Z,"62 km SSW of Whites City, New Mexico",earthquake,1.648886469,0.7241551719,0.2,12,reviewed,tx,tx
