@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-25T06:12:06.828Z,58.7574,-154.5671,250,1.9,ml,,,,0.88,ak,ak0236nwkicq,2023-05-25T06:14:53.147Z,"Alaska Peninsula",earthquake,,9.8,,,automatic,ak,ak
 2023-05-25T06:09:40.352Z,62.2248,-149.7792,19.9,1.1,ml,,,,0.36,ak,ak0236nwjxsj,2023-05-25T06:11:49.982Z,"7 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-25T06:03:58.105Z,56.4078,-149.0852,10,3.4,ml,63,177,2.355,0.6,us,us7000k3p1,2023-05-25T06:20:51.040Z,"235 km SE of Chiniak, Alaska",earthquake,7.66,2,0.044,69,reviewed,us,us
 2023-05-25T06:00:14.267Z,64.7257,-147.3961,20.3,0.5,ml,,,,0.85,ak,ak0236nwhyc2,2023-05-25T06:02:29.188Z,"3 km SW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-25T05:54:34.070Z,32.4215,-115.1573333,10.62,1.95,ml,17,57,0.1249,0.3,ci,ci40233255,2023-05-25T05:58:09.948Z,"8km NNE of Delta, B.C., MX",earthquake,0.7,1.54,0.134,17,automatic,ci,ci
 2023-05-25T05:46:09.280Z,38.8146667,-122.7971649,1.84,1.1,md,24,37,0.006845,0.02,nc,nc73889655,2023-05-25T06:03:15.312Z,"6km NW of The Geysers, CA",earthquake,0.2,0.38,0.13,24,automatic,nc,nc
@@ -262,6 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T06:37:21.387Z,60.8494,-138.0308,8.291,2.9,ml,28,103,0.257,0.59,us,us7000k3eq,2023-05-24T07:07:44.040Z,"162 km W of Whitehorse, Canada",earthquake,3.4,6.303,0.047,60,reviewed,us,us
 2023-05-24T06:30:23.507Z,61.8277,-147.9022,14.6,2.2,ml,,,,0.41,ak,ak0236m9521a,2023-05-24T15:22:16.404Z,"13 km W of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-24T06:29:56.100Z,58.187,-155.272166666667,2.35,0.67,ml,11,56,,0.05,av,av91770652,2023-05-24T22:37:47.100Z,"Alaska Peninsula",earthquake,0.16,0.4,0.363969641738904,11,reviewed,av,av
-2023-05-24T06:22:25.140Z,38.8261681,-122.8521652,1.82,0.89,md,17,89,0.003926,0.02,nc,nc73889285,2023-05-24T07:42:16.024Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.47,0.19,18,automatic,nc,nc
-2023-05-24T06:21:12.610Z,53.8656666666667,-166.779833333333,6.07,0.08,ml,6,116,,0.08,av,av91770637,2023-05-24T22:40:17.910Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.37,0.78,0.296868448460902,6,reviewed,av,av
-2023-05-24T06:13:48.230Z,58.1918333333333,-155.364,2.1,-0.38,ml,6,220,,0.04,av,av91770627,2023-05-24T22:27:06.200Z,"87 km NW of Karluk, Alaska",earthquake,0.65,0.39,0.249822391655315,6,reviewed,av,av
