@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-25T11:47:11.650Z,58.2487,-155.1027,1.1,0.5,ml,,,,0.09,ak,ak0236nzr6t9,2023-05-25T11:49:11.224Z,"84 km NNW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-05-25T11:41:19.575Z,37.2923,-117.5998,2.1,1.4,ml,23,111.85,0.07,0.3435,nn,nn00860281,2023-05-25T11:43:52.523Z,"51 km S of Silver Peak, Nevada",earthquake,,2.4,0.78,13,automatic,nn,nn
 2023-05-25T11:06:49.410Z,33.2581667,-115.9946667,4.23,1.31,ml,35,70,0.08563,0.24,ci,ci40233287,2023-05-25T11:10:22.102Z,"6km SW of Salton City, CA",earthquake,0.33,1.48,0.175,29,automatic,ci,ci
 2023-05-25T10:43:10.980Z,38.7823334,-122.7580032,1.64,1.08,md,13,65,0.01308,0.02,nc,nc73889695,2023-05-25T11:36:13.242Z,"1km NNW of The Geysers, CA",earthquake,0.27,0.5,0.18,13,automatic,nc,nc
@@ -57,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T03:14:57.757Z,8.8985,-77.1197,10,4.9,mb,32,76,2.156,0.65,us,us7000k3n8,2023-05-25T03:47:25.040Z,"41 km NE of Puerto Obaldía, Panama",earthquake,5.69,1.931,0.095,35,reviewed,us,us
 2023-05-25T03:12:33.200Z,33.4465,-116.5671667,11.41,0.87,ml,29,79,0.05629,0.13,ci,ci40233223,2023-05-25T03:16:08.830Z,"16km SE of Anza, CA",earthquake,0.2,0.45,0.164,24,automatic,ci,ci
 2023-05-25T03:07:14.801Z,65.6256,-149.0978,0,1.1,ml,,,,0.47,ak,ak0236nur5ke,2023-05-25T03:09:31.203Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-25T03:05:33.394Z,8.8894,-77.1231,10,6.6,mww,50,129,2.163,0.91,us,us7000k3n3,2023-05-25T11:32:19.546Z,"Panama-Colombia border region",earthquake,9.44,1.93,0.036,74,reviewed,us,us
+2023-05-25T03:05:33.394Z,8.8894,-77.1231,10,6.6,mww,50,129,2.163,0.91,us,us7000k3n3,2023-05-25T11:55:20.302Z,"Panama-Colombia border region",earthquake,9.44,1.93,0.036,74,reviewed,us,us
 2023-05-25T03:02:13.050Z,34.7363333,-120.1576667,2.14,1.83,ml,21,65,0.1007,0.21,ci,ci40233215,2023-05-25T03:13:28.400Z,"9km NNW of Los Olivos, CA",earthquake,0.34,0.62,0.153,24,automatic,ci,ci
 2023-05-25T03:00:14.249Z,58.1885,-155.2811,0,0.3,ml,,,,0.19,ak,ak0236nupnio,2023-05-25T03:02:10.239Z,"84 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-25T02:58:47.750Z,33.0306667,-115.991,5.08,1.32,ml,26,54,0.1429,0.24,ci,ci40233207,2023-05-25T03:09:20.630Z,"18km SE of Ocotillo Wells, CA",earthquake,0.39,1.31,0.188,27,automatic,ci,ci
@@ -222,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T12:24:45.180Z,58.1741666666667,-155.3625,1.71,0.67,ml,11,79,,0.08,av,av91099883,2023-05-25T00:29:57.730Z,"86 km NW of Karluk, Alaska",earthquake,0.19,0.57,0.186175057542814,11,reviewed,av,av
 2023-05-24T12:24:01.260Z,58.1732,-155.3994,0,1.2,ml,,,,0.95,ak,ak0236mcobni,2023-05-25T00:34:31.650Z,"87 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-24T12:15:33.059Z,58.1819,-155.3627,1.2,0.5,ml,,,,0.25,ak,ak0236mcmgon,2023-05-25T00:00:46.470Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
-2023-05-24T11:52:29.560Z,38.8380013,-122.8396683,1.83,0.68,md,11,155,0.003318,0.01,nc,nc73889395,2023-05-24T13:26:12.122Z,"10km NW of The Geysers, CA",earthquake,0.36,0.62,0.08,11,automatic,nc,nc
