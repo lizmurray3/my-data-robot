@@ -1,8 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-26T02:47:00.470Z,38.8069992,-122.814003,2.92,0.76,md,16,59,0.012,0.02,nc,nc73889995,2023-05-26T02:48:37.738Z,"6km WNW of The Geysers, CA",earthquake,0.28,0.58,0.36,18,automatic,nc,nc
+2023-05-26T02:45:38.040Z,38.8076668,-122.8151703,3.48,1.21,md,26,59,0.01101,0.02,nc,nc73889990,2023-05-26T02:47:12.875Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.42,0.21,28,automatic,nc,nc
+2023-05-26T02:43:49.810Z,38.8068352,-122.8143311,3.14,1.08,md,18,60,0.01178,0.03,nc,nc73889985,2023-05-26T02:45:28.148Z,"6km WNW of The Geysers, CA",earthquake,0.29,0.6,0.3,21,automatic,nc,nc
+2023-05-26T02:42:19.872Z,62.96,-148.7227,59.1,2.4,ml,,,,0.64,ak,ak0236phwkvk,2023-05-26T02:44:01.659Z,"49 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-26T02:34:48.228Z,38.0206,73.247,10.307,4.3,mb,16,122,1.843,0.74,us,us7000k453,2023-05-26T02:47:02.040Z,"65 km WSW of Murghob, Tajikistan",earthquake,7.61,3.904,0.177,9,reviewed,us,us
 2023-05-26T02:34:41.998Z,59.6199,-151.6986,44.3,2.2,ml,,,,0.44,ak,ak0236phuww7,2023-05-26T02:36:05.002Z,"8 km WSW of Homer, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-26T02:29:51.029Z,58.5979,-156.1832,179.4,1.4,ml,,,,0.1,ak,ak0236phtv0e,2023-05-26T02:31:33.355Z,"29 km ESE of King Salmon, Alaska",earthquake,,12.2,,,automatic,ak,ak
 2023-05-26T02:28:33.027Z,62.0489,-149.6957,41.5,1.4,ml,,,,0.45,ak,ak0236phtlwm,2023-05-26T02:30:41.992Z,"14 km SSE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-05-26T02:17:59.421Z,61.7125,-150.8599,55.7,4.1,ml,,,,0.46,ak,ak0236phrb1h,2023-05-26T02:39:38.868Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-05-26T02:17:59.421Z,61.7125,-150.8599,55.7,4.1,ml,,,,0.46,ak,ak0236phrb1h,2023-05-26T02:47:24.767Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-05-26T02:14:37.926Z,58.4129,-154.6895,16.7,1.4,ml,,,,1.19,ak,ak0236phqm9c,2023-05-26T02:40:37.181Z,"95 km N of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-26T02:08:02.250Z,38.8221664,-122.8535004,1.72,0.74,md,9,131,0.01446,0.03,nc,nc73889975,2023-05-26T02:31:12.183Z,"10km WNW of The Geysers, CA",earthquake,0.41,0.75,0.22,11,automatic,nc,nc
 2023-05-26T02:08:00.096Z,-6.1506,149.9912,41.309,5.2,mww,44,87,4.281,0.89,us,us7000k44x,2023-05-26T02:24:39.040Z,"New Britain region, Papua New Guinea",earthquake,11.14,7.721,0.098,10,reviewed,us,us
