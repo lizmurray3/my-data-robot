@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T23:05:30.260Z,64.2718,-149.926,8.5,2.2,ml,,,,0.82,ak,ak0236rhq4f6,2023-05-27T23:07:30.664Z,"35 km W of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-27T23:00:47.096Z,58.264,-155.1521,1.2,0.5,ml,,,,0.35,ak,ak0236rhp351,2023-05-27T23:01:46.431Z,"87 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-05-27T22:53:52.640Z,19.2649993896484,-155.369827270508,30.8899993896484,1.95,ml,40,155,,0.150000006,hv,hv73425177,2023-05-27T22:59:24.310Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.51,0.709999979,0.55,8,automatic,hv,hv
+2023-05-27T22:53:30.548Z,37.2945,-117.5934,1,1.3,ml,14,109.13,0.074,0.2656,nn,nn00860424,2023-05-27T22:56:01.910Z,"51 km S of Silver Peak, Nevada",earthquake,,13.4,0.86,11,automatic,nn,nn
 2023-05-27T22:49:02.720Z,34.5164986,-118.8454971,9.82,1.51,ml,23,40,0.06958,0.23,ci,ci40235591,2023-05-27T22:52:30.912Z,"12km NNW of Piru, CA",earthquake,0.4,0.96,0.2,4,automatic,ci,ci
 2023-05-27T22:47:16.378Z,58.1912,-155.3914,1.1,1.9,ml,,,,0.82,ak,ak0236rhdnth,2023-05-27T22:49:32.121Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-27T22:45:53.299Z,58.2499,-155.1457,1.3,1.6,ml,,,,0.1,ak,ak0236rhdb8h,2023-05-27T22:46:43.877Z,"86 km NNW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-05-27T22:41:46.880Z,38.8676682,-122.973999,6.93,0.28,md,8,190,0.07657,0.05,nc,nc73890745,2023-05-27T22:54:11.198Z,"8km NNE of Cloverdale, CA",earthquake,2.21,1.73,0.08,4,automatic,nc,nc
-2023-05-27T22:24:32.630Z,36.6931648,-121.3563309,1.01,2.16,md,28,53,0.01631,0.18,nc,nc73890735,2023-05-27T22:31:15.056Z,"11km SSW of Tres Pinos, CA",earthquake,0.33,0.79,0.14,26,automatic,nc,nc
+2023-05-27T22:41:46.880Z,38.8676682,-122.973999,6.93,0.28,md,8,190,0.07657,0.05,nc,nc73890745,2023-05-27T22:58:14.223Z,"8km NNE of Cloverdale, CA",earthquake,2.21,1.73,0.08,4,automatic,nc,nc
+2023-05-27T22:24:32.630Z,36.6931648,-121.3563309,1.01,2.16,md,28,53,0.01631,0.18,nc,nc73890735,2023-05-27T23:03:15.250Z,"11km SSW of Tres Pinos, CA",earthquake,0.33,0.79,0.14,26,automatic,nc,nc
 2023-05-27T22:21:20.656Z,36.4818,-116.6207,2.9,1.4,ml,20,169.71,0.098,0.1534,nn,nn00860422,2023-05-27T22:23:21.021Z,"21 km E of Furnace Creek, California",earthquake,,1.2,0.8,15,automatic,nn,nn
 2023-05-27T22:15:33.009Z,61.4667,-148.4735,32,1.6,ml,,,,0.47,ak,ak0236rh6u6s,2023-05-27T22:17:13.426Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-05-27T22:15:07.407Z,35.80385208,-96.65880585,1.948899627,1.75,ml,26,46.21245718,0.1360961199,0.4898172163,ok,ok2023kilm,2023-05-27T22:18:20.998Z,"6 km N of Stroud, Oklahoma",earthquake,2.263838889,1.903692756,0.29,9,automatic,ok,ok
@@ -200,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T23:26:30.290Z,36.7608337,-121.1708298,8.57,2.16,md,27,75,0.09003,0.13,nc,nc73890370,2023-05-27T00:47:19.345Z,"14km ESE of Tres Pinos, CA",earthquake,0.4,0.76,0.13,23,automatic,nc,nc
 2023-05-26T23:23:51.687Z,52.4751,-170.8533,65.5,2.9,ml,,,,0.71,ak,ak0236puasdy,2023-05-27T02:51:03.460Z,"144 km WSW of Nikolski, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-05-26T23:13:11.790Z,19.2668342590332,-155.404495239258,30.4200000762939,2.09,ml,46,122,,0.109999999,hv,hv73423347,2023-05-26T23:18:43.360Z,"10 km NE of Pāhala, Hawaii",earthquake,0.5,0.889999986,2.68,11,automatic,hv,hv
-2023-05-26T23:02:01.030Z,35.405,-118.1053333,8.85,1.31,ml,27,56,0.1344,0.14,ci,ci40234591,2023-05-27T00:20:00.700Z,"33km NNW of California City, CA",earthquake,0.19,0.77,0.15,19,reviewed,ci,ci
-2023-05-26T22:57:44.870Z,37.6473351,-119.0491638,0.14,1.63,md,14,209,0.01649,0.04,nc,nc73890365,2023-05-27T00:31:17.241Z,"6km W of Mammoth Lakes, CA",earthquake,0.45,0.64,0.13,13,automatic,nc,nc
