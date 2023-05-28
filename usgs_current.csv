@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T05:52:47.559Z,8.4483,126.5777,79.752,4.5,mb,39,125,1.69,0.93,us,us7000k4ex,2023-05-27T06:10:13.040Z,"Mindanao, Philippines",earthquake,11.16,8.454,0.102,28,reviewed,us,us
 2023-05-27T05:41:25.562Z,65.3533,-144.802,0.8,1.4,ml,,,,0.77,ak,ak0236r780y4,2023-05-27T05:43:40.862Z,"24 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-27T05:24:48.460Z,19.536,-66.2878,28,3.89,md,20,245,1.0861,0.4,pr,pr2023147002,2023-05-27T06:12:49.223Z,"118 km N of Brenas, Puerto Rico",earthquake,1.62,25.23,0.06,9,reviewed,pr,pr
-2023-05-27T05:06:38.936Z,-24.1886,179.6882,534.868,4.4,mb,13,123,5.487,0.57,us,us7000k4es,2023-05-27T05:31:28.040Z,"south of the Fiji Islands",earthquake,19.14,14.592,0.169,10,reviewed,us,us
-2023-05-27T05:03:42.290Z,32.0978333,-115.1261667,4.39,2.31,ml,14,148,0.1392,0.2,ci,ci40234831,2023-05-27T05:07:25.621Z,"15km SSE of Alberto Oviedo Mota, B.C., MX",earthquake,0.56,1.63,0.278,17,automatic,ci,ci
