@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-29T11:24:19.517Z,37.3202,-117.5389,1.8,1.2,ml,15,135.17,0.122,0.2144,nn,nn00860471,2023-05-29T11:26:48.585Z,"48 km S of Silver Peak, Nevada",earthquake,,19,0.81,9,automatic,nn,nn
 2023-05-29T11:16:40.818Z,58.2066,-155.2682,33,0.3,ml,,,,1.11,ak,ak0236ulpzu9,2023-05-29T11:18:20.837Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-05-29T11:05:12.618Z,58.1718,-155.2785,0,0.9,ml,,,,0.83,ak,ak0236ulnksd,2023-05-29T11:06:55.337Z,"83 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-29T11:01:44.140Z,38.7948341,-122.7695007,2.4,0.92,md,10,99,0.009589,0.01,nc,nc73891300,2023-05-29T11:13:10.377Z,"2km NNW of The Geysers, CA",earthquake,0.38,0.81,0.17,10,automatic,nc,nc
 2023-05-29T10:51:48.920Z,33.4708333,-116.8706667,11.89,0.27,ml,15,75,0.06128,0.18,ci,ci40236679,2023-05-29T10:55:21.562Z,"3km N of Aguanga, CA",earthquake,0.38,0.82,0.048,8,automatic,ci,ci
-2023-05-29T10:44:53.110Z,37.4860001,-118.838501,5.64,1.98,md,17,137,0.1041,0.03,nc,nc73891295,2023-05-29T10:58:10.152Z,"16km WSW of Toms Place, CA",earthquake,0.78,1.25,0.17,18,automatic,nc,nc
+2023-05-29T10:44:53.110Z,37.4860001,-118.838501,5.64,1.98,md,17,137,0.1041,0.03,nc,nc73891295,2023-05-29T11:29:14.332Z,"16km WSW of Toms Place, CA",earthquake,0.78,1.25,0.17,18,automatic,nc,nc
 2023-05-29T10:36:19.670Z,38.7886658,-122.7689972,2.53,1.05,md,15,102,0.01397,0.03,nc,nc73891285,2023-05-29T11:08:11.201Z,"2km NW of The Geysers, CA",earthquake,0.29,0.59,0.11,18,automatic,nc,nc
 2023-05-29T10:34:00.970Z,19.1753330230713,-155.491165161133,31.6499996185303,1.99,ml,50,87,,0.100000001,hv,hv73428247,2023-05-29T10:39:33.250Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.51,0.74000001,4,5,automatic,hv,hv
 2023-05-29T10:31:35.300Z,38.8395004,-122.8111649,1.91,0.72,md,11,92,0.0161,0.01,nc,nc73891280,2023-05-29T10:57:14.151Z,"8km WNW of Cobb, CA",earthquake,0.37,0.85,0.15,11,automatic,nc,nc
@@ -105,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T00:31:10.350Z,37.0081673,-121.456665,5.2,2.11,md,38,62,0.02815,0.13,nc,nc73891090,2023-05-29T01:54:16.968Z,"10km E of Gilroy, CA",earthquake,0.24,0.73,0.15,39,automatic,nc,nc
 2023-05-29T00:28:46.386Z,61.4193,-151.4329,67.8,1.7,ml,,,,0.28,ak,ak0236uf8t7i,2023-05-29T00:30:17.304Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-29T00:25:59.200Z,33.4431667,-116.6353333,3.91,0.59,ml,25,99,0.05838,0.21,ci,ci40236423,2023-05-29T00:29:41.969Z,"13km SSE of Anza, CA",earthquake,0.29,0.65,0.107,17,automatic,ci,ci
-2023-05-29T00:15:24.261Z,59.3601,-152.7489,72.4,2.1,ml,,,,0.31,ak,ak0236uf5z6y,2023-05-29T00:17:54.446Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-29T00:15:24.261Z,59.3601,-152.7489,72.4,2.1,ml,,,,0.31,ak,ak0236uf5z6y,2023-05-29T00:17:54.446Z,"47 km W of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-29T00:12:08.510Z,38.8306656,-122.8164978,1.76,1.36,md,24,46,0.008825,0.02,nc,nc73891075,2023-05-29T01:39:15.877Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.16,26,automatic,nc,nc
 2023-05-29T00:04:38.706Z,64.7417,-147.3222,0,1.2,ml,,,,0.91,ak,ak0236uf3nfi,2023-05-29T00:06:31.399Z,"1 km SE of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-29T00:02:53.027Z,7.0417,-76.1407,70.346,4.3,mb,21,118,2.835,0.35,us,us7000k4pl,2023-05-29T03:54:42.040Z,"northern Colombia",earthquake,8.04,12.321,0.178,9,reviewed,us,us
@@ -183,7 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T14:36:14.970Z,38.8356667,-122.81633,1.2,0.75,md,13,68,0.01319,0.03,nc,nc73890940,2023-05-28T15:10:15.157Z,"8km W of Cobb, CA",earthquake,0.26,0.69,0.17,14,automatic,nc,nc
 2023-05-28T14:08:33.540Z,33.448,-116.6223333,5.79,0.44,ml,15,88,0.04952,0.25,ci,ci40236023,2023-05-28T14:12:09.516Z,"13km SSE of Anza, CA",earthquake,0.53,1.29,0.237,9,automatic,ci,ci
 2023-05-28T13:53:39.390Z,35.6495,-117.572,1.22,0.44,ml,9,126,0.1218,0.12,ci,ci40236007,2023-05-28T13:57:21.186Z,"10km ENE of Ridgecrest, CA",earthquake,0.43,0.58,0.106,3,automatic,ci,ci
-2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-29T11:22:18.701Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
+2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-29T11:29:14.309Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
 2023-05-28T13:40:31.060Z,38.8185005,-122.8223343,2.3,0.77,md,17,52,0.01075,0.02,nc,nc73890935,2023-05-28T14:14:13.834Z,"7km NW of The Geysers, CA",earthquake,0.28,0.66,0.17,17,automatic,nc,nc
 2023-05-28T13:33:57.622Z,58.1779,-155.251,0.2,0.8,ml,,,,0.88,ak,ak0236szh6zv,2023-05-28T13:39:32.394Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-05-28T13:30:01.478Z,-5.8395,148.0491,112.278,4.4,mb,18,116,3.65,0.93,us,us7000k4mc,2023-05-28T16:19:59.040Z,"82 km NNE of Finschhafen, Papua New Guinea",earthquake,6.76,11.634,0.144,14,reviewed,us,us
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T11:46:39.720Z,31.65996641,-104.2572505,6.388647461,2.7,ml,23,66,0.120367438,0.3,tx,tx2023kjmh,2023-05-28T12:19:55.414Z,"58 km S of Whites City, New Mexico",earthquake,1.112222208,1.3669732299999997,0.2,18,reviewed,tx,tx
 2023-05-28T11:38:28.284Z,37.2778,-117.5805,0,0.5,ml,11,105.12,0.069,0.4125,nn,nn00860443,2023-05-28T11:40:50.896Z,"53 km S of Silver Peak, Nevada",earthquake,,8.5,0.98,6,automatic,nn,nn
 2023-05-28T11:37:08.574Z,64.7692,-149.2368,16.5,1.1,ml,,,,0.49,ak,ak0236syb2w9,2023-05-28T11:39:16.798Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-28T11:30:58.084Z,62.9862,-149.7598,74.8,3.8,ml,,,,0.67,ak,ak0236sy9ooj,2023-05-28T23:16:26.775Z,"Central Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2023-05-28T11:29:58.160Z,19.4724998474121,-155.453002929688,3.47000002861023,1.82,ml,44,60,,0.189999998,hv,hv73426307,2023-05-28T11:35:29.030Z,"23 km W of Volcano, Hawaii",earthquake,0.36,1.02999997,0.64,8,automatic,hv,hv
