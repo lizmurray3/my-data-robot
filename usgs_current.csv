@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-30T10:30:27.559Z,37.3652,-117.6334,0.8,1.2,ml,13,273.79,0.133,0.2591,nn,nn00860511,2023-05-30T10:32:53.358Z,"Nevada",earthquake,,19,0.74,8,automatic,nn,nn
-2023-05-30T10:21:59.240Z,38.8223343,-122.8088303,3,0.54,md,8,112,0.001437,0.02,nc,nc73891600,2023-05-30T10:33:10.170Z,"7km NW of The Geysers, CA",earthquake,0.73,1.49,0.25,8,automatic,nc,nc
+2023-05-30T10:21:59.240Z,38.8223343,-122.8088303,3,0.54,md,8,112,0.001437,0.02,nc,nc73891600,2023-05-30T10:38:13.200Z,"7km NW of The Geysers, CA",earthquake,0.73,1.49,0.25,8,automatic,nc,nc
 2023-05-30T10:16:55.800Z,37.2913,-117.5768,1.7,1.6,ml,24,131.36,0.08,0.2284,nn,nn00860509,2023-05-30T10:19:33.909Z,"51 km S of Silver Peak, Nevada",earthquake,,7.6,0.78,18,automatic,nn,nn
 2023-05-30T10:12:58.692Z,37.2912,-117.5881,4.1,1.3,ml,22,104.93,0.074,0.2249,nn,nn00860507,2023-05-30T10:15:34.613Z,"51 km S of Silver Peak, Nevada",earthquake,,2,0.89,17,automatic,nn,nn
 2023-05-30T10:06:35.392Z,60.0315,-151.8023,16.6,0.4,ml,,,,0.95,ak,ak0236w8lr5f,2023-05-30T10:20:13.027Z,"7 km WSW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -80,6 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T01:49:18.080Z,36.2621650695801,-89.4540023803711,3.52999997138977,2.32999992,md,36,47,0.04648,0.239999995,nm,nm60527016,2023-05-30T03:44:22.511Z,"3 km E of Ridgely, Tennessee",earthquake,0.35,0.670000017,1.28999996,34,reviewed,nm,nm
 2023-05-30T01:44:08.570Z,19.405834197998,-155.289001464844,0.569999992847443,1.94,ml,19,50,,0.100000001,hv,hv73429347,2023-05-30T01:49:39.620Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.180000007,0.25,11,automatic,hv,hv
 2023-05-30T01:24:08.240Z,38.8209991,-122.7785034,0.99,0.75,md,9,111,0.007914,0.02,nc,nc73891485,2023-05-30T02:30:13.226Z,"5km W of Cobb, CA",earthquake,0.44,0.56,0.07,10,automatic,nc,nc
+2023-05-30T01:09:06.070Z,37.4916667,-118.9925,3.88,0.69,md,8,236,0.1213,0.05,nc,nc73891480,2023-05-30T10:44:20.360Z,"16km S of Mammoth Lakes, CA",earthquake,1.01,2.1,0.091,7,reviewed,nc,nc
 2023-05-30T01:04:31.886Z,13.3526,120.8056,85.433,4.7,mb,78,105,9.896,0.65,us,us7000k4w2,2023-05-30T03:43:23.040Z,"13 km SE of Abra de Ilog, Philippines",earthquake,9.52,7.219,0.06,85,reviewed,us,us
 2023-05-30T01:04:04.140Z,38.8048325,-122.7809982,1.4,0.81,md,9,142,0.008418,0.01,nc,nc73891470,2023-05-30T02:03:14.073Z,"4km NW of The Geysers, CA",earthquake,0.38,0.62,0.34,9,automatic,nc,nc
 2023-05-30T01:03:18.550Z,17.914,-66.9586666666667,13.88,2.27,md,5,252,0.09696,0.1,pr,pr71411733,2023-05-30T01:33:12.770Z,"Puerto Rico region",earthquake,1.17,0.78,0.0756801739679545,3,reviewed,pr,pr
@@ -182,7 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T11:01:44.140Z,38.7948341,-122.7695007,2.4,0.92,md,10,99,0.009589,0.01,nc,nc73891300,2023-05-29T11:13:10.377Z,"2km NNW of The Geysers, CA",earthquake,0.38,0.81,0.17,10,automatic,nc,nc
 2023-05-29T10:59:30.852Z,59.7407,-152.382,81.8,1.2,ml,,,,0.31,ak,ak0236uldqsb,2023-05-29T18:56:23.452Z,"31 km W of Anchor Point, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-05-29T10:51:48.920Z,33.4708333,-116.8706667,11.89,0.27,ml,15,75,0.06128,0.18,ci,ci40236679,2023-05-29T10:55:21.562Z,"3km N of Aguanga, CA",earthquake,0.38,0.82,0.048,8,automatic,ci,ci
-2023-05-29T10:44:52.980Z,37.4781667,-118.8395,5.38,2.02,md,21,170,0.112,0.05,nc,nc73891295,2023-05-29T22:51:12.854Z,"17km WSW of Toms Place, CA",earthquake,0.51,1.27,0.178,21,reviewed,nc,nc
-2023-05-29T10:42:27.450Z,61.7387,-150.8097,58,1.1,ml,,,,0.28,ak,ak0236ula1zt,2023-05-29T18:53:27.283Z,"26 km NW of Susitna, Alaska",earthquake,,1.3,,,reviewed,ak,ak
-2023-05-29T10:37:06.430Z,37.4925,-118.8343333,5.96,1.04,md,16,253,0.09744,0.03,nc,nc73891290,2023-05-29T22:09:13.601Z,"16km WSW of Toms Place, CA",earthquake,0.97,0.87,0.122,14,reviewed,nc,nc
-2023-05-29T10:36:19.670Z,38.7886658,-122.7689972,2.53,1.05,md,15,102,0.01397,0.03,nc,nc73891285,2023-05-29T11:08:11.201Z,"2km NW of The Geysers, CA",earthquake,0.29,0.59,0.11,18,automatic,nc,nc
