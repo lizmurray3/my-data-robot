@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-31T16:33:43.770Z,33.3895,-116.8955,14.7,1.29,ml,43,26,0.04513,0.23,ci,ci40238999,2023-05-31T16:37:28.213Z,"5km NW of Palomar Observatory, CA",earthquake,0.26,0.58,0.178,26,automatic,ci,ci
-2023-05-31T16:30:16.200Z,38.833168,-122.8153305,1.51,0.65,md,11,72,0.01059,0.03,nc,nc73892100,2023-05-31T16:31:53.368Z,"8km NW of The Geysers, CA",earthquake,0.3,0.79,0.42,10,automatic,nc,nc
+2023-05-31T16:33:43.770Z,33.3895,-116.8955,14.7,1.29,ml,43,26,0.04513,0.23,ci,ci40238999,2023-05-31T16:45:01.300Z,"5km NW of Palomar Observatory, CA",earthquake,0.26,0.58,0.178,26,automatic,ci,ci
+2023-05-31T16:30:16.200Z,38.833168,-122.8153305,1.51,0.65,md,11,72,0.01059,0.03,nc,nc73892100,2023-05-31T16:47:11.110Z,"8km NW of The Geysers, CA",earthquake,0.3,0.79,0.42,10,automatic,nc,nc
+2023-05-31T16:28:18.100Z,19.4041666666667,-155.281,0.41,0.58,md,16,38,,0.08,hv,hv73432422,2023-05-31T16:49:56.210Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.19,0.346289721158093,3,reviewed,hv,hv
 2023-05-31T16:28:00.090Z,33.688,-116.8068333,14.88,0.76,ml,26,83,0.06719,0.18,ci,ci40238983,2023-05-31T16:31:35.762Z,"10km SW of Idyllwild, CA",earthquake,0.35,0.49,0.182,15,automatic,ci,ci
 2023-05-31T16:21:51.120Z,19.1458339691162,-155.369827270508,28.4599990844727,1.79999995,md,43,182,,0.100000001,hv,hv73432407,2023-05-31T16:25:04.960Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.73,1.14999998,0.680000007,7,automatic,hv,hv
 2023-05-31T16:18:19.390Z,38.8256683,-122.8113327,1.25,1.16,md,16,59,0.002474,0.02,nc,nc73892095,2023-05-31T16:37:11.055Z,"7km NW of The Geysers, CA",earthquake,0.22,0.57,0.08,18,automatic,nc,nc
 2023-05-31T16:18:05.060Z,38.8274994,-122.8116684,1.07,0.49,md,8,85,0.004283,0.03,nc,nc73892090,2023-05-31T16:32:10.020Z,"7km NW of The Geysers, CA",earthquake,0.35,0.99,0.34,10,automatic,nc,nc
 2023-05-31T16:13:01.480Z,19.4038333333333,-155.282166666667,0.43,0.53,md,17,69,,0.06,hv,hv73432397,2023-05-31T16:34:56.920Z,"6 km SW of Volcano, Hawaii",earthquake,0.13,0.17,0.0556412698512875,2,reviewed,hv,hv
-2023-05-31T16:10:35.960Z,36.0175018,-120.5838318,1.67,0.97,md,12,111,0.03912,0.08,nc,nc73892085,2023-05-31T16:27:10.991Z,"19km NW of Parkfield, CA",earthquake,0.56,2.09,0.39,4,automatic,nc,nc
+2023-05-31T16:10:35.960Z,36.0175018,-120.5838318,1.67,0.97,md,12,111,0.03912,0.08,nc,nc73892085,2023-05-31T16:42:14.084Z,"19km NW of Parkfield, CA",earthquake,0.56,2.09,0.39,4,automatic,nc,nc
 2023-05-31T16:01:07.140Z,19.4113333333333,-155.275333333333,0.86,0.44,md,15,57,,0.08,hv,hv73432372,2023-05-31T16:39:02.740Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.23,0.127384530284994,2,reviewed,hv,hv
 2023-05-31T15:44:55.803Z,58.1833,-155.327,1.4,0.2,ml,,,,0.22,ak,ak0236xzcggc,2023-05-31T15:46:12.192Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-05-31T15:42:47.490Z,38.8263321,-122.8103333,1.36,1.07,md,20,61,0.01956,0.02,nc,nc73892080,2023-05-31T16:21:13.956Z,"7km NW of The Geysers, CA",earthquake,0.18,0.59,0.12,20,automatic,nc,nc
@@ -238,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T17:06:51.910Z,38.8441658,-122.7928314,-0.39,1.19,md,14,185,0.006068,0.09,nc,nc73891660,2023-05-30T18:32:11.128Z,"6km WNW of Cobb, CA",earthquake,0.42,0.57,0.14,16,automatic,nc,nc
 2023-05-30T17:05:10.348Z,37.4367,-115.5318,14.8,1.6,ml,22,133.75,0.269,0.1454,nn,nn00860520,2023-05-31T02:04:10.510Z,"29 km SE of Rachel, Nevada",earthquake,,2.3,0.22,13,reviewed,nn,nn
 2023-05-30T16:51:36.770Z,-20.6675,-70.6367,37.375,5.5,mww,92,111,0.617,1.36,us,us7000k51s,2023-05-31T15:01:50.641Z,"68 km SW of La Tirana, Chile",earthquake,4.69,5.624,0.083,14,reviewed,us,us
-2023-05-30T16:44:37.399Z,58.1769,-155.4031,0.1,1.5,ml,,,,0.51,ak,ak0236wcei57,2023-05-30T16:46:12.253Z,"88 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-30T16:41:09.823Z,63.4993,-149.2894,36.7,1.5,ml,,,,0.69,ak,ak0236wcdsva,2023-05-30T16:43:06.316Z,"20 km NW of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
