@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T11:11:04.920Z,19.1881675720215,-155.481338500977,31.3999996185303,1.83000004,md,38,89,,0.109999999,hv,hv73433852,2023-06-01T11:14:18.660Z,"1 km S of Pāhala, Hawaii",earthquake,0.48,0.75999999,0.910000026,3,automatic,hv,hv
 2023-06-01T10:21:14.840Z,33.953,-116.9368333,10.1,0.56,ml,15,67,0.1349,0.12,ci,ci40239663,2023-06-01T10:24:50.679Z,"4km NE of Beaumont, CA",earthquake,0.38,0.99,0.04,6,automatic,ci,ci
 2023-06-01T10:10:43.720Z,32.7185,-116.6196667,11.55,1.07,ml,17,107,0.05855,0.12,ci,ci40239655,2023-06-01T10:14:26.682Z,"14km SW of Pine Valley, CA",earthquake,0.28,0.56,0.254,8,automatic,ci,ci
 2023-06-01T10:07:32.771Z,61.3676,-150.1013,36.6,1.2,ml,,,,0.47,ak,ak0236zjonnh,2023-06-01T10:09:14.566Z,"6 km W of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -155,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T19:25:31.370Z,33.8206667,-117.5091667,0.44,1.25,ml,26,97,0.05352,0.28,ci,ci40239159,2023-05-31T19:29:18.965Z,"6km S of Home Gardens, CA",quarry blast,0.46,31.61,0.281,32,automatic,ci,ci
 2023-05-31T19:11:56.770Z,19.411,-155.319166666667,4.01,0.48,md,14,180,,0.06,hv,hv73432672,2023-05-31T21:34:52.510Z,"9 km WSW of Volcano, Hawaii",earthquake,0.36,0.39,0.0264835937826226,3,reviewed,hv,hv
 2023-05-31T19:11:38.604Z,57.3316,-155.6542,85.1,1.8,ml,,,,0.26,ak,ak0236y1j2x0,2023-05-31T19:13:56.816Z,"76 km WSW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-31T19:05:21.030Z,46.0135,-112.4595,-2,2.05,ml,18,62,0.066,0.13,mb,mb90016388,2023-06-01T04:12:41.930Z,"western Montana",quarry blast,0.35,31.61,0.193490837888611,21,reviewed,mb,mb
+2023-05-31T19:05:21.030Z,46.0135,-112.4595,-2,2.05,ml,18,62,0.066,0.13,mb,mb90016388,2023-06-01T04:12:41.930Z,"5 km E of Butte, Montana",quarry blast,0.35,31.61,0.193490837888611,21,reviewed,mb,mb
 2023-05-31T19:04:16.050Z,19.4018333333333,-155.289833333333,1.59,0.47,md,13,54,,0.09,hv,hv73432667,2023-05-31T19:17:11.140Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.26,0.160674142415906,2,reviewed,hv,hv
 2023-05-31T19:02:21.790Z,46.4948333333333,-112.017833333333,10.19,1.24,ml,13,98,0.09582,0.06,mb,mb90016568,2023-06-01T03:20:05.380Z,"4 km NW of Clancy, Montana",earthquake,0.37,0.76,0.064156939799429,7,reviewed,mb,mb
 2023-05-31T18:56:22.230Z,38.8253333,-122.8028333,2.7,1.53,md,51,31,0.005978,0.04,nc,nc73894791,2023-06-01T02:56:10.836Z,"7km NW of The Geysers, CA",earthquake,0.12,0.21,0.21,42,reviewed,nc,nc
@@ -266,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T11:55:29.640Z,19.208833694458,-155.386505126953,5.30000019073486,2.34,ml,9,245,,0.109999999,hv,hv73431902,2023-05-31T12:01:00.170Z,"9 km E of Pāhala, Hawaii",earthquake,2.15,5.30999994,0.6,8,automatic,hv,hv
 2023-05-31T11:52:15.580Z,19.2443332672119,-155.396331787109,31.8700008392334,1.78,ml,46,153,,0.129999995,hv,hv73431897,2023-05-31T11:57:48.720Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.46,0.74000001,5.16,3,automatic,hv,hv
 2023-05-31T11:20:13.509Z,25.1168,96.1871,10,5.8,mww,109,63,4.398,0.5,us,us7000k58h,2023-05-31T19:14:08.040Z,"125 km WSW of Myitkyina, Myanmar",earthquake,7.54,1.856,0.093,11,reviewed,us,us
-2023-05-31T11:10:08.010Z,33.6268333,-116.6955,15.75,0.95,ml,37,36,0.06611,0.15,ci,ci40238703,2023-05-31T13:13:54.770Z,"8km NNW of Anza, CA",earthquake,0.23,0.35,0.16,28,reviewed,ci,ci
