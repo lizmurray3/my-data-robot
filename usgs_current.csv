@@ -99,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T12:25:57.100Z,38.8231667,-122.855,2.3,0.36,md,21,94,0.00461,0.03,nc,nc73895046,2023-06-01T19:16:13.826Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.35,0.232,19,reviewed,nc,nc
 2023-06-01T12:19:52.130Z,33.0273333,-116.0031667,2.13,1.6,ml,36,30,0.143,0.25,ci,ci40239703,2023-06-01T12:23:27.618Z,"18km SE of Ocotillo Wells, CA",earthquake,0.27,0.69,0.181,26,automatic,ci,ci
 2023-06-01T12:13:02.320Z,37.4303333,-118.747,5.68,1.27,md,24,123,0.1391,0.05,nc,nc73895041,2023-06-01T22:53:11.151Z,"13km W of Round Valley, CA",earthquake,0.5,2.1,0.132,15,reviewed,nc,nc
-2023-06-01T12:07:52.990Z,38.7575,-122.7038333,1.59,1.95,md,65,38,0.01124,0.04,nc,nc73895036,2023-06-01T22:58:17.174Z,"2km SSW of Anderson Springs, CA",earthquake,0.11,0.13,0.163,69,reviewed,nc,nc
+2023-06-01T12:07:52.990Z,38.7575,-122.7038333,1.59,1.95,md,65,38,0.01124,0.04,nc,nc73895036,2023-06-01T23:20:10.293Z,"2km SSW of Anderson Springs, CA",earthquake,0.11,0.13,0.163,69,reviewed,nc,nc
 2023-06-01T12:04:54.080Z,64.8517,-147.304,10.8,1,ml,,,,0.39,ak,ak0236zkuxcw,2023-06-01T12:06:32.563Z,"11 km N of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-01T12:03:36.170Z,40.5033333,-124.4281667,18.71,2.3,md,21,232,0.07451,0.15,nc,nc73895031,2023-06-01T21:51:14.743Z,"16km WSW of Ferndale, CA",earthquake,0.79,0.42,0.361,21,reviewed,nc,nc
 2023-06-01T12:03:19.770Z,64.4979,-150.8393,0,1.3,ml,,,,1.54,ak,ak0236zkumzt,2023-06-01T12:05:05.374Z,"56 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T23:33:03.640Z,18.8915,-67.6578333333333,5.56,3.1,md,11,228,0.532,0.28,pr,pr71411908,2023-06-01T00:48:25.040Z,"73 km NW of San Antonio, Puerto Rico",earthquake,0.9,1.41,0.0919257732709342,11,reviewed,pr,pr
 2023-05-31T23:27:27.650Z,33.9516667,-116.64,16.63,2.35,ml,76,29,0.05391,0.18,ci,ci40239351,2023-05-31T23:38:08.730Z,"10km WNW of Garnet, CA",earthquake,0.16,0.42,0.254,26,automatic,ci,ci
 2023-05-31T23:27:26.494Z,58.1778,-155.2633,0.1,0.3,ml,,,,0.87,ak,ak0236y407tq,2023-05-31T23:29:58.556Z,"83 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-31T23:21:48.040Z,37.3351667,-122.2023333,8.16,1.27,md,16,75,0.02712,0.11,nc,nc73894846,2023-06-01T05:18:10.674Z,"6km SSE of Portola Valley, CA",earthquake,0.27,0.47,0.114,10,reviewed,nc,nc
-2023-05-31T23:19:07.760Z,33.3876667,-116.8888333,14.46,0.83,ml,36,37,0.04042,0.25,ci,ci40239343,2023-05-31T23:22:44.050Z,"4km NNW of Palomar Observatory, CA",earthquake,0.34,0.77,0.175,24,automatic,ci,ci
