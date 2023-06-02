@@ -1,13 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-02T19:40:44.350Z,33.7291667,-116.6655,4.52,0.71,ml,11,212,0.1514,0.34,ci,ci40476264,2023-06-02T19:44:18.967Z,"5km ESE of Idyllwild, CA",earthquake,2.78,31.61,0.2,6,automatic,ci,ci
 2023-06-02T19:20:21.550Z,38.8423347,-122.8731689,1.88,0.51,md,7,187,0.00425,0.04,nc,nc73895521,2023-06-02T19:33:10.883Z,"12km NW of The Geysers, CA",earthquake,0.83,0.88,0.29,8,automatic,nc,nc
 2023-06-02T19:18:39.340Z,19.4363327026367,-155.324005126953,2.63000011444092,1.89,ml,26,89,,0.209999993,hv,hv73436782,2023-06-02T19:24:12.070Z,"9 km W of Volcano, Hawaii",earthquake,0.4,0.850000024,0.25,9,automatic,hv,hv
-2023-06-02T19:11:54.430Z,38.779335,-122.7656631,1.1,0.89,md,16,80,0.008602,0.03,nc,nc73895516,2023-06-02T19:23:10.812Z,"1km WNW of The Geysers, CA",earthquake,0.27,0.48,0.15,15,automatic,nc,nc
+2023-06-02T19:11:54.430Z,38.779335,-122.7656631,1.1,0.89,md,16,80,0.008602,0.03,nc,nc73895516,2023-06-02T19:43:14.950Z,"1km WNW of The Geysers, CA",earthquake,0.27,0.48,0.15,15,automatic,nc,nc
 2023-06-02T19:04:29.956Z,62.0357,-142.0126,3.4,1.3,ml,,,,0.55,ak,ak02371ck983,2023-06-02T19:06:48.110Z,"64 km SE of Nabesna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-02T19:04:03.361Z,31.68898213,-104.4012234,5.874487305,2.1,ml,19,78,0.02276127366,0.2,tx,tx2023ktef,2023-06-02T19:12:29.401Z,"54 km S of Whites City, New Mexico",earthquake,0.9021364428,0.6222249740999999,0.1,14,reviewed,tx,tx
 2023-06-02T18:58:50.944Z,-23.3888,-66.7866,203.693,4.6,mb,18,86,1.353,0.96,us,us7000k5vc,2023-06-02T19:21:45.040Z,"103 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.8,9.698,0.193,9,reviewed,us,us
 2023-06-02T18:51:50.950Z,19.4383335113525,-155.317337036133,2.79999995231628,1.73,ml,19,104,,0.100000001,hv,hv73436737,2023-06-02T18:57:22.890Z,"8 km W of Volcano, Hawaii",earthquake,0.29,0.50999999,0.93,6,automatic,hv,hv
 2023-06-02T18:49:54.370Z,38.8408318,-122.8241653,1.71,1.28,md,16,89,0.009121,0.02,nc,nc73895511,2023-06-02T19:29:18.857Z,"9km WNW of Cobb, CA",earthquake,0.24,0.46,0.21,18,automatic,nc,nc
 2023-06-02T18:46:33.493Z,58.121,-155.5583,21.2,0.3,ml,,,,1.06,ak,ak02371c7tyt,2023-06-02T18:48:25.379Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
+2023-06-02T18:43:57.650Z,37.001,-119.8053333,-0.37,1.99,md,14,103,0.07862,0.09,nc,nc73895506,2023-06-02T19:44:02.643Z,"6km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.55,31.61,0.222,17,reviewed,nc,nc
 2023-06-02T18:40:49.970Z,38.8349991,-122.8183365,1.96,0.68,md,11,120,0.01326,0.02,nc,nc73895496,2023-06-02T18:42:26.581Z,"8km NW of The Geysers, CA",earthquake,0.44,0.86,0.12,11,automatic,nc,nc
 2023-06-02T18:30:56.870Z,33.3681667,-116.8113333,-0.08,1.3,ml,12,116,0.2472,0.47,ci,ci40476176,2023-06-02T18:35:04.381Z,"5km ENE of Palomar Observatory, CA",earthquake,1.45,31.61,0.114,27,automatic,ci,ci
 2023-06-02T18:30:49.920Z,33.3341667,-116.9286667,17.79,0.98,ml,65,30,0.05856,0.22,ci,ci40476168,2023-06-02T18:41:48.190Z,"6km WSW of Palomar Observatory, CA",earthquake,0.22,0.56,0.18,23,automatic,ci,ci
@@ -16,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-02T18:16:50.232Z,58.2637,-155.1147,1.1,0.8,ml,,,,0.37,ak,ak02371c1frz,2023-06-02T18:19:05.671Z,"86 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-06-02T18:09:33.530Z,36.6360016,-121.2863312,5.77,1.69,md,21,89,0.0339,0.2,nc,nc73895476,2023-06-02T18:41:17.536Z,"17km NW of Pinnacles, CA",earthquake,0.47,1.13,0.27,17,automatic,nc,nc
 2023-06-02T18:07:53.280Z,33.3396667,-116.364,10.7,0.54,ml,17,124,0.05085,0.27,ci,ci40476120,2023-06-02T18:11:21.836Z,"9km N of Borrego Springs, CA",earthquake,0.65,1.06,0.113,8,automatic,ci,ci
-2023-06-02T18:07:30.050Z,36.6451683,-121.2841644,7.32,2.61,md,48,90,0.04212,0.17,nc,nc73895471,2023-06-02T18:26:17.455Z,"16km S of Tres Pinos, CA",earthquake,0.27,0.63,0.1,57,automatic,nc,nc
+2023-06-02T18:07:30.050Z,36.6451683,-121.2841644,7.32,2.61,md,48,90,0.04212,0.17,nc,nc73895471,2023-06-02T19:43:10.949Z,"16km S of Tres Pinos, CA",earthquake,0.27,0.63,0.1,57,automatic,nc,nc
 2023-06-02T17:47:37.374Z,58.1716,-155.363,1.1,0.1,ml,,,,0.21,ak,ak02371bmmdl,2023-06-02T17:52:55.932Z,"86 km NW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-06-02T17:42:17.190Z,38.8188324,-122.822998,2.49,0.76,md,10,100,0.01033,0.02,nc,nc73895461,2023-06-02T18:05:18.339Z,"7km NW of The Geysers, CA",earthquake,0.41,0.85,0.14,11,automatic,nc,nc
 2023-06-02T17:42:16.240Z,34.0465,-117.2688333,15.81,1.51,ml,54,31,0.06105,0.19,ci,ci40476088,2023-06-02T17:53:26.190Z,"1km WSW of Loma Linda, CA",earthquake,0.23,0.49,0.147,27,automatic,ci,ci
@@ -258,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T20:07:16.880Z,44.2863333333333,-115.081166666667,7.39,1.05,ml,9,120,0.7544,0.07,mb,mb90016603,2023-06-02T15:52:30.240Z,"13 km NW of Stanley, Idaho",earthquake,0.49,0.91,0.118788360677544,8,reviewed,mb,mb
 2023-06-01T20:07:05.350Z,38.8095016,-122.7931671,1.89,0.39,md,7,151,0.002265,0.01,nc,nc73895141,2023-06-01T20:34:14.275Z,"5km NW of The Geysers, CA",earthquake,0.6,1.09,0.15,9,automatic,nc,nc
 2023-06-01T19:46:59.290Z,19.3886666666667,-155.278333333333,1.12,0.32,md,17,63,,0.08,hv,hv73434622,2023-06-01T20:04:31.220Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.18,0.0785906448697465,2,reviewed,hv,hv
-2023-06-01T19:42:53.440Z,19.3923333333333,-155.2815,1.22,0.21,md,8,78,,0.06,hv,hv73434612,2023-06-01T20:12:46.020Z,"7 km SW of Volcano, Hawaii",earthquake,0.43,0.33,0.013694555140817,2,reviewed,hv,hv
