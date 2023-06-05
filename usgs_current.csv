@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T08:25:53.270Z,33.5065,-116.4795,12.06,0.48,ml,14,134,0.1032,0.19,ci,ci40478592,2023-06-05T13:21:32.518Z,"19km ESE of Anza, CA",earthquake,0.48,0.87,0.105,10,reviewed,ci,ci
 2023-06-05T08:23:48.060Z,32.772,-116.1305,10.47,0.67,ml,14,76,0.03434,0.25,ci,ci40478584,2023-06-05T08:27:26.707Z,"14km WNW of Ocotillo, CA",earthquake,0.56,0.85,0.19,4,automatic,ci,ci
 2023-06-05T08:23:36.921Z,37.2822,-117.5769,4.3,1.3,ml,18,101.17,0.074,0.4147,nn,nn00860853,2023-06-05T08:26:11.499Z,"Nevada",earthquake,,2.6,0.91,12,automatic,nn,nn
-2023-06-05T08:22:19.440Z,38.4570007,-122.6425018,7.08,2.46,md,55,39,0.06957,0.15,nc,nc73897186,2023-06-05T14:22:56.519Z,"6km E of Santa Rosa, CA",earthquake,0.24,0.8,0.12,64,automatic,nc,nc
+2023-06-05T08:22:19.440Z,38.4570007,-122.6425018,7.08,2.46,md,55,39,0.06957,0.15,nc,nc73897186,2023-06-05T14:29:22.616Z,"6km E of Santa Rosa, CA",earthquake,0.24,0.8,0.12,64,automatic,nc,nc
 2023-06-05T08:19:16.002Z,58.1246,-155.6194,21.8,2,ml,,,,0.75,ak,ak023764potu,2023-06-05T08:31:12.527Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-06-05T08:09:24.430Z,38.8191681,-122.7854996,1.44,1.19,md,23,47,0.006997,0.03,nc,nc73897176,2023-06-05T10:13:15.645Z,"5km NNW of The Geysers, CA",earthquake,0.19,0.38,0.15,23,automatic,nc,nc
 2023-06-05T07:52:42.243Z,62.5984,-152.2108,0,1.3,ml,,,,0.64,ak,ak023764berk,2023-06-05T07:54:55.439Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -134,6 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T21:11:33.325Z,63.2818,-149.852,90.2,1.1,ml,,,,0.32,ak,ak02374ovbp0,2023-06-04T21:13:22.025Z,"46 km WSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-04T20:39:08.812Z,38.316,93.6793,10,4.4,mb,51,72,8.339,0.8,us,us7000k6al,2023-06-04T21:01:57.040Z,"222 km SSW of Dunhuang, China",earthquake,7.84,1.86,0.078,47,reviewed,us,us
 2023-06-04T20:36:59.751Z,62.8943,-150.4331,84.7,1,ml,,,,0.56,ak,ak02374ofay0,2023-06-04T20:39:14.517Z,"47 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-04T20:35:51.880Z,35.5728333333333,-82.8621666666667,2.19,2.23,md,18,77,0.1045,0.22,se,se60500798,2023-06-05T14:30:38.070Z,"3 km N of West Canton, North Carolina",earthquake,0.74,2.49,0.073572794953773,16,reviewed,se,se
 2023-06-04T20:12:59.860Z,62.7678,-148.8334,7.9,1.2,ml,,,,0.77,ak,ak02374oa5uq,2023-06-04T20:14:54.230Z,"69 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-04T20:09:46.860Z,38.8064995,-122.770668,0.64,1.07,md,16,82,0.01033,0.03,nc,nc73897051,2023-06-04T20:26:13.637Z,"4km NNW of The Geysers, CA",earthquake,0.22,0.4,0.18,16,automatic,nc,nc
 2023-06-04T20:08:33.150Z,35.7746667,-117.5961667,7.19,1.97,ml,24,68,0.1413,0.16,ci,ci40478256,2023-06-04T20:19:33.800Z,"17km W of Searles Valley, CA",earthquake,0.3,0.92,0.113,25,automatic,ci,ci
