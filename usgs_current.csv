@@ -215,8 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T06:00:23.800Z,38.8554993,-122.8481674,1.73,0.63,md,9,148,0.0194,0.01,nc,nc73896746,2023-06-04T06:16:13.284Z,"12km WNW of Cobb, CA",earthquake,0.34,0.78,0.14,10,automatic,nc,nc
 2023-06-04T05:53:40.207Z,64.4993,-147.3776,13,0.8,ml,,,,0.62,ak,ak02374flemc,2023-06-04T05:55:47.596Z,"23 km W of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-04T05:52:03.710Z,-3.0459,137.3141,48.84,5,mb,76,50,3.426,0.79,us,us7000k67k,2023-06-04T06:12:44.040Z,"204 km E of Nabire, Indonesia",earthquake,7.58,6.755,0.046,152,reviewed,us,us
-2023-06-04T05:48:02.200Z,19.3943328857422,-155.279495239258,1.12000000476837,1.85000002,md,15,57,,0.129999995,hv,hv73439032,2023-06-04T05:51:10.670Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.230000004,0.589999974,13,automatic,hv,hv
-2023-06-04T05:46:50.560Z,33.3475,-116.9333333,18.35,0.57,ml,18,49,0.05948,0.16,ci,ci40477664,2023-06-04T13:44:24.700Z,"6km W of Palomar Observatory, CA",earthquake,0.37,0.75,0.117,7,reviewed,ci,ci
-2023-06-04T05:46:19.870Z,33.6483333,-116.7303333,13.19,1,ml,43,52,0.06135,0.19,ci,ci40477656,2023-06-04T13:44:17.683Z,"10km S of Idyllwild, CA",earthquake,0.22,0.37,0.224,27,reviewed,ci,ci
-2023-06-04T05:46:18.970Z,58.1776666666667,-155.279333333333,1.2,-0.32,ml,4,156,,0.06,av,av91910266,2023-06-04T10:32:00.840Z,"83 km NW of Karluk, Alaska",earthquake,0.33,1.28,0.241535553624291,4,reviewed,av,av
-2023-06-04T05:43:19.285Z,63.2815,-149.7666,92.3,1.6,ml,,,,0.51,ak,ak02374fj7ug,2023-06-04T05:45:16.049Z,"42 km WSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
