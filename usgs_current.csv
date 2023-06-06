@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T10:57:03.310Z,19.3736667633057,-155.28450012207,0.509999990463257,1.93,ml,10,201,,0.109999999,hv,hv73440572,2023-06-05T11:02:34.060Z,"9 km SW of Volcano, Hawaii",earthquake,0.4,0.25,3.02,28,automatic,hv,hv
 2023-06-05T10:48:12.030Z,19.1275,-155.367166666667,29.45,1.55,md,40,187,,0.11,hv,hv73440562,2023-06-06T02:31:25.880Z,"14 km SE of Pāhala, Hawaii",earthquake,0.49,0.67,0.107381780815571,17,reviewed,hv,hv
 2023-06-05T10:48:02.400Z,33.316,-116.7971667,6.5,0.13,ml,16,89,0.06642,0.16,ci,ci40478616,2023-06-05T13:20:40.259Z,"8km SE of Palomar Observatory, CA",earthquake,0.41,0.74,0.02,3,reviewed,ci,ci
-2023-06-05T10:40:05.785Z,64.8642,-147.7108,9.5,0.8,ml,,,,0.48,ak,ak023766126a,2023-06-05T10:41:44.997Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
