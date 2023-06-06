@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-06T21:50:32.320Z,38.8341675,-122.7841644,2.01,0.98,md,15,68,0.006421,0.02,nc,nc73897856,2023-06-06T21:52:07.109Z,"6km WNW of Cobb, CA",earthquake,0.29,0.55,0.11,17,automatic,nc,nc
 2023-06-06T21:39:15.811Z,58.1966,-155.2702,1.2,0.6,ml,,,,1,ak,ak0237803zdp,2023-06-06T21:40:44.920Z,"85 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-06-06T21:35:15.340Z,45.36816666666667,-121.70666666666666,1.7,3.02,ml,31,49,0.009626,0.24,uw,uw61930961,2023-06-06T21:53:28.618Z,"Washington-Oregon border region",earthquake,0.27,0.54,0.1464444245535761,86,reviewed,uw,uw
 2023-06-06T21:29:31.760Z,19.4069995880127,-155.317001342773,3.97000002861023,1.78,ml,23,73,,0.129999995,hv,hv73442907,2023-06-06T21:35:01.350Z,"9 km WSW of Volcano, Hawaii",earthquake,0.42,0.550000012,0.24,6,automatic,hv,hv
 2023-06-06T21:22:10.723Z,58.1897,-155.2758,4.5,0.7,ml,,,,0.75,ak,ak0237800btc,2023-06-06T21:24:08.820Z,"84 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-06T21:16:56.785Z,65.6494,-147.8822,3.6,1.3,ml,,,,0.37,ak,ak02377zz52m,2023-06-06T21:18:48.479Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -102,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T10:58:29.640Z,18.0343333333333,-66.8176666666667,11.05,2.23,md,5,146,0.08314,0.11,pr,pr71412503,2023-06-06T11:27:46.440Z,"3 km WNW of Guayanilla, Puerto Rico",earthquake,0.51,1.23,0.0773967580975901,4,reviewed,pr,pr
 2023-06-06T10:56:08.910Z,38.8423347,-122.8759995,2.31,1.03,md,15,141,0.006217,0.03,nc,nc73897661,2023-06-06T11:17:14.959Z,"13km NW of The Geysers, CA",earthquake,0.34,0.5,0.27,15,automatic,nc,nc
 2023-06-06T10:51:53.937Z,36.7575,-116.109,8.4,-0.1,ml,7,124.31,0.004,0.0447,nn,nn00860917,2023-06-06T17:24:07.990Z,"44 km WNW of Indian Springs, Nevada",earthquake,,2.3,0.35,3,reviewed,nn,nn
-2023-06-06T10:50:57.150Z,37.479,-118.8376667,2.98,1.42,md,21,190,0.111,0.04,nc,nc73897656,2023-06-06T19:26:10.068Z,"17km WSW of Toms Place, CA",earthquake,0.36,1.1,0.153,18,reviewed,nc,nc
+2023-06-06T10:50:57.150Z,37.479,-118.8376667,2.98,1.42,md,21,190,0.111,0.04,nc,nc73897656,2023-06-06T21:50:14.879Z,"17km WSW of Toms Place, CA",earthquake,0.36,1.1,0.153,18,reviewed,nc,nc
 2023-06-06T10:34:50.910Z,40.435,-124.361,21.82,2.07,md,21,209,0.04432,0.07,nc,nc73897651,2023-06-06T20:03:15.287Z,"14km NNW of Petrolia, CA",earthquake,0.56,0.27,0.357,24,reviewed,nc,nc
 2023-06-06T10:31:28.845Z,60.2447,-152.245,19.2,1.2,ml,,,,0.57,ak,ak02377tij03,2023-06-06T10:35:43.738Z,"38 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-06T10:24:30.995Z,58.1254,-155.9885,42.3,1.7,ml,,,,1.17,ak,ak02377th15n,2023-06-06T10:26:30.489Z,"74 km SSE of King Salmon, Alaska",earthquake,,1.4,,,automatic,ak,ak
