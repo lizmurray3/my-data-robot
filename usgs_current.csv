@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-08T06:54:38.291Z,-40.4787,177.1605,10,4.4,mb,14,128,0.725,1.85,us,us7000k72d,2023-06-08T07:21:01.831Z,"off the east coast of the North Island of New Zealand",earthquake,5.03,1.879,0.219,6,reviewed,us,us
 2023-06-08T06:54:18.870Z,38.8388329,-122.8103333,1.86,1.09,md,22,64,0.01542,0.03,nc,nc73898576,2023-06-08T06:55:51.641Z,"8km WNW of Cobb, CA",earthquake,0.23,0.46,0.1,23,automatic,nc,nc
 2023-06-08T06:54:00.030Z,38.8393326,-122.8101654,1.75,1.02,md,18,52,0.01551,0.03,nc,nc73898571,2023-06-08T07:11:17.824Z,"8km WNW of Cobb, CA",earthquake,0.22,0.53,0.13,19,automatic,nc,nc
 2023-06-08T06:39:26.636Z,37.2654,-117.6342,6.4,0.8,ml,10,96.73,0.034,0.1759,nn,nn00861009,2023-06-08T06:41:57.310Z,"54 km S of Silver Peak, Nevada",earthquake,,1,1.15,6,automatic,nn,nn
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T04:42:42.880Z,37.9058342,-122.1151657,11.09,1.79,md,33,83,0.03259,0.1,nc,nc73898521,2023-06-08T06:48:10.681Z,"2km N of Lafayette, CA",earthquake,0.27,0.46,0.14,26,automatic,nc,nc
 2023-06-08T04:27:52.850Z,64.262,-147.6312,1.5,1.1,ml,,,,0.58,ak,ak0237b0ztcl,2023-06-08T04:29:29.503Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-08T04:21:44.360Z,33.717,-116.842,14.61,0.84,ml,26,102,0.07445,0.12,ci,ci40480352,2023-06-08T04:25:15.845Z,"6km SE of Valle Vista, CA",earthquake,0.26,0.35,0.154,25,automatic,ci,ci
-2023-06-08T04:15:16.880Z,39.3068352,-122.7854996,1.95,2.13,md,17,136,0.1412,0.15,nc,nc73898516,2023-06-08T04:48:10.101Z,"19km SE of Lake Pillsbury, CA",earthquake,0.39,3.27,0.21,9,automatic,nc,nc
+2023-06-08T04:15:16.880Z,39.3068352,-122.7854996,1.95,2.13,md,17,136,0.1412,0.15,nc,nc73898516,2023-06-08T07:19:15.876Z,"19km SE of Lake Pillsbury, CA",earthquake,0.39,3.27,0.21,9,automatic,nc,nc
 2023-06-08T04:08:23.145Z,62.8225,-150.7172,85.5,1.4,ml,,,,0.59,ak,ak0237b0voga,2023-06-08T04:10:06.204Z,"36 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-08T04:02:35.795Z,-55.778,-2.1908,10,5.1,mb,22,131,15.959,0.62,us,us7000k71w,2023-06-08T04:16:08.040Z,"southern Mid-Atlantic Ridge",earthquake,8.6,1.902,0.131,19,reviewed,us,us
 2023-06-08T03:47:20.512Z,36.5249,-116.326,16,0.6,ml,12,298.83,0.121,0.3366,nn,nn00861002,2023-06-08T03:49:06.027Z,"46 km NW of Pahrump, Nevada",earthquake,,1.7,0.2,8,automatic,nn,nn
@@ -276,7 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T07:29:31.750Z,58.2373333333333,-155.1625,2.52,0.14,ml,8,77,,0.07,av,av91915386,2023-06-07T20:07:46.170Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.54,0.198463413366313,8,reviewed,av,av
 2023-06-07T07:28:49.010Z,19.4001666666667,-155.274333333333,0.91,1.43,ml,20,38,,0.1,hv,hv73443812,2023-06-07T09:05:44.100Z,"Hawaii region, Hawaii",earthquake,0.14,0.17,0.167545981522509,7,reviewed,hv,hv
 2023-06-07T07:26:01.330Z,37.0665,-120.8878333,5.8,2.1,md,44,86,0.05357,0.19,nc,nc73898081,2023-06-07T12:46:14.094Z,"4km WNW of Los Banos, CA",earthquake,0.27,0.48,0.174,60,reviewed,nc,nc
-2023-06-07T07:19:56.582Z,61.6757,-147.9802,29.8,1,ml,,,,0.54,ak,ak02379f728a,2023-06-07T07:21:37.644Z,"22 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-07T07:18:45.034Z,61.6688,-148.0078,34.7,0.8,ml,,,,0.15,ak,ak02379f6tmf,2023-06-07T07:20:18.538Z,"24 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-07T07:18:24.380Z,33.4633333,-116.5628333,8.88,0.43,ml,15,108,0.0454,0.09,ci,ci40479784,2023-06-07T21:59:21.983Z,"14km SE of Anza, CA",earthquake,0.25,0.38,0.174,10,reviewed,ci,ci
-2023-06-07T07:14:50.920Z,45.3555,-121.709,4.67,0.92,ml,7,187,0.003926,0.09,uw,uw61931146,2023-06-08T05:17:34.730Z,"6 km NNE of Government Camp, Oregon",earthquake,0.88,0.86,0.2514518723281075,3,reviewed,uw,uw
